@@ -303,7 +303,7 @@ $.get("http://ipinfo.io", function (response) {
 
   if (city != 'Madrid' && city != 'Barcelona'){
     $('#ciudad').html(city);
-    $('#mce-CITY').html(city);
+    $('#mce-CITY').attr('value',city);
     $('#topBanner').slideDown();
   }
   else{
