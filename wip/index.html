@@ -307,7 +307,7 @@ $.get("http://ipinfo.io", function (response) {
 
   var city = response.city;
 
-  if (city != 'Madrid' && city != 'Barcelona'){
+  if (city == 'Madrid' && city == 'Barcelona'){
     $('#ciudad').html(city);
     $('#mce-CITY').attr('value',city);
     $('#topBanner').slideDown();
