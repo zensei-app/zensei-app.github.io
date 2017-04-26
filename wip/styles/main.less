@@ -125,6 +125,8 @@
 .phone__notification__header__icon{
   vertical-align: text-bottom;
   margin-right: 5px;
+  height: 20px;
+  width: 20px;
 }
 
 
@@ -235,4 +237,30 @@
 .fb-share-button{
   position: relative;
   top: -4px;
+}
+
+#whatsappButton{
+  display: none;
+}
+
+.whatsapp-share-button{
+  display: inline-block;
+  border-radius: 4px;
+  background: #43C553;
+  color: #fff;
+  font-weight: @weight-bolder;
+  font-size: 14px;
+  height: 28px;
+  line-height: 28px;
+  padding: 0 10px;
+  position: relative;
+  top: -8px;
+  letter-spacing: -.04em;
+  &:hover{
+    background: darken(#43C553, 5%);
+  }
+  img{
+    margin-right: 6px;
+    vertical-align: text-top;
+  }
 }
