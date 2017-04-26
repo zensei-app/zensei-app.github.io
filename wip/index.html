@@ -80,7 +80,7 @@
 
   <div class="container">
 
-    <!-- <p>😬&nbsp; Por ahora Zensei solo está disponible en Madrid y Barcelona. Si quieres que te avisemos cuando funcione en <span id="ciudad">tu ciudad</span>, <a href="">déjanos tu email</a>.</p> -->
+    <p id="cityMsg">😬&nbsp; Por ahora Zensei solo está disponible en Madrid y Barcelona. Si quieres que te avisemos cuando funcione en <span id="ciudad">tu ciudad</span>, <a href="">déjanos tu email</a>.</p>
 
     <div id="mc_embed_signup">
       <form action="//zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=0f18778a69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -242,6 +242,12 @@
     setTimeout(function(){
       $('.phone__notification--hidden').slideDown('fast');
     }, 2000);
+
+    $('#cityMsg a').click(function(e) {
+      e.preventDefault();
+      $('#cityMsg').hide();
+      $('#mc_embed_signup').show();
+    });
 
   });
 
