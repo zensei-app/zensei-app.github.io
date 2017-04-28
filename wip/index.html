@@ -80,7 +80,7 @@
 
   <div class="container">
 
-    <p id="cityMsg">😬&nbsp; Por ahora Zensei solo está disponible en Madrid y Barcelona. Si quieres que te avisemos cuando funcione en <span id="ciudad">tu ciudad</span>, <a href="">déjanos tu email</a>.</p>
+    <p id="cityMsg">😬&nbsp; Por ahora Zensei solo está disponible en Madrid y Barcelona. Si quieres que te avisemos cuando funcione en <span id="ciudad">otras ciudades</span>, <a href="">déjanos tu email</a>.</p>
 
 
     <div id="mc_embed_signup">
@@ -306,8 +306,8 @@ $.get("http://ipinfo.io", function (response) {
   var city = response.city;
 
   if (city != 'Madrid' && city != 'Barcelona'){
-    $('#ciudad').html(city);
-    $('#mce-MMERGE1').attr('value',city);
+    // $('#ciudad').html(city);
+    // $('#mce-MMERGE1').attr('value',city);
     $('#topBanner').slideDown();
   }
 
