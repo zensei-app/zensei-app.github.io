@@ -1,2 +1,17 @@
 # zensei-app.github.io
-Web site https://zenseiapp.com
+
+
+## Setup
+
+1. Install bundler `gem install bundler`
+2. Install dependencies `bundle install`
+
+
+## Preview site
+
+1. Execute `jekyll serve`
+2. Open http://127.0.0.1:4000/
+
+## Build site (not necessary)
+
+`jekyll build` add `--watch` to regenerate on changes.
