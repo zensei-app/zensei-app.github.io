@@ -739,3 +739,8 @@ strong {
 #mc-embedded-subscribe:hover {
   background: #006ce9;
 }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}

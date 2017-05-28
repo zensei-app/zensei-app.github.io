@@ -1,10 +1,10 @@
-<header>
+<header class="hero-header">
 
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}" style="text-align: center; font-weight: bold; color:white;" >{{ site.title | escape }}</a>
   
     {% if page_paths %}
       <nav class="site-nav">

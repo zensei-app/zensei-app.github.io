@@ -3,8 +3,36 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  <!-- For Facebook -->
+  <meta property="og:title" content="Zensei"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="https://zenseiapp.com/zensei.png"/>
+  <meta property="og:url" content="https://zenseiapp.com"/>
+  <meta property="fb:app_id" content="1853764804894431" />
+  <meta property="og:site_name" content="Zensei"/>
+  <meta property="og:description" content="Zensei es un bot de messenger que te avisa de todo lo que deberías saber antes de salir de casa cada día"/>
+
+  <!-- for Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Zensei" />
+  <meta name="twitter:description" content="Zensei es un bot de messenger que te avisa de todo lo que deberías saber antes de salir de casa cada día" />
+  <meta name="twitter:image" content="https://zenseiapp.com/zensei.png" />
+
+  <!-- For Google+ -->
+  <!-- <html itemscope itemtype="http://schema.org/Article"> -->
+  <meta itemprop="name" content="Zensei">
+  <meta itemprop="description" content="Zensei es un bot de messenger que te avisa de todo lo que deberías saber antes de salir de casa cada día">
+  <meta itemprop="image" content="https://zenseiapp.com/zensei.png">
+
+  <title>{% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+  <link rel="apple-touch-icon" href="/assets/icon.png"/>
+  <link rel="icon" href="assets/icon.png"/>
+
+  <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
