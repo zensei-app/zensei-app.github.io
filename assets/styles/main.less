@@ -215,10 +215,29 @@
   float: right;
   font-size: .75rem;
   text-align: center;
+  .clearfix;
+  li{
+    float: right;
+    margin: 0 0 0 10px;
+  }
   a{
     color: @black;
     &:hover{
       text-decoration: underline;
+    }
+  }
+}
+
+@media screen and (max-width: 600px){
+  .legal-menu{
+    width: 100%;
+    float: none;
+    clear: both;
+    padding-top: 1rem;
+    li{
+      float: left;
+      text-align: left;
+      margin: 0 10px 0 0;
     }
   }
 }
