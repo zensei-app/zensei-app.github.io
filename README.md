@@ -9,7 +9,7 @@
 
 ## Preview site
 
-1. Execute `jekyll serve`
+1. Execute `bundle exec jekyll serve`
 2. Open http://127.0.0.1:4000/
 
 ## Build site (not necessary)
