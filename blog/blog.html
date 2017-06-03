@@ -10,19 +10,24 @@ permalink: /blog/
 
     <ul class="post-list">
       {% for post in site.posts %}
-        <li>
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              <span class="post-title">{{ post.title | escape }}</span>
-              <img class="post-cover" src="{{post.img}}" alt="">
+        <li>            
+            <h2>
+              <a href="{{ post.url | relative_url }}">
+                <span class="post-title">{{ post.title | escape }}</span>
+              </a>
+            </h2>
+            <p>
               {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
               <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
               <span class="post-meta">{{ post.date | date: date_format }}</span>
-            </a>
-          </h2>
-
-
-
+            </p>
+            <p>
+              {{ post.description | escape }}
+              <a href="{{ post.url | relative_url }}">
+                Leer Más
+              </a>
+            </p>
+            <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
         </li>
       {% endfor %}
     </ul>
