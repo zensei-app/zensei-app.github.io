@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: blog
 permalink: /blog/
 ---
 
-<h1 class="page-heading hero" style="text-align: center; font-weight: bold; font-size:300%;">Historias sobre Salud para Humanos</h1>
+<!-- <h1 class="page-heading hero" style="text-align: center; font-weight: bold; font-size:300%;">Historias sobre Salud para Humanos</h1> -->
 <div class="home">
   <br>
   <!--   {{ content }} -->
@@ -11,20 +11,22 @@ permalink: /blog/
     <ul class="post-list">
       {% for post in site.posts %}
         <li>
-
-          <img src="{{post.img}}" alt="Smiley face" height="150">
-
           <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <span class="post-title">{{ post.title | escape }}</span>
+              <img class="post-cover" src="{{post.img}}" alt="">
+              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+              <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </a>
           </h2>
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">Por {{ post.author }}</span> ·
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          
+
+
+
         </li>
       {% endfor %}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>
