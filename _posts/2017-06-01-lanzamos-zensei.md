@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lanzamos Zensei, ¿te unes? 🎉🎉🎉"
+title:  "Lanzamos Zensei 🎉🎉🎉"
 date:   2017-06-01
 author: Zensei Team
 categories: blog 
