@@ -20,6 +20,8 @@ description: >
 baseurl: ""
 url: ""
 
+permalink: /blog/:year/:month/:day/:title/
+
 
 # Theme settings
 theme: minima
