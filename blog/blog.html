@@ -17,9 +17,8 @@ permalink: /blog/
               </a>
             </h2>
             <p>
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
               <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
+              <span class="post-meta">{% include locale-dates.html date=post.date %}{{ day }} de {{ month }} de {{ year }}</span>
             </p>
             <p>
               {{ post.description | escape }}
