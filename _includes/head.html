@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#f58888">
 
   <!-- For Facebook -->
-  <meta property="og:title" content="Zensei"/>
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}"/>
   <meta property="og:type" content="website"/>
   <meta property="og:image" content="{% if page.img %}{{ page.img | escape }} {% else %}https://zenseiapp.com/zensei.png{% endif %}"/>
   <meta property="og:url" content="{% if page.url %}{{ page.url | escape }}{% else %}https://zenseiapp.com{% endif %}"/>
@@ -17,14 +17,14 @@
   <!-- for Twitter -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}" />
-  <meta name="twitter:description" content="Z{% if page.description %}{{ page.description | escape }} {% else %}{{ site.description | escape }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }} {% else %}{{ site.description | escape }}{% endif %}" />
   <meta name="twitter:image" content="{% if page.img %}{{ page.img | escape }} {% else %}https://zenseiapp.com/zensei.png{% endif %}" />
 
   <!-- For Google+ -->
   <!-- <html itemscope itemtype="http://schema.org/Article"> -->
-  <meta itemprop="name" content="Zensei">
-  <meta itemprop="description" content="Zensei es un bot de messenger que te avisa de todo lo que deberías saber antes de salir de casa cada día">
-  <meta itemprop="image" content="https://zenseiapp.com/zensei.png">
+  <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}">
+  <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }} {% else %}{{ site.description | escape }}{% endif %}">
+  <meta itemprop="image" content="{% if page.img %}{{ page.img | escape }} {% else %}https://zenseiapp.com/zensei.png{% endif %}">
 
   <title>{% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
