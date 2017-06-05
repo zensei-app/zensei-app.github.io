@@ -8,7 +8,7 @@
   <!-- For Facebook -->
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:image" content="{% if page.image %}{{ page.image | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"/>
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"/>
   <meta property="og:url" content="{% if page.url %}{{ page.url | absolute_url }}{% else %}https://zenseiapp.com{% endif %}"/>
   <meta property="fb:app_id" content="1853764804894431" />
   <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}"/>
@@ -18,13 +18,13 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }} {% else %}{{ site.description | escape }}{% endif %}" />
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}" />
 
   <!-- For Google+ -->
   <!-- <html itemscope itemtype="http://schema.org/Article"> -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}">
   <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }} {% else %}{{ site.description | escape }}{% endif %}">
-  <meta itemprop="image" content="{% if page.image %}{{ page.image | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url | escape }} {% else %}https://zenseiapp.com/assets/zensei.png{% endif %}">
 
   <title>{% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
