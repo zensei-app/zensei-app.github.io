@@ -1,0 +1,54 @@
+# Jekyll config file
+# https://jekyllrb.com/docs/configuration/
+
+
+# Global configuration
+timezone: Europe/Madrid
+#safe: true  # Cannot change
+
+
+# Build Command Options
+#lsi: false  # Cannot change
+#incremental: false  # Cannot change
+
+
+# Site settings
+title: Zensei
+description: >
+  Zensei es un bot de messenger que te avisa de todo lo que deberías
+  saber antes de salir de casa cada día
+baseurl: ""
+url: ""
+
+
+# Theme settings
+theme: minima
+
+github_username: zensei-app
+twitter_username: zensei_app
+
+google_analytics: UA-96842689-1
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+# Settings cannot change
+## source: [your repo's top level directory]
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+
+# Default settings by Github
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false

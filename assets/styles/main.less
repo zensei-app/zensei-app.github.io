@@ -15,6 +15,11 @@
   }
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
 
 
 .hero-header{
@@ -31,6 +36,7 @@
     margin: 0 auto;
   }
 }
+
 
 .logo{
   display: inline-block;
@@ -64,13 +70,18 @@
   font-weight: @weight-bolder;
   border-radius: @radius;
   box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);
-  margin: 2rem auto 0;
   font-size: .9rem;
   .transition(all 0.2s ease);
   &:hover{
     background: darken(@blue, 10%);
+    text-decoration: none;
   }
 }
+
+.main-cta--home{
+  margin: 2rem auto 0;
+}
+
 
 .phone-wrapper{
   display: block;
@@ -210,10 +221,29 @@
   float: right;
   font-size: .75rem;
   text-align: center;
+  .clearfix;
+  li{
+    float: right;
+    margin: 0 0 0 10px;
+  }
   a{
     color: @black;
     &:hover{
       text-decoration: underline;
+    }
+  }
+}
+
+@media screen and (max-width: 600px){
+  .legal-menu{
+    width: 100%;
+    float: none;
+    clear: both;
+    padding-top: 1rem;
+    li{
+      float: left;
+      text-align: left;
+      margin: 0 10px 0 0;
     }
   }
 }

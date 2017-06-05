@@ -1,0 +1,37 @@
+---
+layout: blog
+permalink: /blog/
+---
+
+<!-- <h1 class="page-heading hero" style="text-align: center; font-weight: bold; font-size:300%;">Historias sobre Salud para Humanos</h1> -->
+<div class="home">
+  <br>
+  <!--   {{ content }} -->
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>            
+            <h2>
+              <a href="{{ post.url | relative_url }}">
+                <span class="post-title">{{ post.title | escape }}</span>
+              </a>
+            </h2>
+            <p>
+              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+              <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </p>
+            <p>
+              {{ post.description | escape }}
+              <a href="{{ post.url | relative_url }}">
+                Leer Más
+              </a>
+            </p>
+            <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
+        </li>
+      {% endfor %}
+    </ul>
+
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+
+</div>
