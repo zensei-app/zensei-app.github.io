@@ -25,7 +25,7 @@ Para ello, necesitamos conocer los riesgos reales, por ejemplo, una ola de calor
 Lo mismo sucede con infinidad de factores que afectan a nuestra salud, como el cáncer de piel. En una encuesta realizada por Zensei a más de 240 personas, un 93% no conocía su nivel de rayos UV, a partir de los cuáles es necesario utilizar protección solar, mientras un 70 % afirmaba que sólo la utilizaba  al tomar el sol, sin saber que es necesario utilizar protección solar a partir de un nivel de UV de 3 - cuando la media en días de primavera y verano es de 8. La piel perdona, pero no olvida. 
 
 <br>
-![nivel de UV, crema protectora, gripe](/img/stats.jpg){:class="img-responsive"}
+![nivel de UV, crema protectora, gripe](/img/stats.jpg){: .center-image }
 <br>
 <br>
 
@@ -38,7 +38,7 @@ Según la Organización Mundial de la Salud, tanto nuestro entorno físico como 
 Desde Zensei, lo que queremos es ayudar a dar a conocer dichos riesgos reales a los que estamos expuestos en el día día, como niveles de gripe, pólenes, contaminación, radiación ultravioleta, cambios climatológicos extremos y posibles riesgos que afecta a los más pequeños, como bronquiolitis, varicela o incluso los piojos.
  
 <br>
-![Zensei Alertas](/img/notifications.jpg){:class="img-responsive"}
+![Zensei Alertas](/img/notifications.jpg){: .center-image }
 <br>
 <br>
 
