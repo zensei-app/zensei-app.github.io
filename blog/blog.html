@@ -10,17 +10,17 @@ permalink: /blog/
 
     <ul class="post-list">
       {% for post in site.posts %}
-        <li>            
+        <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <h2>
-              <a href="{{ post.url | relative_url }}">
-                <span class="post-title">{{ post.title | escape }}</span>
+              <a itemprop="url" href="{{ post.url | relative_url }}">
+                <span class="post-title" itemprop="name">{{ post.title | escape }}</span>
               </a>
             </h2>
-            <p>
+            <p datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
               <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
               <span class="post-meta">{% include locale-dates.html date=post.date %}{{ day }} de {{ month }} de {{ year }}</span>
             </p>
-            <p>
+            <p itemprop="description">
               {{ post.description | escape }}
               <a href="{{ post.url | relative_url }}">
                 Leer Más
