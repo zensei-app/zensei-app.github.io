@@ -122,7 +122,7 @@
 
   <div class="logo">zensei</div>
   <h1>Zensei es un bot de messenger que te avisa de todo lo que deberías saber antes de salir de casa cada día</h1>
-  <a class="main-cta main-cta--home" href="https://www.messenger.com/t/zenseiapp" target="_blank">Instalar Gratis</a>
+  <a id="cta-messenger-top" class="main-cta main-cta--home" target="_blank">Instalar Gratis</a>
 
   <div class="phone-wrapper">
     <div class="phone">
@@ -211,7 +211,7 @@
   <div class="container-narrow center">
     <h2>Zensei te informa sobre factores ambientales que son tan importantes para tu salud como hacer deporte o comer sano</h2>
     <br>
-    <a class="main-cta" href="https://www.messenger.com/t/zenseiapp" target="_blank">Instalar Gratis</a>
+    <a class="main-cta" id="cta-messenger-bottom" target="_blank">Instalar Gratis</a>
   </div>
 </div>
 
@@ -426,6 +426,31 @@ function readCookie(name) {
 //Call readCookie function to get value of user's Marketo cookie
 var value = readCookie('zenseiapp');
 console.log(value);
+
+var getUrlParameter = function getUrlParameter(sParam) {
+  var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+    sURLVariables = sPageURL.split('&'),
+    sParameterName,
+    i;
+
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+
+    if (sParameterName[0] === sParam) {
+        return sParameterName[1] === undefined ? true : sParameterName[1];
+    }
+  }
+};
+  console.log(getUrlParameter('ref'))
+        
+  $('#cta-messenger-top').attr('href', "https://m.me/zenseiapp?ref=" + getUrlParameter('ref'));
+  $('#cta-messenger-bottom').attr('href', "https://m.me/zenseiapp?ref=" + getUrlParameter('ref'));
+
+  $('#team').attr('href', "/team?ref=" + getUrlParameter('ref'));
+  
+
+
+
 </script>
 
 
