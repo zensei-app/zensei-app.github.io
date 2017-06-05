@@ -15,7 +15,7 @@ Por otro lado, existen personas que tienen enfermedades crónicas, tales como di
 Lo mismo aplica para el resto de mortales que no sufrimos ningún tipo de enfermedad crónica. Tenemos que aprender a conocer nuestro entorno físico, hábitos y factores sociales para mantenernos sanos y prevenir resfriados, catarros, gripes, e incluso el cáncer.
  
 <br>
-![Riesgos salud percebibidos reales](/img/risks.jpg){:itemprop="image" .center-image }
+![Riesgos salud percebibidos reales](/img/risks.jpg){: .center-image }
 <br>
 <br>
 
