@@ -9,55 +9,32 @@
   </div>
 </div>
 
-<!-- <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+<script>
 
 
+$.get("http://ipinfo.io", function (response) {
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
+  var city = response.city;
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+  if (city != 'Madrid' && city != 'Barcelona'){
+    // $('#ciudad').html(city);
+    // $('#mce-MMERGE1').attr('value',city);
+    $('#topBanner').slideDown();
+  }
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
+}, "jsonp");
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
 
-  </div>
+</script>
 
-</footer>
- -->
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Esta web utiliza cookies. ","dismiss":"Vale","learnMore":"Más info","link":"politica-cookies.html","theme":"dark-bottom","target":"_blank"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
 <div id="fb-root"></div>
  <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
