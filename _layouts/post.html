@@ -1,6 +1,5 @@
 ---
 layout: blog
-permalink: date
 ---
 <br>
 <br>
@@ -12,7 +11,8 @@ permalink: date
 
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
+        {% include locale-dates.html date=page.date %}
+        {{ day }} de {{ month }} de {{ year }}
       </time>
     </p>
   </header>
