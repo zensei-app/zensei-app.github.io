@@ -29,11 +29,11 @@ Lo mismo sucede con infinidad de factores que afectan a nuestra salud, como el c
 <br>
 <br>
 
-Otro ejemplo, es la gripe, un 57% afirmaban no tomar ninguna medida de prevención para evitar contraerla, como lavado de manos, estornudar sobre el codo y no con la mano, o evitar lugares concurridos como el transporte público o centros comerciales durante el pico de de  gripe. 
+Otro ejemplo, es la gripe, un 57% de los encuestados afirmaban no tomar ninguna medida de prevención para evitar contraerla, como lavado de manos, estornudar sobre el codo y no con la mano, o evitar lugares concurridos como el transporte público o centros comerciales durante el pico de  gripe. 
  
 Un nuevo riesgo real de las ciudades actuales, asociado a nuestro modelo de vida, es la contaminación. Vivimos continuamente expuestos a componentes químicos que ejercen ciertos efectos dañinos sobre nuestra salud, como el envejecimiento de piel acelerado, problemas respiratorios e incluso dolores de cabeza. 
  
-Según la Organización Mundial de la Salud, tanto nuestro entorno físico como nuestros hábitos y factores sociales, ejercen una influencia muy significativa en nuestra salud. Nuestro modo de vida y la sociedad hiperconectada en la que vivimos conlleva a un aumento en la contaminación del aire o a un cambio climático con fenómenos meteorológicos extremos. Por tanto, estos factores traen consigo un impacto directo sobre nuestra salud, conformando las condiciones favorables para pandemias como la Gripe Aviar, el Zika o el SARS.
+Según la Organización Mundial de la Salud, tanto nuestro entorno físico como nuestros hábitos y factores sociales, ejercen una influencia muy significativa en nuestra salud. Nuestro modo de vida y la sociedad hiperconectada en la que vivimos conlleva a un aumento en la contaminación del aire y a un cambio climático con fenómenos meteorológicos extremos. Por tanto, estos factores traen consigo un impacto directo sobre nuestra salud, conformando las condiciones favorables para pandemias como la Gripe Aviar, el Zika o el SARS.
  
 Desde Zensei, lo que queremos es ayudar a dar a conocer dichos riesgos reales a los que estamos expuestos en el día día, como niveles de gripe, pólenes, contaminación, radiación ultravioleta, cambios climatológicos extremos y posibles riesgos que afecta a los más pequeños, como bronquiolitis, varicela o incluso los piojos.
  
