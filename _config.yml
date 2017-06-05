@@ -17,7 +17,7 @@ title: Zensei
 description: >
   Zensei es un bot de messenger que te avisa de todo lo que deberías
   saber antes de salir de casa cada día
-baseurl: "https://zenseiapp.com"
+baseurl: ""
 url: ""
 
 permalink: /blog/:year/:month/:day/:title/
