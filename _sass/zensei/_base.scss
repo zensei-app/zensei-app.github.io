@@ -16,7 +16,7 @@ html, html a {
 
 
 body {
-  font: 400 16px/1.2em @sans-serif-font !important;
+  font: 400 16px/1.2em $sans-serif-font !important;
   color: #363E40;
   background: #fff;
 }
@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6{
 
 h2{
   font-size: 1.2rem;
-  font-weight: @weight-bold;
+  font-weight: $weight-bold;
   line-height: 1.2;
 }
 
@@ -43,9 +43,9 @@ ul{
 
 a{
   text-decoration: none;
-  color: @link;
+  color: $link;
 }
 
 strong{
-  font-weight: @weight-bolder;
+  font-weight: $weight-bolder;
 }

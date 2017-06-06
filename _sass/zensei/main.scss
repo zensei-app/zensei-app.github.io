@@ -8,7 +8,7 @@
   display: none;
   p{
     line-height: 1.5;
-    font-weight: @weight-bold;
+    font-weight: $weight-bold;
   }
   a{
     text-decoration: underline;
@@ -23,7 +23,7 @@
 
 
 .hero-header{
-  .gradient-diagonal(@yellow,@pink);
+  @include gradient-diagonal($yellow,$pink);
   text-align: center;
   color: #fff;
   padding: 0 4%;
@@ -32,22 +32,22 @@
     font-size: 1.2rem;
     line-height: 1.2;
     max-width: 500px;
-    font-weight: @weight-bold;
+    font-weight: $weight-bold;
     margin: 0 auto;
   }
 }
 
 
 .logo{
+  @extend .containing-block;
   display: inline-block;
   color: #fff;
   margin: 2rem 0;
   font-size: 1.5rem;
-  font-family: @brand-font;
-  .containing-block;
+  font-family: $brand-font;
   &::after{
     content: "";
-    background-image: url(../img/logo-circle.svg);
+    background-image: url(/assets/img/logo-circle.svg);
     display: block;
     height: 40px;
     width: 36px;
@@ -60,20 +60,20 @@
 
 .main-cta{
   display: inline-block;
-  height: @v-unit;
-  line-height: @v-unit;
+  height: $v-unit;
+  line-height: $v-unit;
   padding: 0 30px;
-  background: @blue;
+  background: $blue;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: .05em;
-  font-weight: @weight-bolder;
-  border-radius: @radius;
+  font-weight: $weight-bolder;
+  border-radius: $radius;
   box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);
   font-size: .9rem;
-  .transition(all 0.2s ease);
+  @include transition(all 0.2s ease);
   &:hover{
-    background: darken(@blue, 10%);
+    background: darken($blue, 10%);
     text-decoration: none;
   }
 }
@@ -89,7 +89,7 @@
 }
 
 .phone{
-  .containing-block;
+  @extend .containing-block;
   display: inline-block;
 }
 
@@ -150,7 +150,7 @@
 
 
 /*ul*/.factors{
-  .clearfix;
+  @extend .clearfix;
   text-align: center;
   list-style: none;
   padding: 0;
@@ -175,7 +175,7 @@
   }
 }
 
-@media screen and (min-width: @mobile-bp){
+@media screen and (min-width: $mobile-bp){
   .factors{
     li{
       width: 50%;
@@ -183,7 +183,7 @@
   }
 }
 
-@media screen and (min-width: @tablet-bp){
+@media screen and (min-width: $tablet-bp){
   .factors{
     li{
       width: 33.33%;
@@ -199,9 +199,9 @@
 
 
 .main-footer{
-  border-top: 1px solid @grey-light;
+  @extend .clearfix;
+  border-top: 1px solid $grey-light;
   padding: 1rem 2%;
-  .clearfix;
   a{
 
   }
@@ -210,24 +210,25 @@
 .contact-link{
   float: left;
   font-size: 1rem;
-  font-weight: @weight-bolder;
-  color: @blue;
+  font-weight: $weight-bolder;
+  color: $blue;
   &:hover{
-    color: darken(@blue, 10%);
+    color: darken($blue, 10%);
   }
 }
 
 .legal-menu{
+  @extend .clearfix;
   float: right;
   font-size: .75rem;
   text-align: center;
-  .clearfix;
+  margin-left: 0;
   li{
     float: right;
     margin: 0 0 0 10px;
   }
   a{
-    color: @black;
+    color: $black;
     &:hover{
       text-decoration: underline;
     }
@@ -255,10 +256,10 @@
 }
 
 .social-btns{
+  @extend .clearfix;
   list-style: none;
   margin: 0;
   padding: 0;
-  .clearfix;
   margin-top: 1rem;
   li{
     display: inline-block;
@@ -280,7 +281,7 @@
   border-radius: 4px;
   background: #43C553;
   color: #fff;
-  font-weight: @weight-bolder;
+  font-weight: $weight-bolder;
   font-size: 14px;
   height: 28px;
   line-height: 28px;

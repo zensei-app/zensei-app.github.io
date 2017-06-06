@@ -8,10 +8,10 @@
 }
 
 .mc-field-group{
+  @extend .containing-block;
   margin: .5rem 10px;
   line-height: 30px;
   display: inline-block;
-  .containing-block;
   label{
     text-align: right;
     padding-right: 4px;
@@ -32,16 +32,16 @@
   margin: .5rem 10px;
   height: 30px;
   line-height: 30px;
-  background: @link;
+  background: $link;
   color: #fff;
   border: 0;
   border-radius: 4px;
   padding: 0 10px;
   font-size: 14px;
-  font-weight: @weight-bold;
+  font-weight: $weight-bold;
   cursor: pointer;
   &:hover{
-    background: darken(@link, 10%);
+    background: darken($link, 10%);
   }
 }
 
@@ -53,13 +53,13 @@
   left:0;
   right: 0;
   font-size: 12px;
-  font-weight: @weight-normal !important;
+  font-weight: $weight-normal !important;
   background: transparent !important;
   color: red !important;
   text-align: right;
 }
 
-@media screen and (max-width: @tablet-bp){
+@media screen and (max-width: $tablet-bp){
   .mc-field-group{
     display: block;
   }

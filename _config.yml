@@ -40,6 +40,9 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+sass:
+  style: compressed
+
 
 # Settings cannot change
 ## source: [your repo's top level directory]

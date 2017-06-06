@@ -1,12 +1,12 @@
 .blog-header{
-  background-color: @pink;
+  @extend .clearfix;
+  background-color: $pink;
   color: #fff;
-  .clearfix;
 }
 
 .blog-header__logo.blog-header__logo{
   color: #fff;
-  font-family: @brand-font;
+  font-family: $brand-font;
   line-height: 64px;
   font-size: 1.2rem;
   &:hover{
@@ -15,9 +15,9 @@
 }
 
 .blog-header__actions{
+  @extend .clearfix;
   padding-top:10px;
   float: right;
-  .clearfix;
 }
 
 @media screen and (max-width: 600px){
@@ -43,7 +43,7 @@
   line-height: 64px;
   color: #fff;
   margin-left: 10px;
-  font-weight: @weight-bold;
+  font-weight: $weight-bold;
 }
 
 @media screen and (max-width: 600px){
@@ -67,7 +67,7 @@
 .post-link.post-link{
   &:hover{
     text-decoration: none;
-    color: @link;
+    color: $link;
   }
   .post-title{
     &:hover{
@@ -77,8 +77,8 @@
 }
 
 .post-title.post-title{
-  color: @black;
-  font-weight: @weight-bolder;
+  color: $black;
+  font-weight: $weight-bolder;
   font-size: 2rem;
 
 }
@@ -91,5 +91,5 @@
 .post-content{
   font-size: 1.2rem;
   line-height: 1.5;
-  color: @black;
+  color: $black;
 }
