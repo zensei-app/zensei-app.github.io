@@ -1,6 +1,8 @@
 .blog-header{
   @extend .clearfix;
-  background-color: $pink;
+  background-color: #efd56c;
+  background-image: linear-gradient(#efd56c, #f58888);
+  background: linear-gradient(45deg, #efd56c 0, #f58888 100%);
   color: #fff;
 }
 
