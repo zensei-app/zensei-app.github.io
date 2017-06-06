@@ -8,7 +8,7 @@ image: /assets/zensei.png
 description: ¿Quién no se ha puesto malo alguna vez? Un resfriado, una gripe, una gastroenteritis, y un sinfín de patologías menores y sus síntomas asociados que no les prestamos atención hasta que los sufrimos y la verdad que son un incordio en nuestro día día ...
 ---
 
-¿Quién no se ha puesto malo alguna vez? Un resfriado, una gripe, una gastroenteritis, un sinfín de patologías menores y un sinfín de síntomas asociados a los que no prestamos demasiada atención hasta que ya es demasiado tarde. 
+¿Quién no se ha puesto malo alguna vez? Un resfriado, una gripe, una gastroenteritis y un sinfín de síntomas asociados a los que no prestamos demasiada atención antes de evitarlos. 
  
 Por otro lado, enfermedades crónicas tales como diabetes, dermatitis atópicas o incluso alergias, pueden mantenerse bajo control siguiendo  unos determinados hábitos saludables y  a través del conocimiento del entorno físico que nos rodea.  
  
