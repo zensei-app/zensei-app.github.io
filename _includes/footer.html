@@ -84,38 +84,50 @@ $.get("http://ipinfo.io", function (response) {
   </script>
 
 <script type="text/javascript">
-function readCookie(name) {
-  var cookiename = name + "=";
-  var ca = document.cookie.split(';');
-  for(var i=0; i < ca.length;i++) {
-      var c = ca[i];
-      while (c.charAt(0)==' ') c = c.substring(1,c.length);
-      if (c.indexOf(cookiename) == 0) return c.substring(cookiename.length,c.length);
+  function readCookie(name) {
+      var cookiename = name + "=";
+      var ca = document.cookie.split(';');
+      for(var i=0; i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(cookiename) == 0) return c.substring(cookiename.length,c.length);
+      }
+      return null;
   }
-  return null;
-}
- 
-//Call readCookie function to get value of user's Marketo cookie
-var pattern = /GA\d.\d./;
-var ga_user = readCookie('_ga').replace(pattern,'');
 
-var getUrlParameter = function getUrlParameter(sParam) {
-  var sPageURL = decodeURIComponent(window.location.search.substring(1)),
-    sURLVariables = sPageURL.split('&'),
-    sParameterName,
-    i;
+  function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+      sURLVariables = sPageURL.split('&'),
+      sParameterName,
+      i;
 
-  for (i = 0; i < sURLVariables.length; i++) {
-    sParameterName = sURLVariables[i].split('=');
-
-    if (sParameterName[0] === sParam) {
-        return sParameterName[1] === undefined ? true : sParameterName[1];
+    for (i = 0; i < sURLVariables.length; i++) {
+      sParameterName = sURLVariables[i].split('=')
+      if (sParameterName[0] === sParam) {
+          return sParameterName[1] === undefined ? true : sParameterName[1];
+      }
     }
   }
-};
+   
+  //Call readCookie function to get value of user's Marketo cookie
+  var pattern = /GA\d.\d./
+  var cookie = readCookie('_ga')
+  var ga_user = 'null'
+  var source = getUrlParameter('utm_campaign')
 
-$('#cta-messenger-top').attr('href', "https://m.me/zenseiapp?ref=" + ga_user + '|' + getUrlParameter('utm_campaign'));
-//$('#blog').attr('href', "/blog?utm_campaign=" + getUrlParameter('utm_campaign'));
-//$('#landing').attr('href', "/?utm_campaign=" + getUrlParameter('utm_campaign'));
+  if(cookie){
+    ga_user = cookie.replace(pattern,'')
+  }
+
+  if(ga_user && source){
+    url = "https://m.me/zenseiapp?ref=" + ga_user + '|' +  source
+  }else if(!source){
+    url = "https://m.me/zenseiapp?ref=" + ga_user + '|direct' 
+  }else{
+    url = "https://m.me/zenseiapp"
+  } 
+
+  $('#cta-messenger-top').attr('href', url);
+  $('#cta-messenger-bottom').attr('href', url);
 
 </script>
