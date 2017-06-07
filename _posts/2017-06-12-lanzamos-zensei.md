@@ -45,6 +45,6 @@ Desde Zensei, lo que queremos es ayudar a dar a conocer dichos riesgos reales a 
 Así que si quieres seguir no conociendo los riesgos a los que está expuesta tu salud es una opción totalmente loable, pero si quieres seguir manteniéndote sano, Zensei te va ayudar, notificando diariamente distintos riesgos a los que está expuesta tu salud, además de darte consejos para ayudarte a cambiar tus hábitos para evitar dichos riesgos y así poder vivir mejor y más saludable.
  
 Si no quieres perder tu salud, Zensei te va ayudar a estar más saludable.
-Ayúdanos a que mucha más gente pueda estar saludable compartiendo Zensei con tu familiar o amigo que tiene una alergia, con aquella madre primeriza llena de dudas, con tu amigo que le ha dado por correr maratones, con tu amigo fumador con problemas respiratorios o con el grupo de WhatsApp o Facebook de madres del cole, de la guardería, de corredores, etc. ¡Ayúdanos a dar a conocer Zensei!
+Ayúdanos a que mucha más gente pueda estar saludable compartiendo Zensei con tu familiar o amigo que tiene una alergia, con aquella madre primeriza llena de dudas, con tu amigo al que le ha dado por correr maratones, con tu amigo fumador que tose mucho o con el grupo de WhatsApp o Facebook de madres del cole, de la guardería, de corredores, etc. ¡Ayúdanos a dar a conocer Zensei!
  
 Todos tenemos derecho a conocer los riesgos sobre nuestra salud. Zensei te ayuda a conocerlos y cambiar tus hábitos para mantenerte saludable.
