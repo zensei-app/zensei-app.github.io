@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lanzamos Zensei 🎉🎉🎉"
-date:   2017-06-05
+date:   2017-06-12 10:00:00 +0200
 author: Zensei Team
 categories: blog 
 image: /assets/zensei.png
