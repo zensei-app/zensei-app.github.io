@@ -1,5 +1,5 @@
 // Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
-window.cookieconsent_options = {"message":"Esta web utiliza cookies. ","dismiss":"Vale","learnMore":"Más info","link":"politica-cookies.html","theme":"dark-bottom","target":"_blank"};
+window.cookieconsent_options = {"message":"Esta web utiliza cookies. ","dismiss":"Vale","learnMore":"Más info","link":"/politica-cookies.html","theme":"dark-bottom","target":"_blank"};
 
 (function(d, s, id) {
   var js, cjs = d.getElementsByTagName(s)[0];
