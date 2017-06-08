@@ -1,5 +1,16 @@
-// Zensei app.js
+// Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
+window.cookieconsent_options = {"message":"Esta web utiliza cookies. ","dismiss":"Vale","learnMore":"Más info","link":"politica-cookies.html","theme":"dark-bottom","target":"_blank"};
 
+(function(d, s, id) {
+  var js, cjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js";
+  cjs.parentNode.insertBefore(js, cjs);
+}(document, 'script', 'cookie-consent'));
+// End Cookie Consent plugin
+
+// Begin social
 (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -35,20 +46,17 @@ $(function(){
     $('#whatsappButton').show();
   }
 
-
 });
+// End social
 
-function readCookie(name) {
-    var cookiename = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0; i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(cookiename) == 0) return c.substring(cookiename.length,c.length);
-    }
-    return null;
-}
+// Begin Mixpanel
+(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments, 0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
 
+mixpanel.init("ae42fa9b56806bc29fe4fdfeb37f0882");
+// End Mixpanel
+
+// Begin Google Analytics Info
 function getUrlParameter(sParam) {
   var sPageURL = decodeURIComponent(window.location.search.substring(1)),
     sURLVariables = sPageURL.split('&'),
@@ -62,99 +70,19 @@ function getUrlParameter(sParam) {
     }
   }
 }
-   
-//Call readCookie function to get value of user's Marketo cookie
-var pattern = /GA\d.\d./
-var cookie = readCookie('_ga')
-var ga_user = 'null'
-var source = getUrlParameter('utm_source')
-var medium = getUrlParameter('utm_medium')
-var campaign = getUrlParameter('utm_campaign')
 
-if(cookie){
-  gaid = cookie.replace(pattern,'')
-}
+ga(function(tracker) {
+  var clientId = tracker.get("clientId");
+  var campaignSource = getUrlParameter("utm_source") || "direct";
 
-mixpanel.track("web", {
-  "gaid": gaid
-});
-
-if(ga_user && source){
-  url = "https://m.me/zenseiapp?ref=" + gaid + '|' +  source
-}else if(!source){
-  url = "https://m.me/zenseiapp?ref=" + gaid + '|direct' 
-}else{
-  url = "https://m.me/zenseiapp"
-} 
-
-$('#cta-messenger-top').attr('href', url);
-$('#cta-messenger-bottom').attr('href', url);
-
-
-$(function(){
-
-  setTimeout(function(){
-    $('.phone__notification--hidden').slideDown('fast');
-  }, 2000);
-
-  $('#cityMsg a').click(function(e) {
-    e.preventDefault();
-    $('#cityMsg').hide();
-    $('#mc_embed_signup').show();
+  mixpanel.track("web", {
+    "gaid": clientId
   });
 
-
+  $(function() {
+    $(".main-cta").attr("href", function() {
+      return this.href + "?ref=" + clientId + "|" + campaignSource;
+    })
+  })
 });
-
-
-
-function equalheight(container){
-
-  var currentTallest = 0,
-       currentRowStart = 0,
-       rowDivs = new Array(),
-       $el,
-       topPosition = 0;
-   $(container).each(function() {
-
-     $el = $(this);
-     $($el).height('auto')
-     topPostion = $el.position().top;
-
-     if (currentRowStart != topPostion) {
-       for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
-         rowDivs[currentDiv].height(currentTallest);
-       }
-       rowDivs.length = 0; // empty the array
-       currentRowStart = topPostion;
-       currentTallest = $el.height();
-       rowDivs.push($el);
-     } else {
-       rowDivs.push($el);
-       currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
-    }
-     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
-       rowDivs[currentDiv].height(currentTallest);
-     }
-  });
-}
-
-$(window).on('load', function() {
-  equalheight('.factors li');
-});
-
-$(window).resize(function(){
-  equalheight('.factors li');
-});
-
-$.get("http://ipinfo.io", function (response) {
-
-  var city = response.city;
-
-  if (city != 'Madrid' && city != 'Barcelona'){
-    // $('#ciudad').html(city);
-    // $('#mce-MMERGE1').attr('value',city);
-    $('#topBanner').slideDown();
-  }
-
-}, "jsonp");
+// End Google Analytics Info
