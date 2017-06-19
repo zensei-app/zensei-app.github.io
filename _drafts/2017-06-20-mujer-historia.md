@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "👩👗 Zensei Historias del día a día"
-date:   2017-06-19 10:00:00 +0200
+date:   2017-06-21 10:00:00 +0200
 author: Zensei Team
 categories: blog 
 image: /img/woman_summer.gif
