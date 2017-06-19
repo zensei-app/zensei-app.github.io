@@ -4,7 +4,7 @@ title:  "🔮 El futuro de la salud ¿Un nuevo paradigma social y tecnológico?"
 date:   2017-06-19 10:00:00 +0200
 author: Zensei Team
 categories: blog 
-image: /assets/zensei.png
+image: https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/RKS9M8PY0X.jpg
 description: Hoy en día percibimos la salud como un proceso de mantenimiento individual, donde nosotros mismos somos los que tenemos que esforzarnos en mantenerla y cuidarla, pero esta concepción de la salud es más bien moderna.
 ---
  
