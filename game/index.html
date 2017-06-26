@@ -21,7 +21,7 @@
       <div class="padding-top">
         <div class="container center ">
 
-          {{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?
+          <h1>{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h1>
           <p>
             <span v-for="key in data.result.game.options">
               <button style="margin-right:1.25em;" v-on:click="greet(key, data)">{{ key }} </button>
@@ -35,15 +35,16 @@
 
     <script>
 
-      var link = 'https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=3&game=0';
+      var link = 'https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=1&game=0';
+      
       var data = { 
           result: null,
           score: 0,
+          strike: 1,
           response: null
       };
 
       Vue.http.get(link).then(function(response){
-          console.log(data)
           data.result = response.data.result
       }, function(error){
           console.log(error.statusText);
@@ -61,8 +62,10 @@
                 data.response = response
                 data.score = data.score - 1
               }
-              
-              Vue.http.get(link).then(function(response){
+
+              data.strike += 1
+              var link2 = `https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=${data.strike}&game=0`;
+              Vue.http.get(link2).then(function(response){
                   console.log(data)
                   data.result = response.data.result
               }, function(error){
