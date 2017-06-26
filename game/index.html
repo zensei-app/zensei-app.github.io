@@ -7,8 +7,12 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
     <style>
       button {
-        background-color: white
+        background-color: white;
+        border-radius: 5px;
+        border: 0.5px solid lightgrey;
       }
+
+      button:hover {box-shadow: 0 1px 1px #999;}
     </style>
   </head>
   <body>
@@ -18,14 +22,14 @@
     <div id="app">
       <div class="padding-top">
         <div class="container center ">
-
-          <h1>{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h1>
-          <p>
+          <h2>{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h2>
+          <br>
+          <h2>
             <span v-for="key in data.result.game.options">
-              <button style="margin-right:1.25em;" v-on:click="greet(key, data)">{{ key }} </button>
+              <button style="margin:0.75em;" v-on:click="greet(key, data)">{{ key }} </button>
             </span>
-          </p>
-          <p>Tu puntuación {{ data.score}}.</p>
+          </h2>
+          <p>Tu puntuación <b>{{ data.score}}</b>.</p>
 
         </div>
       </div>
@@ -43,12 +47,10 @@
           response: null
       };
 
-      Vue.http.options.xhr = {withCredentials: true};
-      Vue.http.options.emulateJSON = true;
       Vue.http.get(link).then(function(response){
           data.result = response.data.result
       }, function(error){
-          console.log(error.statusText);
+          console.log(error);
       });
 
 
@@ -67,12 +69,10 @@
 
               data.strike += 1
               var link2 = `https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=${data.strike}&game=0`;
-              Vue.http.options.xhr = {withCredentials: true};
-              Vue.http.options.emulateJSON = true;
               Vue.http.get(link2).then(function(response){
                   data.result = response.data.result
               }, function(error){
-                  console.log(error.statusText);
+                  console.log(error);
               });
             }
           }
