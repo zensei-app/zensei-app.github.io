@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Vue.js modal component example</title>
+    <!-- Delete ".min" for console warnings in development -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.4"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+    <style>
+      button {
+        background-color: white
+      }
+    </style>
+  </head>
+  <body>
+    
+
+    <!-- app -->
+    <div id="app">
+      <div class="padding-top">
+        <div class="container center ">
+
+          {{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?
+          <p>
+            <span v-for="key in data.result.game.options">
+              <button style="margin-right:1.25em;" v-on:click="greet(key, data)">{{ key }} </button>
+            </span>
+          </p>
+          <p>Tu puntuación {{ data.score}}.</p>
+
+        </div>
+      </div>
+    </div>
+
+    <script>
+
+      var link = 'https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=3&game=0';
+      var data = { 
+          result: null,
+          score: 0,
+          response: null
+      };
+
+      Vue.http.get(link).then(function(response){
+          console.log(data)
+          data.result = response.data.result
+      }, function(error){
+          console.log(error.statusText);
+      });
+
+      new Vue ({
+          el: '#app',
+          data: data,
+          methods: {
+            greet: function (response, data) {
+              if(response == data.result.game.answer){
+                data.response = response
+                data.score = data.score + data.result.game.points
+              }else{
+                data.response = response
+                data.score = data.score - 1
+              }
+              
+              Vue.http.get(link).then(function(response){
+                  console.log(data)
+                  data.result = response.data.result
+              }, function(error){
+                  console.log(error.statusText);
+              });
+            }
+          }
+      });
+
+    </script>
+  </body>
+</html>
