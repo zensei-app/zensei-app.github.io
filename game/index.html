@@ -66,7 +66,6 @@
               data.strike += 1
               var link2 = `https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=${data.strike}&game=0`;
               Vue.http.get(link2).then(function(response){
-                  console.log(data)
                   data.result = response.data.result
               }, function(error){
                   console.log(error.statusText);
