@@ -43,7 +43,8 @@
           response: null
       };
 
-      Vue.http.options.xhr = {withCredentials: true}
+      Vue.http.options.xhr = {withCredentials: true};
+      Vue.http.options.emulateJSON = true;
       Vue.http.get(link).then(function(response){
           data.result = response.data.result
       }, function(error){
@@ -66,7 +67,8 @@
 
               data.strike += 1
               var link2 = `https://9lq7bsp4gl.execute-api.eu-west-1.amazonaws.com/dev/game?strike=${data.strike}&game=0`;
-              Vue.http.options.xhr = {withCredentials: true}
+              Vue.http.options.xhr = {withCredentials: true};
+              Vue.http.options.emulateJSON = true;
               Vue.http.get(link2).then(function(response){
                   data.result = response.data.result
               }, function(error){
