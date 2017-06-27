@@ -71,8 +71,13 @@
           strike: 1,
           response: null
       };
-      Vue.http.options.emulateJSON = true
+
+      Vue.http.headers.common['Access-Control-Allow-Origin'] = '*';
+      Vue.http.headers.common['Origin'] = 'http://evil.com/';
+      Vue.http.headers.common['Content-Type'] = 'application/json';
+      Vue.http.options.xhr = { withCredentials : true };
       Vue.http.get(link).then(function(response){
+          console.log(response)
           data.result = response.data.result
       }, function(error){
           console.log(error);
@@ -94,7 +99,11 @@
 
               data.strike += 1
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
-              Vue.http.options.emulateJSON = true
+
+              Vue.http.headers.common['Access-Control-Allow-Origin'] = '*';
+              Vue.http.headers.common['Origin'] = 'http://evil.com/';
+              Vue.http.headers.common['Content-Type'] = 'application/json';
+              Vue.http.options.xhr = { withCredentials : true };
               Vue.http.get(link2).then(function(response){
                   data.result = response.data.result
               }, function(error){
