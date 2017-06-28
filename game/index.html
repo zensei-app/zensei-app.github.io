@@ -115,6 +115,24 @@
         float: right;
       }
 
+      .bounce-enter-active {
+        animation: bounce-in .5s;
+      }
+      .bounce-leave-active {
+        animation: bounce-in .5s reverse;
+      }
+      @keyframes bounce-in {
+        0% {
+          transform: scale(0);
+        }
+        50% {
+          transform: scale(1);
+        }
+        100% {
+          transform: scale(0.5);
+        }
+      }
+
     </style>
   </head>
   <body>
@@ -125,7 +143,7 @@
         <a class="blog-header__logo">Emoji Game</a>
 
         <div class="blog-header__actions">
-          <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">No pinches aquí</a>
+          <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Zensei</a>
           <a id="landing" class="pull-right blog-header__secondary-cta" href="/">¿Qué es Zensei?</a>
         </div>
 
@@ -144,13 +162,25 @@
           <br>
           <h2>
             <span v-for="key in shuffleArray(data.result.game.options)">
-              <button style="font-size: 2rem;margin:0.5em; cursor:pointer;" v-on:click="greet(key, data)">{{ key }} </button>
+              <button style="font-size: 2rem;margin:0.5em; cursor:pointer;" @click="data.show = !data.show" v-on:click="greet(key, data)">{{ key }} </button>
             </span>
           </h2>
+          <transition name="bounce">
+            <div v-if="data.show">
+              <div v-if="data.points > 0">
+                <h2 style="color:green">+{{data.points}}</h2>
+              </div>
+              <div v-if="data.points < 0">
+                <h2 style="color:red">{{data.points}}</h2>
+              </div>
+            </div>
+          </transition>
           <br>
           <p>Tu puntuación es <b>{{data.score}}</b> después de <b>{{data.strike}}</b> intentos.</p>
         </div>
       </div>
+
+      
       <!-- <button id="show-modal" @click="showModal = true">Show Modal</button> -->
         <!-- use the modal component, pass in the prop -->
         <modal v-if="showModal" @close="showModal = false">
@@ -205,7 +235,7 @@
 
               <div class="modal-header center">
                 <slot name="header">
-                  <h2>Yeah!!</h2>
+                  <h2>🎉 Yeah!!</h2>
                 </slot>
               </div>
 
@@ -234,7 +264,9 @@
           score: 0,
           strike: 0,
           response: null,
-          showModal: false
+          showModal: false,
+          show: false,
+          points: 0
       };
 
       axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
@@ -257,9 +289,17 @@
               if(response == data.result.game.answer){
                 data.response = response
                 data.score = data.score + data.result.game.points
+                data.points = data.result.game.points
               }else{
                 data.response = response
                 data.score = data.score - 1
+                data.points = -1
+              }
+              
+
+              if(data.strike == 20){
+                data.score = 0
+                data.strike = 0
               }
 
               data.strike += 1
@@ -281,11 +321,7 @@
                 .catch(e => {
                   console.log(e)
                 })
-
-              if(data.strike == 20){
-                data.score = 0
-                data.strike = 0
-              }
+              data.show = true
               }
             }
       });
