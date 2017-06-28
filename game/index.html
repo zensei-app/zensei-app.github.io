@@ -126,7 +126,7 @@
         <a class="blog-header__logo">Emoji Game</a>
 
         <div class="blog-header__actions">
-          <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Gratis</a>
+          <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">No pinches aquí</a>
           <a id="landing" class="pull-right blog-header__secondary-cta" href="/">¿Qué es Zensei?</a>
         </div>
 
@@ -138,11 +138,14 @@
     <div id="app">
       <div class="padding-top">
         <div class="container center ">
-          <h2>{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h2>
+          <h2>Resuelve el jeroglífico</h2>
+          <br>
+          <br>
+          <h2 style="font-size: 2rem;">{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h2>
           <br>
           <h2>
             <span v-for="key in shuffleArray(data.result.game.options)">
-              <button style="margin:0.5em;" v-on:click="greet(key, data)">{{ key }} </button>
+              <button style="font-size: 2rem;margin:0.5em;" v-on:click="greet(key, data)">{{ key }} </button>
             </span>
           </h2>
           <br>
