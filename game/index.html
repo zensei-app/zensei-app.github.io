@@ -25,7 +25,7 @@
           <h2>{{ data.result.positive.join(' + ') }} - {{ data.result.negative.join(' - ') }} = ?</h2>
           <br>
           <h2>
-            <span v-for="key in data.result.game.options">
+            <span v-for="key in shuffleArray(data.result.game.options)">
               <button style="margin:0.5em;" v-on:click="greet(key, data)">{{ key }} </button>
             </span>
           </h2>
@@ -58,7 +58,7 @@
     <div id="fb-root"></div>
     <script type="text/javascript" src="/assets/js/app.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue-resource@1.3.4"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
     <script>
@@ -72,15 +72,14 @@
           response: null
       };
 
-      Vue.http.headers.common['Access-Control-Allow-Origin'] = '*';
-      Vue.http.headers.common['Content-Type'] = 'application/json';
-      Vue.http.options.xhr = { withCredentials : true };
-      Vue.http.get(link).then(function(response){
-          console.log(response)
-          data.result = response.data.result
-      }, function(error){
-          console.log(error);
-      });
+      axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
+        .then(response => {
+          console.log(JSON.parse(response.data.body))
+          data.result = JSON.parse(response.data.body).result
+        })
+        .catch(e => {
+          console.log(e)
+        })
 
 
       new Vue ({
@@ -98,18 +97,27 @@
 
               data.strike += 1
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
-
-              Vue.http.headers.common['Access-Control-Allow-Origin'] = '*';
-              Vue.http.headers.common['Content-Type'] = 'application/json';
-              Vue.http.options.xhr = { withCredentials : true };
-              Vue.http.get(link2).then(function(response){
-                  data.result = response.data.result
-              }, function(error){
-                  console.log(error);
-              });
+              axios.get(link2, { headers: { 'Access-Control-Allow-Origin': '*' } })
+                .then(response => {
+                  // JSON responses are automatically parsed.
+                  data.result = JSON.parse(response.data.body).result
+                })
+                .catch(e => {
+                  console.log(e)
+                })
+              }
             }
-          }
       });
+
+      function shuffleArray(d) {
+        for (var c = d.length - 1; c > 0; c--) {
+          var b = Math.floor(Math.random() * (c + 1));
+          var a = d[c];
+          d[c] = d[b];
+          d[b] = a;
+        }
+        return d
+      };
 
     </script>
 
