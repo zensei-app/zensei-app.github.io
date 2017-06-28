@@ -266,11 +266,11 @@
 
               data.strike += 1
 
-              if(data.strike == 1){
+              if(data.strike == 10){
                 data.showModal = true
               }
 
-              if(data.strike == 10){
+              if(data.strike == 20){
                 data.showModal = true,
                 data.score = 0
                 data.strike = 0
@@ -285,6 +285,11 @@
                 .catch(e => {
                   console.log(e)
                 })
+
+              if(data.strike == 20){
+                data.score = 0
+                data.strike = 0
+              }
               }
             }
       });
