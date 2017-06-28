@@ -144,7 +144,7 @@
           <br>
           <h2>
             <span v-for="key in shuffleArray(data.result.game.options)">
-              <button style="font-size: 2rem;margin:0.5em;" v-on:click="greet(key, data)">{{ key }} </button>
+              <button style="font-size: 2rem;margin:0.5em; cursor:pointer;" v-on:click="greet(key, data)">{{ key }} </button>
             </span>
           </h2>
           <br>
@@ -239,7 +239,6 @@
 
       axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
         .then(response => {
-          console.log(JSON.parse(response.data.body))
           data.result = JSON.parse(response.data.body).result
         })
         .catch(e => {
@@ -270,7 +269,7 @@
               }
 
               if(data.strike == 20){
-                data.showModal = true,
+                data.showModal = true
               }
 
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
