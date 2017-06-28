@@ -75,6 +75,47 @@
 
       button:hover {box-shadow: 0 1px 1px #999;}
 
+      .modal-mask {
+        position: fixed;
+        z-index: 9998;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, .5);
+        display: table;
+        transition: opacity .3s ease;
+      }
+
+      .modal-wrapper {
+        display: table-cell;
+        vertical-align: middle;
+      }
+
+      .modal-container {
+        width: 300px;
+        margin: 0px auto;
+        padding: 20px 30px;
+        background-color: #fff;
+        border-radius: 2px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, .33);
+        transition: all .3s ease;
+        font-family: Helvetica, Arial, sans-serif;
+      }
+
+      .modal-header h3 {
+        margin-top: 0;
+        color: #1d86ff;
+      }
+
+      .modal-body {
+        margin: 20px 0;
+      }
+
+      .modal-default-button {
+        float: right;
+      }
+
     </style>
   </head>
   <body>
@@ -106,17 +147,32 @@
           </h2>
           <br>
           <p>Tu puntuación es <b>{{data.score}}</b> después de <b>{{data.strike}}</b> intentos.</p>
-
         </div>
       </div>
+      <!-- <button id="show-modal" @click="showModal = true">Show Modal</button> -->
+        <!-- use the modal component, pass in the prop -->
+        <modal v-if="showModal" @close="showModal = false">
+          <!--
+            you can use custom content here to overwrite
+            default content
+          -->
+          <h3 slot="header">¿Por qué no compartes?</h3>
+          <div slot="body">
+            <ul class="social-btns">
+              <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large">Twittear</a></li>
+              <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse">Compartir</a></div></li>
+              <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? https://zenseiapp.com/game/?utm_source=game%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp">Whatsappear</a></li>
+          </ul>
+          </div>
+
     </div>
 
     <div class="container center padding-vertical">
       <p>¿Necesitas el comodín del público? 🙂</p>
         <ul class="social-btns">
-          <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large">Twittear</a></li>
-          <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse">Compartir</a></div></li>
-          <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? https://zenseiapp.com/game/?utm_source=game%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp">Whatsappear</a></li>
+          <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large" @click="$emit('close')">Twittear</a></li>
+          <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse" @click="$emit('close')">Compartir</a></div></li>
+          <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? https://zenseiapp.com/game/?utm_source=game%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp" @click="$emit('close')">Whatsappear</a></li>
       </ul>
     </div>
 
@@ -136,7 +192,39 @@
     <script type="text/javascript" src="/assets/js/app.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
+    <!-- template for the modal component -->
+    <script type="text/x-template" id="modal-template">
+      <transition name="modal">
+        <div class="modal-mask">
+          <div class="modal-wrapper">
+            <div class="modal-container">
 
+              <div class="modal-footer">
+                <slot name="footer">
+                  <div class="modal-default-button" @click="$emit('close')">
+                    x
+                  </div>
+                </slot>
+              </div>
+              <br>
+
+              <div class="modal-header center">
+                <slot name="header">
+                  default header
+                </slot>
+              </div>
+
+              <div class="modal-body center">
+                <slot name="body">
+                  default body
+                </slot>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </transition>
+    </script>
     <script>
 
       var link = 'https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=1&game=0';
@@ -145,7 +233,8 @@
           result: null,
           score: 0,
           strike: 0,
-          response: null
+          response: null,
+          showModal: false
       };
 
       axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
@@ -157,6 +246,9 @@
           console.log(e)
         })
 
+      Vue.component('modal', {
+        template: '#modal-template'
+      })
 
       new Vue ({
           el: '#app',
@@ -172,6 +264,11 @@
               }
 
               data.strike += 1
+
+              if(data.strike > 10){
+                data.showModal = true
+              }
+
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
               axios.get(link2, { headers: { 'Access-Control-Allow-Origin': '*' } })
                 .then(response => {
