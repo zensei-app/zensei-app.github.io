@@ -237,12 +237,22 @@
 
               <div class="modal-body center">
                 <slot name="body">
+                <div v-if="data.strike < 6">
+                  <p>Llevas <b>{{data.score}}</b> puntos.</p>
+                    <p>¿Por qué no pruebas ahora Zensei?</p>
+                    <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Zensei</a>
+                    <br>
+                    <br>
+                    <a @click="$emit('close')">Seguir jugando</a>
+                </div>
+                <div v-else>
                   <p>Has conseguido <b>{{data.score}}</b> puntos.</p>
-                  <p>¿Por qué no pruebas ahora Zensei?</p>
-                  <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Zensei</a>
-                  <br>
-                  <br>
-                  <a @click="$emit('close')">Seguir jugando</a>
+                    <p>¿Reta a tus amigos?</p>
+                    <a class="main-cta main-cta--blog" v-bind:href="data.sharing"  onclick="ga('send', 'event', 'buttons', 'click', 'share');" target="_blank">Twittear</a>
+                    <br>
+                    <br>
+                    <a @click="$emit('close')">Seguir jugando</a>
+                </div>
                 </slot>
               </div>
 
@@ -262,7 +272,8 @@
           response: null,
           showModal: false,
           show: false,
-          points: 0
+          points: 0,
+          sharing: ''
       };
 
       axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
@@ -282,6 +293,8 @@
           data: data,
           methods: {
             greet: function (response, data) {
+              
+
               if(response == data.result.game.answer){
                 data.response = response
                 data.score = data.score + data.result.game.points
@@ -292,20 +305,20 @@
                 data.points = -1
               }
               
-
-              if(data.strike == 20){
+              if(data.strike == 10){
                 data.score = 0
                 data.strike = 0
               }
 
               data.strike += 1
 
-              if(data.strike == 10){
+              if(data.strike == 5){
                 data.showModal = true
               }
 
-              if(data.strike == 20){
+              if(data.strike == 10){
                 data.showModal = true
+                data.sharing = `https://twitter.com/intent/tweet?text=Acabo de conseguir ${data.score} puntos en el Emoji Game del verano con @zenseiapp ¿Juegas?&url=https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom`
               }
 
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
