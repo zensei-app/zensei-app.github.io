@@ -277,10 +277,10 @@
       };
 
       axios.get(link, { headers: { 'Access-Control-Allow-Origin': '*'  } })
-        .then(response => {
+        .then(function(response){
           data.result = JSON.parse(response.data.body).result
         })
-        .catch(e => {
+        .catch(function(e){
           console.log(e)
         })
 
@@ -323,11 +323,11 @@
 
               var link2 = `https://shw123y898.execute-api.eu-west-1.amazonaws.com/dev/emojigame?strike=${data.strike}&game=0`;
               axios.get(link2, { headers: { 'Access-Control-Allow-Origin': '*' } })
-                .then(response => {
+                .then(function(response) {
                   // JSON responses are automatically parsed.
                   data.result = JSON.parse(response.data.body).result
                 })
-                .catch(e => {
+                .catch(function(e) {
                   console.log(e)
                 })
               data.show = true
