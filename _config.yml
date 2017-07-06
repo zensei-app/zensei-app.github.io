@@ -15,8 +15,7 @@ timezone: Europe/Madrid
 # Site settings
 title: Zensei
 description: >
-  Zensei es un bot de messenger que te avisa de todo lo que deberías
-  saber antes de salir de casa cada día
+  Evita los riesgos ambientales de tu ciudad con alertas y consejos en tu móvil
 baseurl: ""
 url: "https://zenseiapp.com"
 
