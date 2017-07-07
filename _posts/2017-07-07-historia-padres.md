@@ -5,12 +5,12 @@ date:   2017-07-07 10:00:00 +0200
 author: Zensei Team
 categories: blog 
 image: /img/parents.jpg
-description: Como Zensei ayuda a los padres primerizos a evitar los riesgos ambientales...
+description: ¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés?
 ---
 
-Como Zensei ayuda a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés, avisando les sobre
+¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés? Avisándoles de los
 niveles de bronquiolitis, varicela o piojos. Además de informar sobre otras enfermedades víricas que podrían afectar a su bebé como
-son la gripe o el resfriado. Apuntaté a cuidar la salud de tu familia y tuya pinchando el botón INSTALAR GRATIS de la parte superior derecha.
+son la gripe o el resfriado. Cuida la salud de tu familia y la tuya.
 
 
 <br>
