@@ -4,7 +4,7 @@ title:  "👪 Padres primerizos"
 date:   2017-07-07 10:00:00 +0200
 author: Zensei Team
 categories: blog 
-image: /img/parents.gif
+image: /img/parents.jpg
 description: Como Zensei ayuda a los padres primerizos a evitar los riesgos ambientales...
 ---
 
