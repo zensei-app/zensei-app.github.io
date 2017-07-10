@@ -1,9 +1,12 @@
 .top-banner{
   display: block;
   box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);
-  padding: 10px 2%;
+  padding: 30px 2%;
   text-align: center;
-  position: relative;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color:white;
   z-index: 1;
   display: none;
   p{
@@ -13,6 +16,20 @@
   a{
     text-decoration: underline;
   }
+}
+
+.top-banner .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.top-banner .close:hover {
+  color: #1D86FF;
 }
 
 .center-image
