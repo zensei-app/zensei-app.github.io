@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   "😷 ¿Cómo evitar los riesgos de la contaminación para la salud?"
+title:   "😷 ¿Cómo evitar los riesgos de la contaminación sobre la salud?"
 date:   2017-07-10 10:00:00 +0200
 author: Zensei Team
 categories: blog 
