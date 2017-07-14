@@ -4,7 +4,7 @@ title:  "🌩 Zensei hará que tengas super poderes para evitar los riesgos ambi
 date:   2017-07-14 10:00:00 +0200
 author: Zensei Team
 categories: blog 
-image: /img/parents.jpg
+image: /img/notifications_background.png
 description: Belén le preocupa mucho su salud y claro quiere evitar cualquier riesgo, por eso utiliza Zensei, porque...
 ---
 
