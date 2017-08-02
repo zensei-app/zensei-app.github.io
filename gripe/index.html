@@ -122,7 +122,7 @@
     </div>
 
     <div class="container center padding-vertical">
-      <p>¿Necesitas el comodín del público? 🙂</p>
+      <p>Evita que tus amigos cogan la gripe 🙂</p>
         <ul class="social-btns">
           <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large" @click="$emit('close')">Twittear</a></li>
           <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse" @click="$emit('close')">Compartir</a></div></li>
@@ -214,13 +214,29 @@
         d3.select('#chart svg').append("line")
           .style("stroke", "#D3D3D3")
           .attr("x1", 60)
+          .attr("y1", y(30))
+          .attr("x2", "97%")
+          .attr("y2", y(30));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Bajo")
+          .attr("x", "94%")
+          .attr("y", y(34))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
           .attr("y1", y(60))
           .attr("x2", "97%")
           .attr("y2", y(60));
 
         d3.select('#chart svg')
           .append("text")
-          .text("Bajo")
+          .text("Medio")
           .attr("x", "94%")
           .attr("y", y(64))
           .attr("font-family", "sans-serif")
@@ -230,31 +246,15 @@
         d3.select('#chart svg').append("line")
           .style("stroke", "#D3D3D3")
           .attr("x1", 60)
-          .attr("y1", y(210))
+          .attr("y1", y(100))
           .attr("x2", "97%")
-          .attr("y2", y(210));
-
-        d3.select('#chart svg')
-          .append("text")
-          .text("Medio")
-          .attr("x", "93%")
-          .attr("y", y(214))
-          .attr("font-family", "sans-serif")
-          .attr("font-size", "8px")
-          .attr("fill", "black");
-
-        d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
-          .attr("x1", 60)
-          .attr("y1", y(270))
-          .attr("x2", "97%")
-          .attr("y2", y(270));
+          .attr("y2", y(100));
 
         d3.select('#chart svg')
           .append("text")
           .text("Alto")
           .attr("x", "94%")
-          .attr("y", y(274))
+          .attr("y", y(104))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
