@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="es" itemscope itemtype="http://schema.org/WebSite">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>🤧 Observatorio de la Gripe en España por Zensei</title>
+  <meta name="description" content="Visualización y predicción de la gripe semana a semana para España">
+  <meta name="author" content="Zensei">
+
+  <!-- Mobile viewport optimization h5bp.com/ad -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- allows zoom -->
+  <meta name="theme-color" content="#f58888" />
+
+
+
+  <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+  <meta http-equiv="cleartype" content="on">
+
+
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+  <link rel="apple-touch-icon" href="/assets/icon.png"/>
+  <link rel="icon" href="/assets/icon.png"/>
+
+  <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+  <!-- <link rel="stylesheet" href="https://grids.graaf.space/1170/12/16.css">--> <!-- Bootstrap Grid -->
+
+
+  <!-- For Facebook -->
+  <meta property="og:title" content="🤧 Observatorio de la Gripe en España por Zensei"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="https://zenseiapp.com/assets/zensei.png"/>
+  <meta property="og:url" content="https://zenseiapp.com/game"/>
+  <meta property="fb:app_id" content="1853764804894431" />
+  <meta property="og:site_name" content="Zensei"/>
+  <meta property="og:description" content="Visualización y predicción de la gripe semana a semana para España"/>
+
+  <!-- for Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="🤧 Observatorio de la Gripe en España por Zensei<" />
+  <meta name="twitter:description" content="Visualización y predicción de la gripe semana a semana para España" />
+  <meta name="twitter:image" content="https://zenseiapp.com/assets/zensei.png" />
+
+  <!-- For Google+ -->
+  <meta itemprop="name" content="Zensei">
+  <meta itemprop="description" content="Visualización y predicción de la gripe semana a semana para España">
+  <meta itemprop="image" content="https://zenseiapp.com/assets/zensei.png">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-96842689-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
+  <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+  <style>
+    
+
+      #chart svg {
+          margin: 0px;
+          padding: 0px;
+          height: 300px;
+          width: 100%;
+      }
+
+      .tick {
+        display: none;
+      }
+
+
+
+  </style>
+  
+  </head>
+  <body>
+    <header class="blog-header">
+
+      <div class="wrapper">
+        <div class="logo">zensei</div>
+        <a class="blog-header__logo">Gripe</a>
+
+        <div class="blog-header__actions">
+          <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Zensei</a>
+          <a id="landing" class="pull-right blog-header__secondary-cta" href="/">¿Qué es Zensei?</a>
+        </div>
+
+      </div>
+
+    </header>
+
+    <!-- app -->
+    <div>
+      <div class="padding-top">
+        <div class="container-narrow center">
+          <h2>Observatorio de la Gripe</h2>
+          <br>
+          <p>La predicción de la gripe para la semana 6 de la temporada de la gripe es de 120 casos por cada 100.000 habitantes. Los últimos datos oficiales son de 10 Octubre del 2017, estando en un nivel medio con 100 casos por cada 100.000 habitantes, con respecto a la semana anterior ha crecido un 10%. Con respecto a otros años se ha adelantando en una semana. </p>
+          <div id="chart">
+              <svg></svg>
+          </div>
+          
+         
+         
+        </div>
+      </div>
+    </div>
+
+    <div class="container center padding-vertical">
+      <p>¿Necesitas el comodín del público? 🙂</p>
+        <ul class="social-btns">
+          <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large" @click="$emit('close')">Twittear</a></li>
+          <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse" @click="$emit('close')">Compartir</a></div></li>
+          <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? https://zenseiapp.com/game/?utm_source=game%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp" @click="$emit('close')">Whatsappear</a></li>
+      </ul>
+    </div>
+
+    <div class="main-footer">
+      <div class="container">
+        <a class="contact-link" href="mailto:hola@zenseiapp.com">hola@zenseiapp.com</a>
+        <ul class="legal-menu">
+          <li><a href="politica-cookies.html">Política de cookies</a></li>
+          <li><a href="politica-privacidad.html">Política de privacidad</a></li>
+          <li><a href="/blog/">Blog</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="fb-root"></div>
+    <script type="text/javascript" src="/assets/js/app.js"></script>
+
+    <script>
+    
+    
+    var dataset = []
+
+    d3.csv("data.csv", function(data) {
+      
+      format = d3.time.format("%Y-%m-%d %H:%M:%S")
+      dataset = data.map(function(d, i) { 
+       
+        return { x:format.parse(d["date"]), y:+d["rate"]}; 
+  
+      });
+      data = [{
+        key: 'Gripe',
+        values: dataset.sort(sortByDateAscending),
+        color: "#f58888",
+        strokeWidth: 3.5,
+        area: true
+      }];
+
+      function sortByDateAscending(a, b) {
+          // Dates will be cast to numbers automagically:
+          return a.x - b.x;
+      }
+
+
+      function datum(){
+        data = data.sort(sortByDateAscending);
+        return data
+      }
+      
+      console.log(datum())
+
+      nv.addGraph(function() {
+        var chart = nv.models.lineWithFocusChart();
+        chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
+        chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+        chart.yTickFormat(d3.format('s'));
+        chart.yAxis.axisLabel("Casos por cada 100K/habitantes");
+        chart.duration(50);
+        chart.useInteractiveGuideline(false);
+        
+        console.log(chart.height)
+
+        var y = d3.scale.linear()
+          .range([200, 0]);
+        
+        y.domain([0, d3.max(dataset, function(d) { return d.y; })]);
+
+        
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
+          .attr("y1", y(10))
+          .attr("x2", "97%")
+          .attr("y2", y(10));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Basal")
+          .attr("x", "94%")
+          .attr("y", y(14))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
+          .attr("y1", y(60))
+          .attr("x2", "97%")
+          .attr("y2", y(60));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Bajo")
+          .attr("x", "94%")
+          .attr("y", y(64))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
+          .attr("y1", y(210))
+          .attr("x2", "97%")
+          .attr("y2", y(210));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Medio")
+          .attr("x", "93%")
+          .attr("y", y(214))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
+          .attr("y1", y(270))
+          .attr("x2", "97%")
+          .attr("y2", y(270));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Alto")
+          .attr("x", "94%")
+          .attr("y", y(274))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+
+        d3.select('#chart svg')
+            .datum(datum())
+            .call(chart);
+        nv.utils.windowResize(chart.update);
+        return chart;
+    });
+    
+
+    });
+
+    
+
+    
+
+
+</script>
+
+  </body>
+</html>
+
+<!-- /nonessential stylesheets -->
+<link href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700" rel="stylesheet">
