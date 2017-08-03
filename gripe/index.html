@@ -94,7 +94,7 @@
         <div class="container-narrow center">
           <h2 style="font-size:40px; font-weight: bold;">Observatorio de la Gripe</h2>
           <br>
-          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel medio con <span id="today1"></span> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <span id="pct"></span>%.</p>
+          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel de riesgo <span id="risk1"></span> con <span id="today1"></span> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <span id="pct"></span>%.</p>
           <br>
           <div class="section group">
             <div class="col span_1_of_3">
@@ -103,7 +103,7 @@
             </div>
             <div class="col span_1_of_3">
               <p id="today" style="font-size:50px; font-weight: bold;"></p>
-              <h2 style="color:lightgrey; font-weight:lighter;">Casos 100K/hab.</h2>
+              <h2 style="color:lightgrey; font-weight:lighter;">Casos esta semana</h2>
             </div>
             <div class="col span_1_of_3">
               <p id="yesterday" style="font-size:50px; font-weight: bold;"></p>
@@ -112,17 +112,16 @@
           </div>
           <br>
           <div class="btn-group">
-            <button>Histórico</button>
-            <button>Temporadas</button>
-            <button>Comunidades</button>
+            <button id='timeserie'>Histórico</button>
+            <button id='seasons'>Temporadas</button>
+            <!-- <button>Comunidades</button> -->
           </div>
-
+          <br>
+          <br>
           <div id="chart">
               <svg></svg>
           </div>
-          
-         
-         
+               
         </div>
       </div>
     </div>
@@ -148,12 +147,18 @@
     </div>
 
     <div id="fb-root"></div>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
     <script type="text/javascript" src="/assets/js/app.js"></script>
 
     <script>
-    
+
+    Date.prototype.getWeek = function() {
+      var onejan = new Date(this.getFullYear(),0,1);
+      return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
+    }
     
     var dataset = []
+    var dataset2 = []
 
     d3.csv("data.csv", function(data) {
       
@@ -162,9 +167,59 @@
         return { x:format.parse(d["date"]), y:Math.round(+d["rate"])}; 
       });
 
+      var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
+
+      seasons = data.map(function(d, i) { 
+        return { 
+          y: Math.round(+d["rate"]),
+          x: weekFlu(format.parse(d["date"]).getWeek()),
+          season: getSeason(d)}
+      });
+
+      const grouped = _.groupBy(seasons,  car => car.season);
+
+      for (var key in grouped) {
+        index = Object.keys(grouped).indexOf(key)
+        length = Object.keys(grouped).length
+        if(index < length - 1){
+          _color = color(index)
+          strokeWidth = 1
+        }else{
+          _color = "red"
+          strokeWidth = 3.5
+        }
+        dataset2.push({
+          values:grouped[key],
+          key: key,
+          color: _color,
+          strokeWidth: strokeWidth
+        });
+      }
+
+      function getSeason(d){
+        date = format.parse(d["date"])
+        week = date.getWeek()
+        year = date.getFullYear()
+        if(week >= 36){
+          y1 = year  + 1
+          return year + '-' + y1
+        }else if(week < 36){
+          y1 = year  - 1
+          return y1 + '-' + year
+        }
+      }
+
+      function weekFlu(week){
+        if(week>=36){
+          return week - 36
+        }else{
+          return week + 16
+        }
+      }
+
       function risk(value){
         if(value < 15){
-          return 'Basal'
+          return 'Nulo'
         }else if(value < 30){
           return 'Bajo'
         }else if(value < 80){
@@ -174,7 +229,7 @@
         }
       }
 
-      function color(value){
+      function colorKpi(value){
         if(value < 15){
           return '#4CAF50'
         }else if(value < 30){
@@ -186,6 +241,7 @@
         }
       }
 
+
       function month_name (dt){
         mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
           return mlist[dt.getMonth()];
@@ -194,18 +250,22 @@
       latest = dataset.slice(-2)
       kpis = {
         diff: latest[0].y - latest[1].y,
-        pct: latest[1].y/latest[0].y,
+        pct: ((latest[1].y- latest[0].y)/latest[0].y)*100,
         today: latest[1].y,
         yesterday: latest[0].y,
         date: latest[1].x.getDate() + ' de ' + month_name(latest[1].x) + ' del ' + latest[1].x.getFullYear(),
         risk: risk(latest[1].y),
-        color: color(latest[1].y)
+        color: colorKpi(latest[1].y)
       }
 
       d3.select('#risk')
         .append("text")
         .text(kpis.risk)
         .style("color", kpis.color)
+
+      d3.select('#risk1')
+        .append("text")
+        .text(kpis.risk)
 
       d3.select('#yesterday')
         .append("text")
@@ -226,9 +286,6 @@
       d3.select('#date')
         .append("text")
         .text(kpis.date)
-        
-
-      console.log(kpis)
 
       data = [{
         key: 'Gripe',
@@ -249,6 +306,8 @@
       }
 
       nv.addGraph(function() {
+
+        
         var chart = nv.models.lineWithFocusChart();
         chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
@@ -273,7 +332,7 @@
 
         d3.select('#chart svg')
           .append("text")
-          .text("Basal")
+          .text("Límite epidémico")
           .attr("x", 62)
           .attr("y", y(14))
           .attr("font-family", "sans-serif")
@@ -328,10 +387,22 @@
           .attr("font-size", "8px")
           .attr("fill", "black");
 
-
         d3.select('#chart svg')
             .datum(datum())
             .call(chart);
+
+        $("#timeserie").click(function(){
+          d3.select('#chart svg')
+            .datum(datum())
+            .call(chart);
+        });
+
+        $("#seasons").click(function(){
+          d3.select('#chart svg')
+            .datum(dataset2)
+            .call(chart);
+        });
+ 
         nv.utils.windowResize(chart.update);
         return chart;
     });
