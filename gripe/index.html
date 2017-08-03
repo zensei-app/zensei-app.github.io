@@ -94,7 +94,7 @@
         <div class="container-narrow center">
           <h2 style="font-size:40px; font-weight: bold;">Observatorio de la Gripe</h2>
           <br>
-          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel de riesgo <span id="risk1"></span> con <span id="today1"></span> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <span id="pct"></span>%.</p>
+          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel de riesgo <b><span id="risk1"></span></b> con <b><span id="today1"></span></b> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <b><span id="pct"></span>%</b>.</p>
           <br>
           <div class="section group">
             <div class="col span_1_of_3">
@@ -184,15 +184,18 @@
         if(index < length - 1){
           _color = color(index)
           strokeWidth = 1
+          area=false
         }else{
           _color = "red"
           strokeWidth = 3.5
+          area=true
         }
         dataset2.push({
           values:grouped[key],
           key: key,
           color: _color,
-          strokeWidth: strokeWidth
+          strokeWidth: strokeWidth,
+          area:area
         });
       }
 
