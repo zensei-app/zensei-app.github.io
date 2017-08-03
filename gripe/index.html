@@ -69,26 +69,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
   <link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
-  <style>
-    
-
-      #chart svg {
-          margin: 0px;
-          padding: 0px;
-          height: 300px;
-          width: 100%;
-      }
-
-      .tick {
-        display: none;
-      }
-
-
-
-  </style>
+ 
   
-  </head>
-  <body>
+</head>
+<body>
     <header class="blog-header">
 
       <div class="wrapper">
@@ -108,9 +92,26 @@
     <div>
       <div class="padding-top">
         <div class="container-narrow center">
-          <h2>Observatorio de la Gripe</h2>
+          <h2 style="font-size:40px; font-weight: bold;">Observatorio de la Gripe</h2>
           <br>
-          <p>La predicción de la gripe para la semana 6 de la temporada de la gripe es de 120 casos por cada 100.000 habitantes. Los últimos datos oficiales son de 10 Octubre del 2017, estando en un nivel medio con 100 casos por cada 100.000 habitantes, con respecto a la semana anterior ha crecido un 10%. Con respecto a otros años se ha adelantando en una semana. </p>
+          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel medio con <span id="today1"></span> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <span id="pct"></span>%.</p>
+          <br>
+          <div class="section group">
+            <div class="col span_1_of_3">
+              <p id="risk" style="font-size:50px; font-weight: bold;"></p>
+              <h2 style="color:lightgrey; font-weight:lighter;">Riesgo</h2>
+            </div>
+            <div class="col span_1_of_3">
+              <p id="today" style="font-size:50px; font-weight: bold;"></p>
+              <h2 style="color:lightgrey; font-weight:lighter;">Casos 100K/hab.</h2>
+            </div>
+            <div class="col span_1_of_3">
+              <p id="yesterday" style="font-size:50px; font-weight: bold;"></p>
+              <h2 style="color:lightgrey; font-weight:lighter;">Semana anterior</h2>
+            </div>
+          </div>
+
+
           <div id="chart">
               <svg></svg>
           </div>
@@ -122,11 +123,11 @@
     </div>
 
     <div class="container center padding-vertical">
-      <p>Evita que tus amigos cogan la gripe 🙂</p>
+      <p>Evita que tus amigos cojan la gripe 🙂</p>
         <ul class="social-btns">
-          <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? por @zenseiapp" data-url="https://zenseiapp.com/game?utm_source=game&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large" @click="$emit('close')">Twittear</a></li>
-          <li><div class="fb-share-button" data-href="https://zenseiapp.com/game?utm_source=game&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse" @click="$emit('close')">Compartir</a></div></li>
-          <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=🌊 + 🔊 + 🌴 - 🏄 = ? ¿Juegas? https://zenseiapp.com/game/?utm_source=game%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp" @click="$emit('close')">Whatsappear</a></li>
+          <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Observatorio de la #gripe en #España por @zenseiapp" data-url="https://zenseiapp.com/gripe?utm_source=observatory&utm_medium=twitter&utm_campaign=landing_cta_bottom" data-size="large" @click="$emit('close')">Twittear</a></li>
+          <li><div class="fb-share-button" data-href="https://zenseiapp.com/gripe?utm_source=observatory&utm_medium=facebook&utm_campaign=landing_cta_bottom" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse" @click="$emit('close')">Compartir</a></div></li>
+          <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=Para que no te pongas malo https://zenseiapp.com/gripe/?utm_source=observatory%26utm_medium=whatsapp%26utm_campaign=landing_cta_bottom"><img src="https://zenseiapp.com/assets/img/whatsapp.svg" alt="Whatsapp" @click="$emit('close')">Whatsappear</a></li>
       </ul>
     </div>
 
@@ -153,10 +154,77 @@
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
       dataset = data.map(function(d, i) { 
-       
-        return { x:format.parse(d["date"]), y:+d["rate"]}; 
-  
+        return { x:format.parse(d["date"]), y:Math.round(+d["rate"])}; 
       });
+
+      function risk(value){
+        if(value < 15){
+          return 'Basal'
+        }else if(value < 30){
+          return 'Bajo'
+        }else if(value < 80){
+          return 'Medio'
+        }else if(value < 120){
+          return 'Alto'
+        }
+      }
+
+      function color(value){
+        if(value < 15){
+          return '#4CAF50'
+        }else if(value < 30){
+          return '#2196F3'
+        }else if(value < 80){
+          return '#ff9800'
+        }else if(value < 120){
+          return '#f44336'
+        }
+      }
+
+      function month_name (dt){
+        mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
+          return mlist[dt.getMonth()];
+      };
+
+      latest = dataset.slice(-2)
+      kpis = {
+        diff: latest[0].y - latest[1].y,
+        pct: latest[1].y/latest[0].y,
+        today: latest[1].y,
+        yesterday: latest[0].y,
+        date: latest[1].x.getDate() + ' de ' + month_name(latest[1].x) + ' del ' + latest[1].x.getFullYear(),
+        risk: risk(latest[1].y),
+        color: color(latest[1].y)
+      }
+
+      d3.select('#risk')
+        .append("text")
+        .text(kpis.risk)
+        .style("color", kpis.color)
+
+      d3.select('#yesterday')
+        .append("text")
+        .text(kpis.yesterday)
+
+      d3.select('#today1')
+        .append("text")
+        .text(kpis.today)
+
+      d3.select('#today')
+        .append("text")
+        .text(kpis.today)
+
+      d3.select('#pct')
+        .append("text")
+        .text(kpis.pct)
+
+      d3.select('#date')
+        .append("text")
+        .text(kpis.date)
+        
+
+      console.log(kpis)
+
       data = [{
         key: 'Gripe',
         values: dataset.sort(sortByDateAscending),
@@ -170,13 +238,10 @@
           return a.x - b.x;
       }
 
-
       function datum(){
         data = data.sort(sortByDateAscending);
         return data
       }
-      
-      console.log(datum())
 
       nv.addGraph(function() {
         var chart = nv.models.lineWithFocusChart();
@@ -184,17 +249,16 @@
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
         chart.yTickFormat(d3.format('s'));
         chart.yAxis.axisLabel("Casos por cada 100K/habitantes");
-        chart.duration(50);
-        chart.useInteractiveGuideline(false);
-        
-        console.log(chart.height)
+        chart.duration(20);
+        chart.useInteractiveGuideline(true);
+        chart.showYAxis(true)
+        chart.showXAxis(true)
 
         var y = d3.scale.linear()
           .range([200, 0]);
         
         y.domain([0, d3.max(dataset, function(d) { return d.y; })]);
 
-        
         d3.select('#chart svg').append("line")
           .style("stroke", "#D3D3D3")
           .attr("x1", 60)
@@ -205,7 +269,7 @@
         d3.select('#chart svg')
           .append("text")
           .text("Basal")
-          .attr("x", "94%")
+          .attr("x", 62)
           .attr("y", y(14))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
@@ -221,7 +285,7 @@
         d3.select('#chart svg')
           .append("text")
           .text("Bajo")
-          .attr("x", "94%")
+          .attr("x", 62)
           .attr("y", y(34))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
@@ -237,7 +301,7 @@
         d3.select('#chart svg')
           .append("text")
           .text("Medio")
-          .attr("x", "94%")
+          .attr("x", 62)
           .attr("y", y(64))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
@@ -253,7 +317,7 @@
         d3.select('#chart svg')
           .append("text")
           .text("Alto")
-          .attr("x", "94%")
+          .attr("x", 62)
           .attr("y", y(104))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
