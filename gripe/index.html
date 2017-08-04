@@ -161,7 +161,7 @@
     var dataset = []
     var dataset2 = []
 
-    d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu.csv", function(data) {
+    d3.csv("data.csv", function(data) {
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
       dataset = data.map(function(d, i) { 
@@ -329,7 +329,7 @@
         y.domain([0, d3.max(dataset, function(d) { return d.y; })]);
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
+          .style("stroke", "orange")
           .attr("x1", 60)
           .attr("y1", y(10))
           .attr("x2", "97%")
@@ -345,7 +345,8 @@
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
+          .style("stroke", "orange")
+          .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(30))
           .attr("x2", "97%")
@@ -361,7 +362,8 @@
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
+          .style("stroke", "orange")
+          .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(60))
           .attr("x2", "97%")
@@ -377,7 +379,8 @@
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
+          .style("stroke", "orange")
+          .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(100))
           .attr("x2", "97%")
@@ -397,6 +400,10 @@
             .call(chart);
 
         $("#timeserie").click(function(){
+
+          chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
+          chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+
           d3.select('#chart svg')
             .datum(datum())
             .call(chart);

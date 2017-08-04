@@ -39,8 +39,16 @@
   	width: 100%;
 }
 
-.tick {
+/*.tick {
 	display: none;
+}*/
+
+.nv-axis.nv-y .tick line {
+    display:none;
+}
+
+.nv-axis.nv-x .tick line {
+    display:none;
 }
 
 .nvtooltip.xy-tooltip {
