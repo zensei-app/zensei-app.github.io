@@ -76,9 +76,7 @@
     <header class="blog-header">
 
       <div class="wrapper">
-        <div class="logo">zensei</div>
-        <a class="blog-header__logo">Gripe</a>
-
+        <a href="/"><div class="logo">zensei</div></a>
         <div class="blog-header__actions">
           <a class="main-cta main-cta--blog" href="https://m.me/zenseiapp"  onclick="ga('send', 'event', 'buttons', 'click', 'cta');" target="_blank">Instalar Zensei</a>
           <a id="landing" class="pull-right blog-header__secondary-cta" href="/">¿Qué es Zensei?</a>
@@ -115,10 +113,13 @@
               <input type="radio" name="seg-1" value="Organisation" id="timeserie" checked>
               <label for="timeserie" class="first">Histórico</label>
               <input type="radio" name="seg-1" value="Users" id="seasons">
-              <label for="seasons" class="last">Temporadas</label>
+              <label for="seasons" >Temporadas</label>
+              <input type="radio" name="seg-1" value="Users" id="geo">
+              <label for="geo" class="last">Comunidades</label>
             </nav>
             <br>
           <div id="chart">
+              <h2 id="title"></h2>
               <svg></svg>
           </div>
                
@@ -329,15 +330,15 @@
         d3.select('#chart svg').append("line")
           .style("stroke", "#D3D3D3")
           .attr("x1", 60)
-          .attr("y1", y(10))
+          .attr("y1", y(50))
           .attr("x2", "97%")
-          .attr("y2", y(10));
+          .attr("y2", y(50));
 
         d3.select('#chart svg')
           .append("text")
           .text("Límite epidémico")
           .attr("x", 62)
-          .attr("y", y(14))
+          .attr("y", y(54))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -345,31 +346,15 @@
         d3.select('#chart svg').append("line")
           .style("stroke", "#D3D3D3")
           .attr("x1", 60)
-          .attr("y1", y(30))
+          .attr("y1", y(70))
           .attr("x2", "97%")
-          .attr("y2", y(30));
+          .attr("y2", y(70));
 
         d3.select('#chart svg')
           .append("text")
           .text("Bajo")
           .attr("x", 62)
-          .attr("y", y(34))
-          .attr("font-family", "sans-serif")
-          .attr("font-size", "8px")
-          .attr("fill", "black");
-
-        d3.select('#chart svg').append("line")
-          .style("stroke", "#D3D3D3")
-          .attr("x1", 60)
-          .attr("y1", y(60))
-          .attr("x2", "97%")
-          .attr("y2", y(60));
-
-        d3.select('#chart svg')
-          .append("text")
-          .text("Medio")
-          .attr("x", 62)
-          .attr("y", y(64))
+          .attr("y", y(74))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -383,9 +368,25 @@
 
         d3.select('#chart svg')
           .append("text")
-          .text("Alto")
+          .text("Medio")
           .attr("x", 62)
           .attr("y", y(104))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
+
+        d3.select('#chart svg').append("line")
+          .style("stroke", "#D3D3D3")
+          .attr("x1", 60)
+          .attr("y1", y(140))
+          .attr("x2", "97%")
+          .attr("y2", y(140));
+
+        d3.select('#chart svg')
+          .append("text")
+          .text("Alto")
+          .attr("x", 62)
+          .attr("y", y(144))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -398,12 +399,14 @@
           d3.select('#chart svg')
             .datum(datum())
             .call(chart);
+          
         });
 
         $("#seasons").click(function(){
           d3.select('#chart svg')
             .datum(dataset2)
-            .call(chart);
+            .call(chart); 
+          
         });
  
         nv.utils.windowResize(chart.update);

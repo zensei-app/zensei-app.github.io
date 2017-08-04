@@ -35,7 +35,7 @@
  #chart svg {
   	margin: 0px;
   	padding: 0px;
-  	height: 300px;
+  	height: 275px;
   	width: 100%;
 }
 
@@ -67,10 +67,6 @@
     color: white;
 }
 
-Edit in JSFiddle
-Result
-HTML
-CSS
 .segmented-button {
   padding: 12px;
 }
@@ -93,10 +89,9 @@ CSS
   border-radius: 4px;
   text-shadow: white;
   border: 1px solid #b2b2b2;
-  color: #666666;
   padding: 5px 24px;
   padding-bottom: 3px;
-  font-size: 12px;
+  font-size: 14px;
   cursor: pointer;
   font-family: Helvetica;
   -moz-border-radius: 0px;
@@ -111,11 +106,8 @@ CSS
   *display: inline;
 }
 .segmented-button label:hover {
-  -moz-box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
-  -o-box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.1);
-  color: #333333;
+  background-color: #b2b2b2;
+  color:white;
 }
 .segmented-button label:active, .segmented-button label.active {
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e4e4e4), color-stop(100%, #ffffff));
