@@ -111,26 +111,13 @@
             </div>
           </div>
           <br>
-          <div class="center">
-            <ul class="segmented-control">
-              <li class="segmented-control__item">
-                  <input class="segmented-control__input" type="radio" value="1" name="option" id="timeserie" checked>
-                  <label class="segmented-control__label" for="timeserie">Histórico</label>
-                  <div class="Step_1_Content content" align="center">
-                    <p>Datos históricos para la evolución media de la gripe en España</p>
-                  </div>
-              </li>
-              <li class="segmented-control__item">
-                  <input class="segmented-control__input" type="radio" value="2" name="option" id="seasons" >
-                  <label class="segmented-control__label" for="seasons">Temporadas</label>
-                  <div class="Step_2_Content content" align="center">
-                     <p>Comparación de las temporadas de la gripe en España</p>
-                  </div>
-              </li>
-            </ul>
-          </div>
-          <br>
-          <br>
+           <nav class="segmented-button">
+              <input type="radio" name="seg-1" value="Organisation" id="timeserie" checked>
+              <label for="timeserie" class="first">Histórico</label>
+              <input type="radio" name="seg-1" value="Users" id="seasons">
+              <label for="seasons" class="last">Temporadas</label>
+            </nav>
+            <br>
           <div id="chart">
               <svg></svg>
           </div>
