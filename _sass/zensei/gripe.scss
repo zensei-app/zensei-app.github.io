@@ -35,7 +35,7 @@
  #chart svg {
   	margin: 0px;
   	padding: 0px;
-  	height: 275px;
+  	height: 300px;
   	width: 100%;
 }
 
@@ -110,12 +110,7 @@
   color:white;
 }
 .segmented-button label:active, .segmented-button label.active {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #e4e4e4), color-stop(100%, #ffffff));
-  background: -webkit-linear-gradient(#e4e4e4, #ffffff);
-  background: -moz-linear-gradient(#e4e4e4, #ffffff);
-  background: -o-linear-gradient(#e4e4e4, #ffffff);
-  background: -ms-linear-gradient(#e4e4e4, #ffffff);
-  background: linear-gradient(#e4e4e4, #ffffff);
+  background-color: #e4e4e4;
 }
 
 .segmented-button label.first {
