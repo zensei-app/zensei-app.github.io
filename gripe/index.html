@@ -317,7 +317,7 @@
         chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
         chart.yTickFormat(d3.format('s'));
-        chart.yAxis.axisLabel("Casos por cada 100K/habitantes");
+        chart.yAxis.axisLabel("Casos por cada 100K habitantes");
         chart.duration(20);
         chart.useInteractiveGuideline(true);
         chart.showYAxis(true)

@@ -51,11 +51,15 @@
     background-color: white;
 }
 
-.nvtooltip.table.td.legend-color-guide.div {
+
+.nvtooltip table td.legend-color-guide div {
     width: 12px;
     height: 12px;
-    border-radius: 1px
+    border: 1px solid white !important;
+    border-radius: 3px;
 }
+
+
 
 .btn-group{
   display:inline;
