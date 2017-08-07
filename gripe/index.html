@@ -348,7 +348,7 @@
             }
             
             dataset3.push({
-              values: values,
+              values: values.sort(sortByDateAscending),
               key: key,
               color: _color,
               strokeWidth: strokeWidth,
@@ -359,9 +359,6 @@
             
           }
         }
-        console.log(dataset3)
-
-      
 
       function datum(){
         data = data1.sort(sortByDateAscending);
