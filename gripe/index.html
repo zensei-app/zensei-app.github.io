@@ -113,7 +113,9 @@
               <input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
               <label for="timeserie" class="first">Histórico</label>
               <input type="radio" name="seg-1" value="seasons" id="seasons">
-              <label for="seasons" class="last">Temporadas</label>
+              <label for="seasons">Temporadas</label>
+              <input type="radio" name="seg-1" value="locations" id="locations">
+              <label for="locations" class="last">Comunidades</label>
             </nav>
             <br>
         </div>
@@ -157,10 +159,66 @@
       var onejan = new Date(this.getFullYear(),0,1);
       return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
     }
+
+     function getSeason(d){
+      date = format.parse(d["date"])
+      week = date.getWeek()
+      year = date.getFullYear()
+      if(week >= 36){
+        y1 = year  + 1
+        return year + '-' + y1
+      }else if(week < 36){
+        y1 = year  - 1
+        return y1 + '-' + year
+      }
+    }
+
+    function weekFlu(week){
+      if(week>=36){
+        return week - 36
+      }else{
+        return week + 16
+      }
+    }
+
+    function risk(value){
+      if(value < 15){
+        return 'Nulo'
+      }else if(value < 30){
+        return 'Bajo'
+      }else if(value < 80){
+        return 'Medio'
+      }else if(value < 120){
+        return 'Alto'
+      }
+    }
+
+    function colorKpi(value){
+      if(value < 15){
+        return '#4CAF50'
+      }else if(value < 30){
+        return '#2196F3'
+      }else if(value < 80){
+        return '#ff9800'
+      }else if(value < 120){
+        return '#f44336'
+      }
+    }
+
+    function month_name (dt){
+      mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
+        return mlist[dt.getMonth()];
+    };
     
     var dataset = []
     var dataset2 = []
+    var dataset3 = []
 
+    var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
+    var color2 = d3.scale.linear().domain([0,20]).range(['#efd56c', '#f58888']);
+    var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
+
+    
     d3.csv("data.csv", function(data) {
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
@@ -168,7 +226,6 @@
         return { x:format.parse(d["date"]), y:Math.round(+d["rate"])}; 
       });
 
-      var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
 
       seasons = data.map(function(d, i) { 
         return { 
@@ -199,57 +256,6 @@
           area:area
         });
       }
-
-      function getSeason(d){
-        date = format.parse(d["date"])
-        week = date.getWeek()
-        year = date.getFullYear()
-        if(week >= 36){
-          y1 = year  + 1
-          return year + '-' + y1
-        }else if(week < 36){
-          y1 = year  - 1
-          return y1 + '-' + year
-        }
-      }
-
-      function weekFlu(week){
-        if(week>=36){
-          return week - 36
-        }else{
-          return week + 16
-        }
-      }
-
-      function risk(value){
-        if(value < 15){
-          return 'Nulo'
-        }else if(value < 30){
-          return 'Bajo'
-        }else if(value < 80){
-          return 'Medio'
-        }else if(value < 120){
-          return 'Alto'
-        }
-      }
-
-      function colorKpi(value){
-        if(value < 15){
-          return '#4CAF50'
-        }else if(value < 30){
-          return '#2196F3'
-        }else if(value < 80){
-          return '#ff9800'
-        }else if(value < 120){
-          return '#f44336'
-        }
-      }
-
-
-      function month_name (dt){
-        mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
-          return mlist[dt.getMonth()];
-      };
 
       latest = dataset.slice(-2)
       kpis = {
@@ -291,28 +297,77 @@
         .append("text")
         .text(kpis.date)
 
-
-      data = [{
-        key: 'Gripe',
-        values: dataset.sort(sortByDateAscending),
-        color: "#f58888",
-        strokeWidth: 3.5,
-        area: true
-      }];
-
       function sortByDateAscending(a, b) {
           // Dates will be cast to numbers automagically:
           return a.x - b.x;
       }
 
+
+      data1 = [{
+        key: 'Gripe España',
+        values: dataset.sort(sortByDateAscending),
+        color: "#f58888",
+        strokeWidth: 3.5,
+        area: true
+      },
+      {
+        key: 'Modelo',
+        values: dataset.sort(sortByDateAscending),
+        color: "orange",
+        strokeWidth: 3.5,
+      }];
+
+      d3.csv("fluRegionsSpain.csv", function(data) {
+        format = d3.time.format("%Y-%m-%d %H:%M:%S")
+        out = data.map(function(d, i) { 
+          return { x:format.parse(d["date"]), y:Math.round(+d["rate"]), location:d["location"]}; 
+        });
+
+        const groupedLocations = _.groupBy(out,  car => car.location);
+
+        for (var key in groupedLocations) {
+          index = Object.keys(groupedLocations).indexOf(key)
+          length = Object.keys(groupedLocations).length
+          if(groupedLocations[key].length > 200){
+            if(index < length - 1){
+              _color = color2(index)
+              strokeWidth = 1
+              area=false
+              values= groupedLocations[key]
+              type='line'
+            }
+
+            if(key == "Nacional"){
+              _color = "#f58888"
+              strokeWidth = 3.5
+              area=true
+              values = data1[0].values
+              type = "bar"
+            }
+            
+            dataset3.push({
+              values: values,
+              key: key,
+              color: _color,
+              strokeWidth: strokeWidth,
+              area:area,
+              type: type,
+              yAxis: 1
+            });
+            
+          }
+        }
+        console.log(dataset3)
+
+      
+
       function datum(){
-        data = data.sort(sortByDateAscending);
+        data = data1.sort(sortByDateAscending);
         return data
       }
 
       nv.addGraph(function() {
 
-        
         var chart = nv.models.lineWithFocusChart();
         chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
@@ -332,7 +387,7 @@
           .style("stroke", "orange")
           .attr("x1", 60)
           .attr("y1", y(10))
-          .attr("x2", "97%")
+          .attr("x2", "98%")
           .attr("y2", y(10));
 
         d3.select('#chart svg')
@@ -349,7 +404,7 @@
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(30))
-          .attr("x2", "97%")
+          .attr("x2", "98%")
           .attr("y2", y(30));
 
         d3.select('#chart svg')
@@ -366,7 +421,7 @@
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(60))
-          .attr("x2", "97%")
+          .attr("x2", "98%")
           .attr("y2", y(60));
 
         d3.select('#chart svg')
@@ -383,7 +438,7 @@
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(100))
-          .attr("x2", "97%")
+          .attr("x2", "98%")
           .attr("y2", y(100));
 
         d3.select('#chart svg')
@@ -405,14 +460,29 @@
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
 
           d3.select('#chart svg')
-            .datum(datum())
+            .datum(data1)
             .call(chart);
           
         });
 
         $("#seasons").click(function(){
+          chart.xAxis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
+          chart.x2Axis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
+
           d3.select('#chart svg')
             .datum(dataset2)
+            .call(chart);
+         
+         
+        });
+
+        $("#locations").click(function(){
+
+          chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
+          chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+
+          d3.select('#chart svg')
+            .datum(dataset3)
             .call(chart);
          
          
@@ -423,7 +493,9 @@
     });
     
 
-    });
+  });
+
+ })
 
     
 
