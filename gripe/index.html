@@ -309,13 +309,15 @@
         color: "#f58888",
         strokeWidth: 3.5,
         area: true
-      },
-      {
-        key: 'Modelo',
-        values: dataset.sort(sortByDateAscending),
-        color: "orange",
-        strokeWidth: 3.5,
-      }];
+      }
+      // ,
+      // {
+      //   key: 'Modelo',
+      //   values: dataset.sort(sortByDateAscending),
+      //   color: "orange",
+      //   strokeWidth: 3.5,
+      // }
+      ];
 
       d3.csv("fluRegionsSpain.csv", function(data) {
         format = d3.time.format("%Y-%m-%d %H:%M:%S")
