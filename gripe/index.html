@@ -119,11 +119,13 @@
             </nav>
             <br>
         </div>
-        <div class="container center">
-          <div id="chart">
+        <div class="container">
+          <div class="center" id="chart">
               <h2 id="title"></h2>
               <svg></svg>
           </div>
+          <br>
+          <p id="source">Fuente de datos: Instituto Carlos III de Salud y elaboración propia de Zensei</p>
                
         </div>
       </div>
@@ -366,17 +368,15 @@
         }
 
       historicalBarChart = [
-          {
-              key: "Cumulative Return",
-              values: [
-                  
-              ]
-          }
+        {
+          key: "Comunidades",
+          values: []
+        }
       ];
 
       for (var key in dataset3) {
         length = dataset3[key].values.length
-        values = dataset3[key].values[length-25]
+        values = dataset3[key].values[length-1]
         historicalBarChart[0].values.push(
           {
             "label": values.location,
