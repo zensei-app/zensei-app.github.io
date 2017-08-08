@@ -90,9 +90,9 @@
     <div>
       <div class="padding-top">
         <div class="container-narrow center">
-          <h2 style="font-size:40px; font-weight: bold;">Observatorio de la Gripe</h2>
+          <h2 style="font-size:40px; font-weight: bold;">Observatorio de la Gripe en España</h2>
           <br>
-          <p>Los últimos datos oficiales son del <span id="date"></span>, estando en un nivel de riesgo <b><span id="risk1"></span></b> con <b><span id="today1"></span></b> casos por cada 100.000 habitantes, con respecto a la semana anterior ha cambiado en un <b><span id="pct"></span>%</b>.</p>
+          <p>Los últimos datos oficiales de la gripe para el estado español son del <span id="date"></span>, estando en un nivel de riesgo <b><span id="risk1"></span></b> con <b><span id="today1"></span></b> casos por cada 100.000 habitantes, con respecto a la semana anterior ha sufrido un <b><span id="growth"></span></b> de un <b><span id="pct"></span>%</b>.</p>
           <br>
           <div class="section group">
             <div class="col span_1_of_3">
@@ -211,6 +211,16 @@
       mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
         return mlist[dt.getMonth()];
     };
+
+    function growth(value){
+      if(value > 0){
+        return "ascenso"
+      }else if(value < 0){
+        return "descenso"
+      }else if(value == 0){
+        return "una estabilización"
+      }
+    }
     
     var dataset = []
     var dataset2 = []
@@ -262,7 +272,7 @@
       latest = dataset.slice(-2)
       kpis = {
         diff: latest[0].y - latest[1].y,
-        pct: ((latest[1].y- latest[0].y)/latest[0].y)*100,
+        pct: ((latest[1].y - latest[0].y)/latest[0].y)*100,
         today: latest[1].y,
         yesterday: latest[0].y,
         date: latest[1].x.getDate() + ' de ' + month_name(latest[1].x) + ' del ' + latest[1].x.getFullYear(),
@@ -298,6 +308,12 @@
       d3.select('#date')
         .append("text")
         .text(kpis.date)
+
+      d3.select('#growth')
+        .append("text")
+        .text(growth(kpis.pct))
+
+        
 
       function sortByDateAscending(a, b) {
           // Dates will be cast to numbers automagically:
