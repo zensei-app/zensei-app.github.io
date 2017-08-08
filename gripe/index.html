@@ -365,6 +365,29 @@
           }
         }
 
+      historicalBarChart = [
+          {
+              key: "Cumulative Return",
+              values: [
+                  
+              ]
+          }
+      ];
+
+      for (var key in dataset3) {
+        length = dataset3[key].values.length
+        values = dataset3[key].values[length-25]
+        historicalBarChart[0].values.push(
+          {
+            "label": values.location,
+            "value": values.y,
+            "color": color3(values.y)
+          }
+        )
+      }
+
+      historicalBarChart[0].values = historicalBarChart[0].values.sort(sortByValueAscending)
+
       function datum(){
         data = data1.sort(sortByDateAscending);
         return data
@@ -377,8 +400,7 @@
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
         chart.yTickFormat(d3.format('s'));
         chart.yAxis.axisLabel("Casos por cada 100K habitantes");
-        chart.duration(20);
-        chart.useInteractiveGuideline(true);
+        chart.duration(20)
         chart.showYAxis(true)
         chart.showXAxis(true)
 
@@ -617,31 +639,6 @@
         });
 
         $("#locations").click(function(){
-
-          historicalBarChart = [
-            {
-                key: "Cumulative Return",
-                values: [
-                    
-                ]
-            }
-        ];
-
-        for (var key in dataset3) {
-          length = dataset3[key].values.length
-          values = dataset3[key].values[length-25]
-          historicalBarChart[0].values.push(
-            {
-              "label": values.location,
-              "value": values.y,
-              "color": color3(values.y)
-            }
-          )
-        }
-
-        historicalBarChart[0].values = historicalBarChart[0].values.sort(sortByValueAscending)
-
-        console.log(historicalBarChart)
 
           var chart = nv.models.discreteBarChart()
               .x(function(d) { return d.label })
