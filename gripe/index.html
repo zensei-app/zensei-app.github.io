@@ -160,7 +160,7 @@
       return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
     }
 
-     function getSeason(d){
+    function getSeason(d){
       date = format.parse(d["date"])
       week = date.getWeek()
       year = date.getFullYear()
@@ -215,7 +215,7 @@
     var dataset3 = []
 
     var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
-    var color2 = d3.scale.linear().domain([0,20]).range(['#efd56c', '#f58888']);
+    var color3 = d3.scale.linear().domain([0,300]).range(['#efd56c', '#f58888']);
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     
@@ -300,6 +300,11 @@
       function sortByDateAscending(a, b) {
           // Dates will be cast to numbers automagically:
           return a.x - b.x;
+      }
+
+      function sortByValueAscending(a, b) {
+          // Dates will be cast to numbers automagically:
+          return b.value - a.value;
       }
 
 
@@ -457,7 +462,75 @@
 
           chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+          d3.select("#chart svg").selectAll("*").remove();
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .attr("x1", 60)
+            .attr("y1", y(10))
+            .attr("x2", "98%")
+            .attr("y2", y(10));
 
+          d3.select('#chart svg')
+            .append("text")
+            .text("Límite epidémico")
+            .attr("x", 62)
+            .attr("y", y(14))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(30))
+            .attr("x2", "98%")
+            .attr("y2", y(30));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Bajo")
+            .attr("x", 62)
+            .attr("y", y(34))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(60))
+            .attr("x2", "98%")
+            .attr("y2", y(60));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Medio")
+            .attr("x", 62)
+            .attr("y", y(64))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(100))
+            .attr("x2", "98%")
+            .attr("y2", y(100));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Alto")
+            .attr("x", 62)
+            .attr("y", y(104))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          
           d3.select('#chart svg')
             .datum(data1)
             .call(chart);
@@ -467,6 +540,74 @@
         $("#seasons").click(function(){
           chart.xAxis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
           chart.x2Axis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
+          d3.select("#chart svg").selectAll("*").remove();
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .attr("x1", 60)
+            .attr("y1", y(10))
+            .attr("x2", "98%")
+            .attr("y2", y(10));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Límite epidémico")
+            .attr("x", 62)
+            .attr("y", y(14))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(30))
+            .attr("x2", "98%")
+            .attr("y2", y(30));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Bajo")
+            .attr("x", 62)
+            .attr("y", y(34))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(60))
+            .attr("x2", "98%")
+            .attr("y2", y(60));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Medio")
+            .attr("x", 62)
+            .attr("y", y(64))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
+          d3.select('#chart svg').append("line")
+            .style("stroke", "orange")
+            .style("stroke-dasharray","5,5")
+            .attr("x1", 60)
+            .attr("y1", y(100))
+            .attr("x2", "98%")
+            .attr("y2", y(100));
+
+          d3.select('#chart svg')
+            .append("text")
+            .text("Alto")
+            .attr("x", 62)
+            .attr("y", y(104))
+            .attr("font-family", "sans-serif")
+            .attr("font-size", "8px")
+            .attr("fill", "black");
+
 
           d3.select('#chart svg')
             .datum(dataset2)
@@ -477,13 +618,50 @@
 
         $("#locations").click(function(){
 
-          chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
-          chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+          historicalBarChart = [
+            {
+                key: "Cumulative Return",
+                values: [
+                    
+                ]
+            }
+        ];
+
+        for (var key in dataset3) {
+          length = dataset3[key].values.length
+          values = dataset3[key].values[length-25]
+          historicalBarChart[0].values.push(
+            {
+              "label": values.location,
+              "value": values.y,
+              "color": color3(values.y)
+            }
+          )
+        }
+
+        historicalBarChart[0].values = historicalBarChart[0].values.sort(sortByValueAscending)
+
+        console.log(historicalBarChart)
+
+          var chart = nv.models.discreteBarChart()
+              .x(function(d) { return d.label })
+              .y(function(d) { return d.value })
+              .margin({top: 30, right: 0, bottom: 120, left: 70})
+              .showLegend(false)
+              .showValues(false)
+              .duration(250)
+
+          chart.yAxis.tickFormat(d3.format(',f'));
+
+          chart.yAxis.axisLabel("Casos por cada 100K habitantes");
+          chart.xAxis.rotateLabels(-90)
+
+          d3.select("#chart svg").selectAll("*").remove();
 
           d3.select('#chart svg')
-            .datum(dataset3)
-            .call(chart);
-         
+              .datum(historicalBarChart)
+              .call(chart);
+       
          
         });
  
