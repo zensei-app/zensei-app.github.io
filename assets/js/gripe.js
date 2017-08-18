@@ -72,7 +72,7 @@ Date.prototype.getWeek = function() {
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     
-    d3.csv("data.csv", function(data) {
+    d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu.csv", function(data) {
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
       dataset = data.map(function(d, i) { 
