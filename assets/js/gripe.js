@@ -183,7 +183,7 @@ Date.prototype.getWeek = function() {
       // }
       ];
 
-      d3.csv("fluRegionsSpain.csv", function(data) {
+      d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/fluRegionsSpain.csv", function(data) {
         format = d3.time.format("%Y-%m-%d %H:%M:%S")
         out = data.map(function(d, i) { 
           return { x:format.parse(d["date"]), y:Math.round(+d["rate"]), location:d["location"]}; 
