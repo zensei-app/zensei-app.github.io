@@ -4,7 +4,7 @@ Date.prototype.getWeek = function() {
     }
 
     function getSeason(d){
-      date = format.parse(d["date"])
+      date = format.parse(d["date_y"])
       week = date.getWeek()
       year = date.getFullYear()
       if(week >= 36){
@@ -72,20 +72,34 @@ Date.prototype.getWeek = function() {
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     
-    d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu.csv", function(data) {
+    d3.csv("data_flu.csv", function(data) {
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
       dataset = data.map(function(d, i) { 
-        return { x:format.parse(d["date"]), y:Math.round(+d["rate"])}; 
+        if(d["date_y"] != ''){
+          return { x:format.parse(d["date_y"]), y:Math.round(+d["rate"])}; 
+        }
       });
 
+      datasetPred = data.map(function(d, i) { 
+        if(d["date_y"] != ''){
+          return { x:d3.time.day.offset(format.parse(d["date_y"]), 7*2) , y:Math.round(d['pred'] < 0 ? 0 : +d['pred'])}; 
+        }
+      });
 
       seasons = data.map(function(d, i) { 
+        if(d["date_y"] != ''){
         return { 
           y: Math.round(+d["rate"]),
-          x: weekFlu(format.parse(d["date"]).getWeek()),
+          x: weekFlu(format.parse(d["date_y"]).getWeek()),
           season: getSeason(d)}
+        }
       });
+
+      seasons = seasons.filter(function(n){ return n != undefined });
+      dataset = dataset.filter(function(n){ return n != undefined }); 
+      datasetPred = datasetPred.filter(function(n){ return n != undefined }); 
+
 
       const grouped = _.groupBy(seasons,  car => car.season);
 
@@ -110,6 +124,7 @@ Date.prototype.getWeek = function() {
         });
       }
 
+      console.log(dataset)
       latest = dataset.slice(-2)
       kpis = {
         diff: latest[0].y - latest[1].y,
@@ -167,20 +182,19 @@ Date.prototype.getWeek = function() {
       }
 
 
-      data1 = [{
-        key: 'Gripe España',
-        values: dataset.sort(sortByDateAscending),
-        color: "#f58888",
-        strokeWidth: 3.5,
-        area: true
-      }
-      // ,
-      // {
-      //   key: 'Modelo',
-      //   values: dataset.sort(sortByDateAscending),
-      //   color: "orange",
-      //   strokeWidth: 3.5,
-      // }
+      data1 = [
+        {
+          key: 'Gripe',
+          values: dataset.sort(sortByDateAscending),
+          color: "#f58888",
+          strokeWidth: 3.5,
+        },
+        {
+          key: 'Predicción',
+          values: datasetPred.sort(sortByDateAscending),
+          color: "orange",
+          strokeWidth: 3.5,
+        }
       ];
 
       d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/fluRegionsSpain.csv", function(data) {
@@ -260,6 +274,7 @@ Date.prototype.getWeek = function() {
         chart.duration(20)
         chart.showYAxis(true)
         chart.showXAxis(true)
+        // chart.useInteractiveGuideline(true)
 
         var y = d3.scale.linear()
           .range([200, 0]);
