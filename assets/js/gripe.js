@@ -3,8 +3,7 @@ Date.prototype.getWeek = function() {
       return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
     }
 
-    function getSeason(d){
-      date = format.parse(d["date_y"])
+    function getSeason(date){
       week = date.getWeek()
       year = date.getFullYear()
       if(week >= 36){
@@ -14,6 +13,17 @@ Date.prototype.getWeek = function() {
         y1 = year  - 1
         return y1 + '-' + year
       }
+    }
+
+    function getDateOfWeek(weekNumber,year){
+      return new Date(year, 0, 1+((weekNumber-1)*7));
+    }
+
+    function getNum(val) {
+       if (isNaN(val)) {
+         return 0;
+       }
+       return val;
     }
 
     function weekFlu(week){
@@ -55,11 +65,11 @@ Date.prototype.getWeek = function() {
 
     function growth(value){
       if(value > 0){
-        return "ascenso"
+        return "un ascenso"
       }else if(value < 0){
-        return "descenso"
+        return "un descenso"
       }else if(value == 0){
-        return "una estabilización"
+        return "ningún cambio"
       }
     }
     
@@ -75,24 +85,26 @@ Date.prototype.getWeek = function() {
     d3.csv("data_flu.csv", function(data) {
       
       format = d3.time.format("%Y-%m-%d %H:%M:%S")
+      format2 = d3.time.format("%Y-%m-%d")
       dataset = data.map(function(d, i) { 
-        if(d["date_y"] != ''){
-          return { x:format.parse(d["date_y"]), y:Math.round(+d["rate"])}; 
-        }
+        return { x: getDateOfWeek(d['week'],d['year']), y:Math.round(+d["rate"])}; 
       });
 
+      max = Math.max.apply(Math,dataset.map(function(o){return o.y;}))
+
       datasetPred = data.map(function(d, i) { 
-        if(d["date_y"] != ''){
-          return { x:d3.time.day.offset(format.parse(d["date_y"]), 7*2) , y:Math.round(d['pred'] < 0 ? 0 : +d['pred'])}; 
-        }
+        return { x:d3.time.day.offset(getDateOfWeek(d['week'],d['year']), 7*2) , y:Math.round(d['pred'] < 0 ? 0 : +d['pred'])}; 
+      });
+
+      google = data.map(function(d, i) { 
+        return { x: getDateOfWeek(d['week'],d['year']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
       });
 
       seasons = data.map(function(d, i) { 
-        if(d["date_y"] != ''){
         return { 
           y: Math.round(+d["rate"]),
-          x: weekFlu(format.parse(d["date_y"]).getWeek()),
-          season: getSeason(d)}
+          x: weekFlu(getDateOfWeek(d['week'],d['year']).getWeek()),
+          season: getSeason(getDateOfWeek(d['week'],d['year']))
         }
       });
 
@@ -124,13 +136,13 @@ Date.prototype.getWeek = function() {
         });
       }
 
-      console.log(dataset)
-      latest = dataset.slice(-2)
+      latest = datasetPred.slice(-2)
+      console.log(latest)
       kpis = {
-        diff: latest[0].y - latest[1].y,
-        pct: ((latest[1].y - latest[0].y)/latest[0].y)*100,
-        today: latest[1].y,
-        yesterday: latest[0].y,
+        diff: latest[1].y - latest[0].y,
+        pct: getNum(((latest[1].y - latest[0].y)/latest[0].y)*100),
+        today: latest[0].y,
+        tomorrow: latest[1].y,
         date: latest[1].x.getDate() + ' de ' + month_name(latest[1].x) + ' del ' + latest[1].x.getFullYear(),
         risk: risk(latest[1].y),
         color: colorKpi(latest[1].y)
@@ -145,9 +157,13 @@ Date.prototype.getWeek = function() {
         .append("text")
         .text(kpis.risk)
 
-      d3.select('#yesterday')
+      d3.select('#tomorrow')
         .append("text")
-        .text(kpis.yesterday)
+        .text(kpis.tomorrow)
+
+      d3.select('#tomorrow1')
+        .append("text")
+        .text(kpis.tomorrow)
 
       d3.select('#today1')
         .append("text")
@@ -186,6 +202,12 @@ Date.prototype.getWeek = function() {
         {
           key: 'Gripe',
           values: dataset.sort(sortByDateAscending),
+          color: "#1d86ff",
+          strokeWidth: 3.5,
+        },
+        {
+          key: 'Google',
+          values: google.sort(sortByDateAscending),
           color: "#f58888",
           strokeWidth: 3.5,
         },
@@ -274,7 +296,7 @@ Date.prototype.getWeek = function() {
         chart.duration(20)
         chart.showYAxis(true)
         chart.showXAxis(true)
-        // chart.useInteractiveGuideline(true)
+        chart.useInteractiveGuideline(true)
 
         var y = d3.scale.linear()
           .range([200, 0]);
@@ -512,6 +534,9 @@ Date.prototype.getWeek = function() {
 
         $("#locations").click(function(){
 
+          d3.select(".nvtooltip.xy-tooltip div").selectAll("*").remove();
+          d3.select("#chart svg").selectAll("*").remove();
+          
           var chart = nv.models.discreteBarChart()
               .x(function(d) { return d.label })
               .y(function(d) { return d.value })
@@ -525,12 +550,9 @@ Date.prototype.getWeek = function() {
           chart.yAxis.axisLabel("Casos por cada 100K habitantes");
           chart.xAxis.rotateLabels(-90)
 
-          d3.select("#chart svg").selectAll("*").remove();
-
           d3.select('#chart svg')
               .datum(historicalBarChart)
               .call(chart);
-       
          
         });
  
