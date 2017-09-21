@@ -84,27 +84,29 @@ Date.prototype.getWeek = function() {
     
     d3.csv("data_flu.csv", function(data) {
       
-      format = d3.time.format("%Y-%m-%d %H:%M:%S")
-      format2 = d3.time.format("%Y-%m-%d")
-      dataset = data.map(function(d, i) { 
-        return { x: getDateOfWeek(d['week'],d['year']), y:Math.round(+d["rate"])}; 
+      data = data.filter(d => d['week'] < 52)
+      data = data.filter(d => d['week'] != 1 && d['month'] != 12)
+      console.log(data)
+      format = d3.time.format("%Y-%m-%d")
+      dataset = data.map(function(d, i) {
+        return { x: format.parse(d['date_week']), y:Math.round(+d["rate"])}; 
       });
 
       max = Math.max.apply(Math,dataset.map(function(o){return o.y;}))
 
       datasetPred = data.map(function(d, i) { 
-        return { x:d3.time.day.offset(getDateOfWeek(d['week'],d['year']), 7*2) , y:Math.round(d['pred'] < 0 ? 0 : +d['pred'])}; 
+        return { x:d3.time.day.offset(format.parse(d['date_week']), 7*2) , y:Math.round(d['pred'] < 0 ? 0 : +d['pred'])}; 
       });
 
       google = data.map(function(d, i) { 
-        return { x: getDateOfWeek(d['week'],d['year']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
+        return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
       });
 
       seasons = data.map(function(d, i) { 
         return { 
           y: Math.round(+d["rate"]),
-          x: weekFlu(getDateOfWeek(d['week'],d['year']).getWeek()),
-          season: getSeason(getDateOfWeek(d['week'],d['year']))
+          x: weekFlu(format.parse(d['date_week']).getWeek()),
+          season: getSeason(format.parse(d['date_week']))
         }
       });
 
@@ -140,7 +142,7 @@ Date.prototype.getWeek = function() {
       console.log(latest)
       kpis = {
         diff: latest[1].y - latest[0].y,
-        pct: getNum(((latest[1].y - latest[0].y)/latest[0].y)*100),
+        pct: Math.round(getNum(((latest[1].y - latest[0].y)/latest[0].y)*100)),
         today: latest[0].y,
         tomorrow: latest[1].y,
         date: latest[1].x.getDate() + ' de ' + month_name(latest[1].x) + ' del ' + latest[1].x.getFullYear(),
@@ -304,7 +306,7 @@ Date.prototype.getWeek = function() {
         y.domain([0, d3.max(dataset, function(d) { return d.y; })]);
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "orange")
+          .style("stroke", "lightgrey")
           .attr("x1", 60)
           .attr("y1", y(10))
           .attr("x2", "98%")
@@ -320,7 +322,7 @@ Date.prototype.getWeek = function() {
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "orange")
+          .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(30))
@@ -337,7 +339,7 @@ Date.prototype.getWeek = function() {
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "orange")
+          .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(60))
@@ -354,7 +356,7 @@ Date.prototype.getWeek = function() {
           .attr("fill", "black");
 
         d3.select('#chart svg').append("line")
-          .style("stroke", "orange")
+          .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
           .attr("y1", y(100))
@@ -380,7 +382,7 @@ Date.prototype.getWeek = function() {
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .attr("x1", 60)
             .attr("y1", y(10))
             .attr("x2", "98%")
@@ -396,7 +398,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(30))
@@ -413,7 +415,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(60))
@@ -430,7 +432,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(100))
@@ -458,7 +460,7 @@ Date.prototype.getWeek = function() {
           chart.x2Axis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .attr("x1", 60)
             .attr("y1", y(10))
             .attr("x2", "98%")
@@ -474,7 +476,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(30))
@@ -491,7 +493,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(60))
@@ -508,7 +510,7 @@ Date.prototype.getWeek = function() {
             .attr("fill", "black");
 
           d3.select('#chart svg').append("line")
-            .style("stroke", "orange")
+            .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
             .attr("y1", y(100))
@@ -534,7 +536,7 @@ Date.prototype.getWeek = function() {
 
         $("#locations").click(function(){
 
-          d3.select(".nvtooltip.xy-tooltip div").selectAll("*").remove();
+          // d3.select(".nvtooltip.xy-tooltip div").remove();
           d3.select("#chart svg").selectAll("*").remove();
           
           var chart = nv.models.discreteBarChart()

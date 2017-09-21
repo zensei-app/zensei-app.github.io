@@ -65,7 +65,6 @@
     background-color: white;
 }
 
-
 .nvtooltip table td.legend-color-guide div {
     width: 12px;
     height: 12px;
@@ -76,8 +75,6 @@
 .nvd3 g.nv-groups path.nv-line {
   stroke-width: 3px;
 }
-
-
 
 .btn-group{
   display:inline;
@@ -125,8 +122,8 @@
   border-radius: 4px;
   text-shadow: white;
   border: 1px solid #b2b2b2;
-  padding: 5px 15px;
-  padding-bottom: 3px;
+  padding-bottom: 4px;
+  padding-top: 5px;
   font-size: 14px;
   cursor: pointer;
   font-family: Helvetica;
@@ -138,6 +135,7 @@
   border-radius: 0px;
   margin-right: -1px;
   margin-left: -1px;
+  width: 120px
 }
 .segmented-button label {
   *display: inline;
