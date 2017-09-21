@@ -84,6 +84,7 @@ Date.prototype.getWeek = function() {
     
     d3.csv("data_flu.csv", function(data) {
       
+      data = data.filter(d => d['year'] > 2010)
       data = data.filter(d => d['week'] < 52)
       data = data.filter(d => d['week'] != 1 && d['month'] != 12)
       console.log(data)
