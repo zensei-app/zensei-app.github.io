@@ -383,6 +383,7 @@
           $("#barchart").hide();
           chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+          chart.yTickFormat(d3.format('s'));
           chart.tooltip.enabled(true)
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
