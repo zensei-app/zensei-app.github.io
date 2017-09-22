@@ -1,4 +1,4 @@
-Date.prototype.getWeek = function() {
+    Date.prototype.getWeek = function() {
       var onejan = new Date(this.getFullYear(),0,1);
       return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
     }
@@ -36,7 +36,7 @@ Date.prototype.getWeek = function() {
 
     function risk(value){
       if(value < 15){
-        return 'Nulo'
+        return 'Mínimo'
       }else if(value < 30){
         return 'Bajo'
       }else if(value < 80){
@@ -378,9 +378,11 @@ Date.prototype.getWeek = function() {
             .call(chart);
 
         $("#timeserie").click(function(){
-
+          $("#chart").show();
+          $("#barchart").hide();
           chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
+          chart.tooltip.enabled(true)
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
             .style("stroke", "lightgrey")
@@ -457,8 +459,12 @@ Date.prototype.getWeek = function() {
         });
 
         $("#seasons").click(function(){
+
+          $("#chart").show();
+          $("#barchart").hide();
           chart.xAxis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
           chart.x2Axis.tickFormat(d3.format(',.0d')).axisLabel("Semana de la temporada de la gripe");
+          chart.tooltip.enabled(true)
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
             .style("stroke", "lightgrey")
@@ -531,15 +537,13 @@ Date.prototype.getWeek = function() {
           d3.select('#chart svg')
             .datum(dataset2)
             .call(chart);
-         
-         
+          
         });
 
         $("#locations").click(function(){
 
-          // d3.select(".nvtooltip.xy-tooltip div").remove();
-          d3.select("#chart svg").selectAll("*").remove();
-          
+          $("#chart").hide();
+          $("#barchart").show();
           var chart = nv.models.discreteBarChart()
               .x(function(d) { return d.label })
               .y(function(d) { return d.value })
@@ -553,14 +557,15 @@ Date.prototype.getWeek = function() {
           chart.yAxis.axisLabel("Casos por cada 100K habitantes");
           chart.xAxis.rotateLabels(-90)
 
-          d3.select('#chart svg')
+          d3.select('#barchart svg')
               .datum(historicalBarChart)
               .call(chart);
-         
+          
         });
- 
+
         nv.utils.windowResize(chart.update);
         return chart;
+
     });
     
 
