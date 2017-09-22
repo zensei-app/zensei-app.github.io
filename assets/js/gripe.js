@@ -291,6 +291,7 @@
 
       nv.addGraph(function() {
 
+        $("#barchart").hide();
         var chart = nv.models.lineWithFocusChart();
         chart.xAxis.tickFormat(function(d) { return d3.time.format('%d %b %y')(new Date(d)) }).axisLabel("Semana del año");
         chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
