@@ -83,7 +83,7 @@
 
     
     d3.csv("data_flu.csv", function(data) {
-      
+      data = data.slice((data.length - 210), data.length)
       data = data.filter(d => d['year'] > 2010)
       data = data.filter(d => d['week'] < 52)
       data = data.filter(d => d['week'] != 1 && d['month'] != 12)
