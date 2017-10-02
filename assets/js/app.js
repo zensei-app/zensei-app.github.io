@@ -86,3 +86,13 @@ ga(function(tracker) {
   })
 });
 // End Google Analytics Info
+
+
+// Begin AB Testing
+var test = getUrlParameter('test');
+
+if(test){
+  $( ".verbose" ).hide();
+}
+
+// End AB Testing
