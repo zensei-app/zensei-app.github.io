@@ -85,7 +85,7 @@
     d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu-observatory.csv", function(data) {
       data = data.slice((data.length - 210), data.length)
       data = data.filter(d => d['year'] > 2010)
-      data = data.filter(d => d['week'] < 52)
+      data = data.filter(d => d['week'] < 51)
       
       format = d3.time.format("%Y-%m-%d")
       dataset = data.map(function(d, i) {
@@ -380,7 +380,7 @@
         $("#timeserie").click(function(){
           $("#chart").show();
           $("#barchart").hide();
-          chart.xAxis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) }).axisLabel("Semana del año");
+          chart.xAxis.tickFormat(function(d) { return d3.time.format('%d %b %y')(new Date(d)) }).axisLabel("Semana del año");
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
           chart.yTickFormat(d3.format('s'));
           chart.tooltip.enabled(true)
