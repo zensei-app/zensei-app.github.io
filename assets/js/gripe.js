@@ -82,12 +82,11 @@
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     
-    d3.csv("data_flu.csv", function(data) {
+    d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu-observatory.csv", function(data) {
       data = data.slice((data.length - 210), data.length)
       data = data.filter(d => d['year'] > 2010)
       data = data.filter(d => d['week'] < 52)
-      data = data.filter(d => d['week'] != 1 && d['month'] != 12)
-      console.log(data)
+      
       format = d3.time.format("%Y-%m-%d")
       dataset = data.map(function(d, i) {
         return { x: format.parse(d['date_week']), y:Math.round(+d["rate"])}; 
