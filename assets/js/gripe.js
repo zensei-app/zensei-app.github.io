@@ -69,7 +69,7 @@
       }else if(value < 0){
         return "un descenso"
       }else if(value == 0){
-        return "ningún cambio"
+        return "un cambio"
       }
     }
     
@@ -101,7 +101,7 @@
         return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
       }).slice(0, -1);
 
-      
+
 
       seasons = data.map(function(d, i) { 
         return { 
@@ -314,18 +314,20 @@
         
         y.domain([0, d3.max(dataset, function(d) { return d.y; })]);
 
+        scale = 20
+
         d3.select('#chart svg').append("line")
           .style("stroke", "lightgrey")
           .attr("x1", 60)
-          .attr("y1", y(10))
+          .attr("y1", y(10 + scale))
           .attr("x2", "98%")
-          .attr("y2", y(10));
+          .attr("y2", y(10 + scale));
 
         d3.select('#chart svg')
           .append("text")
-          .text("Límite epidémico")
+          .text("Umbral epidémico")
           .attr("x", 62)
-          .attr("y", y(14))
+          .attr("y", y(14+ scale))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -334,15 +336,15 @@
           .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
-          .attr("y1", y(30))
+          .attr("y1", y(100+ scale))
           .attr("x2", "98%")
-          .attr("y2", y(30));
+          .attr("y2", y(100+ scale));
 
         d3.select('#chart svg')
           .append("text")
-          .text("Bajo")
+          .text("Umbral Medio")
           .attr("x", 62)
-          .attr("y", y(34))
+          .attr("y", y(104+ scale))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -351,15 +353,15 @@
           .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
-          .attr("y1", y(60))
+          .attr("y1", y(160+ scale))
           .attr("x2", "98%")
-          .attr("y2", y(60));
+          .attr("y2", y(160+ scale));
 
         d3.select('#chart svg')
           .append("text")
-          .text("Medio")
+          .text("Umbral Alto")
           .attr("x", 62)
-          .attr("y", y(64))
+          .attr("y", y(164+ scale))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -368,15 +370,15 @@
           .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
-          .attr("y1", y(100))
+          .attr("y1", y(220+ scale))
           .attr("x2", "98%")
-          .attr("y2", y(100));
+          .attr("y2", y(220+ scale));
 
         d3.select('#chart svg')
           .append("text")
-          .text("Alto")
+          .text("Umbral muy alto")
           .attr("x", 62)
-          .attr("y", y(104))
+          .attr("y", y(224+ scale))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -394,71 +396,71 @@
           chart.tooltip.enabled(true)
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .attr("x1", 60)
-            .attr("y1", y(10))
-            .attr("x2", "98%")
-            .attr("y2", y(10));
+          .style("stroke", "lightgrey")
+          .attr("x1", 60)
+          .attr("y1", y(10 + scale))
+          .attr("x2", "98%")
+          .attr("y2", y(10 + scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Límite epidémico")
-            .attr("x", 62)
-            .attr("y", y(14))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral epidémico")
+          .attr("x", 62)
+          .attr("y", y(14+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(30))
-            .attr("x2", "98%")
-            .attr("y2", y(30));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(100+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(100+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Bajo")
-            .attr("x", 62)
-            .attr("y", y(34))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral Medio")
+          .attr("x", 62)
+          .attr("y", y(104+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(60))
-            .attr("x2", "98%")
-            .attr("y2", y(60));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(160+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(160+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Medio")
-            .attr("x", 62)
-            .attr("y", y(64))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral Alto")
+          .attr("x", 62)
+          .attr("y", y(164+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(100))
-            .attr("x2", "98%")
-            .attr("y2", y(100));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(220+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(220+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Alto")
-            .attr("x", 62)
-            .attr("y", y(104))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral muy alto")
+          .attr("x", 62)
+          .attr("y", y(224+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
           
           d3.select('#chart svg')
@@ -476,71 +478,71 @@
           chart.tooltip.enabled(true)
           d3.select("#chart svg").selectAll("*").remove();
           d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .attr("x1", 60)
-            .attr("y1", y(10))
-            .attr("x2", "98%")
-            .attr("y2", y(10));
+          .style("stroke", "lightgrey")
+          .attr("x1", 60)
+          .attr("y1", y(10 + scale))
+          .attr("x2", "98%")
+          .attr("y2", y(10 + scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Límite epidémico")
-            .attr("x", 62)
-            .attr("y", y(14))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral epidémico")
+          .attr("x", 62)
+          .attr("y", y(14+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(30))
-            .attr("x2", "98%")
-            .attr("y2", y(30));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(100+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(100+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Bajo")
-            .attr("x", 62)
-            .attr("y", y(34))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral Medio")
+          .attr("x", 62)
+          .attr("y", y(104+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(60))
-            .attr("x2", "98%")
-            .attr("y2", y(60));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(160+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(160+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Medio")
-            .attr("x", 62)
-            .attr("y", y(64))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral Alto")
+          .attr("x", 62)
+          .attr("y", y(164+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
-          d3.select('#chart svg').append("line")
-            .style("stroke", "lightgrey")
-            .style("stroke-dasharray","5,5")
-            .attr("x1", 60)
-            .attr("y1", y(100))
-            .attr("x2", "98%")
-            .attr("y2", y(100));
+        d3.select('#chart svg').append("line")
+          .style("stroke", "lightgrey")
+          .style("stroke-dasharray","5,5")
+          .attr("x1", 60)
+          .attr("y1", y(220+ scale))
+          .attr("x2", "98%")
+          .attr("y2", y(220+ scale));
 
-          d3.select('#chart svg')
-            .append("text")
-            .text("Alto")
-            .attr("x", 62)
-            .attr("y", y(104))
-            .attr("font-family", "sans-serif")
-            .attr("font-size", "8px")
-            .attr("fill", "black");
+        d3.select('#chart svg')
+          .append("text")
+          .text("Umbral muy alto")
+          .attr("x", 62)
+          .attr("y", y(224+ scale))
+          .attr("font-family", "sans-serif")
+          .attr("font-size", "8px")
+          .attr("fill", "black");
 
 
           d3.select('#chart svg')
