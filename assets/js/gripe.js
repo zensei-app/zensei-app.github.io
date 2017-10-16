@@ -81,11 +81,10 @@
     var color3 = d3.scale.linear().domain([0,300]).range(['#efd56c', '#f58888']);
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
-    
     d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu-observatory.csv", function(data) {
       data = data.slice((data.length - 210), data.length)
       data = data.filter(d => d['year'] > 2010)
-      data = data.filter(d => d['week'] < 51)
+      data = data.filter(d => d['week'] < 52)
       
       format = d3.time.format("%Y-%m-%d")
       dataset = data.map(function(d, i) {
@@ -100,7 +99,9 @@
 
       google = data.map(function(d, i) { 
         return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
-      });
+      }).slice(0, -1);
+
+      
 
       seasons = data.map(function(d, i) { 
         return { 
@@ -224,7 +225,7 @@
       d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/fluRegionsSpain.csv", function(data) {
         format = d3.time.format("%Y-%m-%d %H:%M:%S")
         out = data.map(function(d, i) { 
-          return { x:format.parse(d["date"]), y:Math.round(+d["rate"]), location:d["location"]}; 
+          return { x:format.parse(d["date"]), y:Math.round(+d["rate"]), location: d['location']}; 
         });
 
         const groupedLocations = _.groupBy(out,  car => car.location);
@@ -241,12 +242,12 @@
               type='line'
             }
 
-            if(key == "Nacional"){
+            if(key == "Nacional") {
               _color = "#f58888"
               strokeWidth = 3.5
-              area=true
+              area=false
               values = data1[0].values
-              type = "bar"
+              type = "line"
             }
             
             dataset3.push({
@@ -272,11 +273,18 @@
       for (var key in dataset3) {
         length = dataset3[key].values.length
         values = dataset3[key].values[length-1]
+        color = color3(values.y)
+
+        if(!values.location){
+          values.location = 'Nacional'
+          color = "#f58888"
+        }
+
         historicalBarChart[0].values.push(
           {
             "label": values.location,
             "value": values.y,
-            "color": color3(values.y)
+            "color": color
           }
         )
       }
@@ -558,6 +566,7 @@
           chart.yAxis.axisLabel("Casos por cada 100K habitantes");
           chart.xAxis.rotateLabels(-90)
 
+          console.log(historicalBarChart)
           d3.select('#barchart svg')
               .datum(historicalBarChart)
               .call(chart);
