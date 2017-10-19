@@ -99,7 +99,7 @@
 
       google = data.map(function(d, i) { 
         return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
-      }).slice(0, -1);
+      }).slice(0, -2);
 
 
 
@@ -378,15 +378,15 @@
           .style("stroke", "lightgrey")
           .style("stroke-dasharray","5,5")
           .attr("x1", 60)
-          .attr("y1", y(220+ scale))
+          .attr("y1", y(200+ scale))
           .attr("x2", "98%")
-          .attr("y2", y(220+ scale));
+          .attr("y2", y(200+ scale));
 
         d3.select('#chart svg')
           .append("text")
           .text("Umbral muy alto")
           .attr("x", 62)
-          .attr("y", y(224+ scale))
+          .attr("y", y(204+ scale))
           .attr("font-family", "sans-serif")
           .attr("font-size", "8px")
           .attr("fill", "black");
@@ -466,15 +466,15 @@
             .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
-            .attr("y1", y(220+ scale))
+            .attr("y1", y(200+ scale))
             .attr("x2", "98%")
-            .attr("y2", y(220+ scale));
+            .attr("y2", y(200+ scale));
 
           d3.select('#chart svg')
             .append("text")
             .text("Umbral muy alto")
             .attr("x", 62)
-            .attr("y", y(224+ scale))
+            .attr("y", y(204+ scale))
             .attr("font-family", "sans-serif")
             .attr("font-size", "8px")
             .attr("fill", "black");
@@ -556,15 +556,15 @@
             .style("stroke", "lightgrey")
             .style("stroke-dasharray","5,5")
             .attr("x1", 60)
-            .attr("y1", y(220+ scale))
+            .attr("y1", y(200+ scale))
             .attr("x2", "98%")
-            .attr("y2", y(220+ scale));
+            .attr("y2", y(200+ scale));
 
           d3.select('#chart svg')
             .append("text")
             .text("Umbral muy alto")
             .attr("x", 62)
-            .attr("y", y(224+ scale))
+            .attr("y", y(204+ scale))
             .attr("font-family", "sans-serif")
             .attr("font-size", "8px")
             .attr("fill", "black");
