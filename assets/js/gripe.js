@@ -99,7 +99,7 @@
 
       google = data.map(function(d, i) { 
         return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
-      }).slice(0, -2);
+      });
 
 
 
