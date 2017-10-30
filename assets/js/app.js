@@ -93,7 +93,22 @@ ga(function(tracker) {
 var test = getUrlParameter('test');
 
 if(test){
-  $( ".verbose" ).hide();
+
+  var copies = [
+    "Todo lo que tienes que saber antes de salir de casa para cuidar de tu salud",
+    "Prevén tus riesgos de salud medioambientales",
+    "Protégete a tí y a tus seres queridos de los riesgos de salud de entorno",
+    "Consejos y alertas personalizados para que cuides de tu salud",
+    "Minimiza los riesgos ambientales de tu ciudad sobre tu salud",
+    "Evita los riesgos ambientales de tu ciudad con alertas y consejos en tu móvil",
+    "¿Conoces los riesgos de salud a los que estás expuesto? Zensei te ayuda a prevenirlos",
+    // "Protégete a tí y a tus seres queridos de los riesgos de salud de entorno",
+    // "Conoce y prevén tus riesgos de salud",
+  ]
+  
+  $( "h1.value-propostition" ).text( copies[test] );
+
+
 }
 
 // End AB Testing
