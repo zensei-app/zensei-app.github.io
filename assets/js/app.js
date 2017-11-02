@@ -96,7 +96,7 @@ if(test){
 
   var copies = [
     "Todo lo que tienes que saber antes de salir de casa para cuidar de tu salud",
-    "Prevén tus riesgos de salud medioambientales",
+    "Prevén los riesgos medioambientales sobre tu salud",
     "Protégete a tí y a tus seres queridos de los riesgos de salud de entorno",
     "Consejos y alertas personalizados para que cuides de tu salud",
     "Minimiza los riesgos ambientales de tu ciudad sobre tu salud",
