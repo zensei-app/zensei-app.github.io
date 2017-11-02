@@ -102,6 +102,7 @@ if(test){
     "Minimiza los riesgos ambientales de tu ciudad sobre tu salud",
     "Evita los riesgos ambientales de tu ciudad con alertas y consejos en tu móvil",
     "¿Conoces los riesgos de salud a los que estás expuesto? Zensei te ayuda a prevenirlos",
+    // "Conócete a ti mismo y ayuda a tu yo futuro",
     // "Protégete a tí y a tus seres queridos de los riesgos de salud de entorno",
     // "Conoce y prevén tus riesgos de salud",
   ]
