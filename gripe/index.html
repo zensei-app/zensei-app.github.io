@@ -141,7 +141,7 @@
           <br>
            <nav class="segmented-button">
               <input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
-              <label for="timeserie" class="first">Histórico</label>
+              <label for="timeserie" class="first">Predicción</label>
               <input type="radio" name="seg-1" value="seasons" id="seasons">
               <label for="seasons">Temporadas</label>
               <input type="radio" name="seg-1" value="locations" id="locations">
@@ -152,17 +152,19 @@
         <div class="container">
           <div class="center" id="chart">
               <svg></svg>
+              <br>
+              <div class="center">
+                <p>&larr; Desliza para hacer zoom &rarr;</p>
+              </div>
           </div>
           <div class="center" id="barchart">
               <svg></svg>
           </div>
           <br>
           <p id="source">Fuentes de datos del Sistema de Vigilancia de la Gripe en España, Google Trends Spain y elaboración propia de Zensei.</p>
-               
         </div>
       </div>
     </div>
-
     <br>
     <br>
     <div class="padding-vertical bg-grey bg-waves">

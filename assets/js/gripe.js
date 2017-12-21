@@ -82,7 +82,7 @@
     var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu-observatory.csv", function(data) {
-      data = data.slice((data.length - 210), data.length)
+      data = data.slice((data.length - 260), data.length)
       data = data.filter(d => d['year'] > 2010)
       data = data.filter(d => d['week'] < 52)
       
@@ -204,19 +204,19 @@
       data1 = [
         {
           key: 'Gripe',
-          values: dataset.sort(sortByDateAscending),
+          values: dataset.sort(sortByDateAscending).slice((dataset.length - 52), dataset.length),
           color: "#1d86ff",
           strokeWidth: 3.5,
         },
         {
           key: 'Google',
-          values: google.sort(sortByDateAscending),
+          values: google.sort(sortByDateAscending).slice((google.length - 52), google.length),
           color: "#f58888",
           strokeWidth: 3.5,
         },
         {
           key: 'Predicción',
-          values: datasetPred.sort(sortByDateAscending),
+          values: datasetPred.sort(sortByDateAscending).slice((datasetPred.length - 52), datasetPred.length),
           color: "orange",
           strokeWidth: 3.5,
         }
