@@ -43,6 +43,8 @@
         return 'Medio'
       }else if(value < 120){
         return 'Alto'
+      }else{
+        return 'Muy alto'
       }
     }
 
@@ -54,6 +56,8 @@
       }else if(value < 80){
         return '#ff9800'
       }else if(value < 120){
+        return '#f44336'
+      }else{
         return '#f44336'
       }
     }
