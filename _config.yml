@@ -15,7 +15,7 @@ timezone: Europe/Madrid
 # Site settings
 title: Zensei
 description: >
-  Evita los riesgos ambientales de tu ciudad con alertas y consejos en tu móvil
+  El diario de salud digital contextual e inteligente para personas con problemas respiratorios.
 baseurl: ""
 url: "https://zenseiapp.com"
 
@@ -41,6 +41,10 @@ gems:
 
 sass:
   style: compressed
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
 
 
 # Settings cannot change
