@@ -75,6 +75,27 @@
   }
 }
 
+.logo-alternative{
+  @extend .containing-block;
+  display: inline-block;
+  color: #F58888;
+  margin: 2rem 0;
+  font-size: 1.5rem;
+  font-family: $brand-font;
+  &::after{
+    content: "";
+    background-image: url(/assets/img/logo-circle-alternative.svg);
+    display: block;
+    height: 40px;
+    width: 36px;
+    color: #F58888;
+    position: absolute;
+    left: 50%;
+    margin-left: -18px;
+    bottom: -13px;
+  }
+}
+
 .main-cta-top{
   display: inline-block;
   height: $v-unit;
@@ -253,6 +274,32 @@
   font-size: 22px;
 }
 
+/*ul*/.heading{
+  @extend .clearfix;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li{
+    float: center;
+    width: 100%;
+    padding: 0 4%;
+    margin:  0 0 6rem;
+    img{
+
+    }
+    strong{
+      display: block;
+      margin: 1rem 0;
+      font-size: 2.5rem;
+      line-height: 1;
+    }
+    p{
+      margin: 0 auto;
+      max-width: 300px;
+    }
+  }
+}
 
 /*ul*/.factors{
   @extend .clearfix;
@@ -302,6 +349,63 @@
   margin-bottom: 2rem;
 }
 
+.bottom__copy{
+  font-style: italic;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  line-height: 1;
+  color: #333333;
+}
+
+/*ul*/.item{
+  @extend .clearfix;
+  text-align: left;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  li{
+    float: left;
+    width: 100%;
+    padding: 0 4%;
+    margin:  0 0 1rem;
+    img{
+      display:block;
+      margin: auto;
+    }
+    strong{
+      display: block;
+      font-size: 2.5rem;
+      margin: 1rem 0;
+      margin-top: 100px;
+      width: 100%;
+      line-height: 1;
+      color: #333333;
+    }
+    p{
+      width: 100%;
+      color: #828282;
+      font-size: 1.1rem;
+      line-height: 1.2;
+    }
+  }
+}
+
+@media screen and (min-width: $mobile-bp){
+  .item{
+    li{
+      width: 100%;
+    }
+  }
+}
+
+@media screen and (min-width: $tablet-bp){
+  .item{
+    li{
+      width: 50%;
+    }
+  }
+}
 
 .main-footer{
   @extend .clearfix;
