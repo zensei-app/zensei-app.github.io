@@ -8,13 +8,13 @@ image: https://cdn.pixabay.com/photo/2017/06/30/15/32/investigation-2458540_1280
 description: El asma es una enfermedad crónica de las vías respiratorias. Cuando sufrimos una crisis asmática...
 ---
 
-<br>
-![Asma Zensei app](https://cdn.pixabay.com/photo/2017/06/30/15/32/investigation-2458540_1280.jpg){: .center-image }
-<br>
-
 **El asma es una enfermedad crónica de las vías respiratorias.** Cuando sufrimos una crisis asmática, nuestras vías respiratorias, esos tubos por los que el aire circula cuando inspiramos y exhalamos, se inflaman.
 
 La inflamación provoca que las vías respiratorias se estrechen y tengamos más dificultades para respirar.
+
+<br>
+![Asma Zensei app](https://cdn.pixabay.com/photo/2017/06/30/15/32/investigation-2458540_1280.jpg){: .center-image }
+<br>
 
 ### ¿Qué puedo hacer para que no me dé una crisis?
 
