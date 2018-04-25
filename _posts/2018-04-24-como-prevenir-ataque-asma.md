@@ -4,8 +4,8 @@ title:  "🤢 Cómo puedo prevenir un ataque de asma"
 date:   2018-04-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: blog 
-image: https://cdn.pixabay.com/photo/2017/06/30/15/32/investigation-2458540_1280.jpg
-description: El asma es una enfermedad crónica de las vías respiratorias. Cuando sufrimos una crisis asmática...
+image: /img/asma-ostetoscopio-kid.jpg
+description: El asma es una enfermedad crónica de las vías respiratorias. Cuando sufrimos una crisis asmática, nuestras vías respiratorias,...
 ---
 
 **El asma es una enfermedad crónica de las vías respiratorias.** Cuando sufrimos una crisis asmática, nuestras vías respiratorias, esos tubos por los que el aire circula cuando inspiramos y exhalamos, se inflaman.
@@ -13,7 +13,7 @@ description: El asma es una enfermedad crónica de las vías respiratorias. Cuan
 La inflamación provoca que las vías respiratorias se estrechen y tengamos más dificultades para respirar.
 
 <br>
-![Asma Zensei app](https://cdn.pixabay.com/photo/2017/06/30/15/32/investigation-2458540_1280.jpg){: .center-image }
+![Asma Zensei app](/img/asma-ostetoscopio-kid.jpg){: .center-image }
 <br>
 
 ### ¿Qué puedo hacer para que no me dé una crisis?
