@@ -178,6 +178,48 @@
           <br>
           <p>Tu puntuación es <b>{{data.score}}</b> después de <b>{{data.strike}}</b> intentos.</p>
           <!-- <p><a>¿Como funciona el Emoji Game del Verano?</a></p> -->
+          <style>
+
+            #tweet {
+              width: 300px !important;
+              text-align: center;
+            }
+
+            #tweet iframe {
+              border: none !important;
+              box-shadow: none !important;
+              text-align: center;
+            }
+
+          </style>
+
+          <br>
+          <div align="middle" id="tweet" tweetID="1642755247"></div>
+
+          <script sync src="https://platform.twitter.com/widgets.js"></script>
+
+          <script>
+
+            window.onload = (function(){
+
+              var tweet = document.getElementById("tweet");
+              var id = tweet.getAttribute("tweetID");
+
+              twttr.widgets.createTweet(
+                id, tweet, 
+                {
+                  conversation : 'none',    // or all
+                  cards        : 'hidden',  // or visible 
+                  linkColor    : '#cc0000', // default is blue
+                  theme        : 'light'    // or dark
+                })
+              .then (function (el) {
+                el.contentDocument.querySelector(".footer").style.display = "none";
+              });
+
+            });
+
+          </script>
         </div>
       </div>
         <!-- use the modal component, pass in the prop -->
@@ -201,9 +243,12 @@
       <div class="container">
         <a class="contact-link" href="mailto:hola@zenseiapp.com">hola@zenseiapp.com</a>
         <ul class="legal-menu">
-          <li><a href="politica-cookies.html">Política de cookies</a></li>
-          <li><a href="politica-privacidad.html">Política de privacidad</a></li>
+          <li><a href="/politica-cookies.html">Política de cookies</a></li>
+          <li><a href="/politica-privacidad.html">Política de privacidad</a></li>
+          <li><a href="/feed.xml">RSS</a></li>
           <li><a href="/blog/">Blog</a></li>
+          <li><a href="/gripe/">Observatorio de la gripe</a></li>
+          <li><a href="/corporate/">Empresas</a></li>
         </ul>
       </div>
     </div>
