@@ -3,7 +3,7 @@ layout: post
 title:  "⚡📱 Zensei: una app para enfermedades respiratorias"
 date:   2018-04-30 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: blog 
+categories: diario, salud, respiratoria, zensei, enfermedades, respiratorias, digital, app, asma, epoc, zensei
 image: /img/showoff.png
 description: Ha llegado la primavera y estamos en plena eclosión. Los insectos y las flores se han vuelto locos. Andan de acá para allá, en un ambiente bucólico y pastoril que a los asmáticos y personas ...
 ---

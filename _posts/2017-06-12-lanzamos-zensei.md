@@ -3,7 +3,7 @@ layout: post
 title:  "🎉 Lanzamos Zensei"
 date:   2017-06-12 10:00:00 +0200
 author: Zensei Team
-categories: blog 
+categories: zensei, asma, epoc, polen, alertas, salud, gripe, resfriado
 image: /assets/zensei.png
 description: ¿Quién no se ha puesto malo alguna vez? Un resfriado, una gripe, una gastroenteritis, y un sinfín de patologías menores y sus síntomas asociados que no les prestamos atención hasta que los sufrimos y la verdad que son un incordio en nuestro día día ...
 ---

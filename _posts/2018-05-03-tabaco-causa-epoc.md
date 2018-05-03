@@ -3,7 +3,7 @@ layout: post
 title:  "🚬 El tabaco es la principal causa de EPOC"
 date:   2018-05-03 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: blog 
+categories: epoc, tabaco, salud ,respiratoria, app, zensei, diario, respiratoria
 image: /img/cigarette-3112660_1280.jpg
 description: Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La Enfermedad Pulmonar Obstructiva Crónica o EPOC, fue la causante de...
 ---

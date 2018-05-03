@@ -5,8 +5,10 @@
 
   <meta name="theme-color" content="#f58888">
 
+  <meta name="keywords" content="{% if page.categories %}{{ page.categories }}{% else %}""{% endif %}">
+
   <!-- Mobile banners -->
-  <meta name="google-play-app" content="app-id=com.zenseiapp.galenvs">
+  <meta name="google-play-app" content="app-id=com.zenseiapp.medicaljournal">
 
   <!-- For Facebook -->
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>

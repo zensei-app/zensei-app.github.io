@@ -3,7 +3,7 @@ layout: post
 title:  "🤢 Cómo puedo prevenir un ataque de asma"
 date:   2018-04-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: blog 
+categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas
 image: /img/asma-ostetoscopio-kid.jpg
 description: El asma es una enfermedad crónica de las vías respiratorias. Cuando sufrimos una crisis asmática, nuestras vías respiratorias,...
 ---

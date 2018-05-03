@@ -3,7 +3,7 @@ layout: post
 title:  "👪 Padres primerizos"
 date:   2017-07-07 10:00:00 +0200
 author: Zensei Team
-categories: blog 
+categories: riesgos, ambientales, bebés, virus, bronquiolitis, padre, primerizo
 image: /img/parents.jpg
 description: ¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés?
 ---

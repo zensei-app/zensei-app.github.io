@@ -3,7 +3,7 @@ layout: post
 title:  "🔮 El futuro de la salud ¿Un nuevo paradigma social y tecnológico?"
 date:   2017-06-19 10:00:00 +0200
 author: Zensei Team
-categories: blog 
+categories: futuro, salud
 image: https://cdns3.eltiempo.es/eltiempo/blog/noticias/2016/12/22102819/contaminacion-en-madrid.jpg
 description: Hoy en día percibimos la salud como un proceso de mantenimiento individual, donde nosotros mismos somos los que tenemos que esforzarnos en mantenerla y cuidarla, pero esta concepción de la salud es más bien moderna...
 ---

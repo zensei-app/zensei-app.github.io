@@ -3,7 +3,7 @@ layout: post
 title:  "🎄 X-Mas + 👾 Gripe = 🚀🤒 Epidémia"
 date:   2017-12-22 10:00:00 +0200
 author: Zensei Team
-categories: blog 
+categories: epidemia, gripe, navidad, predicción
 image: /img/gripe_temporadas.png
 description: Nuestro modelo de predicción de la gripe estima que tenemos la tormenta perfecta para estas navidades...
 ---
