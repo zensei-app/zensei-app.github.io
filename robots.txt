@@ -1,1 +1,4 @@
-sitemap: https://zenseiapp.com/sitemap.xml
+User-agent: *
+Disallow: /game/
+
+Sitemap: https://zenseiapp.com/sitemap.xml
