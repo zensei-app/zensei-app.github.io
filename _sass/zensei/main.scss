@@ -38,6 +38,17 @@
     display: block;
 }
 
+svg {
+  display: block;
+}
+
+svg.sparkline {
+  width: '100%';
+  height: 200px;
+  font-size: 14px;
+  margin-top: -6px;
+  stroke-width: 3px; 
+}
 
 .hero-header{
   @include gradient-diagonal($yellow,$pink);
@@ -353,6 +364,27 @@
   font-style: italic;
   font-size: 3rem;
   margin-bottom: 2rem;
+  line-height: 1;
+  color: #333333;
+}
+
+.asthma__title{
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  line-height: 1;
+  color: #333333;
+}
+
+.asthma__subtitle{
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1;
+  color: #828282;
+}
+
+.asthma__kpi {
+  font-size: 5rem;
   line-height: 1;
   color: #333333;
 }
