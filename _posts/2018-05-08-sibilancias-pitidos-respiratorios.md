@@ -5,7 +5,7 @@ date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
 image: /img/5458857332_d404800a08_b.jpg
-description: Se denomina **sibilancia** y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
+description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
 ---
 
 Se denomina **sibilancia** y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
