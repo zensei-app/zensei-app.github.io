@@ -41,7 +41,7 @@ d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/
 
   defaultChartConfig("#chart2", dataset.slice(Math.max(dataset.length - 104, 1)));
 
-  var kpi = dataset.slice(-1)[0].y * 465;
+  var kpi = dataset.slice(-1)[0].y * 4650;
 
   d3.select('#asthma')
     .text(d3.locale(es_ES).numberFormat(",.")(kpi))
