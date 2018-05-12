@@ -121,7 +121,7 @@ if(test){
 // End AB Testing
 
 var name = getUrlParameter('name');
-console.log(name)
-if(name){  
+
+if(name != 'undefined'){  
   $( "text#name" ).text(". " + name + " ya lo hace.");
 }
