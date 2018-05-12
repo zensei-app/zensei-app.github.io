@@ -24,6 +24,6 @@ Al coincidir la epidémia con las Navidades la propagación puede ser explosiva,
 ![gripe temporadas](/img/gripe_temporadas.png){: .center-image }
 <br>
 
-Si quieres seguir la evolución de la gripe puedes hacerlo en nuestro **[Observatorio de la gripe para España](https://zenseiapp.com/gripe)** o te puedes descargar nuestra **[app de Android](https://play.google.com/store/apps/details?id=com.zenseiapp.galenvs&hl=es)** con consejos útiles para evitar el contagio de la gripe y otro muchos factores como la contaminación, el polen u otros virus.
+Si quieres seguir la evolución de la gripe puedes hacerlo en nuestro **[Observatorio de la gripe para España](https://zenseiapp.com/gripe)** o te puedes descargar nuestra **[app de Android](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es)** con consejos útiles para evitar el contagio de la gripe y otro muchos factores como la contaminación, el polen u otros virus.
 
 🎉 Felices fiestas desde Zensei y no olvides descargarte nuestra app para seguir los sencillos consejos que ofrece para evitar la gripe, porque al hacerlo tú, también proteges a tus seres más queridos.
