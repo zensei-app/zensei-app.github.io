@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌩 Zensei hará que tengas super poderes para evitar los riesgos ambientales de tu ciudad"
+title:  "🌩 Consigue super poderes para evitar los riesgos ambientales de tu ciudad"
 date:   2017-07-14 10:00:00 +0200
 author: Zensei Team
 categories: riesgo, salud, ambientales
