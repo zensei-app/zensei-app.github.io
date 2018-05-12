@@ -8,7 +8,7 @@ image: /img/happiness-1866081_1280.jpg
 description: Desde 1998 se celebra el Día Mundial del Asma. Su fecha debe coincidir con el primer martes del mes de mayo. En este año, la fecha ha sido el 1º de mayo. La organización está respaldada por la ...
 ---
 
-Desde 1998 se celebra el Día Mundial del Asma. Su fecha debe coincidir con el primer martes del mes de mayo. En este año, la fecha ha sido el 1º de mayo. 
+Desde 1998 se celebra el [Día Mundial del Asma](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_del_Asma). Su fecha debe coincidir con el primer martes del mes de mayo. En este año, la fecha ha sido el 1º de mayo. 
 
 La organización está respaldada por la Global Initiative for Asthma (GINA) y pretende concienciar a la población sobre las molestias que esta enfermedad produce a quien la padece y cómo conseguir una vida sana y sin limitaciones.
 

@@ -21,7 +21,7 @@ Las Nuevas Tecnologías, afortunadamente para quienes padecen enfermedades como 
 
 Efectivamente, tal cual es. Hablamos de llevar en el smartphone o en la tablet una aplicación que funciona como “polenómetro”. Es decir, **va a medir la cantidad de polen que existe en el ambiente** y te va a contar cómo van las cosas para ti y tu nariz en tu ciudad.
 
-La idea es fantástica, porque te **permite la prevención en personas con enfermedades respiratorias y actuar en consecuencia.** Pacientes con problemas de asma, bronquitis, EPOC, alergias… todos ellos pueden saber con antelación y desde su propia casa, cómo está el ambiente fuera. 
+La idea es fantástica, porque te **permite la prevención en personas con enfermedades respiratorias y actuar en consecuencia.** Pacientes con problemas de [asma](https://medlineplus.gov/spanish/ency/article/000141.htm), [bronquitis](https://medlineplus.gov/spanish/acutebronchitis.html), [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [alergias](https://medlineplus.gov/spanish/allergy.html?utm_expid=.xlgl9m0eQZGZgomQY9TCCQ.0&utm_referrer=https%3A%2F%2Fwww.google.es%2F)… todos ellos pueden saber con antelación y desde su propia casa, cómo está el ambiente fuera. 
 
 **También mide la cantidad en sí de polen y te informa sobre ello.** De manera que puedas quedarte en casa tranquilamente, con las ventanas cerradas; o, incluso, salir pero a ciertas horas menos intensas o ponerte una mascarilla para poder soslayar los efectos de esa polinización tan maravillosa que hace que las flores luzcan pletóricas y nuestras narices parezcan bombillas de navidad.
 
@@ -29,7 +29,7 @@ La idea es fantástica, porque te **permite la prevención en personas con enfer
 
 ### Cómo funciona la app de Zensei
 
-Digamos que es algo así como eso que se ha dado en llamar Business Intelligence y Big Data. **La app instalada en el smartphone se nutre de los datos que compartimos a través de nuestros dispositivos móviles.** Lo bueno, en este caso, es que esa información la usan para ayudarnos con nuestros problemas de salud.
+Digamos que es algo así como eso que se ha dado en llamar [epidemiología digital](https://microbioun.blogspot.com.es/2016/07/epidemiologia-digital-google-nos-puede.html), que es el uso del big data a la prevención de riesgos de salud. **La app instalada en el smartphone se nutre de los datos que compartimos a través de nuestros dispositivos móviles.** Lo bueno, en este caso, es que esa información la usan para ayudarnos con nuestros problemas de salud.
 
 **A través de Zensei podrás llevar un diario de tu salud respiratoria,** pero también conocer otras cuestiones que pueden interesarte para tener mejor calidad de vida. Entre ellas está el clima, los rayos UV, los niveles de contaminación, si existe alerta por virus, la concentración de polen o si se debe tener especial cuidado con poblaciones de riesgos, como niños y mayores.
 

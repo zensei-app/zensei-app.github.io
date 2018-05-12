@@ -8,20 +8,20 @@ image: /img/bird-3058712_1280.jpg
 description: Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es...
 ---
 
-¡Menuda faena! Tengo gripe y estoy embarazada, ¿qué puedo hacer? Sobre todo porque, desde que estoy en estado, **parece que tengo más resfriados** y, en general, más problemas relacionados con el aparato respiratorio. ¿Es normal?
+¡Menuda faena! Tengo [gripe](https://medlineplus.gov/spanish/flu.html) y estoy embarazada, ¿qué puedo hacer? Sobre todo porque, desde que estoy en estado, **parece que tengo más resfriados** y, en general, más problemas relacionados con el aparato respiratorio. ¿Es normal?
 
 <br>
 ![Asma Zensei app polen](/img/bird-3058712_1280.jpg){: .center-image }
 <br>
 
-La respuesta es afirmativa. La razón tienes que buscarla en **tu sistema inmunológico**, que cambia muchísimo durante el embarazo. Pero vamos a ver qué podemos hacer por ti desde [📱 Zensei](https://zenseiapp.com), **la app gratuita para los pacientes con enfermedades del aparato respiratorio**.
+La respuesta es afirmativa. La razón tienes que buscarla en **tu sistema inmunológico**, que cambia muchísimo durante el embarazo. Pero vamos a ver qué podemos hacer por ti desde [📱Zensei](https://zenseiapp.com), **la app gratuita para los pacientes con enfermedades del aparato respiratorio**.
 
 
 ### Antes prevenir que curar
 
 Como casi siempre, la **prevención** es la madre de todos los consejos. Para el sistema inmunológico de una mujer gestante, resulta muy difícil combatir cualquier tipo de infección. Esa es la razón por la que muchas embarazadas afirman que no han soltado el resfriado en todo el embarazo.
 
-En este caso es mejor prevenir que curar. Tienes que saber que si estás embarazada o piensas quedarte en estado, lo mejor es que recibas la **vacuna antigripal** en su fecha correspondiente. Ya sabes que hay una campaña pública para que se vacune la población de riesgo y, en tu caso, lo eres.
+En este caso es mejor prevenir que curar. Tienes que saber que si estás embarazada o piensas quedarte en estado, lo mejor es que recibas la **[vacuna antigripal](https://es.wikipedia.org/wiki/Vacuna_contra_la_gripe)** en su fecha correspondiente. Ya sabes que hay una campaña pública para que se vacune la población de riesgo y, en tu caso, lo eres.
 
 Si no ha sido así, o a pesar de los pesares, sigues pegada a tu gripe, seguro que estás pensando en [qué tomar](https://www.mibebeyyo.com/embarazo/salud/resfriado-embarazo-medicamentos-7634), aquí llevas otros **consejos para que te sientas un poco más cómoda** durante tu embarazo:
 

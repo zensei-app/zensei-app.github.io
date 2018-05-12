@@ -16,10 +16,9 @@ Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada 
 
 ### ¿Qué es el polen?
 
-El polen, producido por las plantas, es un diminuto granito que está cargado de células fecundadoras del vegetal. Vuelan hasta encontrar los órganos femeninos de otra planta de su especie. De esta manera queda polinizada.
+El [polen](https://es.wikipedia.org/wiki/Polen), producido por las plantas, es un diminuto granito que está cargado de células fecundadoras del vegetal. Vuelan hasta encontrar los órganos femeninos de otra planta de su especie. De esta manera queda polinizada.
 
 **Una sola planta es capaz de lanzar miles de granitos de polen al ambiente.** Se distingue cuando aún está en la flor, de color amarillo. Cuando el polen se disemina en el aire resulta invisible. Millones de pequeñas partículas se esparcen y entran en contacto con nuestro aparato respiratorio.
-
 
 ### Cómo llega la reacción alérgica
 
@@ -36,11 +35,11 @@ Se estima que **más del 17% de la población es alérgica al polen**. Por ello 
 
 ### Síntomas de la alergia al polen
 
-La sintomatología de la alergia al polen, a menudo **se confunde con la de un resfriado o una gripe**. Su tratamiento, en cambio, no tiene nada que ver.
+La [sintomatología de la alergia al polen](https://cuidateplus.marca.com/enfermedades/alergias/alergia-al-polen.html), a menudo **se confunde con la de un resfriado o una gripe**. Su tratamiento, en cambio, no tiene nada que ver.
 
 La alergia al polen puede cursar con un sinfín de efectos secundarios. No quiere decir que tengas que padecerlos todos para que seas calificado como alérgico. A veces basta con que sufras uno de ellos.
 
-Su virulencia va a depender de tu grado de intolerancia. Por regla general, los síntomas más comunes son:
+Su virulencia va a depender de tu grado de intolerancia. Por regla general, los [síntomas más comunes](https://www.normon.es/articulo-blog/alergia-primaveral-sintomas-y-tratamientos) son:
 
 🤧 Estornudos y rinitis, con nariz congestionada o exceso de mucosidad
 

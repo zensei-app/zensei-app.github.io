@@ -8,7 +8,7 @@ image: /img/5458857332_d404800a08_b.jpg
 description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
 ---
 
-Se denomina **sibilancia** y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
+Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
 
 En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 
@@ -18,7 +18,7 @@ En realidad, los **conductos que se cierran son los bronquios y los bronquiolos*
 
 ### Cuáles son las causas de la sibilancia
 
-Los **principales motivos** por los que podemos padecer pitidos son los siguientes: asma, bronquiolitis, bronquitis, bronquiectasias, alergia, tabaquismo, EPOC, infecciones de las vías respiratorias y los pulmones, presencia de un cuerpo extraño en las vías respiratorias.
+Los **principales motivos** por los que podemos padecer pitidos son los siguientes: [asma](https://medlineplus.gov/spanish/ency/article/000141.htm), [bronquiolitis](https://medlineplus.gov/spanish/ency/article/000975.htm), [bronquitis](https://medlineplus.gov/spanish/acutebronchitis.html), [bronquiectasias](https://es.wikipedia.org/wiki/Bronquiectasia), alergia, tabaquismo, EPOC, infecciones de las vías respiratorias y los pulmones, presencia de un cuerpo extraño en las vías respiratorias.
 
 A veces existen una serie de síntomas que pueden ir asociados a los pitidos al respirar. Pueden darse todos, ninguno o alguno de ellos. Cabe destacar la **disnea** (dificultad para respirar), la **coloración azulada** de la punta de los dedos de pies y manos, los **labios morados, confusión mental y alteraciones de la consciencia.**
 
@@ -26,7 +26,7 @@ A veces existen una serie de síntomas que pueden ir asociados a los pitidos al 
 
 Las personas afectadas por la sibilancia deben acudir a su médico de familia o al especialista. Probablemente le administren medicamentos que acaben por **reducir la inflamación** y ayuden a que se dilanten los bronquios y los bronquiolos.
 
-Los medicamentes más usados para eliminar los silbidos al respirar son los broncodilatadores; los corticoesteroides; otros antiiflamatorios como el salbutamol o el montelukast; y los mucolíticos, que ayudarán a eliminar las secreciones y despejarán las vías respiratorias.
+Los medicamentes más usados para eliminar los silbidos al respirar son los broncodilatadores; los corticoesteroides; otros antiiflamatorios como el [salbutamol](https://es.wikipedia.org/wiki/Salbutamol) o el montelukast; y los [mucolíticos](https://es.wikipedia.org/wiki/Mucol%C3%ADtico), que ayudarán a eliminar las secreciones y despejarán las vías respiratorias.
 
 En cualquier caso, cuando los pitidos van acompañados de una importante disnea, el tratamiento se acompañará de la **administración de oxígeno**, a través de una mascarilla o una cánula nasal.
 

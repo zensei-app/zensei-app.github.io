@@ -8,7 +8,7 @@ image: /img/cigarette-3112660_1280.jpg
 description: Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La Enfermedad Pulmonar Obstructiva Crónica o EPOC, fue la causante de...
 ---
 
-Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La Enfermedad Pulmonar Obstructiva Crónica o EPOC, fue la causante de más de **tres millones de muertes en todo el mundo**, solo durante 2015.
+Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La [Enfermedad Pulmonar Obstructiva Crónica o EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), fue la causante de más de **tres millones de muertes en todo el mundo**, solo durante 2015.
 
 <br>
 ![EPOC diario de salud respiratoria Zensei app](/img/cigarette-3112660_1280.jpg){: .center-image }

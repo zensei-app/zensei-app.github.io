@@ -8,7 +8,7 @@ image: /img/pregnant-775028_1280.jpg
 description: La primavera está aquí y es una época temida por las futuras mamás que lidian con una alergia estacional. La polinosis o fiebre del heno, es... 
 ---
 
-La primavera está aquí y es una época temida por las futuras mamás que lidian con una alergia estacional. La polinosis o fiebre del heno, es capaz de aguarte el embarazo. Pero siguiendo unos cuantos consejos, seguro que estos meses se te harán más llevaderos.
+La primavera está aquí y es una época temida por las futuras mamás que lidian con una alergia estacional. La [polinosis](https://es.wikipedia.org/wiki/Alergia_al_polen) o [fiebre del heno](https://medlineplus.gov/spanish/ency/article/000813.htm), es capaz de aguarte el embarazo. Pero siguiendo unos cuantos consejos, seguro que estos meses se te harán más llevaderos.
 
 <br>
 ![Alergia al polen embarada Zensei app](/img/pregnant-775028_1280.jpg){: .center-image }
@@ -16,7 +16,7 @@ La primavera está aquí y es una época temida por las futuras mamás que lidia
 
 ### Embarazo y alergia al polen
 
-Para la mujer embarazada, padecer un episodio alérgico resulta realmente incómodo. **Algunas futuras mamás se pasan todo el embarazo encadenando rinitis, nariz tapada, ojos llorosos, picores de garganta…** ¡por si ya era poco aguantar las molestias del embarazo!
+Para la [mujer embarazada alérgica](https://www.matterna.es/alergia-al-polen-embarazo/), padecer un episodio alérgico resulta realmente incómodo. **Algunas futuras mamás se pasan todo el embarazo encadenando rinitis, nariz tapada, ojos llorosos, picores de garganta…** ¡por si ya era poco aguantar las molestias del embarazo!
 
 Piensan que no van a poder tomar ningún medicamento que les palie los efectos indeseados de esta molesta enfermedad.
 
@@ -34,7 +34,7 @@ Tal vez las sustancias más empleadas para combatir **los efectos de la alergia 
 
 Sin embargo, y recalcamos la vigilancia del médico, **algunos antihistamínicos han demostrado no tener efectos importantes durante el embarazo.**
 
-**En el caso de los corticoides, la norma general es que la mujer embarazada puede seguir empleándolos, porque no se ha demostrado ningún efecto secundario sobre el feto.** Si el médico lo ve conveniente, podrás seguir usándolo durante el periodo de gestación.
+**En el caso de los [corticoides](https://medlineplus.gov/spanish/steroids.html), la norma general es que la mujer embarazada puede seguir empleándolos, porque no se ha demostrado ningún efecto secundario sobre el feto.** Si el médico lo ve conveniente, podrás seguir usándolo durante el periodo de gestación.
 
 El polen, producido por las plantas, es un diminuto granito que está cargado de células fecundadoras del vegetal. Vuelan hasta encontrar los órganos femeninos de otra planta de su especie. De esta manera queda polinizada.
 

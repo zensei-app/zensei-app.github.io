@@ -42,9 +42,9 @@ No eres novato en estas lides y si lo eres, aquí tienes **algunos consejos** qu
 
 **Las gramíneas son las responsables del mayor número de alergias en España.** Para saber cómo están los niveles de polen en tu ciudad, puedes contar con alguna de las ayudas que te prestan las nuevas tecnologías.
 
-En este caso hablamos de **una app para personas con problemas en las vías respiratorias**: alérgicos, asmáticos, enfermos de EPOC, rinitis, bronquitis… Está disponible en Android e IOS y **es completamente gratuita**.
+En este caso hablamos de **una app para personas con problemas en las vías respiratorias**: [alérgicos](https://es.wikipedia.org/wiki/Alergia), [asmáticos](https://kidshealth.org/es/teens/flare-up-esp.html), enfermos de [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [rinitis](https://medlineplus.gov/spanish/hayfever.html), [bronquitis](https://medlineplus.gov/spanish/acutebronchitis.html)… Está disponible en Android e IOS y **es completamente gratuita**.
 
-Se llama Zensei y con solo descargarla en tu teléfono móvil, **puedes llevar un diario de tu salud respiratoria.** Así como conocer cómo va la polución por tu zona, cómo está el polen, si hará viento y levantará más alérgenos… Es muy práctica. **No te rindas y prueba con [📱 Zensei](https://zenseiapp.com).**
+Se llama [📱Zensei](https://zenseiapp.com) y con solo descargarla en tu teléfono móvil, **puedes llevar un diario de tu salud respiratoria.** Así como conocer cómo va la polución por tu zona, cómo está el polen, si hará viento y levantará más alérgenos… Es muy práctica. **No te rindas y prueba con [📱 Zensei](https://zenseiapp.com).**
 
 
 

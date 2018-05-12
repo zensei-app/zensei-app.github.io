@@ -23,17 +23,17 @@ Solo debes disponer de un dispositivo móvil, una tablet, un portátil… aunque
 
 ### Las alergias respiratorias
 
-Pero si hay un grupo nutrido de alérgicos, ese es el que pertenece al conjunto de pacientes con afecciones respiratorias. **Asma, polen, fiebre del heno, rinitis alérgica, ácaros, EPOC, bronquitis asmática…** Hablamos de un abanico de enfermedades que cursan con problemas para poder respirar.
+Pero si hay un grupo nutrido de alérgicos, ese es el que pertenece al conjunto de pacientes con afecciones respiratorias. **[Asma](https://medlineplus.gov/spanish/asthma.html), [polen](https://es.wikipedia.org/wiki/Polen), [fiebre del heno](https://cuidateplus.marca.com/enfermedades/alergias/fiebre-del-heno.html), [rinitis alérgica](https://medlineplus.gov/spanish/hayfever.html), ácaros, [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [bronquitis asmática](https://medlineplus.gov/spanish/acutebronchitis.html)…** Hablamos de un abanico de enfermedades que cursan con problemas para poder respirar.
 
 En algunos casos, la enfermedad llega a tales niveles que el paciente precisa **de intervenciones de urgencia y grandes dosis de medicamentos corticoesteroideos** o, incluso, adrenalina.
 
 ### Cómo te ayudan las apps para las alergias
 
-En el caso de las apps para alergias respiratorias como [📱 Zensei](https://zenseiapp.com), solo tienes que descargártela para Android o IOS. La instalas y ya tienes todo el **control de tu salud respiratoria**. Es como un diario en el que registras tus síntomas diariamente.
+En el caso de las [apps para alergias respiratorias](https://www.xatakamovil.com/aplicaciones/cinco-aplicaciones-para-los-alergicos-al-polen-en-android-y-ios) como [📱Zensei](https://zenseiapp.com), solo tienes que descargártela para Android o IOS. La instalas y ya tienes todo el **control de tu salud respiratoria**. Es como un diario en el que registras tus síntomas diariamente.
 
 Podrás estar al día del **nivel de concentración de polen** que hay en tu ciudad esa mañana. Del estado de la **meteorología**, por si va a hacer aire y eso te trae problemas con tu alergia. De **niveles de polución**. Control de tus constantes respiratorias e incluso hasta **control de plagas como los piojos**, que también producen reacciones alérgicas a muchas personas.
 
-Pero lo mejor de todo es que lo pruebes por ti mismo. [ Descárgate la app de 📱 Zenseii](https://zenseiapp.com) y ponla a funcionar. Ahora que es primavera y la polinización está en plena efervescencia, a lo mejor te llevas una sorpresa al ver cómo puedes mantener cierto control sobre esos factores ambientales que tanta lata te dan.
+Pero lo mejor de todo es que lo pruebes por ti mismo. [ Descárgate la app de 📱Zensei](https://zenseiapp.com) y ponla a funcionar. Ahora que es primavera y la polinización está en plena efervescencia, a lo mejor te llevas una sorpresa al ver cómo puedes mantener cierto control sobre esos factores ambientales que tanta lata te dan.
 
 Si sabes de antemano lo que va a ocurrir, **podrás estar más atento y ponerle solución**. No salir de casa o hacerlo con mascarilla o a una hora en la que haya menos concentración de alérgenos en el ambiente. Cuéntanos tu experiencia y así podremos seguir mejorando.
 
