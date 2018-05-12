@@ -119,3 +119,9 @@ if(test){
 }
 
 // End AB Testing
+
+var name = getUrlParameter('name');
+console.log(name)
+if(name){  
+  $( "text#name" ).text(". " + name + " ya lo hace.");
+}
