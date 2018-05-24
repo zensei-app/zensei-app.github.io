@@ -11,7 +11,7 @@ description: Las ciudades buscan la ayuda de la tecnología para evitar el impac
 Las ciudades buscan la ayuda de la tecnología para evitar el impacto de la contaminación sobre la salud respiratoria de niños,
 ancianos y pacientes respiratorios con asma, epoc o rinitis alérgica.
 
-Nos entrevitaron en La Cometa, un programa que se emite en el Canal Internacional de TV.
+Nos entrevistaron en La Cometa, un programa que se emite en el Canal Internacional de TV.
 
 La entrevista consistía en los riesgos de salud de la contaminación en las ciudades y como la tecnología nos puede ayudar a evitaros.
 
