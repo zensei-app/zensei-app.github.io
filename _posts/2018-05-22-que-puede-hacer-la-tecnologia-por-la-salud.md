@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🤧 Qué pueden hacer las nuevas tecnologías por la salud"
+title:  "📱🤧 Qué pueden hacer las nuevas tecnologías por la salud"
 date:   2018-05-22 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: salud, tecnología, apps
