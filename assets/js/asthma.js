@@ -32,7 +32,7 @@ function defaultChartConfig(containerId, data) {
 }
 
 
-d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/all/asthma.csv", function(data) {
+d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/asthma/asthma.csv", function(data) {
 
   format = d3.time.format("%Y-%m-%d")
   dataset = data.map(function(d, i) {
