@@ -36,7 +36,9 @@ Procura tumbarte con un par de almohadas detrás de la cabeza, para que el cuerp
 
 🤧 Si persiste la fiebre, date un baño de agua tibia. Por supuesto, si llega a cotas muy altas, llama a urgencias.
 
-Descárgate la app de [📱 Zensei](https://zenseiapp.com). Es completamente gratuita y es un diario sobre tu salud respiratoria. Puedes ver un montón de aspectos relacionados con este tipo de enfermedades, desde el tiempo que va a hacer, hasta si hay polución, [mucho polen](https://zenseiapp.com/blog/2018/04/26/embarada-alergia-polen/)… o algunos consejos para que te encuentres mejor.
+Sigue la evolución de la epidemia de la gripe en nuestro **[Observatorio de la Gripe para España](https://zenseiapp.com/gripe)** o si quieres puedes seguirla ene nuestra [app](https://zenseiapp.com).
+
+Descárgate [📱 Zensei](https://zenseiapp.com). Es completamente gratuita y es un diario sobre tu salud respiratoria. Puedes ver un montón de aspectos relacionados con este tipo de enfermedades, desde el tiempo que va a hacer, hasta si hay polución, [mucho polen](https://zenseiapp.com/blog/2018/04/26/embarada-alergia-polen/)… o algunos consejos para que te encuentres mejor.
 
 
 
