@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   "😷 ¿Cómo evitar los riesgos de la contaminación sobre la salud?"
-date:   2017-07-10 10:00:00 +0200
+date:   2017-05-10 10:00:00 +0200
 author: Zensei Team
 categories: contaminación, polución, salud, riesgo, ambiental, riesgo, salud, alertas, contaminación atmosférica
 image: /img/polución.jpg
@@ -42,7 +42,7 @@ El problema está en que la paliación de estos efectos contaminantes va más al
 
 De acuerdo con datos del Air Quality Management District (AQMD), los niños están más expuestos a la contaminación atmosférica debido a que respiran más aire en relación a su peso corporal y tamaño de sus pulmones. Por ello, desde Zensei creemos que es importante tomar conciencia de la calidad del aire siendo un problema que afecta tanto a nuestra salud como a la de los más pequeños. A través de nuestra app, te daremos a conocer los niveles del aire perjudiciales para la salud. Así podrás tomar medidas para reducir la exposición de los niños al aire contaminado, como por ejemplo, evitar actividades físicas al aire libre, como correr o jugar al fútbol.
 
-Zensei se compromete a ayudarte a mantener tu buena salud y la de los más pequeños. ¡Ayúdanos a conseguirlo! 👉 ¡Corre la voz! 😃
+**[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita y te alerta de los niveles de contaminación y además de otros factores de entornos como los virus respiratorios, polen y cambios de clima que pueden afectar a tu respiración. También te permite llevar un diario de salud donde asocia síntomas con tu entorno para que descubras si la contaminación influye sobre tu salud.
 
 
 ### Referencias:
