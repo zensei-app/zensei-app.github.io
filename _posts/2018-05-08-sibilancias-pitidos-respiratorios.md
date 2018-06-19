@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌬️ Qué indican los pitidos al respirar"
+title:  "🌬️ Qué indican los pitidos al respirar y como evitarlos"
 date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
@@ -38,7 +38,7 @@ Lo mejor, en estos casos, es que **el paciente duerma recostado**, con algunos c
 
 En cualquier caso, sea cual sea la causa que produce los silbidos al respirar, en cuanto notemos que la situación se agrava o persiste, no dudes en acudir a urgencias o llamar a los servicios de emergencia.
 
-¿Quieres saber cuáles son y evitar los desencadenantes de los pitidos? [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
+¿Quieres saber cuáles son y evitar los desencadenantes de los pitidos al respirar? [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
 
 
 
