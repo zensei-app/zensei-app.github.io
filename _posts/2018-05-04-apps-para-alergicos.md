@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📱🤧 Apps para alérgicos"
+title:  "📱🤧 Apps para alérgicos al polen"
 date:   2018-05-04 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas
