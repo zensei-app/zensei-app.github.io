@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🤧 Cómo detener un ataque de estornudos"
+title:  "🤧 Cómo detener un ataque de estornudos paso a paso"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: estornudos, alergia

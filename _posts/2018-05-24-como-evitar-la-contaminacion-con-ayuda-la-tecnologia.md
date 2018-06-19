@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🌆📱 Cómo la tecnología ayuda a evitar los riesgo de salud de la contaminación"
+title: "🌆📱 Cómo evitar los riesgo de salud de la contaminación"
 date: 2018-05-24 10:00:00 +0200
 author: Zensei Team
 categories: riesgo, salud, ambientales, app, contaminación
@@ -8,8 +8,7 @@ image: https://www.youtube.com/embed/NQilk-irm2U
 description: Las ciudades buscan la ayuda de la tecnología para evitar el impacto de la contaminación sobre la salud respiratoria de niños, ancianos y pacientes respiratorios con asma, epoc...
 ---
 
-Las ciudades buscan la ayuda de la tecnología para evitar el impacto de la contaminación sobre la salud respiratoria de niños,
-ancianos y pacientes respiratorios con asma, epoc o rinitis alérgica.
+Las ciudades buscan la ayuda de la tecnología para evitar el impacto de la contaminación sobre la salud respiratoria de niños, ancianos y pacientes respiratorios con asma, epoc o rinitis alérgica.
 
 Nos entrevistaron en La Cometa, un programa que se emite en el Canal Internacional de TV.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌼🤧 Cómo prevenir la alergia al polen"
+title:  "🌼🤧 Cómo prevenir la alergia al polen de forma fácil"
 date:   2018-05-09 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, alergia, primavera
