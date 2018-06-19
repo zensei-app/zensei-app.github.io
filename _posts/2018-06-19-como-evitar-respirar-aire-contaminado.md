@@ -24,7 +24,7 @@ La calidad del aire se estima midiendo los niveles de **cinco agentes contaminan
 
 Las medidas se establecen entre 1 y 500. Cuando la puntuación llega a 150 ya se considera un entorno insalubre. Si se superan los 300 el entorno es peligroso y poblaciones enteras se ven afectadas.
 
-La mala calidad del aire aumenta notablemente las probabilidades de padecer **[cáncer de pulmón](https://medlineplus.gov/spanish/lungcancer.html), [infecciones respiratorias](http://www.kernpharma.com/blog/-/blogs/las-infecciones-respiratorias-mas-frecuentes-y-como-evitarlase), [enfermedades cardiovasculares](https://es.wikipedia.org/wiki/Enfermedades_cardiovasculares) y [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm).**
+La mala calidad del aire aumenta notablemente las probabilidades de padecer **[cáncer de pulmón](https://medlineplus.gov/spanish/lungcancer.html), [infecciones respiratorias](http://www.kernpharma.com/blog/-/blogs/las-infecciones-respiratorias-mas-frecuentes-y-como-evitarlase), [enfermedades cardiovasculares](https://es.wikipedia.org/wiki/Enfermedades_cardiovasculares) y [EPOC](https://zenseiapp.com/blog/2018/05/16/que-es-el-epoc/).**
 
 ### Qué hacer para no respirar aire contaminado
 
