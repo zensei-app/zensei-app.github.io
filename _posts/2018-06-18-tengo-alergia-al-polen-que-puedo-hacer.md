@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "🌼🌷 Alergia al Polen: Todo lo que deberías saber"
-date:   2017-06-26 10:00:00 +0200
+title:  "🌼🌷 Tengo alergia al polen que puedo hacer"
+date:   2018-06-17 10:00:00 +0200
 author: Zensei Team
 categories: polen, alergia, síntomas, polen
 image: https://supercurioso.com/wp-content/uploads/2015/10/estornudo.jpg
-description: Los más pequeños de la casa suelen enfermarse con más frecuencia, y esto se debe a que su sistema inmunitario se encuentra en continua formación. Sin embargo, se trata de un proceso normal de nuestro ciclo vital...
+description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos...
+
 ---
 
-Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos  🤧😷 – estarán relacionados con el cambio de estación. Si desarrollas estos mismos síntomas cada año en la misma fecha, lo más probable es que estés sufriendo de una alergia.
+Es el cuarto [ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo) que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos  🤧😷 – estarán relacionados con el cambio de estación. Si desarrollas estos mismos síntomas cada año en la misma fecha, lo más probable es que estés sufriendo de una alergia.
  
 De acuerdo con la Organización mundial de la salud, más de 400 millones de personas son alérgicas al polen y esta cifra aumenta cada año. De acuerdo con el Informe de Provisión de Pólenes de 2017 del Seaic, las enfermedades alérgicas relacionadas con el polen afectan a un 30 % de la población española – 16 millones de personas.
  
@@ -18,9 +19,9 @@ La alergia estacional o también llamada fiebre de heno, es la alergia más com�
 ![niños zensei resfriado](/img/19389787_10213834807130019_102773456_n.jpg){: .center-image }
 <br>
 
-De acuerdo con datos de GlaxoSmithKline Consumer Healthcare (GSK CH), el 85% de las personas con alergia sufren de cansancio, mientras que el 67% irritabilidad, un 60% tristeza y un 57% sufre de dificultades para dormir.
+De acuerdo con datos de [GlaxoSmithKline Consumer Healthcare (GSK CH)](http://gsk.com/?gclid=CjwKEAjwj6PKBRCAy9-07PeTtGgSJAC1P9xGtM_ptkNAam8vUWHAmNfDKLNJ1NWj0kp-5OXy6mDd_xoC6D7w_wcB), el 85% de las personas con alergia sufren de cansancio, mientras que el 67% irritabilidad, un 60% tristeza y un 57% sufre de dificultades para dormir.
  
-Además de estos síntomas, la alergia al polen puede manifestarse en cambios de humor, fatiga y hasta en cierto grado de depresión y ansiedad. Este tipo de alergia afecta sobre todo a los más pequeños deteriorando su rendimiento escolar.
+Además de estos síntomas, la [alergia al polen](http://www.alergias24.com/polen/) puede manifestarse en cambios de humor, fatiga y hasta en cierto grado de depresión y ansiedad. Este tipo de alergia afecta sobre todo a los más pequeños deteriorando su rendimiento escolar.
  
 Esta alergia no tiene aún cura, pero sí es cierto que podemos tomar una serie de medidas para reducir sus síntomas.  Desde Zensei, nos gustaría darte unos consejos fáciles de seguir, para que el polen no te cause tantas molestias y así poder mantener un mejor rendimiento en tu vida diaria 💪😊. 
  
@@ -42,7 +43,7 @@ Entre los alérgenos causantes de esta alergia, la mitad se componen de pólenes
 ![niños zensei piojos](https://supercurioso.com/wp-content/uploads/2015/10/estornudo.jpg){: .center-image }
 <br>
 
-La primavera es la estación del año favorita de las alergias, esta pasada primavera fue bastante leve en zonas como Canarias, en el litoral mediterráneo o en la zona centro y en Andalucía, mientras que alcanzó su mayor pico en zonas como Extremadura, según datos de la Sociedad Española de Alergología e Inmunología Clínica (Seaic).
+La primavera es la estación del año favorita de las alergias, esta pasada primavera fue bastante leve en zonas como Canarias, en el litoral mediterráneo o en la zona centro y en Andalucía, mientras que alcanzó su mayor pico en zonas como Extremadura, según datos de la [Sociedad Española de Alergología e Inmunología Clínica (Seaic)](http://www.seaic.org/).
  
 Sin embargo, la alergia no solo es una patología relacionada con la estacionalidad, concentrada solo en los meses primaverales. Este es uno de los mitos más extendidos en torno a las alergias.  
 
@@ -58,11 +59,5 @@ En Zensei, nos preocupamos por todos aquéllos factores que puedan afectar a tu 
 ![niños zensei varicela](/img/19359185_10213834807690033_1729307533_o.png){: .center-image }
 <br>
 
-Zensei se preocupa por tu salud, ¡ayúdanos a mejorar la salud de muchas más personas compartiendo Zensei con tu grupo de amigos, pareja o familiares! Todos tenemos derecho a una buena salud sin que nos cueste nada 😉
-
-### Referencias:
-
-[1] [Sociedad Española de Alergología e Inmunología Clínica (Seaic)](http://www.seaic.org/)
-
-[2] [GlaxoSmithKline Consumer Healthcare (GSK CH)](http://gsk.com/?gclid=CjwKEAjwj6PKBRCAy9-07PeTtGgSJAC1P9xGtM_ptkNAam8vUWHAmNfDKLNJ1NWj0kp-5OXy6mDd_xoC6D7w_wcB)
+**[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita y te alerta de todas los factores que pueden provocarte síntomas respiraotrios como el polen, la contaminación, virus respiratorios, clima, etc.
 

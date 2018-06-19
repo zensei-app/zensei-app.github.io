@@ -44,5 +44,7 @@ Lo cierto es que se ha podido comprobar que las personas que residen cerca de au
 
 Por si todo esto fuera poco, a los males ya relatados, **hemos de sumar la irritación provocada por el propio aire contaminado**. La polución acaba afectando a la nariz, la faringe y los pulmones. Con todo está claro que la alergia por contaminación es un hecho contrastado.
 
-[📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
+[📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer. 
+
+Y si quiers verla en acción puedes ver un[video sobre nuestro app de salud respiratoria](https://zenseiapp.com/blog/2018/05/24/como-evitar-la-contaminacion-con-ayuda-la-tecnologia/) y como puede ayudar a evitar los efectos de la contaminación sobre la salud de pacientes con asma, epoc y rinitis alérgica.
 

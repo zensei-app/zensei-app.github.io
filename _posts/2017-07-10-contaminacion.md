@@ -3,7 +3,7 @@ layout: post
 title:   "😷 ¿Cómo evitar los riesgos de la contaminación sobre la salud?"
 date:   2017-07-10 10:00:00 +0200
 author: Zensei Team
-categories: contaminación, polución, salud, riesgo, ambiental, riesgo, salud, alertas
+categories: contaminación, polución, salud, riesgo, ambiental, riesgo, salud, alertas, contaminación atmosférica
 image: /img/polución.jpg
 description: La contaminación del aire supone un importante riesgo para la salud a nivel mundial, pero ¿qué sabemos de los los efectos que supone para nuestro bienestar? ...
 ---
