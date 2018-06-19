@@ -20,7 +20,6 @@ Solo debes disponer de un dispositivo móvil, una tablet, un portátil… aunque
 
 **Ahora le ha llegado el turno a los alérgicos.** Son millones de personas las que cada año ven sus vidas trastocadas por algo tan diminuto como un alérgeno. Tenemos alérgicos de todo tipo, desde los que no pueden juntarse con un ácaro hasta aquellos que se hinchan como un odre al tocar un marisco.
 
-
 ### Las alergias respiratorias
 
 Pero si hay un grupo nutrido de alérgicos, ese es el que pertenece al conjunto de pacientes con afecciones respiratorias. **[Asma](https://medlineplus.gov/spanish/asthma.html), [polen](https://es.wikipedia.org/wiki/Polen), [fiebre del heno](https://cuidateplus.marca.com/enfermedades/alergias/fiebre-del-heno.html), [rinitis alérgica](https://medlineplus.gov/spanish/hayfever.html), ácaros, [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [bronquitis asmática](https://medlineplus.gov/spanish/acutebronchitis.html)…** Hablamos de un abanico de enfermedades que cursan con problemas para poder respirar.
