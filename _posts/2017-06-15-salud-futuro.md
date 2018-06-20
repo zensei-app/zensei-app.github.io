@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "🔮 El futuro de la salud ¿Un nuevo paradigma social y tecnológico?"
+title:  "🔮 El futuro de la salud ¿Un nuevo paradigma?"
 date:   2017-06-19 10:00:00 +0200
 author: Zensei Team
-categories: futuro, salud
+categories: futuro, salud, tecnología, tratamiento digital
 image: https://cdns3.eltiempo.es/eltiempo/blog/noticias/2016/12/22102819/contaminacion-en-madrid.jpg
 description: Hoy en día percibimos la salud como un proceso de mantenimiento individual, donde nosotros mismos somos los que tenemos que esforzarnos en mantenerla y cuidarla, pero esta concepción de la salud es más bien moderna...
 ---
  
-Hoy en día percibimos la salud como un proceso de mantenimiento individual, donde nosotros mismos somos los que tenemos que esforzarnos en mantenerla y cuidarla, pero esta concepción de la salud es más bien moderna. 
+Hoy en día percibimos la salud como un proceso de mantenimiento individual, donde nosotros mismos somos los que tenemos que esforzarnos en mantenerla y cuidarla, pero esta concepción de la salud es más bien moderna.
 
 En el siglo XX, los individuos no eran los encargados de mantener su salud, sino que eran los propios médicos y su conocimiento experto los encargados de protegerla. 
  
@@ -38,7 +38,7 @@ Según el sociólogo Ricardo Jiménez Aboitiz, hemos desarrollado una nueva mora
 
 Dado este nuevo paradigma, Zensei apuesta por las nuevas tecnologías. Nosotros creemos que el futuro de la salud se encuentra en la capacidad de los nuevos dispositivos que son capaces de analizar datos, y a partir de éstos, deducir patrones predictivos para informarte de cómo mantener tu salud.
  
-Según el último análisis realizado por EY Global, la salud está cada vez más conectada a nuestra vida diaria debido a los nuevos avances en comunicación como aplicaciones móviles. Estas nuevas aplicaciones están empezando a jugar un rol muy importante en la industria de la salud, ofreciendo al paciente una información más detallada sobre sus síntomas y riesgos y así, un mayor control sobre su salud.  
+Según el último análisis realizado por EY Global, la salud está cada vez más conectada a nuestra vida diaria debido a los nuevos avances medicina computacional y en comunicación como aplicaciones móviles. Estas nuevas aplicaciones están empezando a jugar un rol muy importante en la industria de la salud, ofreciendo al paciente una información más detallada sobre sus síntomas y riesgos, permitiendo un mayor control sobre su salud.  
 
 <br>
 ![Zensei calidad del aire, contaminación, gripe](/img/landing.png){: .center-image width=50% }
@@ -51,6 +51,12 @@ A través de nuestra aplicación, predecimos situaciones y realizamos diagnósti
 Zensei notifica diariamente distintos riesgos a los que está expuesta tu salud y además te dará consejos para ayudarte a cambiar tus hábitos para evitar dichos riesgos a los que estamos expuestos en nuestra vida diaria y así poder llevar un modo de vida más saludable.
  
 Zensei se suma la revolución de la salud. Únete al futuro con nosotros ¡No te quedes fuera!
+
+Descargate aquí nuestra asistente de salud respiratoria, estamos esperando conocer tu opinión.
+
+📱 [Android](https://zenseiapp.com)
+
+📱 [iPhone](https://zenseiapp.com)
  
 ### Referencias:
 
