@@ -18,7 +18,7 @@ Esta es la predicción de nuestro modelo a 8 semanas. Estima que el pico llegar�
 
 De los últimos 6 años es la que más se ha adelantado y parece que la difusión viene con mucha inercia, nuestras dudas son si se mantendrá así durante las próximas 2 y 3 semanas, porque si es así y sigue el virus con la misma inercia, puede que sea uno de los picos más intensos de los últimos años. 
 
-Al coincidir la epidémia con las Navidades la propagación puede ser explosiva, o mejor dicho viral, debido a que aumentamos nuestro contacto físico con otras personas en lugares cerrados. Por lo tanto, es mucho más probable que estemos expuestos al virus y que lo contraigamos. 
+Al coincidir la epidemia con las Navidades la propagación puede ser explosiva, o mejor dicho viral, debido a que aumentamos nuestro contacto físico con otras personas en lugares cerrados. Por lo tanto, es mucho más probable que estemos expuestos al virus y que lo contraigamos. 
 
 <br>
 ![gripe temporadas](/img/gripe_temporadas.png){: .center-image }
