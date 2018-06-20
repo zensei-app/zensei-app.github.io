@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👶🤧 Cómo aliviar la congestión nasal en los bebés"
+title:  "👶🤧 Cómo aliviar de forma fácil la congestión nasal en los bebés"
 date:   2018-05-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: salud respiratoria, congestión nasal, bebés, remedios
@@ -8,7 +8,7 @@ image: /img/baby-3386758_1280.jpg
 description: Si crees padecer algún tipo de alergia lo primero que debes hacer es acudir a tu médico de cabecera para confirmar el diagnóstico. Si el especialista lo considera oportuno, te indicará que debes,...
 ---
 
-Uno de los problemas más habituales en los bebés es la **congestión nasal.** El [cuidado de la nariz](https://www.cinfasalud.com/areas-de-salud/cuidado-diario/nariz/cuidado-de-la-nariz/) de un recién nacido hará que el pequeño esté más tranquilo y no se encuentre tan molesto. Pero, ¿qué debemos hacer para **aliviar la congestión nasal de los bebés**?
+Uno de los problemas más habituales en los bebés es la **[congestión nasal](https://medlineplus.gov/spanish/ency/article/003049.htm).** El [cuidado de la nariz](https://www.cinfasalud.com/areas-de-salud/cuidado-diario/nariz/cuidado-de-la-nariz/) de un recién nacido hará que el pequeño esté más tranquilo y no se encuentre tan molesto. Pero, ¿qué debemos hacer para **aliviar la congestión nasal de los bebés**?
 
 <br>
 ![Zensei app](/img/baby-3386758_1280.jpg){: .center-image }
@@ -64,7 +64,7 @@ Por último, si la congestión persiste y es muy grande, utiliza un **aspirador 
 
 También puedes llevar un diario de la salud respiratoria. Ahora existen apps de salud que se instalan en el teléfono móvil y tu smartphone será el encargado de informarte y de recolectar toda la información sensible para que tu asma y tus crisis asmáticas sean menos agresivas. 
 
-**[📱Prueba la app de Zensei](https://zenseiapp.com)**, además es gratuita y **te alerta de todas las causas por las que se pueden producir la congestión nasal**.
+**[📱Prueba la app de Zensei](https://zenseiapp.com)**, además es gratuita y **te alerta de todas las causas por las que se pueden producir la congestión nasal de tu bebé**.
 
 
 

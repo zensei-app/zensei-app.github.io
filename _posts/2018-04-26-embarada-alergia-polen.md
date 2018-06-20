@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌼🤰 Qué puedo hacer si tengo alergia al polen y estoy embarazada"
+title:  "🌼🤰 Qué puedo hacer ya si tengo alergia al polen y estoy embarazada"
 date:   2018-04-26 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: embarazada, polen, alergia, diario, salud, respiratoria, evitar, síntomas

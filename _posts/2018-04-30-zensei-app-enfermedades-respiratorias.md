@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "⚡📱 Zensei: una app para enfermedades respiratorias"
+title:  "⚡📱 Zensei: una app para enfermedades respiratorias como asma, epoc o rintis alérgica"
 date:   2018-04-30 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: diario, salud, respiratoria, zensei, enfermedades, respiratorias, digital, app, asma, epoc, zensei
@@ -14,8 +14,7 @@ Ha llegado la primavera y estamos en plena eclosión. Los insectos y las flores 
 ![polenómetro Zensei app](/img/showoff.png){: .center-image }
 <br>
 
-Las Nuevas Tecnologías, afortunadamente para quienes padecen enfermedades como el asma, han llegado para ayudarnos. Es el caso de **Zensei, una sencilla app que te descargas en tu dispositivo móvil** y que te va guiando para que sepas qué hacer y cómo gestionar tu día a día, dependiendo de las condiciones que se dan en el exterior.
-
+Las Nuevas Tecnologías, afortunadamente para quienes padecen enfermedades como el asma, [han llegado para ayudarnos](https://zenseiapp.com/blog/2018/04/30/zensei-app-enfermedades-respiratorias/). Es el caso de **Zensei, una sencilla app que te descargas en tu dispositivo móvil** y que te va guiando para que sepas qué hacer y cómo gestionar tu día a día, dependiendo de las condiciones que se dan en el exterior.
 
 ### Un “polenómetro” en el bolsillo
 

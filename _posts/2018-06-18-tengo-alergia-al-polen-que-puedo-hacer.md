@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌼🌷 Tengo alergia al polen que puedo hacer"
+title:  "🌼🌷 Qué puedo hacer para evitar los síntomas de la alergia al polen desde hoy"
 date:   2018-06-17 10:00:00 +0200
 author: Zensei Team
 categories: polen, alergia, síntomas, polen
@@ -59,5 +59,5 @@ En Zensei, nos preocupamos por todos aquéllos factores que puedan afectar a tu 
 ![niños zensei varicela](/img/19359185_10213834807690033_1729307533_o.png){: .center-image }
 <br>
 
-**[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita y te alerta de todas los factores que pueden provocarte síntomas respiraotrios como el polen, la contaminación, virus respiratorios, clima, etc.
+**[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita y te alerta de todas los factores que pueden provocarte síntomas respiratorios como el polen, la contaminación, virus respiratorios, clima, etc. Lee nuestro artículo sobre [apps para alérgicos](https://zenseiapp.com/blog/2018/05/04/apps-para-alergicos/).
 

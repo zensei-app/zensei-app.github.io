@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🌆📱 Cómo evitar los riesgo de salud de la contaminación"
+title: "🌆📱 Cómo evitar los riesgo de la contaminación sobre la salud facilmente"
 date: 2018-05-24 10:00:00 +0200
 author: Zensei Team
 categories: riesgo, salud, ambientales, app, contaminación
