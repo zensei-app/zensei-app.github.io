@@ -23,5 +23,3 @@ Si quieres saber como puedes evitar la contaminación puedes ver la entrevista y
 <br>
 
 [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
-
-
