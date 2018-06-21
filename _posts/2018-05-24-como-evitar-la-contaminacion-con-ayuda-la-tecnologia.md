@@ -18,11 +18,9 @@ Dandonos a conocer la contaminación, la relación que tiene directamente sobre 
 
 Si quieres saber como puedes evitar la contaminación puedes ver la entrevista y si te interesa, descargate el asistente de salud respiratoria de Zensei. 
 
-
 <br>
 <iframe class="center-image" width="420" height="315" src="https://www.youtube.com/embed/NQilk-irm2U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-
 
 [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
 

@@ -4,7 +4,7 @@ title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla"
 date:   2018-06-18 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: aire contaminado, evitar contaminación
-image: /img/13397331035_dd80d2f94d_b.jpg
+image: /img/gas-2858150_960_720.jpg
 description: El 95% de la población de España respira aire contaminado, según los estudios de Calidad del Aire. Este porcentaje indica que no se están respetando los topes máximos...
 ---
 

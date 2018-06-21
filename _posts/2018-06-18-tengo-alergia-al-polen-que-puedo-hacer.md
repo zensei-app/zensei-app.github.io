@@ -4,7 +4,7 @@ title:  "🌼🌷 Qué puedo hacer para evitar los síntomas de la alergia al po
 date:   2018-06-17 10:00:00 +0200
 author: Zensei Team
 categories: polen, alergia, síntomas, polen
-image: https://supercurioso.com/wp-content/uploads/2015/10/estornudo.jpg
+image: /img/19389787_10213834807130019_102773456_n.jpg
 description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos...
 
 ---
