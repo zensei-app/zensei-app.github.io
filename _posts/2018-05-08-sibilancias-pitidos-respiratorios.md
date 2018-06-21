@@ -38,7 +38,14 @@ Lo mejor, en estos casos, es que **el paciente duerma recostado**, con algunos c
 
 En cualquier caso, sea cual sea la causa que produce los silbidos al respirar, en cuanto notemos que la situación se agrava o persiste, no dudes en acudir a urgencias o llamar a los servicios de emergencia.
 
-¿Quieres saber cuáles son y evitar los desencadenantes de los pitidos al respirar? [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
+
+### Quieres saber cuáles son y evitar los desencadenantes de los pitidos al respirar de forma sencilla
+
+Nuestro **Asistente de Salud Respiratoria** te ayuda a controlar tus síntomas y el entorno que te rodea, para que puedas evitar los fastidiosos pitidos al respirar.
+<br>
+![Asma Zensei app](/img/zensei-app-description.png){: .center-image }
+<br>
+**[📱 Descárgate la app de Zensei](https://zenseiapp.com)** y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
 
 
 
