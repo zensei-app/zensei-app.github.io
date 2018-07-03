@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🤒👾 Qué es la bronquiolitis y cómo evitarla facilmente"
+title:  "🤒👾 Qué es una bronquitis y cómo evitarla facilmente"
 date:   2018-07-02 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: alergia cruazda
