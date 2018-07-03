@@ -220,7 +220,7 @@
         },
         {
           key: 'Predicción',
-          values: datasetPred.sort(sortByDateAscending).slice((datasetPred.length - 52), datasetPred.length),
+          values: datasetPred.sort(sortByDateAscending).slice((datasetPred.length - 4), datasetPred.length),
           color: "orange",
           strokeWidth: 3.5,
         }

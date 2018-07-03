@@ -40,7 +40,6 @@ De este modo, a través de una sencilla app instalada en el móvil, el enfermo p
 
 En este sentido, Zensei es una de esas apps para asmáticos y personas con problemas respiratorios. Es sencilla, manejable y muy intuitiva. Está disponible en Android e IOS y puedes probarla gratuitamente y comentarnos qué tal te ha ido la experiencia.
 
-
 [📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
 
 
