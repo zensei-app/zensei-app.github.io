@@ -13,9 +13,9 @@ timezone: Europe/Madrid
 
 
 # Site settings
-title: Zensei
+title: Zensei - La App Diario de Salud Respiratoria
 description: >
-  El diario de salud digital contextual e inteligente para personas con problemas respiratorios.
+ Control personalizado para enfermedades respiratorias, como el asma, epoc y rinitis alérgica. Fácil seguimiento, reduce los síntomas o controla el entorno, tus hábitos y medicación desde casa con la app de salud respiratoria de Zensei.
 baseurl: ""
 url: "https://zenseiapp.com"
 
