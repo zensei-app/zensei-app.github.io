@@ -13,10 +13,10 @@ timezone: Europe/Madrid
 
 
 # Site settings
-title: Zensei, la App Diario de Salud Respiratoria
+title: Zensei, la App Diario de Salud Respiratoria para Asma, EPOC, Alergia al Polen o Bronquitis.
 description: >
- Control personalizado para enfermedades respiratorias, como el asma, epoc y rinitis alérgica. Fácil seguimiento, reduce los síntomas o controla el entorno, tus hábitos y medicación desde casa con la app de salud respiratoria de Zensei.
-baseurl: ""
+ Fácil control personalizado de síntomas, hábitos, medicación y desencandenantes de el asma, epoc, rinitis alérgica o bronquitis. 
+baseurl: "" 
 url: "https://zenseiapp.com"
 
 permalink: /blog/:year/:month/:day/:title/
