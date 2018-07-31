@@ -91,7 +91,7 @@ ga(function(tracker) {
 $("#cta-top").click(function() {
   $('html, body').animate({
     scrollTop: $("#install").offset().top
-  }, 2000);
+  }, 5000);
 });
 
 // Begin AB Testing
@@ -125,3 +125,12 @@ var name = getUrlParameter('name');
 if(name != 'undefined'){  
   $( "text#name" ).text(". " + name + " ya lo hace.");
 }
+
+// Conversion
+$( document ).ready(function() { 
+
+function gtag_report_conversion(url) { var callback = function () { if (typeof(url) ≠ 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-823066871/povGCPuL7noQ94G8iAM', 'event_callback': callback }); return false;
+}
+$(".install-button").click(function() {gtag_report_conversion()});
+});
+
