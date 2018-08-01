@@ -181,7 +181,6 @@ svg.sparkline {
   margin: 2rem auto 0;
 }
 
-
 .phone-wrapper{
   display: block;
   margin-top: 2rem;
@@ -197,7 +196,6 @@ svg.sparkline {
   top: 6px;
   z-index: 0;
 }
-
 
 .app{
   position: absolute;
@@ -417,7 +415,7 @@ p.asthma__kpi {
       display: block;
       font-size: 2.5rem;
       margin: 1rem 0;
-      margin-top: 50px;
+      margin-top: 75px;
       width: 100%;
       line-height: 1;
       color: #333333;
@@ -428,6 +426,18 @@ p.asthma__kpi {
       font-size: 1.1rem;
       line-height: 1.2;
     }
+  }
+}
+
+@media screen and (max-width: $mobile-bp){
+  .item{
+    li{
+      width: 100%;
+      strong {
+        margin-top: 5px
+      }
+    }
+
   }
 }
 
