@@ -203,32 +203,155 @@ function gtag_report_conversion(url) {
 
 <body>
 
-<br>
+<div class="top-banner" id="topBanner">
+
+  <div class="container">
+    <a class="close" href="">&times;</a>
+    <br>
+    <p id="cityMsg"> 🌆 + 🌼 + 🌡️  + 👾 = 🤧</p>
+    <p id="cityMsg">Descárgate Zensei.</p>
+    <div>
+      <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal' >
+        <img src="/assets/img/google-play-badge.png" height="50" >
+      </a>
+      <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://itunes.apple.com/us/app/zensei-diario-de-salud/id1364876863?ls=1&mt=8' >
+        <img src="/assets/img/iphone-badge.svg" height="35" >
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="hero-cta">
+  <a href="/blog" style="color:white">
+    <h1 class="hero-cta-text">
+      👁️ Echa un vistazo a nuestro blog.
+    </h1>
+  </a>
+</div>
+<div class="container center">
+  <a href="https://zenseiapp.com"><div class="logo-alternative">zensei</div></a>
+</div>
 <div class="container">
   <ul class="item">
-    <li class="center">
-      <br>
-      <br>
-      <a href="https://zenseiapp.com"><div class="logo-alternative">zensei</div></a>
-      <strong>Tu Diario de Salud Respiratoria</strong>
-      <p>Fácil control personalizado de síntomas, hábitos, medicación y desencadenantes de entorno.</p>
-      <div>
+    <li>
+      <strong>Tu decides cuidar de tu salud respiratoria, Zensei te lo pone fácil.<text id='name'></text></strong>
+      <p>Sabemos lo díficil que es ser constante para cuidar de nuestra salud respiratoria. Tu nuevo diario de salud respiratoria te ayuda a llevar un control sin esfuerzo de síntomas del asma, la epoc, bronquitist o la rinitis alérgica, su medicación, tus hábitos y desencadentes.</p>
+       <form action="//zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=0f18778a69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
+        <div id="mc_embed_signup_scroll">
+          <div class="mc-field-group">
+            <input placeholder="Escribe aquí tu email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="height: 50px; width: 300px;">
+            <input type="submit" value="DESCARGAR APP" name="subscribe" 
+            class="install-button"
+            style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer;" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" >
+          </div>
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>    
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a518c767a6166cb42b4e9b0f5_0f18778a69" tabindex="-1" value=""></div>
+        </div>
+      </form>
+      <div style="padding-left: 5px">
         <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal'>
-          <img  style="display: inline" src="/assets/img/google-play-badge.png" height="50">
+          <i class="fab fa-android" style="color: lightgrey; font-size: 1.5rem; padding: 5px"></i>
         </a>
-        <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://itunes.apple.com/us/app/zensei-diario-de-salud/id1364876863?ls=1&mt=8' >
-          <img style="display: inline" src="/assets/img/iphone-badge.svg" height="35">
+        <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://itunes.apple.com/us/app/zensei-diario-de-salud/id1364876863?ls=1&mt=8'>
+          <i class="fab fa-apple" style="color: lightgrey; font-size: 1.5rem; padding: 5px"></i>
         </a>
       </div>
-      <br>
-      <a class="click-button-white" href="/features" >Quiero saber más</a>
     </li>
     <li>
-      <img style="width: 100%;" src="/assets/img/phone-show.png" alt='Zensei: Diario de salud respiratoria.'>
+      <img style="width: 90%;" src="/assets/img/phone-home.png" alt='Zensei: Diario de salud respiratoria.'>
+    </li>
+  </ul>
+  <ul class="item">
+    <li>
+      <strong>Infórmate de las alertas de entorno que pueden provocarte síntomas respiratorios</strong>
+      <p>Contaminación, virus, polen o clima extremo influyen de forma signficativa sobre nuestra respiración. Utilizamos los útimos avances en inteligencia artificial aplicada a la epidemiología digital.</p>
+    </li>
+    <li>
+      <img style="width: 90%;" src="/assets/img/phone-alerts.png" alt='Zensei: Diario de salud respiratoria.'>
+    </li>
+  </ul>
+  <ul class="item">
+    <li>
+      <strong>Lleva un diario de síntomas sin esfuerzo, solo te llevará 5 segundos</strong>
+      <p>No vuelvas a perder tus datos de salud sobre síntomas, estado de ánimo y medicación. Así tu médico podrá diagnosticarte y tratarte mejor tus problemas respiratorios.</p>
+    </li>
+    <li>
+      <img style="width: 90%;" src="/assets/img/phone-input.png" alt='Zensei: Diario de salud respiratoria.'>
+    </li>
+  </ul>
+  <ul class="item">
+    <li>
+      <strong>Aprende sobre tu respiración gracias a tus datos de salud</strong>
+      <p>Podrás averiguar cuáles son los desencadenantes de entorno que provocan tus síntomas y asociarlos para saber cuales son los que te afectan, gracias a los datos de tu diario.</p>
+    </li>
+    <li>
+      <img style="width: 90%;" src="/assets/img/phone-analytics.png" alt='Zensei: Diario de salud respiratoria.'>
+    </li>
+  </ul>
+  <ul class="item">
+    <li>
+      <strong>Recomendaciones de productos y servicios respiratorios para tí</strong>
+      <p>Te ponemos fácil comprar o contratar servicios o productos respiratorios, como purificadores de aire productos de cuidados respiratorios, alergólogos, neumólogos, fisioterapeutas respiratorios, etc. para que mejores tu calidad de vida.</p>
+    </li>
+    <li>
+      <img style="width: 90%;" src="/assets/img/phone-products.png" alt='Zensei: Diario de salud respiratoria.'>
     </li>
   </ul>
 </div>
-<br>
+
+<!-- <div class="container-narrow center">
+  <h1 class="bottom__copy">
+    Todo lo que tienes que saber antes de salir de casa para cuidar de tu respiración.
+  </h1>
+</div> -->
+
+
+<div class="container-narrow padding-vertical center">
+  <h1 class="asthma__title">
+    Personas con síntomas respiratorios
+  </h1>
+  <p class="asthma__subtitle">
+    Ahora mismo en España debido a la 🌆contaminación, 👾virus respiratorios, 🌼polen y ⛅clima.
+  </p>
+  <p class="asthma__kpi" id="asthma"></p>
+  <svg id="chart2" class="sparkline"></svg>
+  <br>
+  <p id="prevalence">Evolución de la prevalencia de síntomas respiratorios por cada 100K personas.</p>
+  <a class="main-cta-top main-cta--blog padding-vertical" href="/#install" >Descúbrelo en nuestra app</a>
+</div>
+
+<div id="install" class="padding-vertical bg-grey bg-waves">
+  <div class="container-narrow center">
+    <h1 style="font-size: 24px"><strong>Haz que el Asma, el EPOC, la Bronquitis o la Alergia al Polen sean menos molestas.</strong></h1>
+    <h2>El diario de salud respiratoria diseñado conjuntamente con médicos para personas con problemas respiratorios.</h2>
+    <br>
+    <form action="//zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=0f18778a69" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate >
+      <div id="mc_embed_signup_scroll">
+        <div class="mc-field-group">
+          <input placeholder="Escribe aquí tu email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="height: 50px; width: 300px;">
+          <input type="submit" value="DESCARGAR APP" name="subscribe" style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px;padding: 0 10px;font-size: 14px;font-weight: 600;cursor: pointer;" class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" >
+        </div>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>    
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a518c767a6166cb42b4e9b0f5_0f18778a69" tabindex="-1" value=""></div>
+      </div>
+    </form>
+    <div style="padding-left: 5px">
+      <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal'>
+        <i class="fab fa-android" style="color: #1D86FF; font-size: 1.5rem; padding: 5px"></i>
+      </a>
+      <a class="install-button" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href='https://itunes.apple.com/us/app/zensei-diario-de-salud/id1364876863?ls=1&mt=8'>
+        <i class="fab fa-apple" style="color: #1D86FF; font-size: 1.5rem; padding: 5px"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
 <div class="main-footer">
   <div class="container">
     <a class="contact-link" href="mailto:hola@zenseiapp.com">hola@zenseiapp.com</a>

@@ -90,7 +90,7 @@ svg.sparkline {
   @extend .containing-block;
   display: inline-block;
   color: #F58888;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
   font-size: 1.5rem;
   font-family: $brand-font;
   &::after{
@@ -561,4 +561,25 @@ p.asthma__kpi {
 
 .hero-cta-text{
   color:white;
+}
+
+.click-button-white{
+  display: inline-block;
+  height: $v-unit;
+  line-height: $v-unit;
+  padding: 0 30px;
+  background: white;
+  color: #1D86FF;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  font-weight: $weight-bolder;
+  border-radius: $radius;
+  box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);
+  font-size: .9rem;
+  @include transition(all 0.2s ease);
+  &:hover{
+    background: darken($blue, 10%);
+    text-decoration: none;
+    color: white
+  }
 }
