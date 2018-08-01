@@ -126,11 +126,38 @@ if(name != 'undefined'){
   $( "text#name" ).text(". " + name + " ya lo hace.");
 }
 
+function gtag_report_conversion(url) { 
+  var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; 
+  gtag('event', 'conversion', { 'send_to': 'AW-823066871/povGCPuL7noQ94G8iAM', 'event_callback': callback }); 
+  return false;
+}
+
 // Conversion
 $( document ).ready(function() { 
-
-function gtag_report_conversion(url) { var callback = function () { if (typeof(url) ≠ 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-823066871/povGCPuL7noQ94G8iAM', 'event_callback': callback }); return false;
-}
-$(".install-button").click(function() {gtag_report_conversion()});
+  $(".install-button").click(function() {gtag_report_conversion()});
 });
+
+function randomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+var moves = function(){
+  var animations = [ 'shake', 'hop', 'spin','grow', 'hooray' ];
+  $('.box').on('click', function () {
+        var animation = animations[randomInt(0, animations.length - 1)];
+        var box = $(this);
+        box.addClass(animation);
+        setTimeout(function () {
+            box.removeClass(animation);
+        }, 1000);
+    });
+}
+
+var drag = function() {
+    $(".draggable").draggable();
+}
+
+$(document).ready(drag);
+$(document).ready(moves);
+
 
