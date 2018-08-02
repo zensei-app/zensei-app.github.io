@@ -8,7 +8,7 @@ image: /img/5458857332_d404800a08_b.jpg
 description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
 ---
 
-Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
+Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos o silbidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
 
 En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 
