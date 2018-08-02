@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla"
+title:  "🌆😷 Cómo evitar la contaminación del aire al respirar de forma sencilla"
 date:   2018-06-18 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: aire contaminado, evitar contaminación
+categories: aire contaminado, evitar contaminación del aire
 image: /img/gas-2858150_960_720.jpg
 description: El 95% de la población de España respira aire contaminado, según los estudios de Calidad del Aire. Este porcentaje indica que no se están respetando los topes máximos...
 ---
 
-El 95% de la población de España respira aire contaminado, según los estudios de Calidad del Aire. Este porcentaje indica que no se están respetando los topes máximos de contaminantes en el ambiente indicados por la Organización Mundial de la Salud. La pregunta es obvia, **¿cómo evitar respirar aire contaminado?**
+El [95% de la población de España respira aire contaminado](https://www.muyinteresante.es/naturaleza/articulo/el-95-de-la-poblacion-respira-aire-contaminado-321524219516), según los estudios de Calidad del Aire. Este porcentaje indica que no se están respetando los topes máximos de contaminantes en el ambiente indicados por la [Organización Mundial de la Salud](http://www.who.int/ipcs/assessment/public_health/air_pollution/es/). La pregunta es obvia, **¿cómo evitar respirar aire contaminado?**
 
 <br>
 ![Zensei app evitar contaminación](/img/gas-2858150_960_720.jpg){: .center-image }
