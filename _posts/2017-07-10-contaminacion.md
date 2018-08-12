@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "😷 Cómo evitar los riesgos de la contaminación sobre la salud sin esfuerzo"
+title:  "😷 Cómo evitar los riesgos de la contaminación sobre la salud respiratoria sin esfuerzo"
 date:   2018-06-10 10:00:00 +0200
 author: Zensei Team
 categories: contaminación, polución, salud, riesgo, ambiental, riesgo, salud, alertas, contaminación atmosférica
