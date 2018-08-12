@@ -19,6 +19,11 @@ layout: blog
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <br>
+  <h1 class="post-title">Más artículos recomendados para tí</h1>
+  <br>
+  <br>
+  {% include recommended-posts.html %}
   {% include share.html %}
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}

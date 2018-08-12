@@ -1,0 +1,23 @@
+<ul class="post-list">
+{% assign posts = site.posts | sample:3 %}
+{% for post in posts %}
+<li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+    <h2>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        <span class="post-title" itemprop="name headline">{{ post.title }}</span>
+      </a>
+    </h2>
+    <p>
+      <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
+      <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}{{ day }} de {{ month }} de {{ year }}</time>
+    </p>
+    <p itemprop="description">
+      {{ post.description | escape }}
+      <a href="{{ post.url | relative_url }}">
+        Leer Más
+      </a>
+    </p>
+    <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
+</li>
+{% endfor %}
+</ul>
