@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🤧 Cómo evitar un ataque de estornudos paso a paso"
+title:  "🤧 Cómo parar un ataque de estornudos paso a paso"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: estornudos, alergia, ataque, moquear
