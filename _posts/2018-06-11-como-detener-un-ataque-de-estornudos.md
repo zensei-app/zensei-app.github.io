@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "🤧 Cómo detener un ataque de estornudos paso a paso"
+title:  "🤧 Cómo evitar un ataque de estornudos paso a paso"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: estornudos, alergia
+categories: estornudos, alergia, ataque, moquear
 image: /img/13397331035_dd80d2f94d_b.jpg
-description: Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
+description: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
 ---
 
-Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear. **Cómo podemos parar un ataque de estornudos.**
+¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear. **Cómo podemos parar un ataque de estornudos.**
 
 <br>
 ![Zensei app](/img/13397331035_dd80d2f94d_b.jpg){: .center-image }
