@@ -14,7 +14,9 @@ En este artículo te explicamos como puedes tener bajo control tu asma. 🙇
 
 **Da igual el tipo de asma que tengas**, [intrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx) (origen genético), [extrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaextr%C3%ADnsecoperenne.aspx) (factores de entorno), [asma emocional](https://www.tendencias21.net/Comprobada-la-naturaleza-emocional-del-asma_a716.html) o por estrés, [asma bronquial](https://www.cun.es/enfermedades-tratamientos/enfermedades/asma-bronquial), [asma alérgica](https://www.alk.net/es/pacientes/que-es-el-asma-alergica), etc. Te podemos ayudar a que lleves un control del asma sin esfuerzo.
 
-**El asma es una enfermedad respiratoria que puede venir provocada por múltiples factores de riesgo**, solo necesitas controlar sin esfuerzo [síntomas del asma](https://www.mayoclinic.org/es-es/diseases-conditions/asthma/symptoms-causes/syc-20369653), medicación y [desencadenantes](https://www.mayoclinic.org/es-es/diseases-conditions/asthma/symptoms-causes/syc-20369653) para que tengas bajo control tu asma y que no vuelva a faltarte el aire.
+**El asma es una enfermedad respiratoria que puede venir provocada por múltiples factores de riesgo**, solo necesitas controlar los [síntomas del asma](https://www.mayoclinic.org/es-es/diseases-conditions/asthma/symptoms-causes/syc-20369653), medicación y [desencadenantes](https://www.mayoclinic.org/es-es/diseases-conditions/asthma/symptoms-causes/syc-20369653) para que tengas bajo control tu asma y que no vuelva a faltarte el aire.
+
+**¿Pero llevar tal control es tedioso y requiere mucho tiempo?** Pues si, por eso no todo el mundo tiene bien controlado su asma. Pero no te preocupes, te vamos a enseñar a cómo puedes controlar tu asma de forma fácil y sencilla.
 
 <br>
 ![Zensei app diario de salud respiratoria](/img/Salud_17103_Silbidos.jpg){: .center-image }
