@@ -222,7 +222,7 @@ Donde tendrás de forma GRATUITA al:
 
 🔮 Tu modelo propio de predicción de síntomas respiratorios del asma
 
-### ¿No te gustaría la próxima vez que vayas a ver a tu médico poder contarle de forma detallada cúando, cómo, donde y por qué tuvistes una crisis asmática? o ¿Saber si mañana tendrás un ataque de asma?
+### **¿No te gustaría la próxima vez que vayas a ver a tu médico poder contarle de forma detallada cúando, cómo, donde y por qué tuvistes una crisis asmática? o ¿Saber si mañana tendrás un ataque de asma?**
 
 Si ves que Zensei no se adapta a tus necesidades, **tienes la garantía de que vamos a escucharte y solucionar tu experiencia**, con tus comentarios y sugerencias de mejora, tu también construyes y mejoras Zensei, te daremos acceso directo a hablar con nosotros para que puedas contarnos tu historia con el asma y así podremos ayudarte mejor entendiendo tu situación.
 
