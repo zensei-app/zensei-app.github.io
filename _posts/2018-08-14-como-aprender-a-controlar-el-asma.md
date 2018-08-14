@@ -114,7 +114,7 @@ Esto **te permitirá llevar un vida normal y disfrutar de los tuyos sin preocupa
 
 Lleva un fácil control de tus síntomas y desencadenantes (virus respiratorios, bacterias, contaminación, polen, ácaros, actividad física, estado de ánimo, hábitos, etc.), y la medicación de control y de rescate de crisis asmáticas.
 
-**Podrás recolectar sin esfuerzo tus propios datos de salud respiratoria**, que sucedió cuando tuvistes síntomas del asma, reconocer los síntomas de la enfermedad y que te hacen sentirte mal, además de identificar y evitar en lo posible los desencadenantes, y compartir tus datos con tu neumólogo o alergólogo la próxima vez que vayas a consulta, para que conozca mejor tu condición de salud.
+Podrás **Precolectar sin esfuerzo tus propios datos de salud respiratoria**, que sucedió cuando tuvistes síntomas del asma, reconocer los síntomas de la enfermedad y que te hacen sentirte mal, además de identificar y evitar en lo posible los desencadenantes, y compartir tus datos con tu neumólogo o alergólogo la próxima vez que vayas a consulta, para que conozca mejor tu condición de salud.
 
 Esto te permitirá tener un mejor diagnóstico y tratamiento de tu enfermedad respiratoria, y saber que tienes tu enfermedad bajo control.
 
