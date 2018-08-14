@@ -180,7 +180,7 @@ por Antonio Miguel Herrero
 
 🏆 **Si eres uno de los 10.000 primeros usuarios tendrás un año GRATIS de nuestro nuevo servicio premium**, que vamos a lanzar en los próximos meses, que incluye todas las funcionalidades del diario de salud y alertas de entorno más:
 
-📡 **Sincronización con múltiple dispositivos y almacenamiento ilimitado de tus datos de salud respiratoria**, así no podrás perder tus datos.
+📡 **Sincronización con múltiples dispositivos y almacenamiento ilimitado de tus datos de salud respiratoria**, así no podrás perder tus datos.
 
 🌬️ **Acceso ilimitado a ejercicios respiratorios** desarrollados especialmente por nuestra fisioterapeuta respiratoria de referencia, te ayudarán a aumentar y fortalecer tu capacidad pulmonar.
 
