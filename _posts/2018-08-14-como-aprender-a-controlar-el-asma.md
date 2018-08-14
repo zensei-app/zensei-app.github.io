@@ -190,7 +190,7 @@ por Antonio Miguel Herrero
 
 Y si nos envías un email a **[hola@zenseiapp.com](mailto:hola@zenseiapp.com?Subject=Grupo de WhatsApp para Asmáticos)**, te invitaremos a nuestro grupo de **WhatsApp privado** donde podrás tener acceso directo a nosotros, influir en la decisiones de producto o hablar con otras personas como tú con problemas de asma, y aprender a cuidarte como ellos.
 
-El valor total del **servicio premium de Zensei es de sólo 2.99€ al mes**, es menos de **0.1€ al día**, pero lo mejor de todo es que todavía estás a tiempo de conseguir un año GRATIS y ser uno de los primeros en disfrutar de nuestra tecnología.
+El valor total del **servicio premium de Zensei es de sólo 2.99€ al mes**, es menos de **0.1€ al día**, pero lo mejor de todo es que **todavía estás a tiempo de conseguir un año GRATIS** y ser uno de los primeros en disfrutar de nuestra tecnología.
 
 ### **Combate el asma llevando un diario de salud respiratoria**
 
