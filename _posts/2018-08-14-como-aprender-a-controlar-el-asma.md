@@ -198,9 +198,21 @@ El valor total del **servicio premium de Zensei es de sólo 2.99€ al mes**, es
 
 **¡Date prisa!** ya son más de 5.000 personas las que tienen acceso gratis a una año GRATIS de **Zensei Premium** y **solo será gratis para los 10.000 primeros**, tenemos más de 500 descargas semanales, eso significa que en unas semanas pronto se acabará la oferta de un año gratis de Zensei Premium.
 
-Donde tendrás acceso gratis al diario de síntomas del asma y alertas en tiempo real de factores de entorno (contaminación, virus respiratorios, niveles de polen, clima, etc.), y recomendaciones de productos y servicios de salud respiratoria. 
+Donde tendrás de forma GRATUITA al:
 
-Si te descargas ahora Zensei tendrás acceso a un año **GRATIS del Servicio Premium**, con almacenamiento ilimitado de datos, sincronización multidispositivo, informe de salud respiratoria y tendrás tu modelo propio de predicción de síntomas respiratorios del asma.
+🚨 Alertas en tiempo real de factores de entorno (contaminación, virus respiratorios, niveles de polen, clima, etc.)
+
+📓 Diario de síntomas del asma
+
+❓ Cuestionarios de salud respiratoria
+
+📈 Analíticas de tu diario
+
+🛍️ Recomendaciones de productos y servicios de salud respiratoria
+
+📰 Noticias sobre salud respiratoria
+
+**Si te descargas Zensei ahora** tendrás acceso a un año **GRATIS del Servicio Premium**, con almacenamiento ilimitado de datos, sincronización multidispositivo, informe de salud respiratoria y tendrás tu modelo propio de predicción de síntomas respiratorios del asma.
 
 Si ves que Zensei no se adapta a tus necesidades, **tienes la garantía de que vamos a escucharte y solucionar tu experiencia**, con tus comentarios y sugerencias de mejora, tu también construyes y mejoras Zensei, te daremos acceso directo a hablar con nosotros para que puedas contarnos tu historia con el asma y así podremos ayudarte mejor entendiendo tu situación.
 
