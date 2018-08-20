@@ -63,7 +63,7 @@ Nuestro **Digital Detox Program** te permitirá en 21 días:
 
 👨‍🏫 Cómo **modificar tus hábitos y entorno** para que vuelvas a utilizar el móvil de una forma saludable.
 
-Este programa es la **solución preventiva para evitar la adicción al móvil o internet**, sirve para que tu domines al móvil y no él a tí, que puedas ser consciente de tus comportamientos y hábitos. Y puedes volver a tener control sobre él.
+La adicción al móvil es un problema y este programa es la **solución preventiva para evitar la adicción al móvil o internet**, sirve para que tu domines al móvil y no él a tí, que puedas ser consciente de tus comportamientos y hábitos. Y puedes volver a tener control sobre él.
 
 Además te servirá de **prevención para que el uso del móvil no vaya a más** y en el futuro no necesites un tratamiento de adicción al móvil. 
 
