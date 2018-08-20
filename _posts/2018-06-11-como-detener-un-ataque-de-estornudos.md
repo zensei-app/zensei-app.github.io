@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🤧 Cómo parar un ataque de estornudos paso a paso"
+title:  "🤧 Cómo parar un ataque de estornudos de forma sencilla"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: estornudos, alergia, ataque, moquear
+categories: ataque de estornudos, alergia, moquear, parar, detener
 image: /img/13397331035_dd80d2f94d_b.jpg
 description: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
 ---
