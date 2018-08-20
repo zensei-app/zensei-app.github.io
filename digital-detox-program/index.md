@@ -71,6 +71,8 @@ Se siente mucha impotencia cuando ves que tu círculo de amigos y familiares, te
 
 “Oye haznos caso, que estás todo el día enganchado al móvil”
 
+“Estás todo el dia con el movil, ¿no te duele el cuello?”
+
 **Te sientes mal** contigo mismo porque no disfrutas de los tuyos y del **tiempo sin el móvil**, sabes que estás empezando aislarte, dejar de hacer cosas por no poder controlar el móvil, etc. 
 
 **¿Y si vienen mal dadas, un bache emocional o profesional?**
@@ -113,7 +115,7 @@ Volver a **controlar tu vida y decidir que quieres hacer con ella**. No suena ma
 
 El Digital Detox Program está diseñado en mi propia experiencia, tenía que dar un golpe en la mesa y recuperar mi tiempo. 
 
-Hay días que tiraría el __p*** móvil__ contra la pared con tal de no tener que estar pendiente de contestar cada vez que me envian un __p**** whatsapp__ o recibo una notificación que me desconcentra.
+Hay días que tiraría el __p*** móvil__ contra la pared con tal de no tener que estar pendiente de contestar cada vez que me envian un __p**** whatsapp__ o recibo una **notificación que me desconcentra**.
 
 Arghhh...
 
@@ -159,9 +161,9 @@ Así que...
 
 **¿Qué puedes conseguir apuntándote al Digital Detox Program?**
 
-### **Ser capaz de decidir libremente como quieres utilizar el móvil**
+### **Ser capaz de estar menos pendiente del móvil y decidir libremente como y cuando quieres utilizarlo.**
 
-Volviendo a **tomar las riendas de tu vida**, recuperando el tiempo que pierdes utilizando el móvil, estando menos pendiente de él y siendo más consciente de tus hábitos de uso del móvil. 
+Volviendo a **tomar las riendas de tu vida**, recuperando el tiempo que pierdes utilizando el móvil, siendo más consciente de tus hábitos y del uso que haces de él. 
 
 Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 30. 
 
@@ -225,7 +227,7 @@ El **precio del curso es de 57.95€**, podrás cursar lo tantas veces como quie
 
 MÁS 
 
-Últimos avances en digital wellbeing y cómo mantener tus hábitos de uso del móvil a lo largo del tiempo. 
+Últimos avances en [digital wellbeing]() y cómo mantener tus hábitos de uso del móvil a lo largo del tiempo. 
 
 Volver a recaer en un uso excesivo del móvil es fácil si no toman las medidas adecuadas.
 
@@ -261,7 +263,7 @@ Pero **ninguno te pondrá a trabajar y te hará un seguimiento durante 21 días*
 
 Justo esto es lo que hace el Digital Detox Program, es una solución al uso compulsivo del móvil, totalmente práctico para que recuperes el tiempo que te absorbe tu adicción al móvil.
 
-Así que **si estás harto del móvil y necesitas reducir el uso que haces de él**, el Digital Detox Program de 21 días es ideal para tí para que te pongas manos a la obra desde hoy mismo. 
+Así que, **si estás harto del móvil y necesitas reducir el uso que haces de él**, el Digital Detox Program de 21 días es ideal para tí para que te pongas manos a la obra desde hoy mismo. 
 
 Y recuerda, **garantía total de devolución de tu dinero**.
 
@@ -271,7 +273,7 @@ Y recuerda, **garantía total de devolución de tu dinero**.
 
 1. Los principios de comportamiento en el entorno digital.
 2. Signos, síntomas y consecuencias de abusar del móvil o internet.
-3. Sencillas técnicas probadas científicamente para disminuir el tiempo de uso. 
+3. Sencillas técnicas y consejos probados para dejar de estar pendiente del móvil. 
 
 <br>
 ![digital detox program](/img/digital-detox/mini-course.png){: .center-image }
