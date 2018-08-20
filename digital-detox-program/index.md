@@ -175,9 +175,9 @@ Vale, muy bien y cómo puedes tu también conseguir los mismos resultados.
 
 2. Apuntándote al Digital Detox Program.
 
-En que consiste el programa en:
+En que consiste el programa:
 
-✉️ **21 días de emails** diarios.
+✉️ **21 días de emails** diarios
 
 👨‍🏫 con **píldoras de conocimiento super sencillas** para que aprendas sobre tu hábitos de uso del móvil.
 
@@ -185,7 +185,7 @@ En que consiste el programa en:
 
 Y todo revisado en la literatura y estudios científicos. 
 
-**Solo necesitas 5 minutos diarios durante 21 días** para comenzar a cambiar tus hábitos para reducir el uso excesivo del móvil que tienes.
+**Solo necesitas 5 minutos diarios durante 21 días** para comenzar a cambiar tus hábitos y reducir el uso excesivo del móvil que tienes.
 
 Si yo he podido, tú también puedes. 
 
