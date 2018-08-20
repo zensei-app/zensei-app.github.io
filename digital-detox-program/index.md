@@ -53,7 +53,9 @@ Bien.
 
 Un detox digital es un período de tiempo durante el que se realiza un control o regulación del tiempo de uso del móvil, con el fin de conseguir unos hábitos de uso saludables.
 
-¡Vaya! Como una dieta alimenticia, pero para el móvil.
+¡Vaya! Como una dieta alimenticia, pero para cambiar nuestros hábitos de uso de las nuevas tecnologías.
+
+Es una de las posibles soluciones para la adicción online.
 
 Nuestro **Digital Detox Program** te permitirá en 21 días:
 
@@ -165,9 +167,11 @@ Así que...
 
 Volviendo a **tomar las riendas de tu vida**, recuperando el tiempo que pierdes utilizando el móvil, siendo más consciente de tus hábitos y del uso que haces de él. 
 
-Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 30. 
+Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 21.
 
 Esto significa que **recuperé más de una hora diaria de mi vida**.
+
+Era la solución que estaba buscando para reducir el uso a las nuevas tecnologías.
 
 Vale, muy bien y cómo puedes tu también conseguir los mismos resultados. 
 
@@ -219,7 +223,7 @@ Pero **este programa no tiene la intención de competir con profesionales cualif
 
 Todo lo contrario, yo mismo, si veo algo fuera de lo normal y que necesitas más ayuda profesional, te animaré a ponerte en manos de un psicólogo o psiquiatra.
 
-Este programa de detox digital es el **primer curso preventivo de adicción al uso del móvil**, su principal objetivo es que no tengas que llegar el día de mañana a tener que acudir a la consulta de un psicólogo o psiquiatra.
+Este programa de detox digital es el **primer solución preventiva de adicción al uso del móvil**, su principal objetivo es que no tengas que llegar el día de mañana a tener que acudir a la consulta de un psicólogo o psiquiatra.
 
 No son baratas. Pueden ir de 50€ a 200€ la hora, y la mayoría de seguros de salud no las cubren y la sanidad pública solo en casos extremos.
 
@@ -227,7 +231,7 @@ El **precio del curso es de 57.95€**, podrás cursar lo tantas veces como quie
 
 MÁS 
 
-Últimos avances en [digital wellbeing]() y cómo mantener tus hábitos de uso del móvil a lo largo del tiempo. 
+Actualizaciones sobre últimos avances en Digital Wellness y cómo mantener tus hábitos de uso del móvil a lo largo del tiempo. 
 
 Volver a recaer en un uso excesivo del móvil es fácil si no toman las medidas adecuadas.
 
@@ -261,7 +265,7 @@ Recuerda, **un uso excesivo del móvil no es saludable**, podrás seguir buscand
 
 Pero **ninguno te pondrá a trabajar y te hará un seguimiento durante 21 días** para que de verdad reduzcas tu uso del móvil, no sirve de nada leer y pensar, si no pasas a la acción. 
 
-Justo esto es lo que hace el Digital Detox Program, es una solución al uso compulsivo del móvil, totalmente práctico para que recuperes el tiempo que te absorbe tu adicción al móvil.
+Justo esto es lo que hace el Digital Detox Program, es una tratamiento para evitar al uso compulsivo del móvil, totalmente práctico para que recuperes el tiempo que te absorbe tu adicción al móvil.
 
 Así que, **si estás harto del móvil y necesitas reducir el uso que haces de él**, el Digital Detox Program de 21 días es ideal para tí para que te pongas manos a la obra desde hoy mismo. 
 
