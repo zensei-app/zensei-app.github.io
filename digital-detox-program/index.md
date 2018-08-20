@@ -240,7 +240,7 @@ Volver a recaer en un uso excesivo del móvil es fácil si no toman las medidas 
     <div class="form-inline">
       <input type="email" value="" name="FNAME" class="name" id="mce-FNAME" placeholder="Tu nombre" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Tu email" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
-      <input type="submit" value="RESERVAR" name="subscribe" id="mc-embedded-subscribe" class="button-install"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">
+      <input type="submit" value="RESERVAR" name="subscribe" id="mc-embedded-subscribe" class="button-install"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'digital-detox', 'click', 'program');">
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;" aria-hidden="true">
         <input type="text" name="b_a518c767a6166cb42b4e9b0f5_51ee4f143c" tabindex="-1" value="">
@@ -268,8 +268,8 @@ Y recuerda, **garantía total de devolución de tu dinero**.
 
 **¿Qué aprenderás en el Mini Digital Detox Program?**
 
-1. Los principios de la adicción al móvil.
-2. Signos, síntomas y consecuencias de abusar del móvil.
+1. Los principios de comportamiento en el entorno digital.
+2. Signos, síntomas y consecuencias de abusar del móvil o internet.
 3. Sencillas técnicas probadas científicamente para disminuir el tiempo de uso. 
 
 <br>
@@ -282,7 +282,7 @@ Y recuerda, **garantía total de devolución de tu dinero**.
     <div class="form-inline">
       <input type="email" value="" name="FNAME" class="name" id="mce-FNAME" placeholder="Tu nombre" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Tu email" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
-      <input type="submit" value="LO QUIERO" name="subscribe" id="mc-embedded-subscribe" class="main-cta-top main-cta--blog"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">
+      <input type="submit" value="LO QUIERO" name="subscribe" id="mc-embedded-subscribe" class="main-cta-top main-cta--blog"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'digital-detox', 'click', 'free-program');">
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;" aria-hidden="true">
         <input type="text" name="b_a518c767a6166cb42b4e9b0f5_51ee4f143c" tabindex="-1" value="">
