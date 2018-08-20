@@ -51,7 +51,7 @@ Bien.
 
 ¿y qué es un detox digital?
 
-Un detox digital o digital detox en inglés, es un período de tiempo durante el que se realiza un control o regulación del tiempo de uso del móvil, con el fin de conseguir unos hábitos de uso saludables.
+Un detox digital es un período de tiempo durante el que se realiza un control o regulación del tiempo de uso del móvil, con el fin de conseguir unos hábitos de uso saludables.
 
 ¡Vaya! Como una dieta alimenticia, pero para el móvil.
 
