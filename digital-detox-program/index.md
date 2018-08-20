@@ -2,6 +2,7 @@
 layout: digital-detox-program
 title:  "😱 Esta es la brutal verdad sobre la adicción al móvil e internet. Seguro que tu también la sufres."
 date: 2018-08-20 10:00:00 +0200
+permalink: /es/digital-detox-program/
 ---
 
 📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil) ha modificado la manera de relacionarnos, comunicarnos, acceder a información, etc. y se ha convertido en el **mando a distancia de nuestras vidas** o en un **exocerebro** con trillones de bytes de memoria.
@@ -156,13 +157,13 @@ Mis objetivos a la hora de diseñar el curso eran los siguientes:
 
 Así que... 
 
-**¿Qué puedes conseguir apuntándote al Digital Rehab Program?**
+**¿Qué puedes conseguir apuntándote al Digital Detox Program?**
 
 ### **Ser capaz de decidir libremente como quieres utilizar el móvil**
 
 Volviendo a **tomar las riendas de tu vida**, recuperando el tiempo que pierdes utilizando el móvil, estando menos pendiente de él y siendo más consciente de tus hábitos de uso del móvil. 
 
-Yo mismo he conseguido con el Digital Rehab Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 30. 
+Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 30. 
 
 Esto significa que **recuperé más de una hora diaria de mi vida**.
 
@@ -170,7 +171,7 @@ Vale, muy bien y cómo puedes tu también conseguir los mismos resultados.
 
 1. Estando preparado mentalmente y habiendo decidido que quieres cambiar tus hábitos de uso del móvil.
 
-2. Apuntándote al Digital Rehab Program.
+2. Apuntándote al Digital Detox Program.
 
 En que consiste el programa en:
 
