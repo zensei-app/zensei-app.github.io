@@ -234,18 +234,15 @@ Volver a recaer en un uso excesivo del móvil es fácil si no toman las medidas 
 
 <div class="container-narrow center">
   <h2 style="font-weight: bold;">Apúntate y reserva tu plaza, lanzamiento del Digital Detox Program el 1 de Septiembre.</h2>
-  <form action="//zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=51ee4f143c" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <div class="mc-field-group">
-        <input placeholder="Tu nombre" value="" name="FNAME" class="required email" id="mce-EMAIL" style="height: 50px; width: 200px;">
-        <input placeholder="Tu email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="height: 50px; width: 200px;">
-        <input type="submit" value="COMENZAMOS 🚀" name="subscribe" style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px;padding: 0 10px;font-size: 14px;font-weight: 600;cursor: pointer;" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" >
+  <form action="https://zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=51ee4f143c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div class="form-inline">
+      <input type="email" value="" name="FNAME" class="name" id="mce-FNAME" placeholder="Tu nombre" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
+      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Tu email" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
+      <input type="submit" value="RESERVAR" name="subscribe" id="mc-embedded-subscribe" class="button-install"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_a518c767a6166cb42b4e9b0f5_51ee4f143c" tabindex="-1" value="">
       </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a518c767a6166cb42b4e9b0f5_0f18778a69" tabindex="-1" value=""></div>
     </div>
   </form>
 </div>
@@ -274,19 +271,16 @@ Aprenderás los principios de la adicción al móvil, sus consecuencias y simple
 <br>
 
 <div class="container-narrow center">
-  <h2 style="font-weight: bold;">👇 Deja tu email aquí abajo para conseguir tu Mini Digital Detox Program de 5 días</h2>
-  <form action="//zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=51ee4f143c" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <div class="mc-field-group">
-        <input placeholder="Tu nombre" value="" name="FNAME" class="required email" id="mce-EMAIL" style="height: 50px; width: 200px;">
-        <input placeholder="Tu email" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="height: 50px; width: 200px;">
-        <input type="submit" value="COMENZAMOS 🚀" name="subscribe" style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px;padding: 0 10px;font-size: 14px;font-weight: 600;cursor: pointer;" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" >
+  <h2 style="font-weight: bold;">👇 Deja tu email aquí abajo para conseguir tu Mini Digital Detox Program de 5 días.</h2>
+  <form action="https://zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=51ee4f143c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div class="form-inline">
+      <input type="email" value="" name="FNAME" class="name" id="mce-FNAME" placeholder="Tu nombre" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
+      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Tu email" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
+      <input type="submit" value="LO QUIERO" name="subscribe" id="mc-embedded-subscribe" class="main-cta-top main-cta--blog"  style="height: 50px; width: 140px; line-height: 30px;background: #1D86FF;color: #fff;border: 0;border-radius: 4px; font-size: 14px;font-weight: 600;cursor: pointer; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_a518c767a6166cb42b4e9b0f5_51ee4f143c" tabindex="-1" value="">
       </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a518c767a6166cb42b4e9b0f5_0f18778a69" tabindex="-1" value=""></div>
     </div>
   </form>
 </div>
