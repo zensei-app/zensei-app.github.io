@@ -262,9 +262,13 @@ Así que **si estás harto del móvil y necesitas reducir el uso que haces de é
 
 Y recuerda, **garantía total de devolución de tu dinero**.
 
-¡Ah! Se me olvidaba, si tienes dudas, y quieres ver cómo sería hacer el curso, hemos preparado un **mini curso de 5 días totalmente gratis**. 
+¡Ah! Se me olvidaba, si tienes dudas, y quieres ver cómo sería hacer el curso, hemos preparado un **mini curso de 5 días totalmente gratis**.
 
-Aprenderás los principios de la adicción al móvil, sus consecuencias y simples técnicas probadas científicamente para evitar el uso adictivo del móvil.
+**¿Qué aprenderás en el Mini Digital Detox Program?**
+
+1. Los principios de la adicción al móvil.
+2. Signos, síntomas y consecuencias de abusar del móvil.
+3. Sencillas técnicas probadas científicamente para disminuir el tiempo de uso. 
 
 <br>
 ![digital detox program](/img/digital-detox/mini-course.png){: .center-image }
