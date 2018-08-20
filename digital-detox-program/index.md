@@ -112,7 +112,9 @@ Volver a **controlar tu vida y decidir que quieres hacer con ella**. No suena ma
 
 El Digital Detox Program está diseñado en mi propia experiencia, tenía que dar un golpe en la mesa y recuperar mi tiempo. 
 
-Hay días que tiraria el p*** móvil contra la pared con tal de no tener que estar pendiente de contestar cada vez que me envian un p**** whatsapp.
+Hay días que tiraría el __p*** móvil__ contra la pared con tal de no tener que estar pendiente de contestar cada vez que me envian un __p**** whatsapp__ o recibo una notificación que me desconcentra.
+
+Arghhh...
 
 Ups, perdona que me enciendo. ¿No lo has pensado tú alguna vez?
 
