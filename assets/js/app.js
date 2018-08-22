@@ -161,3 +161,84 @@ $(document).ready(drag);
 $(document).ready(moves);
 
 
+var tier = getUrlParameter('tier') || 'a';
+
+tiers = {
+  a: 5795,
+  b: 2635,
+  c: 1450
+}
+
+var price = tiers[tier];
+$( "text#price" ).text(price/100);
+
+if(tier == 'b' || tier == 'c'){
+  $("div#pricing").append("<h1 style='font-size:24px; color: red;'><strike>Antes 57.95€<strike></h2>")
+  $("div#pricing").append("<h1 style='font-size:32px; color: green;'>Ahora "+price/100+"€</h2>")
+} else {
+  $("div#pricing").append("<h1 style='font-size:32px; color: #363E40;'>Total 57.95€</h2>")
+}
+
+
+
+var handler = StripeCheckout.configure({
+  key: 'pk_test_SajYpTJpTfwAef74coi1p9kK',
+  image: '/assets/icon.png',
+  locale: 'auto',
+  token: function(token) {
+    console.log(token)
+    post_to_url(
+      'https://ar8citwnof.execute-api.eu-west-1.amazonaws.com/dev/stripe/charges',
+      {
+        token: token.id,
+        amount: price,
+        currency: 'eur',
+      }
+    )
+    location.href = 'https://zenseiapp.com/es/digital-detox-program/thankyou';
+  }
+});
+
+document.getElementById('customButton').addEventListener('click', function(e) {
+  // Open Checkout with further options:
+  handler.open({
+    name: 'Zensei Health',
+    description: 'Digital Detox Program',
+    currency: 'eur',
+    amount: price
+  });
+  e.preventDefault();
+});
+
+// Close Checkout on page navigation:
+window.addEventListener('popstate', function() {
+  handler.close();
+});
+
+function post_to_url(path, params, method) {
+  method = method || 'POST';
+
+  var form = document.createElement('form');
+
+  // Move the submit function to another variable
+  // so that it doesn't get overwritten.
+  form._submit_function_ = form.submit;
+
+  form.setAttribute('method', method);
+  form.setAttribute('action', path);
+  form.setAttribute('target', '_blank');
+
+  for(var key in params) {
+      var hiddenField = document.createElement('input');
+      hiddenField.setAttribute('type', 'hidden');
+      hiddenField.setAttribute('name', key);
+      hiddenField.setAttribute('value', params[key]);
+
+      form.appendChild(hiddenField);
+  }
+
+  document.body.appendChild(form);
+  form._submit_function_(); // Call the renamed function.
+
+}
+

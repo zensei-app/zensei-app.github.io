@@ -310,7 +310,7 @@ Y esto no va a hacer mas que ir a más, [una de las epidemias del siglo XXI ser�
 <br>
 
 <div class="container-narrow center">
-  <h2 style="font-weight: bold;">Apúntate y reserva tu plaza, lanzamiento del Digital Detox Program el 1 de Septiembre.</h2>
+  <h2 style="font-weight: bold;">Apúntate y reserva tu plaza. Lanzamiento del Digital Detox Program el 1 de Septiembre.</h2>
   <form action="https://zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=51ee4f143c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div class="form-inline">
       <input type="email" value="" name="FNAME" class="name" id="mce-FNAME" placeholder="Tu nombre" required style="height: 50px; width: 150px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);">
