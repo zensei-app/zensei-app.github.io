@@ -177,7 +177,7 @@ Así que diseñé mi propio programa para prevenir y reducir la adicción al mó
 
 Y ha sido tan efectivo, que ahora quiero compartilo contigo.
 
-Porque aunque lo mejor es desconectar el móvil durante unas semanas para resetearse.
+Aunque lo mejor es desconectar el móvil durante unas semanas para resetearse.
 
 Pero vivimos en una sociedad, donde si no tenemos móvil, nos quedamos aislados y nos perdemos todas sus ventajas.
 
