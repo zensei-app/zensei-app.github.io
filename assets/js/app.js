@@ -182,7 +182,7 @@ if(tier == 'b' || tier == 'c'){
 
 
 var handler = StripeCheckout.configure({
-  key: 'pk_live_OHp9EY8wTbGlS0kYoeEOOXAp',
+  key: 'pk_test_SajYpTJpTfwAef74coi1p9kK',
   image: '/assets/icon.png',
   locale: 'auto',
   token: function(token) {
