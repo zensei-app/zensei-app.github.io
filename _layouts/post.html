@@ -20,9 +20,13 @@ layout: blog
     {{ content }}
   </div>
   <br>
+  {% include lead-magnet.html %}
+  <br>
+  <br>
   <h1 class="post-title">Más artículos recomendados para tí</h1>
   <br>
   <br>
+
   {% include recommended-posts.html %}
   {% include share.html %}
   {% if site.disqus.shortname %}
