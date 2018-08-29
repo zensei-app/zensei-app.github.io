@@ -91,7 +91,7 @@ ga(function(tracker) {
 $("#cta-top").click(function() {
   $('html, body').animate({
     scrollTop: $("#install").offset().top
-  }, 500000);
+  }, 150000);
 });
 
 // Begin AB Testing
