@@ -11,13 +11,13 @@ Este se ha convertido en el **mando a distancia de nuestras vidas** o en un **ex
 
 Necesitamos comunicarnos entre nosotros y tenemos un apetito feroz de refuerzos positivos. 
 
-Y el móvil, lo que ha hecho, es ponernos super fácil el poder comunicarnos y consumir información.
+El móvil, lo que ha hecho, es ponernos super fácil el poder comunicarnos y consumir información.
 
 Básicamente, ha puesto nuestros cerebros a mil revoluciones en algunos aspectos que explota para engancharnos.
 
 Perooo... 
 
-Con **grandes poderes**, normalmente vienen grandes **responsabilidades**.
+**Grandes poderes** conlleva grandes **responsabilidades**.
 
 Ya que si no utilizamos el móvil de forma adecuada y bajo un marco de libertad personal. 
 

@@ -160,7 +160,6 @@ var drag = function() {
 $(document).ready(drag);
 $(document).ready(moves);
 
-
 var tier = getUrlParameter('tier') || 'a';
 
 tiers = {
@@ -178,7 +177,6 @@ if(tier == 'b' || tier == 'c'){
 } else {
   $("div#pricing").append("<h1 style='font-size:32px; color: #363E40;'>Total 57.95€</h2>")
 }
-
 
 
 var handler = StripeCheckout.configure({
