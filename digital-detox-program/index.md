@@ -1,7 +1,7 @@
 ---
 layout: digital-detox-program
 title:  "😱 Esta es la brutal verdad sobre la adicción al móvil e internet. Seguro que tu también la sufres."
-date: 2018-08-21 00:00:00 +0200
+date: 2018-08-29 00:00:00 +0200
 permalink: /es/digital-detox-program/
 ---
 
@@ -9,15 +9,13 @@ permalink: /es/digital-detox-program/
 
 Este se ha convertido en el **mando a distancia de nuestras vidas** o en un **exocerebro** con trillones de bytes de memoria.
 
-Necesitamos comunicarnos entre nosotros y tenemos un apetito feroz de refuerzos positivos. 
+Necesitamos comunicarnos entre nosotros y tenemos un apetito voraz de descubrir nuevas experiencias. 
 
 El móvil, lo que ha hecho, es ponernos super fácil el poder comunicarnos y consumir información.
 
-Básicamente, ha puesto nuestros cerebros a mil revoluciones en algunos aspectos que explota para engancharnos.
-
 Perooo... 
 
-**Grandes poderes** conlleva grandes **responsabilidades**.
+**Grandes poderes** conllevan grandes **responsabilidades**.
 
 Ya que si no utilizamos el móvil de forma adecuada y bajo un marco de libertad personal. 
 
@@ -53,7 +51,7 @@ Seguro que has vivido alguna de estas situaciones:
 
 Si has sentido en tus propias carnes alguna de ellas. 
 
-Puede que tengas ligeros signos de una posible adicción al móvil y de que no estés haciendo un control adecuado de tu tiempo.
+Puede que tengas ligeros signos de una posible [adicción al móvil o nomofobia](https://www.psicoadapta.es/blog/adiccion-al-movil-nomofobia/) y de que no estés haciendo un control adecuado de tu tiempo.
 
 ### **¿Te sientes enganchado al móvil? Tu puedes controlarlo**
 
@@ -86,6 +84,8 @@ La adicción al móvil es un problema y este programa es una **solución prevent
 Sirve para que tu domines al móvil y no él a tí, que seas consciente de tus comportamientos y hábitos. 
 
 Y puedas volver a tener control sobre él.
+
+Bien.
 
 Así conseguirás desengancharte de las redes sociales, como Whastapp, Facebook, Intagram, Twitter o Linkedin.
 
@@ -175,9 +175,9 @@ Deje de escuchar a **la vocecita que me dice coje el móvil, coje el móvil** y 
 
 Así que diseñé mi propio programa para prevenir y reducir la adicción al móvil.
 
-Y ha sido tan efectivo, que ahora quiero compartilo contigo.
+Perfecto.
 
-Aunque lo mejor es desconectar el móvil durante unas semanas para resetearse.
+Aunque la mejor recomendación es desconectar el móvil durante unas semanas para resetearse.
 
 Pero vivimos en una sociedad, donde si no tenemos móvil, nos quedamos aislados y nos perdemos todas sus ventajas.
 
@@ -209,9 +209,9 @@ Volviendo a **tomar las riendas de tu vida**.
 
 Siendo **más consciente de tus hábitos** y del uso que haces de él. 
 
-Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 21.
+Yo mismo he conseguido con el Digital Detox Program reducir el número de veces que desbloqueo mi móvil de más 150 diarias a menos de 20.
 
-Esto significa que **recuperé más de dos horas diarias de mi vida**.
+Esto significa que he **recuperado más de dos horas diarias de mi vida**.
 
 Era la solución que estaba buscando para reducir mi enganche al móvil.
 
@@ -271,7 +271,7 @@ Cuanto más utilizas el móvil, más datos tienen y más dinero ganan.
 
 Así de simple, nada es gratis. 
 
-Pagas con tus datos y son muchos. 💰💰💰💰
+Pagas con tus datos y son muchos. 💰💰💰
 
 ### **Utilizas más de la cuenta el móvil. Y lo sabes.**
 
@@ -342,6 +342,8 @@ Justo esto es lo que hace el Digital Detox Program, es una tratamiento para evit
 Así que, **si estás harto de las redes sociales y necesitas reducir el uso que haces de ellas**. 
 
 El Digital Detox Program de 21 días es ideal para tí, para que te pongas manos a la obra desde hoy mismo. 
+
+Si tienes un hijo que utiliza demasiado las nuevas tecnologías, este programa también es para tí, te servirá para conocer sus conductas y poner límites al uso de las pantallas.
 
 Y recuerda, **garantía total de devolución de tu dinero**.
 
