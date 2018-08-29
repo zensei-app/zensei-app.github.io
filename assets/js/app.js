@@ -88,11 +88,11 @@ ga(function(tracker) {
 // End Google Analytics Info
 
 //Smooth
-$("#cta-top").click(function() {
-  $('html, body').animate({
-    scrollTop: $("#install").offset().top
-  }, 150000);
-});
+// $("#cta-top").click(function() {
+//   $('html, body').animate({
+//     scrollTop: $("#install").offset().top
+//   }, 150000);
+// });
 
 // Begin AB Testing
 
