@@ -5,7 +5,7 @@ date: 2018-08-30 00:00:00 +0200
 permalink: /es/digital-detox-program/
 ---
 
-📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil) o videojuegos, es decir las nuevas tecnologías han modificado la manera de relacionarnos, comunicarnos, divertirnos, acceder a información, etc. 
+📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil) o videojuegos, es decir las nuevas tecnologías han modificado la manera de relacionarnos, comunicarnos, jugar, acceder a información, etc. 
 
 Este se ha convertido en el **mando a distancia de nuestras vidas** o en un **exocerebro** con trillones de bytes de memoria.
 
@@ -119,21 +119,21 @@ Pudiendo generarte algún tipo de problema de salud mental, como:
 
 😵 [**Depresión**](https://es.wikipedia.org/wiki/Depresi%C3%B3n)
 
-Además la OMS acaba de considerar la [adicción a los videojuegos como un trastorno de salud mental](http://www.who.int/news-room/detail/17-06-2018-who-releases-new-international-classification-of-diseases-(icd-11)).
+Además la OMS acaba de considerar la [adicción a los videojuegos como un trastorno de salud mental](http://www.who.int/news-room/detail/17-06-2018-who-releases-new-international-classification-of-diseases-(icd-11)). 
 
-De hecho el fenómeno [Fornite alerta a madres, padres y expertos de todo el mundo](https://www.elperiodico.com/es/sociedad/20180513/padres-expertos-contra-adiccion-videojuego-fortnite-6803171).
+De hecho el fenómeno [Fornite alerta a madres, padres y expertos de todo el mundo](https://www.elperiodico.com/es/sociedad/20180513/padres-expertos-contra-adiccion-videojuego-fortnite-6803171). Debido a la adicción que este videojuego genera entre los menores. 
 
-Debido a la adicción que este videojuego genera entre los menores. Siendo las consecuencias de la [adicción al Fornite y otros videojuegos](https://es.wikipedia.org/wiki/Adicci%C3%B3n_a_los_videojuegos) pueden llegar a provocar problemas en sus pequeños cerebros.
+Siendo las consecuencias de la [adicción al Fornite y otros videojuegos](https://es.wikipedia.org/wiki/Adicci%C3%B3n_a_los_videojuegos) todavía desconocidas. Pudiendo llegar a provocar problemas en el desarrollo de sus pequeños cerebros, todavía en crecimiento.
 
 **¿Esto qué significa?**
 
-Que los **programas con recompensas variables** pueden ser adictivos, esto es justo como está diseñado un móvil.
+Que los **programas con recompensas variables** son adictivos, esto es justo como está diseñado un móvil o un videojuego.
 
 🎰 Exactamente como una **máquina tragaperras**.
 
-### **¿De verdad que tu móvil es más smart que tú?**
+### **¿De verdad que la tecnología es más smart que tú?**
 
-No te preocupes **podrás evitar la adicción al móvil** gracias al Digital Detox Program.
+No te preocupes **podrás evitar la adicción** gracias al Digital Detox Program.
 
 Si tienes un hijo que utiliza demasiado las nuevas tecnologías, este programa también es para tí, te servirá para conocer sus conductas y poner límites al uso de las pantallas.
 
