@@ -1,11 +1,11 @@
 ---
 layout: digital-detox-program
 title:  "😱 Esta es la brutal verdad sobre la adicción al móvil e internet. Seguro que tu también la sufres."
-date: 2018-08-29 00:00:00 +0200
+date: 2018-08-30 00:00:00 +0200
 permalink: /es/digital-detox-program/
 ---
 
-📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil) ha modificado la manera de relacionarnos, comunicarnos, acceder a información, etc. 
+📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil), es decir las nuevas tecnologías han modificado la manera de relacionarnos, comunicarnos, acceder a información, etc. 
 
 Este se ha convertido en el **mando a distancia de nuestras vidas** o en un **exocerebro** con trillones de bytes de memoria.
 
@@ -121,6 +121,10 @@ Pudiendo generarte algún tipo de problema de salud mental, como:
 
 Además la OMS acaba de considerar la [adicción a los videojuegos como un trastorno de salud mental](http://www.who.int/news-room/detail/17-06-2018-who-releases-new-international-classification-of-diseases-(icd-11)).
 
+De hecho el fenómeno [Fornite alerta a madres, padres y expertos de todo el mundo](https://www.elperiodico.com/es/sociedad/20180513/padres-expertos-contra-adiccion-videojuego-fortnite-6803171).
+
+Debido a la adicción que este videojuego genera entre los menores. Siendo las consecuencias de la [adicción al Fornite y otros videojuegos](https://es.wikipedia.org/wiki/Adicci%C3%B3n_a_los_videojuegos) pueden llegar a provocar problemas en sus pequeños cerebros.
+
 **¿Esto qué significa?**
 
 Que los **programas con recompensas variables** pueden ser adictivos, esto es justo como está diseñado un móvil.
@@ -129,7 +133,9 @@ Que los **programas con recompensas variables** pueden ser adictivos, esto es ju
 
 ### **¿De verdad que tu móvil es más smart que tú?**
 
-No te preocupes **podrás evitar la adicción al móvil** gracias al Digital Detox Program. 
+No te preocupes **podrás evitar la adicción al móvil** gracias al Digital Detox Program.
+
+Si tienes un hijo que utiliza demasiado las nuevas tecnologías, este programa también es para tí, te servirá para conocer sus conductas y poner límites al uso de las pantallas.
 
 **En tan solo 21 días** podrás aprender a superar la necesidad de utilizar el móvil constantemente, con emails, videos y tareas diarias que te enviaremos a tu buzón de correo, que **no te llevarán más de 5 minutos diarios**.
 
@@ -141,7 +147,7 @@ Y qué podrías hacer con todo ese tiempo, volver a leer un libro, cocinar, abur
 
 No tener ningún susto en la carretera, estudiar cuando tu quieras, terminar esa maldita tarea que se te atraganta porque prefieres estar con el móvil, etc... 
 
-Volver a **controlar tu vida y decidir que quieres hacer con ella**. No suena mal, ¿no?
+Volver a **controlar tu vida y decidir que quieres hacer con ella**. No suena mal, ¿verdad?
 
 El Digital Detox Program está diseñado en mi propia experiencia, tenía que dar un golpe en la mesa y recuperar mi tiempo. 
 
@@ -342,8 +348,6 @@ Justo esto es lo que hace el Digital Detox Program, es una tratamiento para evit
 Así que, **si estás harto de las redes sociales y necesitas reducir el uso que haces de ellas**. 
 
 El Digital Detox Program de 21 días es ideal para tí, para que te pongas manos a la obra desde hoy mismo. 
-
-Si tienes un hijo que utiliza demasiado las nuevas tecnologías, este programa también es para tí, te servirá para conocer sus conductas y poner límites al uso de las pantallas.
 
 Y recuerda, **garantía total de devolución de tu dinero**.
 
