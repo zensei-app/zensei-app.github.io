@@ -5,7 +5,7 @@ date: 2018-08-30 00:00:00 +0200
 permalink: /es/digital-detox-program/
 ---
 
-📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil), es decir las nuevas tecnologías han modificado la manera de relacionarnos, comunicarnos, acceder a información, etc. 
+📱 El [**teléfono móvil o celular**](https://es.wikipedia.org/wiki/Tel%C3%A9fono_m%C3%B3vil) o videojuegos, es decir las nuevas tecnologías han modificado la manera de relacionarnos, comunicarnos, divertirnos, acceder a información, etc. 
 
 Este se ha convertido en el **mando a distancia de nuestras vidas** o en un **exocerebro** con trillones de bytes de memoria.
 
