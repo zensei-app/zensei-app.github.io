@@ -48,17 +48,51 @@ Si te pasa muy aleatoriamente, a lo mejor una vez por semana o incluso una vez c
 
 Y los pitos al respirar no se detienen, puede que tengas un principio de rinitis o de asma.
 
+Los pitidos al respirar suelen darse por la noche, cuando llegamos a casa, esto es debido a que despúes de pasar todo
+el día expuesto a factores de riesgo como la polución, polenes o virus respiratorios.
+
+Se depositan en nuestra vías aéreas y las obstruyen, provcando los malditos pitos.
+
+Por eso necesitas protegerte ante los factores de entorno, los cuales te alerta Zensei, y debes tener un hogar limpio de polvos, polución, polenes o ácaros.
+
+Es recomendable que tengas un purificador de aire en casa.
+
+Permitenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B075D52DZX&linkId=f7a6d14be95e530fde5fe717ca114bc3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B079NGZL5B&linkId=5241b8a23065a81d8ec3e53ca6bc785e&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00XLNCC6S&linkId=a54e12d940ad1911c5f98e70c095e74b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+</div>
+<br>
+
+También hemos seleccionado algunos purificadores por su calidad y precio. 
+
+Para que puedas minimizar el impacto de los desencadenantes de los pitidos respiratorios en casa.
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B07C7WVBDH&linkId=c949afed413c31e598c4222c9cd2fece&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B01GB8BT90&linkId=1d061b2c3d3758b7995d83ef3204224f&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B01J45SBH0&linkId=d576e41afbf687277cd00a1b27438ed4&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+</div>
+<br>
+
 Imagínate poder saber porque tienes la sibilancias al respirar y evitarlos.
 
 Nuestro **Asistente de Salud Respiratoria** te ayudará a controlar tus síntomas y el entorno que te rodea, para que puedas evitar los fastidiosos pitidos al respirar.
 
 También te ayudaremos con consejos, ejercicios y productos respiratorios, para fortalecer tu sistema respiratorio.
-<br>
-![Asma Zensei app](/img/zensei-app-description.png){: .center-image }
-<br>
 
 **[📱 Descárgate la app de Zensei](https://zenseiapp.com)** y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer.
 
-Si crees que no es para ti la App Diario de Salud Respiratoria, puedes descargarte nuestra guía de cuidados respiratorios.
+Si crees que no es para ti la App Diario de Salud Respiratoria o cualquiera de los purificadores de aire que te recomendamos, puedes descargarte nuestra guía de cuidados respiratorios.
 
 Tendrás todo lo necesario para controlar tus pitidos respiratorios.
