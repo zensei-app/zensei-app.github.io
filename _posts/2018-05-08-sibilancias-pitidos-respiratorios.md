@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🌬️ Qué indican los pitidos al respirar y cómo evitarlos de forma sencilla"
-date:   2018-05-08 10:00:00 +0200
+date:   2018-09-06 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
 image: /img/5458857332_d404800a08_b.jpg
@@ -74,6 +74,10 @@ También hemos seleccionado algunos purificadores por su calidad y precio.
 
 Para que puedas minimizar el impacto de los desencadenantes de los pitidos respiratorios en casa.
 
+Los purificadores respiratorios son perfectos, si tienes niños y suelen tener problemas respiratorios.
+
+Solo tienes que instalarlo en su habitación.
+
 <br>
 <div class="container-narrow center">
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B07C7WVBDH&linkId=c949afed413c31e598c4222c9cd2fece&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
@@ -85,7 +89,11 @@ Para que puedas minimizar el impacto de los desencadenantes de los pitidos respi
 </div>
 <br>
 
-Imagínate poder saber porque tienes la sibilancias al respirar y evitarlos.
+Unos correctos hábitos preventivos de salud respiratoria es lo mejor para evitar los silbidos al respirar.
+
+Bien.
+
+Imagínate poder saber cuales son los niveles de polución, polen o virus respiratorios antes de salir de casa o conocer cuales son los que provocan las sibilancias al respirar y evitarlos.
 
 Nuestro **Asistente de Salud Respiratoria** te ayudará a controlar tus síntomas y el entorno que te rodea, para que puedas evitar los fastidiosos pitidos al respirar.
 
