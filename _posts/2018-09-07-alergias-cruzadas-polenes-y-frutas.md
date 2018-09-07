@@ -31,7 +31,7 @@ Seguro que te viene muy bien este **listado con los alimentos que suelen ser los
 ![alergias cruzadas, frutas y polen](/img/photo-1520238861346-a49993df0e69.jpeg){: .center-image }
 <br>
 
-## **🍓🌼 Tipos de polen y frutas que reaccionan**
+## **Tipos de polen y frutas que reaccionan**
 
 **🌳 Polen de abedul:** Con este tipo se ha constatado que reaccionan el melocotón, la avellana, el perejil, la manzana, la cereza, el cilantro, la zanahoria, el hinojo, el albaricoque y el apio.
 
