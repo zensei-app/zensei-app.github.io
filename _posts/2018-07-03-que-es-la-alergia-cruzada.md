@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🥜🤢 Qué es la alergia cruzada y cúales son sus síntomas"
 date:   2018-07-03 10:00:00 +0200
 author: Ana Pérez y Mar Santiago

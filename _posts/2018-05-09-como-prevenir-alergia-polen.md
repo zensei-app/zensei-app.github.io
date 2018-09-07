@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🌼🤧 Cómo prevenir la alergia al polen de forma fácil"
 date:   2018-05-09 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
@@ -14,13 +15,13 @@ Estamos en primavera, una de las estaciones más bonitas del año. El sol luce e
 ![Asma Zensei app polen](/img/pear-3349459_1280.jpg){: .center-image }
 <br>
 
-### ¿Se puede prevenir la alergia al polen?
+## **¿Se puede prevenir la alergia al polen?**
 
 Lamentablemente, no. Si eres alérgico, eres alérgico. Ahora bien, lo que sí que puedes y debes hacer es tomar una serie de medidas para que tu alérgeno te dé un poco de cuartelillo. Afortunadamente, existen algunos hábitos que van a echarnos una mano en esto de la alergia al polen.
 
 Ya sabemos que es una alergia estacional, así que podemos ponernos manos a la obra antes de que nos pille el toro. Por ejemplo, **algunos especialistas recomiendan vacuna o fase de medicación antes de que llegue la polinización**. Así el momento de máximo furor del polen te  pillará con el sistema inmunológico mucho más fuerte.
 
-### ¿Qué puedo hacer en mi vida cotidiana?
+## **¿Qué puedo hacer en mi vida cotidiana?**
 
 Primero saber que no estás solo. **En España son nada más y nada menos que 8 millones las personas que sufren de alergia primaveral.** La mayoría de ellas deben pasar por ese filtro natural que nos pone nuestro propio cuerpo para intentar librarse del alérgeno: picor de ojos, ojos llorosos, nariz goteante, mocos… La rinitis alérgica está, entre marzo y junio, en su máximo esplendor.
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla"
 date:   2018-06-18 10:00:00 +0200
 author: Ana Pérez y Mar Santiago

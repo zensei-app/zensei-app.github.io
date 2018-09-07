@@ -14,19 +14,19 @@ Las **Nuevas Tecnologías** están permitiendo avances en materia de salud. Afor
 ![Asma Zensei app](/img/zensei-app-description.png){: .center-image }
 <br>
 
-### Las apps para la salud
+## Las apps para la salud respiratoria
 
 Solo debes disponer de un dispositivo móvil, una tablet, un portátil… aunque el rey de reyes es el **smartphone.** Te descargas una simple aplicación que apenas ocupa espacio y voilá, puedes tener controlados tus niveles de azúcar en sangre, saber cómo va tu presión arterial o tener monitorizadas las pulsaciones de tu corazón.
 
 **Ahora le ha llegado el turno a los alérgicos.** Son millones de personas las que cada año ven sus vidas trastocadas por algo tan diminuto como un alérgeno. Tenemos alérgicos de todo tipo, desde los que no pueden juntarse con un ácaro hasta aquellos que se hinchan como un odre al tocar un marisco.
 
-### Las alergias respiratorias
+## Las alergias respiratorias
 
 Pero si hay un grupo nutrido de alérgicos, ese es el que pertenece al conjunto de pacientes con afecciones respiratorias. **[Asma](https://medlineplus.gov/spanish/asthma.html), [polen](https://es.wikipedia.org/wiki/Polen), [fiebre del heno](https://cuidateplus.marca.com/enfermedades/alergias/fiebre-del-heno.html), [rinitis alérgica](https://medlineplus.gov/spanish/hayfever.html), ácaros, [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [bronquitis asmática](https://medlineplus.gov/spanish/acutebronchitis.html)…** Hablamos de un abanico de enfermedades que cursan con problemas para poder respirar.
 
 En algunos casos, la enfermedad llega a tales niveles que el paciente precisa **de intervenciones de urgencia y grandes dosis de medicamentos corticoesteroideos** o, incluso, adrenalina.
 
-### Cómo te ayudan las apps para las alergias
+## Cómo te ayudan las apps para las alergias
 
 En el caso de las [apps para alergias respiratorias](https://www.xatakamovil.com/aplicaciones/cinco-aplicaciones-para-los-alergicos-al-polen-en-android-y-ios) como [📱Zensei](https://zenseiapp.com), solo tienes que descargártela para Android o IOS. La instalas y ya tienes todo el **control de tu salud respiratoria**. Es como un diario en el que registras tus síntomas diariamente.
 

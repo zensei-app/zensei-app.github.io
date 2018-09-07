@@ -17,7 +17,13 @@ layout: blog
     </p>
   </header>
   <div class="post-content" itemprop="articleBody">
-    {{ content | toc }}
+    <br>
+      <div class="section-nav">
+        <h1><b>🔖 Navega el contenido</b></h1>
+        {% include toc.html html=content ordered=true h_min=2 h_max=3 %}
+      </div>
+    <br>
+    {{ content | toc_only }}
   </div>
   <br>
   {% include lead-magnet.html %}

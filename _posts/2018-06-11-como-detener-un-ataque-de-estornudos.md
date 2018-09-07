@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🤧 Cómo parar un ataque de estornudos de forma sencilla"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago

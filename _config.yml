@@ -21,7 +21,6 @@ url: "https://zenseiapp.com"
 
 permalink: /blog/:year/:month/:day/:title/
 
-
 # Theme settings
 theme: minima
 
@@ -34,11 +33,11 @@ google_analytics: UA-96842689-1
 # Build settings
 markdown: kramdown
 gems:
-  - jekyll-toc
   - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-toc
 
 sass:
   style: compressed
@@ -61,3 +60,5 @@ github: [metadata]
 kramdown:
   input: GFM
   hard_wrap: false
+toc:
+  min_level: 2

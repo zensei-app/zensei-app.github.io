@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🌬️ Cómo controlar un ataque de asma sin inhalador"
 date:   2018-08-14 10:00:00 +0200
 author: David Martín-Corral

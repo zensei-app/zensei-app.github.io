@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🤒👾 Qué es una bronquitis y cómo evitarla fácilmente"
 date:   2018-07-02 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
@@ -8,17 +9,21 @@ image: /img/bronquitis-aguda.jpg
 description: La bronquitis es una inflamación aguda de los bronquios. Suele aparecer después de haber padecido un resfriado o una gripe. Por lo general...
 ---
 
+## **Qué es a bronquitis**
+
 La [bronquitis](https://es.wikipedia.org/wiki/Bronquitis) es una inflamación aguda de los bronquios. Suele aparecer después de haber padecido un resfriado o una gripe. Por lo general comienza como una secuela de lo anterior. Sientes una tosecilla persistente, **[pitidos o sibilancias](https://zenseiapp.com/blog/2018/05/08/sibilancias-pitidos-respiratorios/)** y dificultades para respirar. En algunos casos, la bronquitis produce mucho cansancio y cursa con fiebre.
 
 <br>
 ![alergia cruzada alimentos](/img/bronquitis-aguda.jpg){: .center-image }
 <br>
 
-¿Cuáles son las [causas de la bronquitis](https://www.nhlbi.nih.gov/node/4680)? Más del 90% de los casos se producen por una presencia vírica. **En invierno el virus más común es el de la gripe o influenza A y B. En verano será el echovirus.** La forma de propagación es por vía aérea o por contacto con el virus a través de unas manos contaminadas.
+## **Cuáles son las causas de la bronquitis**
+
+Las [causas de la bronquitis](https://www.nhlbi.nih.gov/node/4680) en más del 90% de los casos se producen por una presencia vírica. **En invierno el virus más común es el de la gripe o influenza A y B. En verano será el echovirus.** La forma de propagación es por vía aérea o por contacto con el virus a través de unas manos contaminadas.
 
 El frío y la humedad son factores que favorecen la aparición de la bronquitis. El riesgo de contraerla es **mayor en el caso de los fumadores.**
 
-### Cómo controlar la bronquitis
+## **Cómo controlar la bronquitis**
 
 La primera señal de la enfermedad es una **tos muy molesta que empeora de noche.** Puede ir acompañada de mucosidad o ser una tos seca e irritante. La tos suele ir acompañada de las **sibilancias, ahogo, dolor de garganta, nariz congestionada, décimas de fiebre y dolor en el pecho.**
 

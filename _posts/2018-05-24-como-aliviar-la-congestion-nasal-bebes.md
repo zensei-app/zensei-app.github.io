@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "👶🤧 Cómo aliviar de forma fácil la congestión nasal en los bebés"
 date:   2018-05-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago

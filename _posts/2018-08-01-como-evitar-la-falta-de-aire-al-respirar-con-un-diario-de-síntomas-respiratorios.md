@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🤢 Cómo evitar la falta de aire al respirar con un diario de síntomas respiratorios"
 date:   2018-08-01 10:00:00 +0200
 author: Ana Pérez y Mar Santiago

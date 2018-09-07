@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "🤧 Qué es la rinitis alérgica y cuáles son sus síntomas"
 date:   2018-08-29 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
@@ -14,7 +15,7 @@ description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus s
 ![Zensei app diario de salud respiratoria](/img/24399375170_b61ea09484_z.jpg){: .center-image }
 <br>
 
-### **Rinitis alérgica**
+### **Qué es la Rinitis alérgica**
 
 Esta es la forma más habitual de rinitis no infecciosa. **Se trata de una respuesta del sistema inmunitario debido a la presencia de alérgenos ambientales.**
 

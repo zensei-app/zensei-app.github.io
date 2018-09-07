@@ -1,5 +1,6 @@
 ---
 layout: post
+toc: true
 title:  "😷 Qué es el EPOC"
 date:   2018-05-16 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
