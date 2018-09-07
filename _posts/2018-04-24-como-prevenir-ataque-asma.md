@@ -22,7 +22,7 @@ Existen varios desencadenantes para una [crisis asmática](https://kidshealth.or
 
 Acabamos con una serie de síntomas muy desagradables:
 
-🤧 **Ruidos y sibilancias**
+🤧 **[Ruidos y sibilancias](https://zenseiapp.com/blog/2018/05/08/sibilancias-pitidos-respiratorios/)**
 
 🤧 **Tos persistente y repetitiva**
 
@@ -34,7 +34,7 @@ No todos los asmáticos sufren la totalidad de los síntomas. Tampoco el que pad
 
 Pero si te haces la pregunta de qué hacer para no sufrir una crisis, es que ya has sido diagnosticado.
 
-### El autocuidado
+### Cómo me puedo autocuidar
 
 El [asma](https://medlineplus.gov/spanish/ency/article/000141.htm) es una enfermedad en la que el paciente puede hacer mucho para controlar o incluso evitar las crisis. Dependiendo de nuestro comportamiento ante la enfermedad, podremos llevar una **vida saludable** y prácticamente normal.
 
