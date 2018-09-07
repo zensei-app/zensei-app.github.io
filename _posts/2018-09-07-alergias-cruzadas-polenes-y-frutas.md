@@ -84,3 +84,16 @@ La fruta deshidratada también puede desplegar su potencial con los alérgenos.
 Por último, es **recomendable llevar una chapita o tarjeta que te identifique como alérgico** y que, además, especifique a qué lo eres. 
 
 Para prevenir **alergias graves, lleva siempre contigo un antihistamínico** autoinyectable.
+
+Aquí te recomendamos posibles apartos que te pueden ayudar a evitar la alergia cruzada en casa:
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&npa=1&asins=B00LKRZ9Y4&linkId=5a4a373aaf19873a43d4a3082d8ed2ba&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&npa=1&asins=B0785L7R7S&linkId=d0c9034201e42c11529f3d6d585604ab&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+</div>
+<br>
+
+No son para ti los lava verduras y los peladores. A lo mejor te interesa nuestra guía de autocuidados de salud respiratoria.
