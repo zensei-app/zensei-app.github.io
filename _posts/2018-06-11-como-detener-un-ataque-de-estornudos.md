@@ -32,9 +32,33 @@ En ocasiones se presentan de forma muy seguida y si no conseguimos detener el at
 
 Si comienzas con un ataque de estornudos, procura salir del lugar en el que estás y **buscar un sitio donde respirar aire puro.** La crisis puede deberse a que en el sitio en el que te encontrabas había una gran cantidad de polvo, polen o cualquier tipo de partículas que te provoquen la necesidad irrefrenable de estornudar.
 
+Si los estornudos te suelen ocurrir dentro de casa, seguramente necesitas tener algún tipo purificador de aires en casa.
+
+Así podrás respiraras un aire más limpio y evitar los ataques de estornudos en casa.
+
+Aquí puedes encontrar los purificadores de aires mejor valorados en Amazon.
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B07C7WVBDH&linkId=c949afed413c31e598c4222c9cd2fece&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B01GB8BT90&linkId=1d061b2c3d3758b7995d83ef3204224f&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B01J45SBH0&linkId=d576e41afbf687277cd00a1b27438ed4&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+</div>
+<br>
+
 ### Mascarilla
 
 Si vas a estar en contacto con sustancias que te provocan estornudos (perfume, partículas de madera, moho, polvo…), ten la precaución de **ponerte una mascarilla o un pañuelo anudado alrededor de la boca y la nariz.** Así evitarás que las partículas entren en tu cuerpo y evitarás los estornudos.
+
+Aquí puedes encontrar varias mascarillas ideales para evitar la polución, polvo, ácaros, polenes e incluso virus respiratorios.
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B075D52DZX&linkId=f7a6d14be95e530fde5fe717ca114bc3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B079NGZL5B&linkId=5241b8a23065a81d8ec3e53ca6bc785e&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00XLNCC6S&linkId=a54e12d940ad1911c5f98e70c095e74b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+</div>
+<br>
 
 ### Presiones
 

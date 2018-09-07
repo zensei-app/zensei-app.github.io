@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌬️ Aprende a controlar el asma y no vuelvas a sentir la falta de aire"
+title:  "🌬️ Como controlar y evitar los síntomas del asma sin esfuerzo"
 date:   2018-08-14 10:00:00 +0200
 author: David Martín-Corral
 categories: controlar asma, tengo asma
