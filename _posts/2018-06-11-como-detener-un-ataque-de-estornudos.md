@@ -4,7 +4,7 @@ toc: true
 title:  "🤧 Cómo parar un ataque de estornudos de forma sencilla"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: ataque de estornudos, alergia, moquear, parar, detener
+categories: ataque de estornudos, alergia, moquear, parar, detener, dejar de estornudar
 image: /img/13397331035_dd80d2f94d_b.jpg
 description: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
 intro: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza a gotear. 
@@ -20,7 +20,7 @@ Aquí te explicamos las causas, como puedes evitarlos y como parar los estornudo
 ![Zensei app](/img/13397331035_dd80d2f94d_b.jpg){: .center-image }
 <br>
 
-## **Por qué estornudas mucho**
+## **Por qué estornudas**
 
 Esto es debido a un reflejo totalmente instintivo del sistema respiratorio, que está intentando limpiar las vías aéres, normalmente, en la parte de la nariz.
 
@@ -78,7 +78,7 @@ Aquí puedes encontrar varias mascarillas ideales para evitar la polución, polv
 </div>
 <br>
 
-### **👃 Trucos caseros para parar un ataque de estornudos**
+### **👃 Trucos caseros para dejar de estornudos**
 
 Existen varias formas para cortar el estornudo. 
 
