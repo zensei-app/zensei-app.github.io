@@ -7,11 +7,8 @@ author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
 image: /img/5458857332_d404800a08_b.jpg
 description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
+intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos o silbidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/> <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 ---
-
-Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos o silbidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho.
-
-En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 
 <br>
 ![Asma Zensei app sibilancias](/img/5458857332_d404800a08_b.jpg){: .center-image }

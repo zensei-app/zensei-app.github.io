@@ -7,15 +7,10 @@ author: Ana Pérez y Mar Santiago
 categories: ataque de estornudos, alergia, moquear, parar, detener
 image: /img/13397331035_dd80d2f94d_b.jpg
 description: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
+intro: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza a gotear. 
 ---
 
-¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. 
-
-A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. 
-
-La nariz pica y empieza a gotear. 
-
-**¿Cómo parar un ataque de estornudos?**
+**¿Cómo detener un ataque de estornudos?**
 
 Es lo que te estarás preguntando verdad.
 
@@ -25,7 +20,7 @@ Aquí te explicamos las causas, como puedes evitarlos y como parar los estornudo
 ![Zensei app](/img/13397331035_dd80d2f94d_b.jpg){: .center-image }
 <br>
 
-## **Porque estornudas mucho**
+## **Por qué estornudas mucho**
 
 Esto es debido a un reflejo totalmente instintivo del sistema respiratorio, que está intentando limpiar las vías aéres, normalmente, en la parte de la nariz.
 
