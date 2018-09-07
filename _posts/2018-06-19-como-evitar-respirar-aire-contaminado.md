@@ -94,7 +94,7 @@ Aquí puedes encontrar varias mascarillas ideales para evitar la polución, polv
 </div>
 <br>
 
-### **Ponte otra ropa al llegar a casa para evitar la contaminación en casa**
+### **Ponte otra ropa al llegar a casa para evitar la polución**
 
 **Debes mantener tu casa limpia**, para que no acumule polvo y otros alérgenos. 
 
