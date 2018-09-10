@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🌬️ Cómo controlar un ataque de asma sin inhalador"
+title:  "🌬️ Cómo prevenir el asma e ir al médico solo cuando sea necesario"
 date:   2018-08-14 10:00:00 +0200
 author: David Martín-Corral
 categories: controlar asma, tengo asma
