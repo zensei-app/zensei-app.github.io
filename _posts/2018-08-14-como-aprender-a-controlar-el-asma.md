@@ -7,11 +7,11 @@ author: David Martín-Corral
 categories: controlar asma, tengo asma
 image: /img/show_app.png
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
+intro: "**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://zenseiapp.com/blog/2018/04/24/como-prevenir-ataque-asma/) y sus síntomas de forma sencilla**, así podrás cantar, correr, bailar, en resumen, una vida normal. Pese a lo horrible que es tener [asma](https://medlineplus.gov/spanish/ency/article/000141.htm). 
+<br><br>
+En este artículo te explicamos como puedes tener bajo control tu asma. 🙇"
 ---
 
-**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://zenseiapp.com/blog/2018/04/24/como-prevenir-ataque-asma/) y sus síntomas de forma sencilla**, así podrás cantar, correr, bailar, en resumen, una vida normal. Pese a lo horrible que es tener [asma](https://medlineplus.gov/spanish/ency/article/000141.htm). 
-
-En este artículo te explicamos como puedes tener bajo control tu asma. 🙇
 
 **Da igual el tipo de asma que tengas**, [intrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx) (origen genético), [extrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaextr%C3%ADnsecoperenne.aspx) (factores de entorno), [asma emocional](https://www.tendencias21.net/Comprobada-la-naturaleza-emocional-del-asma_a716.html) o por estrés, [asma bronquial](https://www.cun.es/enfermedades-tratamientos/enfermedades/asma-bronquial), [asma alérgica](https://www.alk.net/es/pacientes/que-es-el-asma-alergica), etc. Te podemos ayudar a que lleves un control del asma sin esfuerzo.
 

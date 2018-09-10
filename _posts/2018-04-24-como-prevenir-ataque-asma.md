@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🤢 Cómo puedo prevenir un ataque de asma paso a paso"
+title:  "🌬️ Cómo evitar un ataque de asma sin inhalador paso a paso"
 date:   2018-04-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas
