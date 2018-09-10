@@ -6,8 +6,8 @@ date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
 image: /img/5458857332_d404800a08_b.jpg
-description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
-intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos o silbidos al respirar. Su nombre proviene precisamente del tipo de ruido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/> <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
+description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
+intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos, silbidos o ruidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/> <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 ---
 
 <br>
@@ -28,7 +28,7 @@ Los medicamentes más usados para eliminar los silbidos al respirar son los bron
 
 En cualquier caso, cuando los pitidos van acompañados de una importante disnea, el tratamiento se acompañará de la **administración de oxígeno**, a través de una mascarilla o una cánula nasal.
 
-Durante la noche y a primeras horas de la mañana, esos pitidos suelen hacerse más audibles y molestos. La causa es el cambio climatológico que se produce, por lo general con un aumento de los niveles de humedad. 
+Durante la noche y a primeras horas de la mañana, esos ruidos al respirar suelen hacerse más audibles y molestos. La causa es el cambio climatológico que se produce, por lo general con un aumento de los niveles de humedad, o por polución de entorno, que se queda en nuestros sistema respiratorio e impiden una respiración normal.
 
 Al mismo tiempo, es el momento en que estamos tumbados en la cama. Al estar en esta posición, la balsa de mucosidad se expande y sube inundando los canales de las vías respiratorias. 
 
@@ -38,7 +38,7 @@ En cualquier caso, sea cual sea la causa que produce los silbidos al respirar, e
 
 ## **Evita los desencadenantes de los pitidos al respirar de forma sencilla**
 
-Si tienes pitidos al respirar durante cualquier dia de la semana, en cualquier momento u hora, sin venir a cuento. 
+Si tienes ruidos al respirar durante cualquier dia de la semana, en cualquier momento u hora, sin venir a cuento. 
 
 Notas como si se te fuera cerrando poco a poco el conducto de ventilación (sobre la traquea mas o menos), cada vez se te va cerrando más, cada vez te cuesta más respirar hasta que un punto que no te permite hacer nada.
 
