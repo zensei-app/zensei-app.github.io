@@ -83,7 +83,7 @@ Por último, es **recomendable llevar una chapita o tarjeta que te identifique c
 
 Para prevenir **alergias graves, lleva siempre contigo un antihistamínico** autoinyectable.
 
-Aquí te recomendamos posibles apartos que te pueden ayudar a evitar la alergia cruzada en casa:
+Aquí te recomendamos posibles aparatos que te pueden ayudar a evitar la alergia cruzada en casa:
 
 <br>
 <div class="container-narrow center">

@@ -6,7 +6,7 @@ date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
 image: /img/5458857332_d404800a08_b.jpg
-description: Se denomina sibilancia y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
+description: Se denominan sibilancias y son esos conocidos pitidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa...
 intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos, silbidos o ruidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/> <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
 ---
 
@@ -53,19 +53,7 @@ Se depositan en nuestra vías aéreas y las obstruyen, provcando los malditos pi
 
 Por eso necesitas protegerte ante los factores de entorno, los cuales te alerta Zensei, y debes tener un hogar limpio de polvos, polución, polenes o ácaros.
 
-Es recomendable que tengas un purificador de aire en casa.
-
-Permitenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
-
-<br>
-<div class="container-narrow center">
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B075D52DZX&linkId=f7a6d14be95e530fde5fe717ca114bc3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B079NGZL5B&linkId=5241b8a23065a81d8ec3e53ca6bc785e&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00XLNCC6S&linkId=a54e12d940ad1911c5f98e70c095e74b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
-</div>
-<br>
-
-También hemos seleccionado algunos purificadores por su calidad y precio. 
+Es recomendable que tengas un purificador de aire en casa. Hemos seleccionado algunos purificadores por su calidad y precio. 
 
 Para que puedas minimizar el impacto de los desencadenantes de los pitidos respiratorios en casa.
 
@@ -80,6 +68,17 @@ Solo tienes que instalarlo en su habitación.
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B01J45SBH0&linkId=d576e41afbf687277cd00a1b27438ed4&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
 </div>
 <br>
+
+Permítenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
+
+<br>
+<div class="container-narrow center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B075D52DZX&linkId=f7a6d14be95e530fde5fe717ca114bc3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B079NGZL5B&linkId=5241b8a23065a81d8ec3e53ca6bc785e&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00XLNCC6S&linkId=a54e12d940ad1911c5f98e70c095e74b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+</div>
+<br>
+
 
 Unos correctos hábitos preventivos de salud respiratoria es lo mejor para evitar los silbidos al respirar.
 
