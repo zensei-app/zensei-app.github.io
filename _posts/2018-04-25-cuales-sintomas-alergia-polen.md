@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y como evitarlos"
+title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y cómo no morir de una ataque de estornudos"
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar
 image: /img/sun-flower-1643794_1280.jpg
-description: Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes son...
+description: Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes...
 ---
 
 Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes: el polen. Miles de personas sienten que pasan por el peor momento del año. 
