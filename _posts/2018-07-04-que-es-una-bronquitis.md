@@ -60,6 +60,8 @@ La bronquitis como hemos comentado, puede tener varios orígenes, normalmente v�
 
 Si es así, la infección respiratoria debido a la bronquitis si será contagiosa.
 
+Y un beso, si podría contagiarla.
+
 En cambio, si es una bronquitis asmática, no, ya de viene provocada generalmente por factores genéticos.
 
 El método más eficaz para minimizar el riesgo de contagio es evitar las gotas de moco al toser o al estornudar.
