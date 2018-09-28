@@ -69,9 +69,9 @@ A la hora de seleccionar un purificador tienes que tener en cuenta varias caract
 
 **Portabilidad** - Si eres una persona que tienes problemas respiratorios graves de asma o alergia. Y tienes que llevar contigo siempre el purificador de aire, allá donde vayas, unos que sea ligero y compacto será lo mejor para ti.
 
-**Mantenimiento** - Muchos purificadores requieren un pequeño mantenimiento para limpiar filtros. Te diremos cuales son los mejores en este sentido.
-
 **Tipo de filtro** - Y por último, tenemos que tener el tipo de filtro que utiliza, es uno solo, una combinación de varios sistemas de filtrado. 
+
+**Mantenimiento** - Muchos purificadores requieren un pequeño mantenimiento para limpiar filtros. Te diremos cuales son los mejores en este sentido.
 
 Bien.
 
