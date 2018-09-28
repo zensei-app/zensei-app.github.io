@@ -268,11 +268,15 @@ Vas a evitar horas de estar en urgencias y reducirás el consumo de tu inhalador
 
 Y así sentirás que no estás enganchado a él.
 
-Así que sin duda, un purificador de aire si eres asmático, te ayudará a evitar los desencadenantes de las crisis de de falta de aire.
+Así que sin duda, un purificador de aire, si eres asmático, te ayudará a evitar los desencadenantes de entonro de las crisis asmáticas por falta de aire.
 
 Y sentirás que puedes volver a respirar sin problemas.
 
-Imagínate volver dormir plácidamente y no volver a preocuparte de tu respiración.
+Imagínate volver a dormir plácidamente y no volver a preocuparte de tu respiración.
+
+¿Un sueño verdad?
+
+Pues compra tu purificador de aire y vuelve a respirar plácidamente.
 
 ## **Conclusiones**
 
@@ -286,7 +290,11 @@ No sabemos cómo es tu casa.
 
 Pero si vives en el campo o en la ciudad, con mascotas o no y padeces asma, o tienes una persona que tiene asma en casa.
 
-Cualquiera de los purificadores de aire que te recomendamos, es la mejor opción calidad precio después de haber analizado la mayor parte de los purificadores del mercado.
+Cualquiera de los purificadores de aire que te recomendamos, es la mejor opción calidad-precio después de haber analizado la mayor parte de los purificadores del mercado.
+
+Tu decides si quieres comprar uno. 
+
+Nosotros solo te aconsejamos.
 
 Y si crees que ninguno de los que te hemos recomendado no te convence.
 
