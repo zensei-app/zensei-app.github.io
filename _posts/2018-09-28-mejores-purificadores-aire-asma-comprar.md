@@ -218,7 +218,7 @@ Necesitarás comprar varios purificadores para tenerlos en distintas instancias 
 
 Es una inversión, pero te vas ahorrar muchas horas de urgencias y de malas experiencias por no poder respirar.
 
-## **¿Por qué necesita un asmático un purificador?**
+## **¿Por qué necesita un asmático un purificador de aire?**
 
 El asma está provocado por varios desencadenantes como es la calidad del aire, estrés, virus respiratorios o ejercicio físico.
 
