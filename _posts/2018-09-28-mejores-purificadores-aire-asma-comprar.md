@@ -63,7 +63,7 @@ Normalmente se utiliza con otra tecnología para asegurarse la eliminación de p
 
 A la hora de seleccionar un purificador tienes que tener en cuenta varias características que te describimos a continuación.
 
-**Potencia** - Es cuánta capacidad de aire tiene para mover. Cuanta más potencia mayor será el volumen de aire que puede purificar. A mayor potencia, mayor es la habitación a casa que puede purificar su aire.
+**Potencia** - Es cuánta capacidad de aire tiene para mover. Cuanta más potencia mayor será el volumen de aire que puede purificar. A mayor potencia, mayor es la habitación de la casa que puede purificar su aire.
 
 **Ruido** - Es obvio, queremos un purificador de aire que sea silencioso y que no moleste.
 
