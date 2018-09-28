@@ -13,7 +13,7 @@ intro: "En este artículo te vamos ayudar a elegir el purificador de aire idóne
 
 ## **¿Qué es un purificador de aire?**
 
-Un purificador de aire es un dispositivo que elimina los componentes contaminantes, como: tóxicos, humo y partículas suspendidas en el aire. 
+Un [purificador de aire](https://es.wikipedia.org/wiki/Purificador_de_aire) es un dispositivo que elimina los componentes contaminantes, como: tóxicos, humo y partículas suspendidas en el aire. 
 
 Los purificadores de aire del hogar son buenos contra alérgenos que pueden perjudicar nuestra salud. 
 
@@ -21,13 +21,13 @@ Como son pólenes, polvo, ácaros, esporas de moho, pelos de mascotas, compuesto
 
 Y son beneficiosos para personas personas con asma, dermatitis atópica, sensibilidad química múltiple, encefalopatía miálgica, problemas cardiovasculares, etc. 
 
-(Así podrás respirar aire más limpio aunque vivas al lado de una autovía)[/blog/2018/06/18/como-evitar-respirar-aire-contaminado/]
+[Así podrás respirar aire más limpio aunque vivas al lado de una autovía](/blog/2018/06/18/como-evitar-respirar-aire-contaminado/)
 
 ## **¿Técnicas de purificación del aire?**
 
 ### **Irradiación**
 
-La irradiación consiste en hacer pasar el aire por una Irradiación germicida ultravioleta.
+La [irradiación](https://es.wikipedia.org/wiki/Purificador_de_aire#Irradiaci%C3%B3n) consiste en hacer pasar el aire por una Irradiación germicida ultravioleta.
 
 ¿Qué significa esto?
 
@@ -37,7 +37,7 @@ Se ha comprobado que este tipo de sistemas generan Ozono, el cual es dañino par
 
 ### **Iones**
 
-Es parecido al anterior.
+La [ionización](https://es.wikipedia.org/wiki/Purificador_de_aire#Iones) es parecido al anterior.
 
 Donde se hace pasar el aire por haz de iones, provocando la eliminación de los alérgenos que pueden provocar un ataque de asma.
 
@@ -45,7 +45,7 @@ También tienen la desventaja de que pueden producir Ozono y pueden dañar la sa
 
 ### **Filtros**
 
-En este caso se hace pasar el aire por una lámina que captura partículas en suspensión.
+En este caso se hace pasar el aire por una [lámina que captura partículas en suspensión](https://es.wikipedia.org/wiki/Purificador_de_aire#Filtros).
 
 Por lo tanto es necesario que la partícula sea mayor a lo que permite el filtro dejar pasar.
 
@@ -55,7 +55,7 @@ La desventaja de este sistema es que no elimina componentes volátiles o gases c
 
 Este sistema hace pasar el aire por un material poroso que captura componentes volátiles.
 
-En cambio, no captura partículas más grandes.
+En cambio, el [carbón activo](https://es.wikipedia.org/wiki/Purificador_de_aire#Carb%C3%B3n_activado) no captura partículas más grandes.
 
 Normalmente se utiliza con otra tecnología para asegurarse la eliminación de partículas en suspensión.
 
@@ -224,9 +224,11 @@ El asma está provocado por varios desencadenantes como es la calidad del aire, 
 
 Para controlar el asma es necesario.
 
-Tomar tu inhalador de control para evitar la inflamación de los bronquios, por lo tanto, la falta de aire.
-Tomar tu inhalador de rescate para cuando veas que tienes falta de aire, pitidos tos o presión en el pecho.
-Tener unos buenos hábitos de higiene. Limpiar la casa y mantener el aire limpio.
+1. **Tomar tu inhalador de control** para evitar la inflamación de los bronquios, por lo tanto, la falta de aire.
+
+2. **Llevar siempre tu inhalador de rescate** para cuando veas que tienes falta de aire, pitidos tos o presión en el pecho.
+
+3. **Tener unos buenos hábitos de higiene**. Limpiar la casa y mantener el aire limpio.
 
 Para tu medicación necesitas ir a tu médico para que te los recete.
 
