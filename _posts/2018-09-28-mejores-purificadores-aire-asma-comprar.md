@@ -246,7 +246,7 @@ Y cuando llegamos a casa nuestras vías aéreas están obstruidas por el aire co
 
 Así cuando llegues a casa después de todo el día te aseguras que el aire que respiras está limpio.
 
-[Previniendo el asma e podrás ir al médico solo cuando sea necesario](/blog/2018/08/14/como-aprender-a-controlar-el-asma/)
+[Previniendo el asma e podrás ir al médico solo cuando sea necesario.](/blog/2018/08/14/como-aprender-a-controlar-el-asma/)
 
 Bien.
 
