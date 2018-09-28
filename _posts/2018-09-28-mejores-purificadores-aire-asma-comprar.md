@@ -21,6 +21,8 @@ Como son pólenes, polvo, ácaros, esporas de moho, pelos de mascotas, compuesto
 
 Y son beneficiosos para personas personas con asma, dermatitis atópica, sensibilidad química múltiple, encefalopatía miálgica, problemas cardiovasculares, etc. 
 
+(Así podrás respirar aire más limpio aunque vivas al lado de una autovía)[/blog/2018/06/18/como-evitar-respirar-aire-contaminado/]
+
 ## **¿Técnicas de purificación del aire?**
 
 ### **Irradiación**
@@ -234,13 +236,15 @@ Por eso un purificador de aire es la solución perfecta para mantener el aire de
 
 ¿Por qué?
 
-Porque normalmente, cuando las crisis de asma se suelen producir por las noches.
+Porque normalmente las crisis de asma se suelen producir por las noches.
 
 Esto es debido a que nos pasamos el día entero fuera de casa respirando porquería.
 
 Y cuando llegamos a casa nuestras vías aéreas están obstruidas por el aire contaminado que hemos respirado.
 
 Así cuando llegues a casa después de todo el día te aseguras que el aire que respiras está limpio.
+
+[Previniendo el asma e podrás ir al médico solo cuando sea necesario](/blog/2018/08/14/como-aprender-a-controlar-el-asma/)
 
 Bien.
 
