@@ -77,9 +77,7 @@ No te preocupes, a continuación te vamos a analizar los mejores purificadores d
 
 ## **¿Cúal es el mejor purificador de aire para una habitación pequeña?**
 
-<a target="_blank" href="https://www.amazon.es/gp/product/B07FFS62HP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FFS62HP&linkCode=as2&tag=zenseiapp08-21&linkId=46a11cbe060127b0805761fb56c06426">Purificador de Aire Portátil con Filtros HEPA y de Carbón Activo, Hogar Purificador de Aire Alimentado Por Cable USB y Luz Led Nocturna, Eliminador para PM2.5, Alergias, Bacterias, y los Malos Olores del Tabaco</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07FFS62HP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Purificador de aire Jinpus
+<a target="_blank" href="https://www.amazon.es/gp/product/B07FFS62HP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FFS62HP&linkCode=as2&tag=zenseiapp08-21&linkId=46a11cbe060127b0805761fb56c06426">Purificador de Aire Portátil Jinpus</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07FFS62HP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Es un purificador de aire portátil con Filtros HEPA y de Carbón Activo.
 
@@ -93,7 +91,7 @@ Perfecto para eliminar PM2.5, Pólenes, Bacterias, y los Malos Olores del Tabaco
 
 **Ruido** - Super silencioso.
 
-**Portabilidad** - El mini cooper de los purificadores de aire.
+**Portabilidad** - El mini cooper de los purificadores de aire. Ideal para poder llevartelo de viaje.
 
 **Tipo de Filtro** - Ionización y Carbón Activo.
 
