@@ -21,7 +21,7 @@ Como son pólenes, polvo, ácaros, esporas de moho, pelos de mascotas, compuesto
 
 Y son beneficiosos para personas personas con asma, dermatitis atópica, sensibilidad química múltiple, encefalopatía miálgica, problemas cardiovasculares, etc. 
 
-[Así podrás respirar aire más limpio aunque vivas al lado de una autovía](/blog/2018/06/18/como-evitar-respirar-aire-contaminado/)
+[Así podrás respirar aire más limpio aunque vivas al lado de una autovía.](/blog/2018/06/18/como-evitar-respirar-aire-contaminado/)
 
 ## **¿Técnicas de purificación del aire?**
 
