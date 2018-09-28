@@ -280,7 +280,7 @@ Pues compra tu purificador de aire y vuelve a respirar plácidamente.
 
 ## **Conclusiones**
 
-Los purificadores de aire para casa se han convertido en una herramienta indispensable para aquellas personas con asma.
+Los purificadores de aire para el hogar se han convertido en una herramienta indispensable para aquellas personas con asma.
 
 Es la forma de mantener un hogar con aire limpio. 
 
