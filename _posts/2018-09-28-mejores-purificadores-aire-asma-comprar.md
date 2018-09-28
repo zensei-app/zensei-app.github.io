@@ -8,7 +8,7 @@ categories: asma, purificador de aire, comprar
 image: /img/photo-1534397860164-120c97f4db0b.jpeg
 description: En este artículo te vamos ayudar a elegir el purificador de aire idóneo para tí y tu asma...
 intro: "En este artículo te vamos ayudar a elegir el purificador de aire idóneo para tí y tu [asma](https://medlineplus.gov/spanish/ency/article/000141.htm).<br><br> ¿La mejor parte?
-<br><br>Con tu nuevo purificador reducirás el número de crisis asmáticas en casa.<br><br>Como bien sabes tener asma es horrible te pasas el dia tosiendo, con ahogo, con [falta de aire o pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), es una sensación algo desesperante.<br><br>Encima el médico te dice que no tiene cura.<br><br>Y te recomienda que te compres un purificador de aire.<br><br>¿Pero cúal?<br><br>No te preocupes que empezamos, que estarás deseando saber cual es el purificador de aire perfecto para cuidar del asma."
+<br><br>Con tu nuevo purificador reducirás el número de crisis asmáticas en casa.<br><br>Como bien sabes tener asma es horrible te pasas el dia tosiendo, con ahogo, con [falta de aire o pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), es una sensación algo desesperante.<br><br>Encima el médico te dice que no tiene cura.<br><br>Y te recomienda que te compres un purificador de aire.<br><br>¿Pero cúal?<br><br>No te preocupes que empezamos. <br><br>Qué seguro que estarás deseando saber cuál es el purificador de aire perfecto para cuidar del asma."
 ---
 
 ## **¿Qué es un purificador de aire?**
