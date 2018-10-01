@@ -59,7 +59,7 @@ En cambio, el [carbón activo](https://es.wikipedia.org/wiki/Purificador_de_aire
 
 Normalmente se utiliza con otra tecnología para asegurarse la eliminación de partículas en suspensión.
 
-## **¿Qué hay que tener en cuenta a la hora de comprar un purificador de aire?**
+## **¿Qué hay que saber a la hora de comprar un purificador de aire?**
 
 A la hora de seleccionar un purificador tienes que tener en cuenta varias características que te describimos a continuación.
 
@@ -77,7 +77,17 @@ Bien.
 
 No te preocupes, a continuación te vamos a analizar los mejores purificadores de aire para el asma en función de sus características.
 
-## **¿Cúal es el mejor purificador de aire para una habitación pequeña?**
+## **¿Cúal es el mejor purificador de aire para casa?**
+
+Eso depende del hogar en el que vivas y tus necesidades.
+
+Aquí hemos analizado las posibles opciones que todo el mundo se pregunta a la hora de comprar un purificador de aire.
+
+No sé si tu también te lo has preguntado.
+
+Pero aquí te contamos.
+
+### **Mejor purificador de aire para una habitación pequeña**
 
 <a target="_blank" href="https://www.amazon.es/gp/product/B07FFS62HP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FFS62HP&linkCode=as2&tag=zenseiapp08-21&linkId=46a11cbe060127b0805761fb56c06426">Purificador de Aire Portátil Jinpus</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07FFS62HP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -112,7 +122,7 @@ Totalmente recomendable.
  </div>
  <br>
 
-## **¿Cúal es el mejor purificador de aire para una habitación grande?**
+### **Mejor purificador de aire para una habitación grande**
 
 <a target="_blank" href="https://www.amazon.es/gp/product/B074FZN122/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B074FZN122&linkCode=as2&tag=zenseiapp08-21&linkId=16062f8a30707070dcb6f2deb057e29f">Purificador de aire Pro  Breeze</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B074FZN122" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -139,7 +149,7 @@ Encima tiene temporizador para que se apague solo después de 3 o 4 horas.
  </div>
  <br>
 
-## **¿Cúal es el mejor purificador de aire para una casa pequeña?**
+### **Mejor purificador de aire para una casa pequeña**
 
 <a target="_blank" href="https://www.amazon.es/gp/product/B07BCNKFFV/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07BCNKFFV&linkCode=as2&tag=zenseiapp08-21&linkId=774ce86f99523889f5a3910f496e04bb">Purificador Rowenta PU4080F0</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07BCNKFFV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -173,7 +183,7 @@ Además tiene una app con la que podrás saber la calidad de aire de tu casa y e
  <br>
 
 
-## **¿Cúal es el mejor purificador de aire para una casa mediana?**
+### **Mejor purificador de aire para una casa mediana**
 
 <a target="_blank" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42">Purificador de aire Philips AC3256/10 </a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -206,7 +216,7 @@ Notarás mucha diferencia con tu asma a pesar de tener abiertas las ventanas a m
 </div>
 <br>
 
-## **¿Cúal es el mejor purificador de aire para una casa muy grande?**
+### **Mejor purificador de aire para una casa grande**
 
 En el caso de que tengas una casa muy grande.
 
@@ -300,7 +310,8 @@ Y si crees que ninguno de los que te hemos recomendado no te convence.
 
 Aquí puedes ver un listado completo de todos los purificadores de aire que puedes comprar que puedes comprar. 
 
-<div class="section-nav">
+<div class="section-cta">
+Aquí puedes echar un vistazo a una completa
 <a target="_blank" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=purificadores de aire&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=46173e3c4af7c9d69d65d527048bf82f">Lista de Purificadores de Aire</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
