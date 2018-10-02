@@ -62,18 +62,14 @@ Los purificadores respiratorios son perfectos, si tienes niños y suelen tener p
 Solo tienes que instalarlo en su habitación.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">elegir un purificador de aire para tu casa</a>.
+<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 Permítenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
 
-<br>
-<div class="container-narrow center">
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B075D52DZX&linkId=f7a6d14be95e530fde5fe717ca114bc3&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B079NGZL5B&linkId=5241b8a23065a81d8ec3e53ca6bc785e&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=zenseiapp08-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B00XLNCC6S&linkId=a54e12d940ad1911c5f98e70c095e74b&bc1=FFFFFF&lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr" onclick="ga('send', 'event', 'post', 'click', 'product');"></iframe>
+<div class="section-cta">
+<a href="/blog/2018/09/28/mejor-mascarillas-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejor-mascarillas-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
-<br>
 
 
 Unos correctos hábitos preventivos de salud respiratoria es lo mejor para evitar los silbidos al respirar.

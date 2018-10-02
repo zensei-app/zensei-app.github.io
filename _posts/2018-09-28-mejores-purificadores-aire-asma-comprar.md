@@ -311,7 +311,7 @@ Y si crees que ninguno de los que te hemos recomendado no te convence.
 Aquí puedes ver un listado completo de todos los purificadores de aire que puedes comprar que puedes comprar. 
 
 <div class="section-cta">
-Aquí puedes echar un vistazo a una completa
+👉 Aquí puedes echar un vistazo a una completa
 <a target="_blank" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=purificadores de aire&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=46173e3c4af7c9d69d65d527048bf82f">Lista de Purificadores de Aire</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
@@ -328,5 +328,11 @@ El control de los desencadenantes, ya sea con un purificador con una app diario 
 Hemos hecho un análisis concienzudo de todas las necesidades que un asmático necesita.
 
 Ahora, te toca a ti cuidar de tu entorno para que evites los desagradables síntomas del asma.
+
+Y si sueles tener síntomas cuando sales a la calle, a lo mejor necesitas una mascarilla antipolución.
+
+<div class="section-cta">
+<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+</div>
 
 
