@@ -187,6 +187,10 @@ Además tiene una app con la que podrás saber la calidad de aire de tu casa y e
 
 <a target="_blank" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42">Purificador de aire Philips AC3256/10 </a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUVFSbycoCM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a target="_blank" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42"><bold>Comprar Purificador de aire Philips AC3256/10</bold></a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 Tiene capacidad para purificar hasta 95 metros cuadros. 
 
 Ideal para eliminar alérgenos. Polvo, partículas, ácaros o moho.
