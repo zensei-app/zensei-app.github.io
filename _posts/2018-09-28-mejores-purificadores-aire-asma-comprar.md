@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🥇 Purificadores de aire para asmáticos alérgicos (y como no volverse loca al comprar uno)"
+title:  "🥇 Purificadores de aire para el asma alérgica (y como no volverse loca al comprar uno)"
 date:   2018-09-28 10:00:00 +0200
 author: David
 categories: asma, purificador de aire, comprar
