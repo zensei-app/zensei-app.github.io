@@ -5,7 +5,7 @@ title:  "🌬️ Cómo prevenir el asma e ir al médico solo cuando sea necesari
 date:   2018-08-14 10:00:00 +0200
 author: David Martín-Corral
 categories: controlar asma, tengo asma
-image: /img/show_app.png
+image: /img/photo-1521540124319-66c09f0d5999.jpeg
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
 intro: "**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://zenseiapp.com/blog/2018/04/24/como-prevenir-ataque-asma/) y sus síntomas de forma sencilla**, así podrás cantar, correr, bailar, en resumen, una vida normal. Pese a lo horrible que es tener [asma](https://medlineplus.gov/spanish/ency/article/000141.htm). 
 <br><br>

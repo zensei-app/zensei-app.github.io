@@ -5,7 +5,7 @@ title:  "🤢 Cómo evitar la falta de aire al respirar con un diario de síntom
 date:   2018-08-01 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: respirar, diario, síntomas, respiratorios
-image: /img/show_app.png
+image: /img/photo-1531615018523-12556603349f.jpeg
 description: Si sientes dificultad para respirar profundamente, hondo, por la nariz o sientes sensación de falta de aire o te cuesta respirar simplemente, solo las personas que lo han padecido saben lo que significa...
 ---
 
