@@ -20,6 +20,10 @@
 
 <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='ae48930d88519a88cc04065c7141daea37c35329a416fdb6e331d8977a5ac711';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
 
+{% if jekyll.environment != 'production' and site.google_analytics %}
+{% include google-analytics.html %}
+{% endif %}
+
 <script>
   $(function(){
 
