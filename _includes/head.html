@@ -31,7 +31,7 @@
   <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}">
 
-  <title>{% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>▷ {% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="shortcut icon" href="/assets/favicon.ico" />

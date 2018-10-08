@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y cómo no morir de una ataque de estornudos"
+title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y cómo evitar sus síntomas"
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar
@@ -14,13 +14,13 @@ Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada 
 ![Alergia al polen Zensei app](/img/sun-flower-1643794_1280.jpg){: .center-image }
 <br>
 
-### ¿Qué es el polen?
+## **¿Qué es el polen?**
 
 El [polen](https://es.wikipedia.org/wiki/Polen), producido por las plantas, es un diminuto granito que está cargado de células fecundadoras del vegetal. Vuelan hasta encontrar los órganos femeninos de otra planta de su especie. De esta manera queda polinizada.
 
 **Una sola planta es capaz de lanzar miles de granitos de polen al ambiente.** Se distingue cuando aún está en la flor, de color amarillo. Cuando el polen se disemina en el aire resulta invisible. Millones de pequeñas partículas se esparcen y entran en contacto con nuestro aparato respiratorio.
 
-### Cómo llega la reacción alérgica
+## **Cómo llega la reacción alérgica**
 
 **El contacto con nuestro sistema respiratorio** es la acción que produce más respuesta. No obstante, para quienes son alérgicos a los agentes polinizadores, también el contacto **con la piel, los ojos o las mucosas provoca síntomas de distinta severidad.**
 
@@ -33,7 +33,7 @@ Existen otras plantas y árboles que provocan reacciones alérgicas en nuestro p
 
 Se estima que **más del 17% de la población es alérgica al polen**. Por ello se ha publicado un [calendario de polinización](http://www.sinomarin.es/documents/1410466/1497307/calendario_polinizacion.pdf/c737b22c-e0e2-4fbc-be52-4e5fd6267fa9), que puede resultarte muy útil.
 
-### Síntomas de la alergia al polen
+## **Síntomas de la alergia al polen**
 
 La [sintomatología de la alergia al polen](https://cuidateplus.marca.com/enfermedades/alergias/alergia-al-polen.html), a menudo **se confunde con la de un resfriado o una gripe**. Su tratamiento, en cambio, no tiene nada que ver.
 
@@ -55,4 +55,18 @@ Su virulencia va a depender de tu grado de intolerancia. Por regla general, los 
 
 🤧 Dificultades para conciliar el sueño y cansancio
 
-Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico. Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.
+## **¿Cómo evitar los síntomas de la alergia al polen?**
+
+Básicamente, tienes que evitar la exposición al polen, sobre todo en primavera.
+
+1. Mantén cerradas las ventanas de casa.
+2. [Usa mascarilla para evitar respirar polen](/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/).
+3. [Compra un purificador de aire](/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/).
+4. Conoce los niveles de polen.
+5. Acude al médico para ver si necesitas tomar antihestamínicos.
+
+Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico. 
+
+Aquí puedes leer un artículo detallado sobre cómo [evitar los síntomas de la alergia al polen](/blog/2018/05/09/como-prevenir-alergia-polen).
+
+Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.

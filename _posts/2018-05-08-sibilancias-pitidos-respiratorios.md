@@ -68,7 +68,7 @@ Solo tienes que instalarlo en su habitación.
 Permítenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejor-mascarillas-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejor-mascarillas-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
 
