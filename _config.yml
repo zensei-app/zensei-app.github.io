@@ -29,7 +29,6 @@ twitter_username: zensei_app
 
 google_analytics: UA-96842689-1
 
-
 # Build settings
 markdown: kramdown
 gems:
@@ -38,6 +37,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
+  - octopress-minify-html
 
 sass:
   style: compressed
