@@ -14,7 +14,9 @@ intro: "¿Quieres comprar un nebulizador, pero no sabes bien cual comprar?<br><b
 
 Si es que sí.
 
-Necesitas un nebulizador.
+Necesitas comprar un nebulizador.
+
+Primero.
 
 ## **¿Qué es un nebulizador?**
 
@@ -155,7 +157,7 @@ El Omron CompAIR NE-C28P está diseñado para hacer un uso intensivo.
 
 Es ideal para el tratamiento de las enfermedades como el asma, la EPOC, la fibrosis quística o el enfisema pulmonar. 
 
-Lo puedes utilizar para nebulizar agua destilada o algún medicamento cuando estás con tos, mocos, falta de aire, pitidos al respirar, etc.
+Lo puedes utilizar para nebulizar agua destilada o algún medicamento cuando estás con tos, mocos, falta de aire, [pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios), etc.
 
 Es rápido y en unos 5 min ya nebuliza el total del contenido.
 
@@ -219,17 +221,32 @@ No trae adpatador para conectarlo a la corriente.
 
 ## **¿Merece la pena comprar un nebulizador?**
 
-Depende de ti. seguro que has comprado cacharros menos útiles.
+Depende de ti. 
+
+Nosotros no lo sabemos.
+
+Seguro que has comprado cacharros menos útiles.
 
 Pero teniendo un nebulizador te vas a ahorrar muchas horas de ansiedad, malestar y visitas a urgencias de madrugada.
 
-Y una mejoría en salud respiratoria.
+Ya sea porque eres tú asmático o tu niño o niña sufre asma.
+
+No hay peor cosa que no poder respirar.
+
+Utilizando un nebulizador veras una mejoría en salud respiratoria.
+
+Si las recomendaciones que te hemos hecho no te convencen.
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a una completa
 <a target="_blank" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=nebulizadores&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=0bb5d9c616d2d1479709080046169a42">lista de nebulizadores</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
+A lo mejor también es recomendable que tengas en casa un purificador de aire, para eliminar los agentes que hacen que tengas síntomas respiratorios.
+
+<div class="section-cta">
+<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+</div>
 
 
 
