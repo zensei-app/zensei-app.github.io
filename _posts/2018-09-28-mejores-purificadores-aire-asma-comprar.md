@@ -1,13 +1,13 @@
 ---
 layout: post
 toc: true
-title:  "🥇Purificadores de aire para asmáticos alérgicos (y como no volverse loca al comprar uno)"
+title:  "🥇Purificadores de aire para asmáticos (y como no volverse loca al comprar uno)"
 date:   2018-09-28 10:00:00 +0200
 author: David
 categories: asma, purificador de aire, comprar
 image: /img/photo-1534397860164-120c97f4db0b.jpeg
-description: En este artículo te vamos ayudar a elegir el purificador de aire idóneo para tí y tu asma...
-intro: "En este artículo te vamos ayudar a elegir el purificador de aire idóneo para tí y tu [asma](https://medlineplus.gov/spanish/ency/article/000141.htm).<br><br> ¿La mejor parte?
+description: En este artículo te vamos ayudar a elegir el purificador de aire para asmáticos.
+intro: "En este artículo te vamos ayudar a elegir el purificador de aire para asmáticos.<br><br> ¿La mejor parte?
 <br><br>Con tu nuevo purificador reducirás el número de crisis asmáticas en casa.<br><br>Como bien sabes tener asma es horrible te pasas el dia tosiendo, con ahogo, con [falta de aire o pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), es una sensación algo desesperante.<br><br>Encima el médico te dice que no tiene cura.<br><br>Y te recomienda que te compres un purificador de aire.<br><br>¿Pero cúal?<br><br>No te preocupes que empezamos. <br><br>Qué seguro que estarás deseando saber cuál es el purificador de aire perfecto para cuidar del asma."
 ---
 
@@ -77,7 +77,7 @@ Bien.
 
 No te preocupes, a continuación te vamos a analizar los mejores purificadores de aire para el asma en función de sus características.
 
-## **¿Cúal es el mejor purificador de aire para casa?**
+## **¿Cúal es el mejor purificador de aire para asmáticos?**
 
 Eso depende del hogar en el que vivas y tus necesidades.
 
@@ -292,7 +292,7 @@ Imagínate volver a dormir plácidamente y no volver a preocuparte de tu respira
 
 Pues compra tu purificador de aire y vuelve a respirar plácidamente.
 
-## **Conclusiones**
+## **Conclusiones sobre los purificadores de aire para asmáticos**
 
 Los purificadores de aire para el hogar se han convertido en una herramienta indispensable para aquellas personas con asma.
 
