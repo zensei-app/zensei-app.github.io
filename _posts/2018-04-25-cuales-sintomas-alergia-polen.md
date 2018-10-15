@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y cómo evitar sus síntomas"
+title:  "🌼🤧 Cuáles son los síntomas de la alergia al polen y como evitarlos"
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar
 image: /img/sun-flower-1643794_1280.jpg
-description: Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes...
+description: En este artículo vas a aprender cuales son los síntomas de la alergía al polen y como evitarlos de forma sencilla.
 ---
 
 Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes: el polen. Miles de personas sienten que pasan por el peor momento del año. 
@@ -67,6 +67,8 @@ Básicamente, tienes que evitar la exposición al polen, sobre todo en primavera
 
 Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico. 
 
-Aquí puedes leer un artículo detallado sobre cómo [evitar los síntomas de la alergia al polen](/blog/2018/05/09/como-prevenir-alergia-polen).
+<div class="section-cta">
+<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
+</div>
 
 Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.
