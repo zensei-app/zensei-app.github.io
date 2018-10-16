@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-title:  "🤧 Logra parar un ataque de estornudos haciéndote cosquillas en el paladar"
+title:  "🤧 Cómo parar un ataque de estornudos haciéndote cosquillas en el paladar"
 date:   2018-06-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: ataque de estornudos, alergia, moquear, parar, detener, dejar de estornudar
 image: /img/13397331035_dd80d2f94d_b.jpg
-description: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un ataque de estornudos. A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. La nariz pica y empieza a gotear...
+description: Si te acaba de dar un ataque de estornudos y no dejas de estornudar. En este artículo te enseñamos como dejar de estornudar con varios trucos y uno super secreto que nadie sabe.
 intro: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza a gotear. 
 ---
 
