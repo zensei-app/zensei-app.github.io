@@ -94,4 +94,6 @@ Aquí te recomendamos posibles aparatos que te pueden ayudar a evitar la alergia
 </div>
 <br>
 
-No son para ti los lava verduras y los peladores. A lo mejor te interesa nuestra guía de autocuidados de salud respiratoria.
+Si no son para ti los lava verduras y los peladores. 
+
+Echa un vistazo a nuestra app.
