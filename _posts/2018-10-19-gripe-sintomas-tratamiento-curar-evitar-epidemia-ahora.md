@@ -24,7 +24,7 @@ Y es una enfermedad infecciosa, aguda y contagiosa, causada por el virus de la i
 
 Mira.
 
-La gripe puede ser muy grave, incluso mortal, entre ancianos, recién nacidos y personas con ciertas enfermedades crónicas como asma, epoc, bronquitis crónica o alergia respiratoria.
+La gripe puede ser muy grave, incluso mortal, entre ancianos, recién nacidos y personas con ciertas enfermedades crónicas como [asma](/blog/2018/08/14/como-aprender-a-controlar-el-asma/), epoc, bronquitis crónica o [alergia respiratoria](/blog/2018/04/25/cuales-sintomas-alergia-polen/).
 
 ¿Sabías que...?
 
