@@ -219,6 +219,10 @@ Antigripales más descongestivos: FRENADOL DESCONGESTIVO, BISOLFREN, GRIPOSTAD�
 
 ## **¿Cómo evitar y prevenir la gripe?**
 
+La mejor manera de evitar la gripe es tener unos buenos hábitos de prevención.
+
+Aquí te hemos hecho una lista para que intentes hacerlos cada día.
+
 ### **Hábitos para prevenir la gripe**
 
 Mira.
@@ -253,7 +257,17 @@ En algunos países como Japón las personas resfriadas se colocan máscaras de c
 
 8. **Vacúnate ante la gripe** de forma anual. Si eres una persona de riesgo y si eres una persona muy extrovertida tienes mayor probabilidad de contagio.
 
-Curiosidad.
+9. **Conoce los niveles de virus respiratorios** y otros agentes que pueden dañar tu sistema respiratorio. 
+
+Nuestra [app Zensei](https://zenseiapp.com) está diseñada justo para que puedas tener un diario de salud respiratoria que te permite guarda síntomas respiratorios y medicación, y damos a conocer todos los riesgos de salud respiratoria en tu zona.
+
+Basta de vendernos.
+
+Porque no sabemos si realmente te interesa nuestra app.
+
+Es solo para personas que quieren cuidar de su salud respiratoria.
+
+Una curiosidad.
 
 En un [reciente estudio en Science](http://science.sciencemag.org/content/362/6410/75.full) ha demostrado el impacto de la epidemia de la gripe correlaciona con la densidad poblacional y la húmedad del clima. 
 
@@ -273,13 +287,13 @@ Las vacunas están formuladas a partir de virus inactivados o viriones atenuados
 
 Normalmente, la campaña de la vacunación de la gripe suele empezar en el mes de Octubre.
 
-Informate en tu Centro de Salud u Hospital de referencia.
+Infórmate en tu Centro de Salud u Hospital de referencia.
 
 Es mejor vacunarse por la mañana, según un estudio de la Universidad de Birmingham (Reino Unido). 
 
 El resultado del estudio determino que es mejor vacunarse por la mañana, pues el sistema inmune responde mejor a la vacuna y la protección es mayor.
 
-La fecha de comienzo de la campaña vacunación, habitualmente, suele empezar en Octubre cuando comienza el virus a circular.
+La fecha de comienzo de la campaña de vacunación, habitualmente, suele empezar en Octubre cuando comienza el virus a circular.
 
 **¿Quién se tiene que vacunar?**
 
@@ -300,6 +314,10 @@ Son aquellos en los que las complicaciones de la gripe pueden ser graves:
 En los centros de salud te aconsejarán de sus horarios y planes de vacunación.
 
 ## **¿Cómo seguir la epidemia de gripe?**
+
+Mira.
+
+Antes de nada, te vamos explicar como se mide la epidemia de la gripe en España y donde puedes ver esos datos oficiales de cada temporada de la gripe.
 
 ### **¿Cómo se mide la incidencia de la gripe en España?**
 
