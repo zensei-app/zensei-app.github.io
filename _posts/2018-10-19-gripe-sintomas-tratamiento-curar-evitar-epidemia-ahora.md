@@ -410,13 +410,19 @@ Con estos datos, más datos de clima hemos entrenado un inteligencia artificial 
 
 El virus de la gripe es contagioso y puede hacerte pasar unos días horribles con un gripazo.
 
-Solo tienes que ser paciente y quedarte en casa descansando.
+Solo tienes que ser paciente, quedarte en casa descansando y seguir los hábitos que te recomendamos para prevenir la gripe.
 
-Solo tienes que seguir los hábitos que te recomendamos para prevenir la gripe.
-
-Y te encuenta donde vives y cuanta exposición a otras personas tienes que pueden contagiar el virus.
+Y ten encuenta donde vives y cuanta exposición a otras personas tienes que pueden contagiar el virus.
 
 Hemos intentado ayudarte a evitar y curar la gripe de forma fácil y sencilla.
+
+Bien.
+
+No sabemos si eres una persona que realmente se preocupa por caer enfermo.
+
+Pero una buena prevención em pieza protegiendo a nuestro circulo social.
+
+Por eso.
 
 **📣 Si te parece útil esta guía, por favor, compártela.**
 
