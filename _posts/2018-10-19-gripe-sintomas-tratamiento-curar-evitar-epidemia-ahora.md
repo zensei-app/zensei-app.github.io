@@ -364,7 +364,7 @@ Con estos datos, más datos de clima hemos entrenado un inteligencia artificial 
 
 ### **Observatorio de la Epidemia de la Gripe en España 2018-2019**
 
-Aquí tienes nuestro interactivo sobre la epidemia de la gripe. Actualizado semanalmente.
+Aquí tienes nuestro interactivo sobre la epidemia de la gripe ahora. Actualizado semanalmente.
 
 <div>
     <div class="center">
