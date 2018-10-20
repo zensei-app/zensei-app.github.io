@@ -32,13 +32,12 @@ layout: blog
   {% include app-cta.html %}
   <br>
   <br>
+  {% include disqus_comments.html %}
   <h1 class="post-title">Más artículos recomendados para tí</h1>
   <br>
   <br>
-
   {% include recommended-posts.html %}
   {% include share.html %}
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  
+
 </article>

@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "😷 Qué es el EPOC"
+title:  "😷 Qué es el EPOC (y entiendelo de forma fácil)"
 date:   2018-05-16 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: epoc, vías respiratorias, enfermedad pulmonar

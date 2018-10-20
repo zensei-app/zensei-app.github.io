@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🌬️ Cómo prevenir el asma e ir al médico solo cuando sea necesario"
+title:  "🌬️ Cómo controlar el asma sin inhalador (y evita visitas a urgencias)"
 date:   2018-08-14 10:00:00 +0200
 author: David Martín-Corral
 categories: controlar asma, tengo asma
@@ -11,7 +11,6 @@ intro: "**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://
 <br><br>
 En este artículo te explicamos como puedes tener bajo control tu asma. 🙇"
 ---
-
 
 **Da igual el tipo de asma que tengas**, [intrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx) (origen genético), [extrínseco](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaextr%C3%ADnsecoperenne.aspx) (factores de entorno), [asma emocional](https://www.tendencias21.net/Comprobada-la-naturaleza-emocional-del-asma_a716.html) o por estrés, [asma bronquial](https://www.cun.es/enfermedades-tratamientos/enfermedades/asma-bronquial), [asma alérgica](https://www.alk.net/es/pacientes/que-es-el-asma-alergica), etc. Te podemos ayudar a que lleves un control del asma sin esfuerzo.
 

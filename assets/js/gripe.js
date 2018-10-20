@@ -1,89 +1,89 @@
-    Date.prototype.getWeek = function() {
-      var onejan = new Date(this.getFullYear(),0,1);
-      return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
-    }
+Date.prototype.getWeek = function() {
+  var onejan = new Date(this.getFullYear(),0,1);
+  return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()+1)/7);
+}
 
-    function getSeason(date){
-      week = date.getWeek()
-      year = date.getFullYear()
-      if(week >= 36){
-        y1 = year  + 1
-        return year + '-' + y1
-      }else if(week < 36){
-        y1 = year  - 1
-        return y1 + '-' + year
-      }
-    }
+function getSeason(date){
+  week = date.getWeek()
+  year = date.getFullYear()
+  if(week >= 36){
+    y1 = year  + 1
+    return year + '-' + y1
+  }else if(week < 36){
+    y1 = year  - 1
+    return y1 + '-' + year
+  }
+}
 
-    function getDateOfWeek(weekNumber,year){
-      return new Date(year, 0, 1+((weekNumber-1)*7));
-    }
+function getDateOfWeek(weekNumber,year){
+  return new Date(year, 0, 1+((weekNumber-1)*7));
+}
 
-    function getNum(val) {
-       if (isNaN(val)) {
-         return 0;
-       }
-       return val;
-    }
+function getNum(val) {
+   if (isNaN(val)) {
+     return 0;
+   }
+   return val;
+}
 
-    function weekFlu(week){
-      if(week>=36){
-        return week - 36
-      }else{
-        return week + 16
-      }
-    }
+function weekFlu(week){
+  if(week>=36){
+    return week - 36
+  }else{
+    return week + 16
+  }
+}
 
-    function risk(value){
-      if(value < 15){
-        return 'Mínimo'
-      }else if(value < 30){
-        return 'Bajo'
-      }else if(value < 80){
-        return 'Medio'
-      }else if(value < 120){
-        return 'Alto'
-      }else{
-        return 'Muy alto'
-      }
-    }
+function risk(value){
+  if(value < 15){
+    return 'Mínimo'
+  }else if(value < 30){
+    return 'Bajo'
+  }else if(value < 80){
+    return 'Medio'
+  }else if(value < 120){
+    return 'Alto'
+  }else{
+    return 'Muy alto'
+  }
+}
 
-    function colorKpi(value){
-      if(value < 15){
-        return '#4CAF50'
-      }else if(value < 30){
-        return '#2196F3'
-      }else if(value < 80){
-        return '#ff9800'
-      }else if(value < 120){
-        return '#f44336'
-      }else{
-        return '#f44336'
-      }
-    }
+function colorKpi(value){
+  if(value < 15){
+    return '#4CAF50'
+  }else if(value < 30){
+    return '#2196F3'
+  }else if(value < 80){
+    return '#ff9800'
+  }else if(value < 120){
+    return '#f44336'
+  }else{
+    return '#f44336'
+  }
+}
 
-    function month_name (dt){
-      mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
-        return mlist[dt.getMonth()];
-    };
+function month_name (dt){
+  mlist = [ "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre" ];
+    return mlist[dt.getMonth()];
+};
 
-    function growth(value){
-      if(value > 0){
-        return "un ascenso"
-      }else if(value < 0){
-        return "un descenso"
-      }else if(value == 0){
-        return "un cambio"
-      }
-    }
-    
-    var dataset = []
-    var dataset2 = []
-    var dataset3 = []
+function growth(value){
+  if(value > 0){
+    return "un ascenso"
+  }else if(value < 0){
+    return "un descenso"
+  }else if(value == 0){
+    return "un cambio"
+  }
+}
 
-    var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
-    var color3 = d3.scale.linear().domain([0,300]).range(['#efd56c', '#f58888']);
-    var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
+var dataset = []
+var dataset2 = []
+var dataset3 = []
+
+var color = d3.scale.linear().domain([0,8]).range(['#F5F5F5', '#333333']);
+var color3 = d3.scale.linear().domain([0,300]).range(['#efd56c', '#f58888']);
+var color2 = d3.scale.linear().domain([0,20]).range(['#F5F5F5', '#333333']);
 
     d3.csv("https://s3-eu-west-1.amazonaws.com/dev.refinery.eu-west-1.zenseiapp.com/consolidation/flu/flu-observatory.csv", function(data) {
       data = data.slice((data.length - 260), data.length)
@@ -104,8 +104,6 @@
       google = data.map(function(d, i) { 
         return { x: format.parse(d['date_week']), y:Math.round(Math.round(+d["gripe"])/100*max)}; 
       });
-
-
 
       seasons = data.map(function(d, i) { 
         return { 
@@ -144,7 +142,6 @@
       }
 
       latest = datasetPred.slice(-2)
-      console.log(latest)
       kpis = {
         diff: latest[1].y - latest[0].y,
         pct: Math.round(getNum(((latest[1].y - latest[0].y)/latest[0].y)*100)),
@@ -220,9 +217,10 @@
         },
         {
           key: 'Predicción',
-          values: datasetPred.sort(sortByDateAscending).slice((datasetPred.length - 4), datasetPred.length),
+          values: datasetPred.sort(sortByDateAscending).slice((datasetPred.length - 52), datasetPred.length),
           color: "orange",
           strokeWidth: 3.5,
+          classed: 'dashed'
         }
       ];
 
@@ -312,7 +310,7 @@
         chart.showYAxis(true)
         chart.showXAxis(true)
         chart.useInteractiveGuideline(true)
-        chart.yDomain([0, d3.max(dataset, function(d) { return d.y; })])
+        chart.yDomain([0, Math.max(...[d3.max(dataset, function(d) { return d.y; }),d3.max(datasetPred, function(d) { return d.y; })])])
 
         var y = d3.scale.linear()
           .range([200, 0]);
@@ -406,7 +404,7 @@
           chart.x2Axis.tickFormat(function(d) { return d3.time.format('%b %y')(new Date(d)) });
           chart.yTickFormat(d3.format('s'));
           chart.tooltip.enabled(true)
-          chart.yDomain([0, d3.max(dataset, function(d) { return d.y; })])
+          chart.yDomain([0, Math.max(...[d3.max(dataset, function(d) { return d.y; }),d3.max(datasetPred, function(d) { return d.y; })])])
           d3.select("#chart svg").selectAll("*").remove();
 
           d3.select('#chart svg').append("line")
@@ -608,8 +606,5 @@
         return chart;
 
     });
-    
-
   });
-
- })
+})

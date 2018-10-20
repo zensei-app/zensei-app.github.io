@@ -26,6 +26,8 @@ theme: minima
 
 github_username: zensei-app
 twitter_username: zensei_app
+disqus:
+  shortname: dmartincc
 
 google_analytics: UA-96842689-1
 

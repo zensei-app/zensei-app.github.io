@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
-
+  
   {% include head.html %}
 
   <body>
@@ -21,6 +21,7 @@
       </div>
     </div>
 
+  {% include flu-cta.html %}
   {% include blog-header.html %}
 
   <main class="page-content" aria-label="Content">

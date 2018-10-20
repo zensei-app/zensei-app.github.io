@@ -112,3 +112,16 @@
   border-radius: 3px;
   margin: 0 0 1.5em 0;
 }
+
+.full-width {
+  width: 90vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -45vw;
+  margin-right: -45vw;
+}
+
+.dashed {
+   stroke-dasharray: 5, 5;
+}
