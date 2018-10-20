@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🥇😷 Mascarillas antipolución para asmáticos (y cuál comprar si no tienes ni idea)"
 date:   2018-10-02 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: David
 categories: alergia, asma, mascarillas antipolución, mascarillas anticontaminación, mascarilla para ir en bici, comprar
 image: /img/photo-1526705645973-c3f37d960d3f.jpeg

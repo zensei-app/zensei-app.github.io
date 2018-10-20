@@ -1,8 +1,9 @@
 ---
 layout: post
 toc: true
-title:  "🤧 Cómo son las pruebas de la alergia"
+title:  "🤧 Cómo son las pruebas de la alergia (entiende fácilmente en que consisten)"
 date:   2018-05-17 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: alergia, pruebas, test
 image: /img/25729666890_98d70b051f_h.jpg

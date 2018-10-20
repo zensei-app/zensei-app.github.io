@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "⚡📱 Zensei: una app para enfermedades respiratorias como asma, epoc o rinitis alérgica"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-04-30 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: diario, salud, respiratoria, zensei, enfermedades, respiratorias, digital, app, asma, epoc, zensei

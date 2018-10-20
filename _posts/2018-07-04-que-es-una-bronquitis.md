@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🤒👾 Qué es la bronquitis, cómo evitarla y descubre si se contagia por besos"
 date:   2018-07-02 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: alergia cruazda
 image: /img/bronquitis-aguda.jpg

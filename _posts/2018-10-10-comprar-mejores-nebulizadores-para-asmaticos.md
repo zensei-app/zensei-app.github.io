@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🥇 Elige el mejor nebulizador para asmáticos (y ahórrate las idas al hospital de madrugada)"
 date:   2018-10-10 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: David
 categories: nebulizadores para asma
 image: /img/photo-1537035448858-6d703dbc320f.jpeg

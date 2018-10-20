@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "👾🤒 Guía DEFINITIVA de la Gripe en España (Síntomas, tratamiento, prevención y epidemia en tiempo real) [2018-2019]"
 date:   2018-10-19 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: David
 image: /img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg
 description: "Esta es la guía más completa de la epidemia de la gripe en España. ¿La mejor parte? Te vamos contar que es la gripe, cuáles son sus síntomas, cómo curarla, prevenirla, cómo seguir la epidemia de la gripe en España (2018-2019) y su incidencia en tiempo real. En resumen: si quieres evitar o tienes la gripe, te encantará esta guía."

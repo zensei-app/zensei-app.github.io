@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "🌼🤧 Alergia al polen (Cuáles son sus síntomas y cómo evitarlos)"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar

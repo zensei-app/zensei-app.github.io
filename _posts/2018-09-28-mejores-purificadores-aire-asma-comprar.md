@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🥇Purificadores de aire para asmáticos (y no te vuelvas loca al comprar uno)"
 date:   2018-09-28 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: David
 categories: asma, purificador de aire, comprar
 image: /img/photo-1534397860164-120c97f4db0b.jpeg

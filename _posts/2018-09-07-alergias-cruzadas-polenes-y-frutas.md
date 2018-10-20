@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🤧🍓🌼 Alergias cruzadas: qué frutas reaccionan con cada tipo de polen"
 date:   2018-09-07 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: rinitis alergica, sintomas
 image: /img/photo-1520238861346-a49993df0e69.jpeg

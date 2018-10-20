@@ -2,6 +2,7 @@
 layout: post
 title:  "🌼🌷 Qué puedo hacer para evitar los síntomas de la alergia al polen desde hoy"
 date:   2018-06-17 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Zensei Team
 categories: polen, alergia, síntomas, polen
 image: /img/19389787_10213834807130019_102773456_n.jpg

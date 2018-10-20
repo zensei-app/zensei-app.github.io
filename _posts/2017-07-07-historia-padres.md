@@ -2,6 +2,7 @@
 layout: post
 title:  "👪 Padres primerizos"
 date:   2017-07-07 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Zensei Team
 categories: riesgos, ambientales, bebés, virus, bronquiolitis, padre, primerizo
 image: /img/parents.jpg

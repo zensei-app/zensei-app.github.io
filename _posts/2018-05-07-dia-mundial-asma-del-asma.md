@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "🗓️ Día Mundial del Asma: el asma es una enfermedad crónica"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-05-07 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: dia, mundial, asma, enfermedad, crónica

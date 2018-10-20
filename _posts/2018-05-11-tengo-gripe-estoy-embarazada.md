@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "🤧🤰 Tengo gripe y estoy embarazada, ¿qué puedo hacer?"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-05-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: embarazo, gripe, ayuda

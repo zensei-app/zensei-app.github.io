@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title:  "🌬️ Qué indican los pitidos al respirar y cómo evitarlos de forma sencilla"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma

@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla aunque vivas al lado de una autovía"
 date:   2018-06-18 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: aire contaminado, evitar contaminación del aire
 image: /img/gas-2858150_960_720.jpg

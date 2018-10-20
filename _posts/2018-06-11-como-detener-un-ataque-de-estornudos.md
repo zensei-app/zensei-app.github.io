@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🤧 Cómo parar un ataque de estornudos haciéndote cosquillas en el paladar"
 date:   2018-06-11 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: ataque de estornudos, alergia, moquear, parar, detener, dejar de estornudar
 image: /img/13397331035_dd80d2f94d_b.jpg

@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🤧 Qué es la rinitis alérgica y cuáles son sus síntomas"
 date:   2018-08-29 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: rinitis alergica, sintomas
 image: /img/24399375170_b61ea09484_z.jpg

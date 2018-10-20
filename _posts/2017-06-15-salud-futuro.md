@@ -2,6 +2,7 @@
 layout: post
 title:  "🔮 El futuro de la salud ¿Un nuevo paradigma?"
 date:   2017-06-19 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Zensei Team
 categories: futuro, salud, tecnología, tratamiento digital
 image: https://cdns3.eltiempo.es/eltiempo/blog/noticias/2016/12/22102819/contaminacion-en-madrid.jpg

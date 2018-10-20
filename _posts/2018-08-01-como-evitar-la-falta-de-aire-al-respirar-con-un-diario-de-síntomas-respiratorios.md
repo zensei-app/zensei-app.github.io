@@ -3,6 +3,7 @@ layout: post
 toc: true
 title:  "🤢 Cómo evitar la falta de aire al respirar con un diario de síntomas respiratorios"
 date:   2018-08-01 10:00:00 +0200
+updated:   2018-10-19 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: respirar, diario, síntomas, respiratorios
 image: /img/photo-1531615018523-12556603349f.jpeg

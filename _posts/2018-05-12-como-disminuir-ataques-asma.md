@@ -2,6 +2,7 @@
 layout: post
 toc: true
 title:  "🤢🌬️ Cómo controlar un ataque de asma de forma sencilla"
+updated:   2018-10-19 10:00:00 +0200
 date:   2018-05-12 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: asma, ataque, remedio
