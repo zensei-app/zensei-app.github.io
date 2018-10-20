@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Guía DEFINITIVA de la Gripe en España (Síntomas, tratamiento, prevención y epidemia en tiempo real) [2018-2019]"
+title:  "👾🤒 Guía de la Gripe para España (Síntomas, tratamiento, prevención y epidemia en tiempo real) [2018-2019]"
 date:   2018-10-19 10:00:00 +0200
 updated:   2018-10-19 10:00:00 +0200
 author: David
