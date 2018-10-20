@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Gripe en España 2018-2019 (Síntomas, tratamiento, prevención y sigue la epidemia ahora)"
+title:  "👾🤒 Guía para la epidemia de la Gripe en España 2018-2019 (Síntomas, tratamiento, prevención,..)"
 date:   2018-10-19 10:00:00 +0200
 updated:   2018-10-19 10:00:00 +0200
 author: David
