@@ -16,6 +16,8 @@ intro: "Esta es la guía más completa de la epidemia de la gripe en España.<br
 
 ## **¿Qué es la gripe?**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bDXNzFrmXls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 La [gripe es un virus](https://es.wikipedia.org/wiki/Gripe).
 
 Bien.
