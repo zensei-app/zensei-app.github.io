@@ -7,7 +7,7 @@ updated:   2018-10-19 10:00:00 +0200
 author: David
 image: /img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg
 description: "Esta es la guía más completa de la epidemia de la gripe en España. ¿La mejor parte? Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y su incidencia ahora en tiempo real. En resumen: si quieres evitar o tienes la gripe, te encantará esta guía."
-intro: "Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La mejor parte?<br><br>Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres evitar o tienes la gripe, te encantará esta guía."
+intro: "Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La mejor parte?<br><br>Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres evitar o tienes la gripe, te encantará esta guía. Por cierto.<br><br>Hay dos sorpresas en este artículo.<br><br>Continua leyendo para descubrirlas."
 ---
 
 <br>
