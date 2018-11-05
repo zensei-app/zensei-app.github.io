@@ -1,4 +1,6 @@
 // Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
+$( document ).ready(function() {
+
 window.cookieconsent_options = {"message":"Esta web utiliza cookies. ","dismiss":"Vale","learnMore":"Más info","link":"/politica-cookies.html","theme":"dark-bottom","target":"_blank"};
 
 (function(d, s, id) {
@@ -94,9 +96,8 @@ if(test){
     "/assets/img/app-cta.png",
   ]
   
-  $( document ).ready(function() {
+  
     $( "img#image-bottom-cta" ).attr("src","/assets/img/app-cta-purifier.png");
-  })
 
 
 }
@@ -223,7 +224,7 @@ function post_to_url(path, params, method) {
 
 }
 
-$(function(){
+
 
   var isMobile = false; //initiate as false
   if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent)
@@ -233,5 +234,6 @@ $(function(){
     $('#whatsappButton').show();
   }
 
-});
+
+})
 
