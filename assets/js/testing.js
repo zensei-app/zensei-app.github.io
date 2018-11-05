@@ -16,6 +16,8 @@ var getUrlParameter = function getUrlParameter(sParam) {
 
 var tech = getUrlParameter('variant');
 
+console.log(tech)
+
 if(variant){
   $( "#variant" ).hide();
 }
