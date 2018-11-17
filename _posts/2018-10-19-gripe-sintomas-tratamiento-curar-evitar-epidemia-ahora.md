@@ -335,25 +335,11 @@ Puntualizar que **las comunidades reportan los datos con una semana de retraso**
 
 ### **¿Donde puedo acceder a los informes de la gripe?**
 
-Aquí tienes un listado de portales públicos que informan sobre la vigilancia de la enfermedad.
+Cada comunidad autónoma pose una portal dedicado a vigilancia de la enfermedad y el Sistema Nacional de Vigilancia de la Gripe se encarga de llevar un control a nivel nacional.
 
-[Sistema Nacional de Vigilancia de la Gripe](http://vgripe.isciii.es/inicio.do)
+Mira.
 
-[Andalucía](http://www.juntadeandalucia.es/salud/channels/temas/temas_es/P_4_SALUD_PUBLICA/P_1_VIGILANCIA_DE_LA_SALUD/programa_vigilancia_enfermedades_transmisibles/programa_vigilancia_enfermedades_transmisibles)
-
-[Aragón](http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/Sanidad/AreasTematicas/SanidadProfesionales/SaludPublica/VigilanciaEpidemiologica/RedCentinela/ci.03_Vigilancia_de_la_gripe.detalleDepartamento)
-
-[Asturias](https://www.astursalud.es/categorias/-/categorias/profesionales/04000registros-informes-encuestas-y-vigilancia-epidemiologica/02000informes-epidemiologicos/01000red-de-medicos-centinelas)
-
-[Castilla-La Mancha](http://www.castillalamancha.es/gobierno/sanidad/estructura/dgsspc/actuaciones/vigilancia-de-la-gripe)
-
-[Castilla y León](https://www.saludcastillayleon.es/profesionales/es/informacion-epidemiologica/enfermedades-infecciosas/gripe)
-
-[Comunidad de Madrid](http://www.madrid.org/cs/Satellite?cid=1161769240510&language=es&pagename=PortalSalud%2FPage%2FPTSA_pintarContenidoFinal&vest=1159289986941)
-
-[Comunidad Valenciana](http://www.sp.san.gva.es/sscc/opciones2.jsp?CodPor=121&Opcion=SANMS52000&CodPunto=862&MenuSup=SANMS50000&Nivel=1)
-
-Ejemplo de un informe semanal de la gripe de la comunidad de Madrid.
+Aquí tienes un ejemplo de un informe semanal de la gripe de la Comunidad de Madrid.
 <br>
 ![Informe semanal de la gripe madrid](/img/madrid_gripe.png){: .center-image }
 <br>
