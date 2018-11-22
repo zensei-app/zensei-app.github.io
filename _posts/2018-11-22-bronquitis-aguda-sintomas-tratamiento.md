@@ -263,7 +263,9 @@ Vuelta a lo mismo otra vez.
 
 Mira.
 
-Para que sea más llevadera la bronquitis, ¿por qué no pruebas nuestra App Diario para personas con bronquitis, asma, alergia al polen o epoc?
+Para que sea más llevadera la bronquitis.
+
+¿Por qué no pruebas nuestra App Diario para personas con bronquitis, asma, alergia al polen o epoc?
 
 Podrás controlar tus síntomas respiratorios sin esfuerzo. 
 
@@ -271,6 +273,10 @@ Además tendrás en tiempo real datos sobre factores de entorno como contaminaci
 
 Así podrás tomar medidas para evitar de nuevo una bronquitis.
 
-Tu quieres curar o evitar la bronquitis. En Zensei queremos ayudarte a respirar mejor.
+No sabemos si quieres cuidarte. Si eres un punky asmático seguro que no.
+
+Pero si quieres curar o evitar la bronquitis. 
+
+En Zensei queremos ayudarte a respirar mejor.
 
 [**Descárgate Zensei**](/). Tú decides.
