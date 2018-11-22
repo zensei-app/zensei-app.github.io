@@ -6,7 +6,7 @@ date:   2018-11-22 10:00:00 +0200
 updated:   2018-11-22 10:00:00 +0200
 author: David
 image: /img/bronquitis-asmatica_20234_l.jpg
-description: "Esta guía te va ayudar a aprender sobre la bronquitis, sus síntomas, cómo tratarla y, sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra. Esta guía te resolverá muchas dudas sobre sus los síntomas de la bronquitis síntomas y su tratamiento. Así podrás curar y prevenir la bronquitis lo antes posible."
+description: "Esta guía te va ayudar a aprender sobre la bronquitis, sus síntomas, cómo tratarla y, sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra. Esta guía te va a ayudar."
 intro: "En este artículo vas a aprender sobre la bronquitis, sus síntomas, cómo tratarla y, sobre todo, cómo evitarla.<br><br>Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra. <br><br>Esta guía te resolverá muchas dudas sobre sus los síntomas de la bronquitis síntomas y su tratamiento.<br><br>Así podrás curar y prevenir la bronquitis lo antes posible.
 <br><br>Empezamos."
 ---
