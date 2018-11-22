@@ -245,7 +245,7 @@ Si padeces bronquitis beber agua ayudará a diluir los mocos y a mantener las me
 8. **Cuidado con los jarabes para la tos.**
 No están recomendados si la tos produce expectoración, debido a que este tipo de tos ayuda a limpiar la mucosidad del árbol bronquial de manera más rápida, por lo que no conviene cortarla.
 
-9. **Evita la automedicació.**
+9. **Evita la automedicación.**
 Si la bronquitis es interminable y no termina de curarse después de en unas semanas acude a tu médico para que prescriba el tratamiento adecuado para remitir los síntomas
 
 10. **Toma antibióticos solo si te lo dice el médico.** 
