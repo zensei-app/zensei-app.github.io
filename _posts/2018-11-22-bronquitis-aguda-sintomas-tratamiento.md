@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Guía DEFINITIVA para entender la bronquitis (Síntomas, tratamiento y prevención)"
+title:  "👾🤒 Guía DEFINITIVA para entender la Bronquitis aguda, asmática y crónica (Síntomas, tratamiento y prevención)"
 date:   2018-11-22 10:00:00 +0200
 updated:   2018-11-22 10:00:00 +0200
 author: David
