@@ -74,6 +74,12 @@ Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de l
     </div>
 </div>
 
+¿Quieres tener las predicciones de la gripe en tu móvil?
+
+Descárgate nuestra app diario de salud respiratoria. 
+
+👉 [DESCARGAR ZENSEI](https://zenseiapp.com)
+
 ## **¿Qué es la gripe?**
 
 La [gripe es un virus](https://es.wikipedia.org/wiki/Gripe).
