@@ -74,9 +74,9 @@ Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de l
     </div>
 </div>
 
-¿Quieres tener las predicciones de la gripe en tu móvil?
+¿Quiéres tener las predicciones de la gripe para tu ciudad en tu móvil?
 
-Descárgate nuestra app diario de salud respiratoria. 
+Prueba nuestra App Diario de Salud Respiratoria. 
 
 👉 [DESCARGAR ZENSEI](https://zenseiapp.com)
 
