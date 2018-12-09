@@ -110,6 +110,14 @@ Cada año la gripe se presenta en otoño e invierno en zonas templadas.
 
 Veamos ahora los síntomas y signos para identificar la gripe.
 
+## **¿Por qué la gripe ocurre en invierno?**
+
+Según estudios científicos el virus de la gripe es más estable a bajas temperaturas y baja humedad relativa. 
+
+Temperatura media de 5ºC y una humedad relativa del 20% al 35%. 
+
+Estas condiciones ambientales hacen que su membrana exterior no se derrita por el calor y la mucosa de nuestras fosas nasales esté bajo mínimos debido a la sequedad del ambiente.
+
 ## **Síntomas y signos de la gripe**
 
 ### **¿Cuáles son los síntomas de la gripe?**
