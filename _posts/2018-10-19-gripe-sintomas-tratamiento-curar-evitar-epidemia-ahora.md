@@ -14,6 +14,66 @@ intro: "Esta es la guía más completa de la epidemia de la gripe en España.<br
 ![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
 <br>
 
+## **¿Cómo seguir la epidemia de la gripe ahora en tiempo real?**
+
+Mira.
+
+Hemos desarrollado este observatorio de la Gripe en España.
+
+Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológcios oficiales y búsquedas en Google.
+
+Con estos datos, más datos de clima hemos entrenado un inteligencia artificial que predice el impacto de la epidemia de la gripe en España y se actualiza semanalmente.
+
+### **¿Cuál es el riesgo de coger la gripe esta semana?**
+
+<p>El riesgo de contraer la gripe esta semana es <b><span id="risk1"></span></b>.</p><p> Se estima una incidencia de la gripe de <b><span id="today1"></span></b> casos por cada 100.000 habitantes para esta semana y <b><span id="tomorrow1"></span></b> casos para la semana que viene, suponiendo <b><span id="growth"></span></b> relativo del <b><span id="pct"></span>%</b>.</p>
+
+### **Observatorio de la Epidemia de la Gripe en España 2018-2019**
+
+Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de la gripe ahora. Actualizado semanalmente.
+
+<div>
+    <div class="center">
+      	<div class="section group">
+	        <div class="col span_1_of_3">
+	          <p id="risk" style="font-size:50px; font-weight: bold;"></p>
+	          <p style="color:lightgrey; font-weight:lighter;">Riesgo de coger la Gripe</p>
+	        </div>
+	        <div class="col span_1_of_3">
+	          <p id="today" style="font-size:50px; font-weight: bold;"></p>
+	          <p style="color:lightgrey; font-weight:lighter;">Casos esta semana</p>
+	        </div>
+	        <div class="col span_1_of_3">
+	          <p id="tomorrow" style="font-size:50px; font-weight: bold;"></p>
+	          <p style="color:lightgrey; font-weight:lighter;">Próxima semana</p>
+	        </div>
+      	</div>
+      	<br>
+       	<nav class="segmented-button">
+          	<input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
+          	<label for="timeserie" class="first">Predicción</label>
+          	<input type="radio" name="seg-1" value="seasons" id="seasons">
+          	<label for="seasons">Temporadas</label>
+          	<input type="radio" name="seg-1" value="locations" id="locations">
+          	<label for="locations" class="last">Comunidades</label>
+        </nav>
+        <br>
+    </div>
+    <div class="full-width">
+      	<div class="center" id="chart">
+          	<svg></svg>
+          	<br>
+          	<div class="center">
+            <p>&larr; Desliza para hacer zoom &rarr;</p>
+        </div>
+    </div>
+    <div class="center" id="barchart">
+          <svg></svg>
+   	</div>
+    <p id="source">Fuentes de datos epidemiológicos del <a href="http://vgripe.isciii.es/inicio.do">Sistema de Vigilancia de la Gripe en España</a>, <a href="https://trends.google.com/trends/explore?geo=ES&q=gripe">Google Trends Spain</a> y elaboración propia de Zensei.</p>
+    </div>
+</div>
+
 ## **¿Qué es la gripe?**
 
 La [gripe es un virus](https://es.wikipedia.org/wiki/Gripe).
@@ -349,68 +409,6 @@ Vale, muy bien.
 Pero cómo puedes consultar la evolución de la gripe semanalmente de forma más sencilla.
 
 Con nuestro Sistema de vigilancia de la Gripe para España que hemos desarrollado para ti.
-
-Te contamos ahora como hacerlo.
-
-## **[BONUS] Sigue la epidemia de la gripe ahora en tiempo real**
-
-Mira.
-
-Hemos desarrollado este observatorio de la Gripe en España.
-
-Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológcios oficiales y búsquedas en Google.
-
-Con estos datos, más datos de clima hemos entrenado un inteligencia artificial que predice el impacto de la epidemia de la gripe en España y se actualiza semanalmente.
-
-### **¿Cuál es el riesgo de coger la gripe esta semana?**
-
-<p>El riesgo de contraer la gripe esta semana es <b><span id="risk1"></span></b>.</p><p> Se estima una incidencia de la gripe de <b><span id="today1"></span></b> casos por cada 100.000 habitantes para esta semana y <b><span id="tomorrow1"></span></b> casos para la semana que viene, suponiendo <b><span id="growth"></span></b> relativo del <b><span id="pct"></span>%</b>.</p>
-
-### **Observatorio de la Epidemia de la Gripe en España 2018-2019**
-
-Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de la gripe ahora. Actualizado semanalmente.
-
-<div>
-    <div class="center">
-      	<div class="section group">
-	        <div class="col span_1_of_3">
-	          <p id="risk" style="font-size:50px; font-weight: bold;"></p>
-	          <p style="color:lightgrey; font-weight:lighter;">Riesgo de coger la Gripe</p>
-	        </div>
-	        <div class="col span_1_of_3">
-	          <p id="today" style="font-size:50px; font-weight: bold;"></p>
-	          <p style="color:lightgrey; font-weight:lighter;">Casos esta semana</p>
-	        </div>
-	        <div class="col span_1_of_3">
-	          <p id="tomorrow" style="font-size:50px; font-weight: bold;"></p>
-	          <p style="color:lightgrey; font-weight:lighter;">Próxima semana</p>
-	        </div>
-      	</div>
-      	<br>
-       	<nav class="segmented-button">
-          	<input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
-          	<label for="timeserie" class="first">Predicción</label>
-          	<input type="radio" name="seg-1" value="seasons" id="seasons">
-          	<label for="seasons">Temporadas</label>
-          	<input type="radio" name="seg-1" value="locations" id="locations">
-          	<label for="locations" class="last">Comunidades</label>
-        </nav>
-        <br>
-    </div>
-    <div class="full-width">
-      	<div class="center" id="chart">
-          	<svg></svg>
-          	<br>
-          	<div class="center">
-            <p>&larr; Desliza para hacer zoom &rarr;</p>
-        </div>
-    </div>
-    <div class="center" id="barchart">
-          <svg></svg>
-   	</div>
-    <p id="source">Fuentes de datos epidemiológicos del <a href="http://vgripe.isciii.es/inicio.do">Sistema de Vigilancia de la Gripe en España</a>, <a href="https://trends.google.com/trends/explore?geo=ES&q=gripe">Google Trends Spain</a> y elaboración propia de Zensei.</p>
-    </div>
-</div>
 
 ## **Conclusiones sobre la gripe**
 
