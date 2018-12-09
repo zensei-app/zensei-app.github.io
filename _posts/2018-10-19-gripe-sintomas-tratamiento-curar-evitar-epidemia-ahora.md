@@ -118,6 +118,8 @@ Temperatura media de 5ºC y una humedad relativa del 20% al 35%.
 
 Estas condiciones ambientales hacen que su membrana exterior no se derrita por el calor y la mucosa de nuestras fosas nasales esté bajo mínimos debido a la sequedad del ambiente.
 
+Veamos los síntomas que puede provocar el virus de la gripe.
+
 ## **Síntomas y signos de la gripe**
 
 ### **¿Cuáles son los síntomas de la gripe?**
