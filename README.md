@@ -15,3 +15,5 @@
 ## Build site (not necessary)
 
 `jekyll build` add `--watch` to regenerate on changes.
+
+`bundle exec jekyll pagemaster cities

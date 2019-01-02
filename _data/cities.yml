@@ -1,0 +1,14 @@
+- name: Madrid
+  country: España
+  factor: gripe
+  id: riesgo-gripe-madrid
+
+- name: Madrid
+  country: España
+  factor: resfriado
+  id: riesgo-resfriado-madrid
+
+- name: Madrid
+  country: España
+  factor: bronquiolitis
+  id: riesgo-bronquiolitis-madrid

@@ -33,7 +33,7 @@ google_analytics: UA-96842689-1
 
 # Build settings
 markdown: kramdown
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
@@ -41,6 +41,7 @@ plugins:
   - jekyll-toc
   - octopress-minify-html
   - jekyll-compress-images
+  - pagemaster
 
 compress_images:
   images_path: 
@@ -70,3 +71,13 @@ kramdown:
   hard_wrap: false
 toc:
   min_level: 2
+
+# Dynamic pages generator
+page_gen-dirs: true
+
+collections:
+  cities:
+    output: true
+    source: cities.yml
+    id_key: id
+    layout: city

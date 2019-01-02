@@ -18,6 +18,7 @@ layout: blog
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ page.intro | markdownify }}
+    {% include app-cta.html %}
     {% if page.toc %}
     <br>
       <div class="section-nav">
@@ -32,7 +33,7 @@ layout: blog
   {% include app-cta.html %}
   <br>
   <br>
-  {% include disqus_comments.html %}
+<!--   {% include disqus_comments.html %} -->
   <h1 class="post-title">Más artículos recomendados para tí</h1>
   <br>
   <br>
