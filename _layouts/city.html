@@ -6,28 +6,26 @@
   <body>
     
     {% include landing-header.html %}
-    
-    <div class="container center">
-      
-      <div id="factor-card" class="center factor-card shake">
-        <div class="slider">
-          <div id="statement" class="factor-card-content">
-            <h1 class="factor-card-title">🌼 Los niveles de polen esta semana son muy bajos para {{page.name}}.</h1>
+
+      <div class="container center">
+        <div id="factor-card" class="center factor-card shake">
+          <div id="slider">
+            <div class="factor-card-content">
+              <h1 class="factor-card-title" id="statement">🌼  Los niveles de polen esta semana son muy bajos para {{page.name}}.</h1>
+            </div>
+            <div class="factor-card-content" style="display:none;">
+              <h1 class="factor-card-title" id="advice">🌼 En casa, utiliza el aspirador y bayetas húmedas.</h1>
+            </div>
+            <div class="factor-card-content" style="display:none;">
+              <h1 class="factor-card-title" id="trend">🌼 Ningún cambio en los niveles de polen para la próxima semana para Madrid.</h1>
+            </div>
           </div>
-          <!-- <div id="advice" class="factor-card-content">
-            <h1 class="factor-card-title">🌼 En casa, utiliza el aspirador y bayetas húmedas.</h1>
+          <div class="factor-card-bottom">
+            <span class="factor-card-updated-time">Datos actualizados hace 5 minutos</span>
+            <span class="factor-card-powered">Powered by <a href="https://zenseiapp.com" title="Salud Digital para personas con problemas respiratorios"><img style="display: inline" src="/assets/img/logo-white.svg" height="15"></a></span>
           </div>
-          <div id="trend" class="factor-card-content">
-            <h1 class="factor-card-title">🌼 Ningún cambio en los niveles de polen para la próxima semana para Madrid.</h1>
-          </div> -->
-        </div>
-        <div class="factor-card-bottom">
-          <span class="factor-card-updated-time">Datos actualizados hace 5 minutos</span>
-          <span class="factor-card-powered">Powered by <a href="https://zenseiapp.com" title="Salud Digital para personas con problemas respiratorios"><img style="display: inline" src="/assets/img/logo-white.svg" height="15"></a></span>
         </div>
       </div>
-
-      
 
       <div class="container center">
         <ul class="heading">
@@ -46,16 +44,10 @@
         </ul>
       </div>
 
-    {% include footer.html %}
 
+
+    {% include footer.html %}
+    <script async type="text/javascript" src="/assets/js/factor-widget.js"></script>
   </body>
 
 </html>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('.slider').slick({
-        setting-name: setting-value
-      });
-    });
-  </script>
