@@ -33,7 +33,7 @@ google_analytics: UA-96842689-1
 
 # Build settings
 markdown: kramdown
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag
