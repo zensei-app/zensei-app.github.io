@@ -1,15 +1,25 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Guía para la epidemia de Gripe en España 2018-2019 (Síntomas, tratamiento, vacunación, prevención y predicción)"
-date:   2018-10-19 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+title: "\U0001F47E\U0001F912 Guía para la epidemia de Gripe en España 2018-2019 (Síntomas,
+  tratamiento, vacunación, prevención y predicción)"
+date: 2018-10-19 08:00:00 +0000
+updated: 2019-01-15 09:00:00 +0000
 author: David
-image: /img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg
-description: "Esta es la guía más completa de la epidemia de la gripe en España. ¿La mejor parte? Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y su incidencia ahora en tiempo real. En resumen: si quieres evitar o tienes la gripe, te encantará esta guía."
-intro: "Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La mejor parte?<br><br>Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre todo, quieres prevenirla, al final del artículo tendrás un regalo que te será realmente útil..."
----
+image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
+description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La
+  mejor parte? Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento,
+  vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y
+  su incidencia ahora en tiempo real. En resumen: si quieres evitar o tienes la gripe,
+  te encantará esta guía.'
+intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La
+  mejor parte?<br><br>Te vamos contar que es la gripe, cuáles son sus síntomas, tratamiento,
+  vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y
+  su incidencia ahora en tiempo real.<br><br>En resumen: si quieres evitar o tienes
+  la gripe, te encantará esta guía. Si te preocupa la gripe y sobre todo, quieres
+  prevenirla, al final del artículo tendrás un regalo que te será realmente útil...'
 
+---
 <br>
 ![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
 <br>
