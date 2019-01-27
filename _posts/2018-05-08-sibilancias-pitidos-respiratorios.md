@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🌬️ Qué son sibilancias al respiratorias (pitidos) y cómo evitarlas de forma sencilla"
+title:  "🌬️ Qué son las sibilancias respiratorias (pitidos) y cómo evitarlas de forma sencilla"
 updated:   2018-10-19 10:00:00 +0200
 date:   2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
