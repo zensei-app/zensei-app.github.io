@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🌼🤧 Síntomas y como evitar la Alergia al polen (Estornudos, ojos llorosos, mucosidad)"
+title:  "🌼🤧 Síntomas de la Alergia al polen y cómo evitarlos (Estornudos, ojos llorosos, mucosidad)"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
