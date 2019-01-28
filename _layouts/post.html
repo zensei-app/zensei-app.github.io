@@ -9,10 +9,10 @@ layout: blog
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
 
-      <time datetime="{{ page.updated | date_to_xmlschema }}" itemprop="datePublished">
+      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {% include locale-dates.html date=page.updated %}
-        Actualizado el {{ day }} de {{ month }} de {{ year }}
+        {% include locale-dates.html date=page.last_modified_at %}
+        ⏳ Actualizado el {{ day }} de {{ month }} de {{ year }}
       </time>
     </p>
   </header>

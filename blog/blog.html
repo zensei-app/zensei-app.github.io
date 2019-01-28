@@ -17,7 +17,7 @@ permalink: /blog/
             </h2>
             <p>
               <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}{{ day }} de {{ month }} de {{ year }}</time>
+              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">⏳ Actualizado el {% include locale-dates.html date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year }}</time>
             </p>
             <p itemprop="description">
               {{ post.description | escape }}
