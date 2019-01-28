@@ -1,13 +1,14 @@
 ---
 layout: post
 toc: true
-title:  "🚗💨🤧 Alergia al polen y contaminación (CUIDADO)"
+title:  "🚗💨🤧 Alergia al polen y contaminación (Evita sus síntomas)"
 date:   2018-10-19 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: contaminación, alergia, polución, síntomas
-image: /img/industry-1761801_1280.jpg
+image: /img/pollution-grain-pollen.jpeg
 description: La polución en el medio ambiente es un causante importantísimo de problemas de salud entre la población que reside en grandes ciudades. Una de las consecuencias más serias está relacionada con el asombroso...
+intro: "Esta artículo te va enseñar las consecuencias que tiene la contaminación sobre la alergia al polen. <br><br>Así podrás evitar sus síntomas y respirar mejor.<br><br>Empezamos."
 ---
 
 La **[polución en el medio ambiente](http://www.who.int/topics/air_pollution/es/) o [esmog](https://es.wikipedia.org/wiki/Esmog)** es un causante importantísimo de problemas de salud entre la población que reside en grandes ciudades. 
@@ -16,11 +17,17 @@ Una de las consecuencias más serias está relacionada con el asombroso **increm
 
 Lo peor de todo es que este empeoramiento de la salud respiratoria se está produciendo también en personas que, a priori, no tienen ningún factor de riesgo.
 
+Mira.
+
+Así se ve un grano de polen con partículas de contaminación.
+
 <br>
-![contaminación Zensei app polen](/img/industry-1761801_1280.jpg){: .center-image }
+![contaminación Zensei app polen](/img/pollution-grain-pollen.jpeg){: .center-image }
 <br>
 
-### Contaminación y alergia
+Si esto es lo que respiras.
+
+### **Contaminación y alergia al polen**
 
 La alergia por contaminación es la manifestación de problemas de salud derivados directamente del índice de polución ambiental. Afecta a niños y mayores e, incluso, a personas que no presentan predisposición a una reacción alérgica.
 
@@ -36,7 +43,7 @@ Ello contribuye a que las **alergias aerotransportadas** se estén haciendo much
 
 Al parecer, el ozono es el elemento principal causante de la contaminación ambiental. Este compuesto químico acaba oxidando un aminoácido, la tirosina, precisamente el factor que aparece en la formación de las principales proteínas alérgenas de especies como el abedul. 
 
-### Los motores de gasoil
+### **Los motores de gasoil**
 
 Otro gran impacto medioambiental que ayuda al aumento de las alergias por contaminación se debe a **la combustión de los motores diesel**. Sus pequeñísimas partículas de dióxido de carbono son cien veces más que las que producen los motores de gasolina.
 
@@ -46,7 +53,35 @@ Lo cierto es que se ha podido comprobar que las personas que residen cerca de au
 
 Por si todo esto fuera poco, a los males ya relatados, **hemos de sumar la irritación provocada por el propio aire contaminado**. La polución acaba afectando a la nariz, la faringe y los pulmones. Con todo está claro que la alergia por contaminación es un hecho contrastado.
 
-[📱 Descárgate la app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer. 
+### **Cómo evitar la contaminación y la alergia al polen**
 
-Y si quiers verla en acción puedes ver un [video sobre nuestro app de salud respiratoria](https://zenseiapp.com/blog/2018/05/24/como-evitar-la-contaminacion-con-ayuda-la-tecnologia/) y como puede ayudar a evitar los efectos de la contaminación sobre la salud de pacientes con asma, epoc y rinitis alérgica.
+Primero lo que tienes que hacer es tomar las medidas preventivas necesarias en casa y fuera de casa.
+
+Mira.
+
+**Necesitarás tener una mascarilla anti pulución** para cuando salgas de casa y así no respirar aire contaminado.
+
+div class="section-cta">
+<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+</div>
+
+**Necesitarás un purificador de aire** para que cuando llegues a casa puedas tener tu burbuja de aire limpio y así respirar profundamente.
+
+<div class="section-cta">
+<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+</div>
+
+**Necesitarás controlar tu salud respiratoria** para saber que, cuando y donde te afecta la contaminación y la alergia al polen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQilk-irm2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Conclusiones**
+
+La alergia al polen es un fastidio.
+
+Y si encima le añades la contaminación de las ciudades. Eso hace que sea horrible.
+
+Por eso hemos diseñado una app diario para que puedas respirar mejor y evites síntomas como estornudos, ojos llorosos y la nariz llena de mocos.
+
+[📱 Descárgate nuestra app de Zensei](https://zenseiapp.com) y empieza a usarla gratis. Tu sistema respiratorio te lo va a agradecer. 
 
