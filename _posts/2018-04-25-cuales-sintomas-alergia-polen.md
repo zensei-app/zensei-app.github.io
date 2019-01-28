@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "🌼🤧 ¿Estornudos, Ojos llorosos? Síntomas de la Alergia al polen (Aprende a evitarlos)"
+toc: true
+title:  "🌼🤧 Síntomas y como evitar la Alergia al polen (Estornudos, ojos llorosos, mucosidad)"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar
 image: /img/sun-flower-1643794_1280.jpg
-description: En este artículo vas a aprender cuáles son los síntomas de la alergia al polen y cómo evitarlos de forma sencilla. Evita los horribles ataques de estornudos y os ojos llorosos.
+description: Si no paras de estornudas, ojos llorosos y no paras de moquear. Seguro que tienes alergia al polen, también llamado rinitis alérgica. Si estás desesperada porque la alergia al polen no te deja vivir. En este artículo te vamos a contar como evitar los dichosos estornudos, ojos llorros y el moqueo.
+intro: "Si no paras de estornudas, ojos llorosos y no paras de moquear. Seguro que tienes alergia al polen, también llamado rinitis alérgica.<br><br>Si estás desesperada porque la alergia al polen no te deja vivir. <br><br>En este artículo te vamos a contar como evitar los dichosos estornudos, ojos llorros y el moqueo.<br><br>Empezamos."
 ---
 
 Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes: el polen. Miles de personas sienten que pasan por el peor momento del año. 

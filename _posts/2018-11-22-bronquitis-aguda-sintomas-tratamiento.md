@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Síntomas y tratamiento de la Bronquitis Aguda, Asmática o Crónica"
+title:  "👾🤒 Síntomas y tratamiento de la Bronquitis Aguda, Asmática y Crónica"
 date:   2018-11-22 10:00:00 +0200
 last_modified_at:   2019-01-27 10:00:00 +0200
 author: David
