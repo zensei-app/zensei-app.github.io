@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "👪 Padres primerizos"
+title:  "👪 Padres primerizos y bronquitis"
 date:   2017-07-07 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:   2019-01-19 10:00:00 +0200
 author: Zensei Team
 categories: riesgos, ambientales, bebés, virus, bronquiolitis, padre, primerizo
 image: /img/parents.jpg
 description: ¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés?
 ---
 
-¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés? Avisándoles de los
-niveles de bronquiolitis, varicela o piojos. Además de informar sobre otras enfermedades víricas que podrían afectar a su bebé como
-son la gripe o el resfriado. Cuida la salud de tu familia y la tuya.
+¿Cómo ayuda Zensei a los padres primerizos a evitar los riesgos ambientales sobre la salud de sus bebés? Avisándoles de los niveles de bronquiolitis, varicela o piojos. Además de informar sobre otras enfermedades víricas que podrían afectar a su bebé como son la gripe o el resfriado. Cuida la salud de tu familia y la tuya.
 
 
 <br>

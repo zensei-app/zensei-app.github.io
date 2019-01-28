@@ -3,7 +3,7 @@ layout: post
 toc: true
 title:  "🏃‍♂️ ¿Puedo practicar deporte si tengo asma?"
 date:   2018-09-11 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: deporte, asma, practicar
 image: /img/photo-1530143311094-34d807799e8f.jpeg

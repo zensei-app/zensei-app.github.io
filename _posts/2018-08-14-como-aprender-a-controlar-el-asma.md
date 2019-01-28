@@ -3,7 +3,7 @@ layout: post
 toc: true
 title:  "🌬️ Cómo controlar el asma sin inhalador (y evita visitas a urgencias)"
 date:   2018-08-14 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 author: David Martín-Corral
 categories: controlar asma, tengo asma
 image: /img/photo-1521540124319-66c09f0d5999.jpeg

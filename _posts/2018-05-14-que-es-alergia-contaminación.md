@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title:  "🚗💨🤧 Qué es la alergia por contaminación"
-updated:   2018-10-19 10:00:00 +0200
-date:   2018-05-14 10:00:00 +0200
+date:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: contaminación, alergia, polución, síntomas
 image: /img/industry-1761801_1280.jpg

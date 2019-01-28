@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "🤧🤰 Tengo gripe y estoy embarazada, ¿qué puedo hacer?"
-updated:   2018-10-19 10:00:00 +0200
+title:  "🤧🤰 Tengo gripe y estoy embarazada. Evita coger un gripazo."
+last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-11 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: embarazo, gripe, ayuda
@@ -37,9 +37,9 @@ Procura tumbarte con un par de almohadas detrás de la cabeza, para que el cuerp
 
 🤧 Si persiste la fiebre, date un baño de agua tibia. Por supuesto, si llega a cotas muy altas, llama a urgencias.
 
-Sigue la evolución de la epidemia de la gripe en nuestro **[Observatorio de la Gripe para España](https://zenseiapp.com/gripe)** o si quieres puedes seguirla ene nuestra [app](https://zenseiapp.com).
+Sigue la evolución de la epidemia de la gripe en nuestro **[Observatorio de la Gripe para España](/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)** o si quieres puedes seguirla ene nuestra [app](https://zenseiapp.com).
 
-Descárgate [📱 Zensei](https://zenseiapp.com). Es completamente gratuita y es un diario sobre tu salud respiratoria. Puedes ver un montón de aspectos relacionados con este tipo de enfermedades, desde el tiempo que va a hacer, hasta si hay polución, [mucho polen](https://zenseiapp.com/blog/2018/04/26/embarada-alergia-polen/)… o algunos consejos para que te encuentres mejor.
+Descárgate [📱 Zensei](https://zenseiapp.com). Es completamente gratuita y es un diario sobre tu salud respiratoria. Puedes ver un montón de aspectos relacionados con este tipo de enfermedades, desde el tiempo que va a hacer, hasta si hay polución, [mucho polen](https://zenseiapp.com/blog/2018/04/26/embarazada-alergia-polen/)… o algunos consejos para que te encuentres mejor.
 
 
 

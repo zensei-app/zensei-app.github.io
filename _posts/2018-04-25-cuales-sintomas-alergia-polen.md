@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "🌼🤧 Alergia al polen (Cuáles son sus síntomas y cómo evitarlos)"
-updated:   2018-10-19 10:00:00 +0200
+title:  "🌼🤧 ¿Estornudos, Ojos llorosos? Síntomas de la Alergia al polen (Aprende a evitarlos)"
+last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, síntomas, alergia, diario, salud, respiratoria, evitar

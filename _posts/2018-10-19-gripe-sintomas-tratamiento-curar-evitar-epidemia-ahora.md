@@ -3,8 +3,8 @@ layout: post
 toc: true
 title: "\U0001F47E\U0001F912 Guía para la epidemia de Gripe en España 2018-2019 (Síntomas,
   tratamiento, vacunación, prevención y predicción)"
-date: 2018-10-19 08:00:00 +0000
-updated: 2019-01-15 09:00:00 +0000
+date: 2018-10-28 08:00:00 +0000
+last_modified_at: 2019-01-15 09:00:00 +0000
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
 description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La

@@ -3,7 +3,7 @@ layout: post
 toc: true
 title:  "✨ Lista de productos hipoalergénicos para alérgicos y asmáticos (consigue una casa hipoalergénica)"
 date:   2018-10-15 10:00:00 +0200
-updated: 2018-10-19 10:00:00 +0200
+last_modified_at: 2019-01-19 10:00:00 +0200
 author: David
 image: /img/photo-1506664453913-f326aa81f54d.jpeg
 description: Si quieres ver una lista de productos hipoalergénicos en un solo lugar, entonces te encantará esta guía (actualizada). Si el médico te los ha recomendado. Aquí podrás saber cuales necesitas.

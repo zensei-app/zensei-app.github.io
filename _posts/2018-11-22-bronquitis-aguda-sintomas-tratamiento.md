@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title:  "👾🤒 Guía para conocer los Síntomas de la Bronquitis Aguda, Asmática o Crónica"
+title:  "👾🤒 Síntomas y tratamiento de la Bronquitis Aguda, Asmática o Crónica"
 date:   2018-11-22 10:00:00 +0200
-updated:   2018-11-22 10:00:00 +0200
+last_modified_at:   2019-01-27 10:00:00 +0200
 author: David
 image: /img/bronquitis-asmatica_20234_l.jpg
 description: "Esta guía te va ayudar a aprender los síntomas de la bronquitis, cómo tratarla y, sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra."

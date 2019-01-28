@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title:  "👶🤧 Cómo aliviar de forma fácil la congestión nasal en los bebés"
+title:  "👶🤧 ¿Tu bebé tiene congestión nasal? Aprende a evitarla y que tu bebé respire mejor"
 date:   2018-05-24 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: salud respiratoria, congestión nasal, bebés, remedios
 image: /img/baby-3386758_1280.jpg

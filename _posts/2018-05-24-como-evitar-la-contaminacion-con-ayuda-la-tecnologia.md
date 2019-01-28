@@ -2,7 +2,7 @@
 layout: post
 title: "🌆📱 Cómo la tecnología puede evitar los riesgo de la contaminación"
 date: 2018-05-24 10:00:00 +0200
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 author: Zensei Team
 categories: riesgo, salud, ambientales, app, contaminación
 image: https://www.youtube.com/embed/NQilk-irm2U

@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-title:  "🌼🤧 Cómo prevenir la alergia al polen de forma fácil"
-updated:   2018-10-19 10:00:00 +0200
+title:  "🌼🤧 Cómo prevenir los síntomas de la alergia al polen de forma fácil"
+last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-09 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: polen, alergia, primavera

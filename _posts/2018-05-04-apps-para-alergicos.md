@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📱🤧 Apps para alérgicos al polen (y cómo no morir de estornudos)"
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-04 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas

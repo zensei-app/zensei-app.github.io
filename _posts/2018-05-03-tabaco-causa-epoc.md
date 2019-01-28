@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🚬 El tabaco es la principal causa de EPOC (y ¿todavía sigues fumando?)"
-updated:   2018-10-19 10:00:00 +0200
+last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-03 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: epoc, tabaco, salud ,respiratoria, app, zensei, diario, respiratoria
