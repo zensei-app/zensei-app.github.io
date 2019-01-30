@@ -1,13 +1,14 @@
 ---
 layout: post
 toc: true
-title:  "😴 Por qué no puedo respirar cuando duermo (y cómo evitarlo de forma sencilla)"
-date:   2018-07-31 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+title:  "😴 Por qué no puedo respirar bien cuando duermo (y cómo evitarlo de forma sencilla la falta de aire)"
+date: 2018-07-31 10:00:00 +0200
+last_modified_at:  2019-01-30 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: respirar, dormir
 image: /img/woman-2197947_1280.jpg
-description: Existe un largo listado de cuestiones por las cuales un paciente puede padecer disnea (ausencia de respiración), que en el caso de que ocurra...
+description: Esta artículo te va ayudar a entender porque no puedes respirar bien cuando duermes, como evitarlo y que es la disnea (ausencia de respiración). Si estás desesperada porque te cuesta respirar durante la noche...
+intro: "Esta artículo te va ayudar a entender porque no puedes respirar bien cuando duermes y como evitarlo.<br><br>Si estás desesperada porque te cuesta respirar durante la noche. <br><br>Resolveremos muchas de tus dudas.<br><br>Así podrás prevenir la falta de aire durante las horas de sueño.<br><br>Empezamos."
 ---
 
 Existe un largo listado de cuestiones por las cuales un paciente puede padecer [disnea](https://es.wikipedia.org/wiki/Disnea) (ausencia de respiración), que en el caso de que ocurra mientras se duerme se llama [apnea del sueño](https://medlineplus.gov/spanish/sleepapnea.html).
@@ -82,6 +83,6 @@ Ya que el aire que respiras estará purificado y libre de ácaros, polvos u otro
 
 También puedes **[probar nuestra app diario de salud respiratoria](https://zenseiapp.com)**, es gratuita y **te alerta de todas los factores que pueden provocarte una crisis respiratoria**, como la contaminación, virus respiratorios, polen, clima, etc.
 
-¿Tienes disnea durante la noche, crees que tu cansancio se debe a la apnea? 
+¿Sientes falta de aire durante la noche, crees que tu cansancio se debe a no poder respirar bien? 
 
 Cuéntanos tu caso en hola@zenseiapp.com
