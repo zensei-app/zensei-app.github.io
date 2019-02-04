@@ -61,7 +61,7 @@ Mira.
 
 **Necesitarás tener una mascarilla anti pulución** para cuando salgas de casa y así no respirar aire contaminado.
 
-div class="section-cta">
+<div class="section-cta">
 <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
