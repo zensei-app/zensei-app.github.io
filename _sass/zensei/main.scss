@@ -725,3 +725,36 @@ p.asthma__kpi {
   100% {-webkit-transform: translateX(0) translateY(0) scale(1, 1);}
 }
 
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  position: relative;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  border-radius: 5px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.text-block {
+  position: absolute;
+  width:100%;
+  height:100%;
+  bottom: 0px;
+  right: 0px;
+  background-color: rgba(0,0,0, 0.25);
+  color: white;
+  border-radius: 5px;
+}
