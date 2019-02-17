@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🛒💊 Productos para Respirar Mejor (y cuidar de tu salud respiratoria en casa y fuera de ella)"
+title:  "🤗 Cómo Respirar Mejor (y cuidar de tu salud respiratoria en casa y fuera de ella)"
 date: 2019-02-05 10:00:00 +0200
 last_modified_at: 2019-02-05 10:00:00 +0200
 author: David
