@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title:  "🤢 Cómo evitar la falta de aire al respirar con un diario de síntomas respiratorios"
+title:  "🤢 Causas de la falta de aire y cómo evitarlas de forma sencilla"
 date:   2018-08-01 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
