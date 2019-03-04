@@ -2,12 +2,12 @@
 layout: post
 redirect_from: '/blog/2018/11/22/bronquitis-aguda-sintomas-tratamiento/'
 toc: true
-title:  "👾🤒 Entiende qué es la Bronquitis Aguda (Síntomas, tratamiento y prevención)"
+title:  "👾🤒 Síntomas, tratamiento y prevención de la Bronquitis Aguda"
 date:   2018-11-22 10:00:00 +0200
 last_modified_at:   2019-01-27 10:00:00 +0200
 author: David
 image: /img/bronquitis-asmatica_20234_l.jpg
-description: "Esta guía te va a ayudar a aprender los síntomas de la bronquitis aguda, cómo tratarla, y sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra."
+description: "Este artículo te va a ayudar a aprender los síntomas de la bronquitis aguda, cómo tratarla, y sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra."
 intro: "Esta guía te va ayudar a aprender los síntomas de la bronquitis aguda, cómo tratarla, y sobre todo, cómo evitarla.<br><br>Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra. <br><br>Resolveremos muchas de tus dudas sobre la bronquitis y sus síntomas.<br><br>Así podrás curar y prevenir la bronquitis lo antes posible.<br><br>Empezamos."
 ---
 
