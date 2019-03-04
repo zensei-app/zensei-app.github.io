@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/09/11/puedo-practicar-deporte-si-tengo-asma/'
 toc: true
 title:  "🏃‍♂️ ¿Puedo practicar deporte si tengo asma?"
 date:   2018-09-11 10:00:00 +0200

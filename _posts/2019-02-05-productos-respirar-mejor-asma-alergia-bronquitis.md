@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2019/02/05/productos-respirar-mejor-asma-alergia-bronquitis/'
 title:  "🤗 Cómo Respirar Mejor (y cuidar de tu salud respiratoria en casa y fuera de ella)"
 date: 2019-02-05 10:00:00 +0200
 last_modified_at: 2019-02-05 10:00:00 +0200

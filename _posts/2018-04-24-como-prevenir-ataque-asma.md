@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/04/24/como-prevenir-ataque-asma/'
 title:  "🌬️ Cómo evitar un ataque de asma sin inhalador paso a paso"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-04-24 10:00:00 +0200

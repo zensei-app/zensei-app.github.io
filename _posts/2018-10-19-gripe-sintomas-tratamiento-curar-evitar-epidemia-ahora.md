@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/'
 toc: true
 title: "\U0001F47E\U0001F912 Epidemia de Gripe en España 2018-2019 (Síntomas,
   tratamiento, vacunación, prevención y predicción)"

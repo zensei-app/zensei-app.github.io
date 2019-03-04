@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/05/07/dia-mundial-asma-del-asma/'
 title:  "🗓️ Día Mundial del Asma: el asma es una enfermedad crónica"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-07 10:00:00 +0200

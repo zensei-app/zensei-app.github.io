@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/10/15/productos-hipoalergenicos-alergia-asma/'
 toc: true
 title:  "✨ Lista de productos hipoalergénicos para alérgicos y asmáticos (consigue una casa hipoalergénica)"
 date:   2018-10-15 10:00:00 +0200

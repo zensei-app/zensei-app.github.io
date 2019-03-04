@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/06/10/contaminacion/'
 title:  "😷 Cómo evitar los riesgos de la contaminación sobre la salud respiratoria sin esfuerzo"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-06-10 10:00:00 +0200

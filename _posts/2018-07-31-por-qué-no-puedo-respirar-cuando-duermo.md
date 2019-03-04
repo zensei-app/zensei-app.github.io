@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/07/31/por-qué-no-puedo-respirar-cuando-duermo/'
 title:  "😴 Por qué no puedo respirar bien cuando duermo (y cómo evitarlo de forma sencilla la falta de aire)"
 date: 2018-07-31 10:00:00 +0200
 last_modified_at:  2019-01-30 10:00:00 +0200

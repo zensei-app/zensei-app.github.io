@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/08/29/que-es-la-rinitis-alergica-sintomas/'
 toc: true
 title:  "🤧 Qué es la rinitis alérgica y cuáles son sus síntomas"
 date:   2018-08-29 10:00:00 +0200

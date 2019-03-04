@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/'
 toc: true
 title:  "🥇 Elige el mejor nebulizador para asmáticos (y ahórrate las idas al hospital de madrugada)"
 date:   2018-10-10 10:00:00 +0200

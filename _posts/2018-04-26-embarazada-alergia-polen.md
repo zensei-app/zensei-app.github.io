@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/04/26/embarada-alergia-polen/'
 title:  "🌼🤰 Qué puedo hacer si tengo alergia al polen y estoy embarazada"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-04-26 10:00:00 +0200

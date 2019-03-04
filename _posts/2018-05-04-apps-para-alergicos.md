@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/05/04/apps-para-alergicos/'
 title:  "📱🤧 Apps para alérgicos al polen (y cómo no morir de estornudos)"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-04 10:00:00 +0200

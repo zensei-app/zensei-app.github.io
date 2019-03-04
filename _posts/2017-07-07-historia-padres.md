@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2017/07/07/historia-padres/'
 title:  "👪 Padres primerizos y bronquitis"
 date:   2017-07-07 10:00:00 +0200
 last_modified_at:   2019-01-19 10:00:00 +0200

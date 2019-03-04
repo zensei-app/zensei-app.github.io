@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2017/06/19/salud-futuro/'
 title:  "🔮 El futuro de la salud respiratoria ¿Un nuevo paradigma?"
 date:   2017-06-19 10:00:00 +0200
 last_modified_at:   2019-01-19 10:00:00 +0200

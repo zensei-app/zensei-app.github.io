@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/05/12/como-disminuir-ataques-asma/'
 title:  "🤢🌬️ Cómo controlar un ataque de asma de forma sencilla"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-12 10:00:00 +0200

@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/06/18/como-evitar-respirar-aire-contaminado/'
 title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla aunque vivas al lado de una autovía"
 date:   2018-06-18 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200

@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/'
 toc: true
 title:  "🥇Purificadores de aire para asmáticos y alérgicos (y no te vuelvas loca al comprar uno)"
 date:   2018-09-28 10:00:00 +0200

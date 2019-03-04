@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/05/24/como-evitar-la-contaminacion-con-ayuda-la-tecnologia/'
 title: "🌆📱 Cómo la tecnología puede evitar los riesgo de la contaminación"
 date: 2018-05-24 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200

@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/05/22/que-puede-hacer-la-tecnologia-por-la-salud/'
 title:  "📱🤧 Qué pueden hacer las nuevas tecnologías por la salud"
 date:   2018-05-22 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200

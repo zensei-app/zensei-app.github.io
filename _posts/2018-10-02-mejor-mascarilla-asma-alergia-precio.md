@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/'
 toc: true
 title:  "🥇😷 Mascarillas antipolución para asmáticos y alérgicos (y cuál comprar si no tienes ni idea)"
 date:   2018-10-02 10:00:00 +0200

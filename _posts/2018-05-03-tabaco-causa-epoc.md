@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/05/03/tabaco-causa-epoc/'
 title:  "🚬 El tabaco es la principal causa de EPOC (y ¿todavía sigues fumando?)"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-03 10:00:00 +0200

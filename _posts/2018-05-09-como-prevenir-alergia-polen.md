@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/05/09/como-prevenir-alergia-polen/'
 title:  "🌼🤧 Cómo prevenir los síntomas de la alergia al polen de forma fácil"
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-09 10:00:00 +0200

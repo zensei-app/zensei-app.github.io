@@ -19,7 +19,7 @@ description: >
 baseurl: "" 
 url: "https://zenseiapp.com"
 
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 
 # Theme settings
 theme: minima
@@ -42,6 +42,7 @@ plugins:
   - octopress-minify-html
   - jekyll-compress-images
   - pagemaster
+  - jekyll-redirect-from
 
 compress_images:
   images_path: 

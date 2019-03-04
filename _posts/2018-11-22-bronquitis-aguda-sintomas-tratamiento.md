@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/11/22/bronquitis-aguda-sintomas-tratamiento/'
 toc: true
 title:  "👾🤒 Entiende qué es la Bronquitis Aguda (Síntomas, tratamiento y prevención)"
 date:   2018-11-22 10:00:00 +0200

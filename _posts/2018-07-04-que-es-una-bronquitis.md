@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/07/02/que-es-una-bronquitis/'
 title:  "🤒👾 Qué es la bronquitis, cómo evitarla y descubre si se contagia por besos"
 date:   2018-07-02 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200

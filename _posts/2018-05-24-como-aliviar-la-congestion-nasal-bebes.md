@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+redirect_from: '/blog/2018/05/24/como-aliviar-la-congestion-nasal-bebes/'
 title:  "👶🤧 ¿Tu bebé tiene congestión nasal? Aprende a evitarla y que tu bebé respire mejor"
 date:   2018-05-24 10:00:00 +0200
 last_modified_at:  2019-01-27 10:00:00 +0200

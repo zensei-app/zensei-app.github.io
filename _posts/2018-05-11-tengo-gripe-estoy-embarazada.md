@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_from: '/blog/2018/05/11/tengo-gripe-estoy-embarazada/'
 title:  "🤧🤰 Tengo gripe y estoy embarazada. Evita coger un gripazo."
 last_modified_at:  2019-01-27 10:00:00 +0200
 date:   2018-05-11 10:00:00 +0200
