@@ -50,7 +50,7 @@
 
 @media screen and (max-width: 600px){
   .main-cta--blog.main-cta--blog{
-    margin: 0;
+    margin-bottom: 1rem;
   }
   .blog-header__secondary-cta.blog-header__secondary-cta{
     display: block;
@@ -171,6 +171,23 @@
   bottom:0;
 }
 
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+
 @-webkit-keyframes shake {
     0%, 100% {-webkit-transform: translateX(0) rotate(0deg) translateY(0);}
     15%, 35%, 55%, 75%, 95% {-webkit-transform: translateX(-1px) rotate(-2deg) ;}
@@ -201,6 +218,7 @@
     10%, 30%, 50%, 70%, 90% {transform: translateY(1px);}    
     20%, 40%, 60%, 80% {transform: translateY(-1px); }  
 }
+
 .shake {
     -webkit-animation-name: shake;
     -moz-animation-name: shake;

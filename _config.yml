@@ -57,7 +57,10 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 
-
+target-blank:
+  noopener: false
+  rel: noopener
+    
 # Settings cannot change
 ## source: [your repo's top level directory]
 #highlighter: rouge
