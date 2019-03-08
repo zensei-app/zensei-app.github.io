@@ -58,6 +58,7 @@ function myFunction() {
   }
 }
 
+$("a").attr("target", "_blank");
 
 // End social
 
