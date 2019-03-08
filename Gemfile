@@ -4,6 +4,7 @@ gem 'jekyll-toc'
 gem 'jekyll-compress-images'
 gem 'octopress-minify-html'
 gem 'jekyll-redirect-from'
+gem 'jekyll-target-blank'
 
 group :jekyll_plugins do
     gem 'pagemaster'

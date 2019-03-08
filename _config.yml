@@ -43,6 +43,7 @@ plugins:
   - jekyll-compress-images
   - pagemaster
   - jekyll-redirect-from
+  - jekyll-target-blank
 
 compress_images:
   images_path: 
