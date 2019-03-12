@@ -3,7 +3,7 @@ layout: post
 toc: true
 redirect_from: '/blog/2018/05/08/sibilancias-pitidos-respiratorios/'
 title:  "🌬️ Qué son las Sibilancias (pitidos al respirar) y cómo evitarlas de forma sencilla"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at:  2019-03-12 10:00:00 +0200
 date:   2018-05-08 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 categories: sibilancias, pitidos, síntomas, respiratorios, asma
