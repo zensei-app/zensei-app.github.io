@@ -11,10 +11,10 @@ description: Este es el artículo más completo sobre purificar el aire de tu of
   En este artículo aprenderás todo lo que necesita saber sobre cómo purificar el aire
   de oficinas e interiores de espacios de trabajo. Por lo tanto, si necesitas mejor
   calidad de aire en tu oficina, necesitas leer este artículo.
-intro: Este es el artículo más completo sobre purificar el aire de tu oficina.<br><br>En
+intro: Este es el artículo más completo sobre cómo purificar el aire de tu oficina.<br><br>En
   este artículo aprenderás todo lo que necesita saber sobre cómo purificar el aire
   de interiores de espacios de trabajo.<br><br>Bien.<br><br>Por lo tanto, si quieres
-  respirar un aire más limpio en tu oficina, te encantará esta guía.<br><br>Vamos
+  respirar un aire más limpio en tu oficina, te encantará este artículo.<br><br>Vamos
   a zambullirnos de lleno.
 
 ---
