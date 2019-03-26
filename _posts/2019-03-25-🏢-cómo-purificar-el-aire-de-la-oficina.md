@@ -221,6 +221,10 @@ Una solución podría ser utilizar un [purificador de aire para limpiar el aire 
 
 ![](/uploads/AC3256_10-RTP-global-001.jpeg)
 
+Pulsando este link puedes comprar uno exactamente igual al nuestro.
+
+[Purificador de aire para limpiar el aire de espacios de trabajo.](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market)
+
 Asegúrate que el purificador es suficientemente potente para renovar el aire de tu oficina.
 
 Nosotros lo hemos hecho en la nuestra.
