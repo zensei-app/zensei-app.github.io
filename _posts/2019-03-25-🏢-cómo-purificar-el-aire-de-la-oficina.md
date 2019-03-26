@@ -6,7 +6,7 @@ title: "\U0001F3E2 Cómo purificar el aire de la oficina"
 date: 2019-03-25 23:00:00 +0000
 last_modified_at: 2019-03-25 23:00:00 +0000
 author: David
-image: "/uploads/photo-1484788984921-03950022c9ef.jpeg"
+image: "/uploads/air-office.jpeg"
 description: Este es el artículo más completo sobre purificar el aire de tu oficina.
   En este artículo aprenderás todo lo que necesita saber sobre cómo purificar el aire
   de oficinas e interiores de espacios de trabajo. Por lo tanto, si necesitas mejor
