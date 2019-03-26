@@ -99,7 +99,7 @@ Si no es tu caso, acuérdate de abrir las ventanas nada más llegar por la maña
 
 Esto hará que el aire se recicle y entre aire con menos partículas.
 
-[photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80](https://images.unsplash.com/photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80 "photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80")
+![](/uploads/photo-1501393254288-4287afa9d435 (1).jpeg)
 
 ### **Asegúrate de que se utilizan fibras naturales y productos de limpieza no nocivos en mobiliario de oficina.**
 
@@ -219,7 +219,7 @@ Si no puedes influir en la decisión de instalar un filtro HEPA en el aire acond
 
 Una solución podría ser utilizar un [purificador de aire para limpiar el aire tu oficina](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market) y que si lo lleve incorporado.
 
-[AC3256_10-RTP-global-001?wid=500&hei=500&$jpglarge$](https://images.philips.com/is/image/PhilipsConsumer/AC3256_10-RTP-global-001?wid=500&hei=500&$jpglarge$ "AC3256_10-RTP-global-001?wid=500&hei=500&$jpglarge$")
+![](/uploads/AC3256_10-RTP-global-001.jpeg)
 
 Asegúrate que el purificador es suficientemente potente para renovar el aire de tu oficina.
 
