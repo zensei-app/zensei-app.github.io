@@ -18,15 +18,15 @@ intro: Este es el artículo más completo sobre purificar el aire de tu oficina.
   a zambullirnos de lleno.
 
 ---
-## ¿Por qué hay que purificar el aire de los espacios interiores?
+## **¿Por qué hay que purificar el aire de los espacios interiores?**
 
 Existen múltiples sustancias y agentes en nuestros espacios de trabajo que puede perjudicar nuestra salud respiratoria.
 
 Agravando la calidad de vida de personas con asma, alergias, epoc o bronquitis crónicas.
 
-Factores que pueden afectar nuestra salud
+Factores que pueden afectar nuestra salud.
 
-### Partículas químicas
+### **Partículas químicas**
 
 **Tricloroetileno -** Lo desprenden las tintas de impresora, líquido corrector blanco, pinturas, lacas, barnices, adhesivos y decapantes.
 
@@ -38,7 +38,7 @@ Factores que pueden afectar nuestra salud
 
 **Amoniaco -** Componente de los limpia cristales, abrillantadores del suelo, sales aromáticas y fertilizantes. En la industria maderera se emplea para oscurecer la madera y en la textil para tratar materiales de algodón.
 
-### Otros agentes
+### **Otros agentes**
 
 **Polvo** - Son las partículas sólidas que tienen diámetros menores a 500 micrómetros.
 
@@ -74,20 +74,20 @@ Que puede provocar una mala calidad del aire de nuestra oficina.
 
 **Alergias o reacciones alérgicas a pólenes u otro tipo de compuesto químicos**. Personas inmunodeficientes presenta sensibilidad a los agentes del exterior, debemos ayudarlos a que el espacio donde trabajan es seguro.
 
-## ¿Cómo purificar el aire de la oficina?
+## **¿Cómo purificar el aire de la oficina?**
 
 Estos son los pasos que deberías seguir para asegurar que el aire de una oficina está limpio.
 
 1. Ventila la oficina a primeras horas de la mañana
 2. Utiliza fibras naturales y productos no nocivos
 3. Pinta la paredes con pintura purificadora de aire
-4. Utiliza plantas para purificar el aire 
+4. Utiliza plantas para purificar el aire
 5. Instala Aire acondicionado con filtros HEPA
 6. Compra purificadores de aire con filtro HEPA
 
 Ahora vemos cada uno de los puntos en más detalle.
 
-### Ventila la oficina a primeras horas de la mañana
+### **Ventila la oficina a primeras horas de la mañana**
 
 Las primeras horas de la mañana son las horas en las que menos contaminación y partículas hay en suspensión.
 
@@ -101,7 +101,7 @@ Esto hará que el aire se recicle y entre aire con menos partículas.
 
 [photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80](https://images.unsplash.com/photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80 "photo-1501393254288-4287afa9d435?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80")
 
-### Asegúrate de que se utilizan fibras naturales y productos de limpieza no nocivos en mobiliario de oficina.
+### **Asegúrate de que se utilizan fibras naturales y productos de limpieza no nocivos en mobiliario de oficina.**
 
 Las fibras sintéticas irritan nuestras vías aéreas y la piel. Quién no ha entrado en una tienda de ropa y ha notado el aire le hacía estornudar o le picaba la piel.
 
@@ -113,7 +113,7 @@ Si no puede influir en esto.
 
 Sigue leyendo para más opciones para limpiar el aire de la oficina.
 
-### Pinta las paredes con pintura purificadora de aire
+### **Pinta las paredes con pintura purificadora de aire**
 
 Un opción desconocida pero muy útil.
 
@@ -123,9 +123,7 @@ Funciona mediante el proceso de fotocatálisis y solo necesita de la incidencia 
 
 Se trata de un método relativamente sencillo, pasivo y eficaz, que no requiere de aparatos ni filtros, sino que es puramente químico y que elimina incluso las partículas de NOx, producidas por los coches diesel y muy presente en las ciudades.
 
-### Utiliza plantas para purificar el aire de interiores 
-
-[1199?k=e9f2&w=726&h=481&q=90&o=c](https://image.dfusion.com/image/locationlocation/news/article/resource/1199?k=e9f2&w=726&h=481&q=90&o=c "Office plants")
+### **Utiliza plantas para purificar el aire de interiores**
 
 Existen varios tipos de planta recomendadas por la misma NASA para limpiar el aire.
 
@@ -185,7 +183,7 @@ El formaldehído, el tricloroetileno y el benceno son algunos de los tóxicos qu
 
 Pero los alérgicos (sobre todo al látex) deben tener cuidado con ella.
 
-#### ¿Cuántas plantas poner para mantener el ambiente limpio?
+#### **¿Cuántas plantas poner para mantener el ambiente limpio?**
 
 Una regla que puedes segur es la siguiente:
 
@@ -217,7 +215,7 @@ Y si no lo tiene, pide que lo instalen.
 
 Aquí tienes otra posible alternativa.
 
-Si no puedes influir en la decisión de instalar un filtro HEPA en el aire acondicionado de tu oficina. 
+Si no puedes influir en la decisión de instalar un filtro HEPA en el aire acondicionado de tu oficina.
 
 Una solución podría ser utilizar un [purificador de aire para limpiar el aire tu oficina](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market) y que si lo lleve incorporado.
 
@@ -235,7 +233,7 @@ Ten en cuenta que será una inversión de unos 400€ iniciales más recambios c
 
 Una decisión perfecta y compensa.
 
-## Conclusiones
+## **Conclusiones**
 
 Hay muchas formas para mejorar la salud respiratoria de nuestra oficina. Nosotros solo te hemos recomendado las que estamos utilizando.
 
