@@ -32,3 +32,5 @@ fields:
 - type: textarea
   name: intro
   label: intro
+pages:
+- "_posts/\U0001F3E2-cómo-purificar-el-aire-de-la-oficina.md"
