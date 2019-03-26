@@ -60,7 +60,7 @@ Suelen medir entre 20 y 400 nanómetros. Son muy pequeños.
 
 Haciendo que se suspendan en el ambiente. Son horribles para personas con alergia al polen.
 
-## ¿Consecuencias de una mala calidad de aire?
+## **¿Consecuencias de una mala calidad de aire en la oficina?**
 
 El tener un aire en nuestro espacio de trabajo es vital. Pasamos muchas horas en él.
 
