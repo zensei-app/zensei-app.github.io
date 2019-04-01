@@ -1,6 +1,5 @@
 ---
 layout: post
-redirect_from: ''
 toc: true
 title: "\U0001F3E2 Cómo purificar el aire de la oficina"
 date: 2019-03-25 23:00:00 +0000
