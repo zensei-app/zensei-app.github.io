@@ -17,6 +17,7 @@ intro: Este es el artículo más completo sobre cómo purificar el aire de tu of
   a zambullirnos de lleno.
 
 ---
+
 ## **¿Por qué hay que purificar el aire de los espacios interiores?**
 
 Existen múltiples sustancias y agentes en nuestros espacios de trabajo que puede perjudicar nuestra salud respiratoria.
