@@ -78,6 +78,25 @@ var isMobile = false; //initiate as false
   }
 })
 
+$(function () {
+  count = 0;
+  wordsArray = [
+    "“Muy práctica. Toda la información para entender mi alergia.“",
+    "“Me encanta y me es muy útil para cuidar mi rinitis :)“",
+    "“Soy asmático, personalmente es de gran ayuda en mi diaria tarea de cuidarme.“", 
+    "“Gran aplicación que hace la vida más fácil. Además muy atentos y amables.“",
+    "“Es absolutamente increíble y tiene todos los factores de riesgo. Sencillamente genial.“",
+    "“Muy útil para controlar la frecuencia de los síntomas respiratorios“",
+    "“Lo mejor que me pudo pasar en mi vida de Asmática 💕💕”",
+  ];
+  setInterval(function () {
+    count++;
+    $("#copy-social").fadeOut(400, function () {
+      $(this).text(wordsArray[count % wordsArray.length]).fadeIn(400);
+    });
+  }, 5000);
+});
+
 $("#asthma-selector").click(function(){
   console.log("Hola")
   $(".respiratory-care").hide();

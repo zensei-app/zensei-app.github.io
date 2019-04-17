@@ -52,6 +52,7 @@ svg.sparkline {
 
 .hero-header{
   @include gradient-diagonal($yellow,$pink);
+
   text-align: center;
   color: #fff;
   padding: 0 4%;
@@ -314,6 +315,7 @@ svg.sparkline {
   @extend .clearfix;
   text-align: center;
   list-style: none;
+  display: inline-block;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -321,7 +323,7 @@ svg.sparkline {
     float: left;
     width: 100%;
     padding: 0 4%;
-    margin:  0 0 6rem;
+    margin:  2rem 0 2rem;
     img{
 
     }
@@ -386,6 +388,13 @@ svg.sparkline {
   margin-bottom: 2rem;
   line-height: 1;
   color: #828282;
+}
+
+.cta__title{
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #333333;
 }
 
 p.asthma__kpi {
