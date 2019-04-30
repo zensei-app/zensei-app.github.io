@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F3E2 Cómo purificar el aire de la oficina"
-date: 2019-03-25 23:00:00 +0000
-last_modified_at: 2019-03-25 23:00:00 +0000
+title: "\U0001F3E2 Cómo purificar el aire de casa o la oficina"
+date: 2019-03-25T23:00:00.000+00:00
+last_modified_at: 2019-03-25T23:00:00.000+00:00
 author: David
 image: "/uploads/air-office.jpeg"
 description: Este es el artículo más completo sobre purificar el aire de tu oficina.
@@ -17,7 +17,6 @@ intro: Este es el artículo más completo sobre cómo purificar el aire de tu of
   a zambullirnos de lleno.
 
 ---
-
 ## **¿Por qué hay que purificar el aire de los espacios interiores?**
 
 Existen múltiples sustancias y agentes en nuestros espacios de trabajo que puede perjudicar nuestra salud respiratoria.
