@@ -5,9 +5,6 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: redirect_from
-  label: redirect_from
 - type: boolean
   name: toc
   label: toc
