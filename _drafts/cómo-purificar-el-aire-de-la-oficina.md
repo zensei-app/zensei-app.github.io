@@ -6,8 +6,13 @@ date: 2019-05-30 22:00:00 +0000
 last_modified_at: 
 author: Ana
 image: "/uploads/Purificar aire oficina.jpg"
-description: ''
-intro: ''
+description: "¿Sabías que el aire en espacios cerrados está más contaminado que el
+  del exterior? De ahí la importancia de purificar el aire de la oficina. Te indicamos
+  la mejor manera de hacerlo y respirar tranquilo."
+intro: El aire enrarecido que notas en la oficina está contaminado. No se debe a la
+  polución sino a elementos tóxicos empleados a diario para la limpieza, el uso de
+  material de oficina, el desgaste del material de construcción... Te explicamos cómo
+  *purificar el aire de la oficina* para que respires mejor y te sientas tranquilo.
 
 ---
 ¿Sabes cómo **purificar el aire de la oficina**? Aunque te parezca increíble es una operación muy necesaria para el bienestar y la salud de las personas que pasan mucho tiempo en estos locales.
