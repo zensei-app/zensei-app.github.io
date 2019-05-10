@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F4A8 Cómo purificar el aire de casa"
+title: "\U0001F3E0\U0001F4A8 Cómo purificar el aire de casa"
 date: 2019-05-30 22:00:00 +0000
 last_modified_at: 
 author: Ana
@@ -161,3 +161,5 @@ Nosotros mismos hemos querido medir la eficacia de este sistema, así que adquir
 La inversión inicial ha sido de un poco más de 400€. Luego tendrás que adquirir los recambios cada 6 u 8 meses. No sobrepasan los 30€. La decisión nos ha parecido acertada y **la inversión compensa.**
 
 Con un pequeño presupuesto anual, que no sobrepasa los 500€, puedes asegurarte que la calidad de aire que respiras es la más saludable.
+
+![](/uploads/AC3256_10-RTP-global-001.jpeg)
