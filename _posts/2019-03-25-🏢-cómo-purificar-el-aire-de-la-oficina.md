@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F3E2 Cómo purificar el aire de casa o la oficina"
+title: "\U0001F3E2 Cómo purificar el aire de la oficina"
 date: 2019-03-25T23:00:00.000+00:00
 last_modified_at: 2019-03-25T23:00:00.000+00:00
 author: David
