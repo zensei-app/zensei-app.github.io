@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Cómo purificar el aire de la oficina
+title: Cómo purificar el aire de casa
 date: 2019-05-30 22:00:00 +0000
 last_modified_at: 
 author: Ana
