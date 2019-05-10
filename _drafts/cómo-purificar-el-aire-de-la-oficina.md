@@ -7,13 +7,13 @@ last_modified_at:
 author: Ana
 image: "/uploads/Purificar aire oficina.jpg"
 description: '"¿Sabías que el aire en espacios cerrados está más contaminado que el
-  del exterior? De ahí la importancia de purificar el aire de la oficina. Te indicamos
-  la mejor manera de hacerlo y respirar tranquilo."'
-intro: '"El aire enrarecido que notas en la oficina está contaminado. <br><br>No se
-  debe a la polución sino a elementos tóxicos empleados a diario para la limpieza,
-  el uso de material de oficina, el desgaste del material de construcción... <br><br>Te
-  explicamos cómo **purificar el aire de la oficina** para que respires mejor y te
-  sientas tranquilo."'
+  del exterior? De ahí la importancia de purificar el aire de casa. Te indicamos la
+  mejor manera de hacerlo y respirar tranquilo."'
+intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><br>No
+  se debe a la polución sino a elementos tóxicos empleados a diario para la limpieza,
+  el uso de material escolar o de oficina, el desgaste del material de construcción...
+  <br><br>Te explicamos cómo **purificar el aire de casa** para que respires mejor
+  y te sientas tranquilo."'
 
 ---
 ¿Sabes cómo **purificar el aire de casa**? Aunque te parezca increíble es una operación muy necesaria para el bienestar y la salud de las personas que pasan mucho tiempo en el hogar.
@@ -60,7 +60,7 @@ No están todos los que son, pero hemos realizado un pequeño listado con los el
 
 · **Pólenes**. Son los granos microscópicos que producen las plantas con semillas. Penetran en las oficinas a través de los flujos de aire o pegados en la ropa de las personas. Quedan suspendidos en el ambiente y se convierten en una pesadilla para los alérgico al polen.
 
-## Consecuencias de una mala calidad de aire en la oficina
+## Consecuencias de una mala calidad de aire en casa
 
 Disfrutar de las **mejores condiciones respiratorias en nuestra casa o habitación** resulta de vital importancia. En este espacio pasamos una gran parte de nuestra jornada diaria. La calidad del aire debe ser lo más excepcional posible.
 
