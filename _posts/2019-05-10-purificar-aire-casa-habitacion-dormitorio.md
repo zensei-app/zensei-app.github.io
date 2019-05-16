@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F3E0\U0001F4A8 Cómo purificar el aire de casa (habitación o dormitorio)"
-date: 2019-05-10 06:00:00 +0000
-last_modified_at: 2019-05-09 22:00:00 +0000
+date: 2019-05-10T06:00:00.000+00:00
+last_modified_at: 2019-05-09T22:00:00.000+00:00
 author: Ana
 image: "/uploads/Purificar aire oficina.jpg"
 description: '"¿Sabías que el aire en espacios cerrados está más contaminado que el
@@ -16,6 +16,8 @@ intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><
   y te sientas tranquilo."'
 
 ---
+![](/uploads/Purificar aire oficina.jpg)
+
 ¿Sabes cómo **purificar el aire de casa**? Aunque te parezca increíble es una operación muy necesaria para el bienestar y la salud de las personas que pasan mucho tiempo en el hogar.
 
 La razón estriba en que el aire que respiramos en espacios cerrados está **más contaminado que el del exterior.** De hecho, la tasa de contaminación de interiores es entre 2 y 8 veces mayor que la de fuera.
