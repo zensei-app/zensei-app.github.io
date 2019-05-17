@@ -5,7 +5,7 @@ title: "\U0001F3E0\U0001F4A8 Cómo purificar el aire de casa (salón o dormitori
 date: 2019-05-10T06:00:00.000+00:00
 last_modified_at: 2019-05-16 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/IMG_20190516_194030.jpg"
 description: "¿Sabías que el aire en espacios cerrados está más contaminado que el
   del exterior? De ahí la importancia de purificar el aire de casa. Te indicamos la
   mejor manera de hacerlo y respirar tranquilo."
