@@ -6,9 +6,9 @@ date: 2019-05-10T06:00:00.000+00:00
 last_modified_at: 2019-05-09T22:00:00.000+00:00
 author: Ana
 image: ''
-description: '"¿Sabías que el aire en espacios cerrados está más contaminado que el
+description: "¿Sabías que el aire en espacios cerrados está más contaminado que el
   del exterior? De ahí la importancia de purificar el aire de casa. Te indicamos la
-  mejor manera de hacerlo y respirar tranquilo."'
+  mejor manera de hacerlo y respirar tranquilo."
 intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><br>No
   se debe a la polución sino a elementos tóxicos empleados a diario para la limpieza,
   el uso de material escolar o de oficina, el desgaste del material de construcción...
