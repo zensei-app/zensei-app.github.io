@@ -166,4 +166,4 @@ Con un pequeño presupuesto anual, que no sobrepasa los 500€, puedes asegurart
 
 ![](/uploads/IMG_20190516_194900.jpg "Purificador de aire habitación")
 
-Consigue aquí un [Purificador para limpiar el aire de los dormitorios de los niños casa](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market).
+Consigue aquí un [Purificador para limpiar el aire del dormitorio de los niños casa](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market). Así dormirán con respiración menos pesadas y evitarás ir menos a urgencias.
