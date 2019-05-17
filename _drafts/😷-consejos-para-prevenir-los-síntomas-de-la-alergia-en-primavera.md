@@ -6,10 +6,10 @@ date: 2019-05-16 22:00:00 +0000
 last_modified_at: 
 author: Ana
 image: ''
-description: La alergia en primavera provoca síntomas a millones de personas cada
-  año. Las molestias pueden llegar a ser impeditivas. Ayúdate con estos consejos.
-intro: Estamos en plena primavera y miles de personas padecen los **síntomas de la
-  alergia**. Aquí tienes información útil y algunos consejos para controlarlos.
+description: '"La alergia en primavera provoca síntomas a millones de personas cada
+  año. Las molestias pueden llegar a ser impeditivas. Ayúdate con estos consejos."'
+intro: '"Estamos en plena primavera y miles de personas padecen los **síntomas de
+  la alergia**. Aquí tienes información útil y algunos consejos para controlarlos."'
 
 ---
 ![](/uploads/Alergia primavera síntomas.jpg)España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la alergia en primavera.**
