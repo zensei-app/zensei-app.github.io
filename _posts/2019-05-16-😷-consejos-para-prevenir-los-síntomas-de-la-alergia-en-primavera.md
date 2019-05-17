@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F637 Consejos para prevenir los síntomas de la alergia en primavera"
+title: "\U0001F63712 Consejos para prevenir los síntomas de la alergia al polen"
 date: 2019-05-16 22:00:00 +0000
 last_modified_at: 2019-05-16 22:00:00 +0000
 author: Ana
