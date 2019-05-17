@@ -5,7 +5,7 @@ title: "\U0001F63712 Consejos para prevenir los síntomas de la alergia al polen
 date: 2019-05-16 22:00:00 +0000
 last_modified_at: 2019-05-16 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/alergia polen.jpg"
 description: '"La alergia en primavera provoca síntomas a millones de personas cada
   año. Las molestias pueden llegar a ser impeditivas. Ayúdate con estos consejos."'
 intro: '"Estamos en plena primavera y miles de personas padecen los **síntomas de
