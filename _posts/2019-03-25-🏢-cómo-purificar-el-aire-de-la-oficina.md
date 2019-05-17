@@ -98,8 +98,6 @@ Si no es tu caso, acuérdate de abrir las ventanas nada más llegar por la maña
 
 Esto hará que el aire se recicle y entre aire con menos partículas.
 
-![](/uploads/photo-1501393254288-4287afa9d435 (1).jpeg)
-
 ### **Asegúrate de que se utilizan fibras naturales y productos de limpieza no nocivos en mobiliario de oficina.**
 
 Las fibras sintéticas irritan nuestras vías aéreas y la piel. Quién no ha entrado en una tienda de ropa y ha notado el aire le hacía estornudar o le picaba la piel.
