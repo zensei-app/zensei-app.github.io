@@ -218,7 +218,7 @@ Si no puedes influir en la decisión de instalar un filtro HEPA en el aire acond
 
 Una solución podría ser utilizar un [purificador de aire para limpiar el aire tu oficina](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market) y que si lo lleve incorporado.
 
-![](/uploads/AC3256_10-RTP-global-001.jpeg)
+![](/uploads/IMG_8815.JPG)
 
 Pulsando este link puedes comprar uno exactamente igual al nuestro.
 
