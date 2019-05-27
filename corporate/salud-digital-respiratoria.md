@@ -91,9 +91,9 @@ Resfriados
 
 Rinitis alérgica
 
-Si trabajas en alguna de estas áreas, no sé. 
+No sé si trabajas en alguna de estas áreas. 
 
-A lo mejor te podemos ayudar, te lo contamos a continuación.
+Pero a lo mejor te podemos ayudar, te lo contamos a continuación.
 
 ## **¿Cómo puede ayudar Zensei a mi organización?**
 
@@ -145,9 +145,13 @@ Así podrás responder preguntas como:
 
 Todo esto con datos quasi en tiempo real con nuestra herramienta de audiencias. 
 
+Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos y no en días. Aumentando tu curva de aprendizaje sobre el paciente respiratorio. Sabiendo como piensa, siente y reacciona.
+
 **Zensei Ads.** Así podrás **crear conocimiento de marca con campañas contextuales y comportacionales hiper targetizadas de tu producto o servicio** a nuestra audiencia de más de 150.000 personas con problemas respiratorios (Mayor audiencia en castellano a nivel mundial de salud respiratoria). 
 
-Todo esto gracias a nuestra solución de marketing digital respiratorio, donde podrás impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas.
+Todo esto gracias a nuestra solución de marketing digital respiratorio, donde podrás impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. 
+
+Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
 
 **Zensei Business.** Si trabajas en temas respiratorios, tu negocio depende del entorno. 
 
@@ -155,9 +159,13 @@ Es decir, vendes más de tu producto debido a que un agente externo causa la con
 
 Así podrás entender qué factores crean más ventas, cuando invertir en marketing y predecir en tiempo real con varias semanas de antelación las ventas de productos respiratorios.
 
+Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.
+
 **Zensei APIs.** Si quieres crear e**xperiencias de salud digital totalmente personalizadas, contextuales y con alto engagement** para pacientes respiratorios. 
 
-Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios, pueden aumentar la rentención de tu producto a más del 50% despúes de 30 días desde el primer día de uso. 
+Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios.
+
+Nuestas apis pueden aumentar la rentención de tu producto a más del 50% despúes de 30 días desde el primer día de uso. 
 
 **Zensei Digital Epidemiology.** Si necesitas un estudio más específico de como el entorno impacta sobre un población de pacientes. 
 
@@ -179,9 +187,17 @@ Adaptamos nuestros productos y servicios de salud digital respiratoria a tus nec
 
 En base a nuestra experiencia, te podemos ayudar a cuidar al paciente, mejorar su calidad de vida y ayudar a compañías, como la vuestra, que proveen de soluciones, productos y medicamentos para el paciente respiratorio.
 
-Toma ventaja de cara a tus competidores con nuestras soluciones digitales de salud respiratoria, que te permitirán conocer mejor a tu cliente objetivo, saber que factores de entorno afectan a tu negocio de forma directa, impactar a una audiencia con un nivel de activación muy alta y hacer experiencias digitales de salud realmente valiosas para el paciente respiratorio.
+Toma ventaja de cara a tus competidores en tus iniciativas de transformación digital con nuestras soluciones digitales de salud respiratoria. Que te permitirán:
 
-## **¿Cómo empezar a entender al paciente respiratorio digital y mejorar tu cuenta de resultados?**
+Conocer mejor a tu cliente objetivo.
+
+Saber que factores de entorno afectan a tu negocio de forma directa.
+
+Impactar a una audiencia con un nivel de activación muy alta.
+
+Crear experiencias digitales de salud realmente valiosas para el paciente respiratorio.
+
+## **¿Cómo empezar a entender al paciente respiratorio digital?**
 
 **Déjanos tu email y te enviamos gratis el informe de comportamiento digital del paciente respiratorio de este mes.** 
 
@@ -193,6 +209,6 @@ Si crees que necesitas más información en el informe, dínoslo y lo mejoramos.
 
 Si no lo recibes no podrás estar al día de cómo los pacientes respiratorios se comportan y cuidan de forma digital.
 
-**P.D.- Virus, contaminación, pólenes o temperaturas extremas van a seguir afectando a tu negocio y tus clientes con problemas respiratorios. Ellos quieren que les cuiden. Vosotros queréis cumplir objetivos. Y nosotros os queremos ayudar a los dos. Dejanos tu email y nos ponemos en contacto contigo.**
+**P.D.-** Virus, contaminación, pólenes o temperaturas extremas van a seguir afectando a tu negocio y tus clientes con problemas respiratorios. Ellos quieren que les cuiden. Vosotros queréis cumplir objetivos. Y nosotros os queremos ayudar a los dos. Dejanos tu email y nos ponemos en contacto contigo.
 
 
