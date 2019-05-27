@@ -1,10 +1,10 @@
 ---
 layout: content-landing
-title:  "Entiende la psicología y comportamiento digital del paciente respiratorio."
+title:  "Salud digital respiratoria. Cómo entender la psilogía y comportamiento digital del paciente respiratorio."
 subtitle: "Vende más, entendiendo y cuidando de tus pacientes (consumidores) respiratorios digitales."
 date: 2019-05-27 00:00:00 +0200
 image: '/uploads/pexels-photo-321576.jpeg'
-description: Utilizando el big data para entender mejor al paciente respiratorio. Tu estrategia de transformación digital y salud digital respiratoria mejorará y tendrás pacientes más adherentes.
+description: Utilizando el big data para conocer mejor al paciente respiratorio. Tu estrategia de salud digital respiratoria mejorará y tendrás pacientes más adherentes.
 seo_description: "Mejorar la adherencia de los pacientes respiratorios garantizan un mejora de la salud respiratoria y de la calidad de vida. Entienda los patrones de comportamiento de sus consumidores respiratorios, compare factores de entorno, hábitos, sociales, salud percibida y medicación para innovar de la manera correcta. Finalmente, personalice su estrategia de salud digital respiratoria utilizando lo que ha aprendido. Zensei tiene todas las herramientas que necesitas para cuidar del paciente respiratorio."
 permalink: /salud-digital-respiratoria/
 ---
@@ -67,7 +67,7 @@ Estos son algunos de los casos de uso que ya hemos desarrollado con otros client
 
 **1. Entender al paciente respiratorio digital y su viaje** gracias a nuestra solución de audiencias y datos de entorno. (Zensei Lighthouse)
 
-**2. Mostrar tu producto a las audiencia correcta**, en el momento adecuado y con el mensaje adecuado (Zensei App Ads)
+**2. Mostrar tu producto a las audiencia correcta**, en el momento adecuado y con el mensaje adecuado, utilizando campañas de marketing digital comportacional. (Zensei Ads)
 
 **3. Entender cómo los factores de entorno afecta a tu cuenta de resultados** en tu línea de productos respiratorios y predecir ventas. (Zensei Business Prediction)
 
