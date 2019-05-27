@@ -5,7 +5,7 @@ subtitle: "Vende más, entendiendo y cuidando de tus pacientes (consumidores) re
 date: 2019-05-27 00:00:00 +0200
 image: '/uploads/pexels-photo-321576.jpeg'
 description: Utilizando el big data para conocer mejor al paciente respiratorio. Tu estrategia de salud digital respiratoria mejorará y tendrás pacientes más adherentes.
-seo_description: "Mejorar la adherencia de los pacientes respiratorios garantizan un mejora de la salud respiratoria y de la calidad de vida. Entienda los patrones de comportamiento de sus consumidores respiratorios, compare factores de entorno, hábitos, sociales, salud percibida y medicación para innovar de la manera correcta. Finalmente, personalice su estrategia de salud digital respiratoria utilizando lo que ha aprendido. Zensei tiene todas las herramientas que necesitas para cuidar del paciente respiratorio."
+seo_description: "En este artículo te contamos que es la salud digital respiratoria y como puedes utilizar el big data para conocer mejor la psicología y comportamiento del paciente respiratorio digital."
 permalink: /salud-digital-respiratoria/
 ---
 
