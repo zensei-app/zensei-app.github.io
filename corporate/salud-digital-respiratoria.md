@@ -49,13 +49,13 @@ Pero creemos que está es la visión que deben seguir nuestros productos de salu
 
 Responder a este tipo de preguntas con la ayuda del big data para ayudar a pacientes y médicos con datos de evidencias reales.
 
-El ehealth y la telemedicina no es solo hacer videoconsultas. 
+El ehealth y la telemedicina no es solo hacer videoconsultas y motores de reserva de consultas. 
 
-Si para ti y tu organización es esa la unica definición de salud digital y de transformación digital.
+Si para ti y tu organización es esa la única definición de salud digital y de transformación digital.
 
 No queremos hacerte peder el tiempo y es mejor que dejes de seguir leyendo.
 
-Pero si.
+Pero si lo que te preocupa es que:
 
 **No consigues entender a tu paciente** digital.
 
@@ -65,9 +65,9 @@ Pero si.
 
 **Necesitas escalar tus acciones de visita médica** a un coste mínimo.
 
-Te vamos a enseñar como lo puedes conseguir.
+Te vamos a enseñar como lo puedes conseguir, pero antes dejanos que te contemos en que condiciones de salud respiratoria tenemos experiencia.
 
-## **¿En qué enfermedades respiratorias sois expertos?**
+## **¿En qué enfermedades respiratorias tiene experiencia Zensei?**
 
 Nuestros productos digitales están centrados en todos los pacientes respiratorios que se descompensen por el entorno.
 
