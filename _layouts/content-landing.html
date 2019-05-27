@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<title>{{page.title}} | Zensei Salud Digital Respiratoria</title>
+<title>▷ {{page.title}} | Zensei Salud Digital Respiratoria </title>
 
 <meta name="description" content="{{page.seo_description}}">
-<meta name="author" content="Digital Detox Program">
+
 
 <!-- Mobile viewport optimization h5bp.com/ad -->
 <meta name="HandheldFriendly" content="True">
@@ -30,23 +30,23 @@
 <!-- For Facebook -->
 <meta property="og:title" content="Zensei"/>
 <meta property="og:type" content="website"/>
-<meta property="og:image" content="https://zenseiapp.com/img/digital-detox/digital-detox-program.png"/>
-<meta property="og:url" content="https://zenseiapp.com/es/digital-detox-program"/>
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"/>
+<meta property="og:url" content="{% if page.url %}{{ page.url | absolute_url }}{% else %}https://zenseiapp.com{% endif %}"/>
 
 <meta property="og:site_name" content="{{page.title}} | Zensei Salud Digital Respiratoria"/>
 <meta property="og:description" content="{{page.seo_description}}"/>
 
 <!-- for Twitter -->
-<meta name="twitter:site" content="https://zenseiapp.com/es/digital-detox-program">
+<meta name="twitter:site" content="{% if page.url %}{{ page.url | absolute_url }}{% else %}https://zenseiapp.com{% endif %}">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{page.title}} | Zensei Salud Digital Respiratoria" />
 <meta name="twitter:description" content="{{page.seo_description}}" />
-<meta name="twitter:image" content="https://zenseiapp.com/img/digital-detox/digital-detox-program.png" />
+<meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}" />
 
 <!-- For Google+ -->
 <meta itemprop="name" content="{{page.title}} | Zensei Salud Digital Respiratoria.">
 <meta itemprop="description" content="{{page.seo_description}}">
-<meta itemprop="image" content="https://zenseiapp.com/img/digital-detox/digital-detox-program.png">
+<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}">
 
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
