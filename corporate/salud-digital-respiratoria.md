@@ -169,7 +169,7 @@ Nuestas apis pueden aumentar la rentención de tu producto a más del 50% despú
 
 **Zensei Digital Epidemiology.** Si necesitas un estudio más específico de como el entorno impacta sobre un población de pacientes. 
 
-Hemos realizados múltiples estudios epidemiológicos ad hoc utilizando nuestra app y datos no convecionales. 
+Hemos realizados múltiples estudios epidemiológicos ad hoc utilizando [nuestra app diario de salud respiratoria](/) y datos no convecionales. 
 
 Con nuestra app podemos monitorizar la experiencia y adherencia de usuarios que están siendo tratados. 
 
