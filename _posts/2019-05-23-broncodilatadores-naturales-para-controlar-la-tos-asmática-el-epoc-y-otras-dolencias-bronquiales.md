@@ -17,7 +17,7 @@ intro: La fitoterapia es una buena coadyuvante como **broncodilatadores naturale
 ---
 ![](/uploads/Ventolin.jpg)
 
-Los pacientes de enfermedades relacionadas con **la tos asmática, el EPOC u otras dolencias bronquiales** deben a menudo, son mayor o menor persistencia, convivir con los broncodilatadores químicos. De este modo alivian las crisis y permiten que sus bronquios se “abran” de manera que se facilite la respiración. Pero **¿existen broncodilatadores naturales?**
+Los pacientes de enfermedades relacionadas con **la tos asmática, el EPOC u otras dolencias bronquiales** deben a menudo, son mayor o menor persistencia, convivir con los [broncodilatadores](https://es.wikipedia.org/wiki/Broncodilatador) químicos. De este modo alivian las crisis y permiten que sus bronquios se “abran” de manera que se facilite la respiración. Pero **¿existen broncodilatadores naturales?**
 
 ## Advertencias sobre el uso de broncodilatadores naturales
 
