@@ -183,6 +183,10 @@ Han confiado en nosotros porque somos humildes, honestos y sabemos hacer las cos
 
 También tenemos relación directa con el entorno académico, donde colaboramos con el Human Dynamics Lab de MIT Media Lab, Onnela Lab de la Harvard Public Health School y centro de estudio de sistemas técnico y biológicos de la Northeastern University.
 
+No sé, creo que sabemos de lo que hablamos.
+
+Bien.
+
 Adaptamos nuestros productos y servicios de salud digital respiratoria a tus necesidades de negocio. 
 
 En base a nuestra experiencia, te podemos ayudar a cuidar al paciente, mejorar su calidad de vida y ayudar a compañías, como la vuestra, que proveen de soluciones, productos y medicamentos para el paciente respiratorio.
