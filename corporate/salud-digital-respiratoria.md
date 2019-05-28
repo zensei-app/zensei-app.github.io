@@ -161,11 +161,11 @@ Así podrás entender qué factores crean más ventas, cuando invertir en market
 
 Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.
 
-**Zensei APIs.** Si quieres crear e**xperiencias de salud digital totalmente personalizadas, contextuales y con alto engagement** para pacientes respiratorios. 
+**Zensei APIs.** Si quieres crear **experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement** para pacientes respiratorios. 
 
-Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios.
+Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios, te permitirán diseñar de la mejor experiencia para cada paciente.
 
-Nuestas apis pueden aumentar la rentención de tu producto a más del 50% despúes de 30 días desde el primer día de uso. 
+Nuestas APIs pueden aumentar la rentención de tu producto a más del 50% despúes de 30 días desde el primer día de uso. 
 
 **Zensei Digital Epidemiology.** Si necesitas un estudio más específico de como el entorno impacta sobre un población de pacientes. 
 
@@ -193,19 +193,21 @@ En base a nuestra experiencia, te podemos ayudar a cuidar al paciente, mejorar s
 
 Toma ventaja de cara a tus competidores en tus iniciativas de transformación digital con nuestras soluciones digitales de salud respiratoria. Que te permitirán:
 
-Conocer mejor a tu cliente objetivo.
+1. **Conocer mejor a tu cliente objetivo.**
 
-Saber que factores de entorno afectan a tu negocio de forma directa.
+2. **Saber que factores de entorno afectan a tu negocio de forma directa.**
 
-Impactar a una audiencia con un nivel de activación muy alta.
+3. **Impactar a una audiencia con un nivel de activación muy alta.**
+
+4. **Aumentar la calidad de vida de tus pacientes y tus ventas.**
 
 Crear experiencias digitales de salud realmente valiosas para el paciente respiratorio.
 
 ## **¿Cómo empezar a entender al paciente respiratorio digital?**
 
-**Déjanos tu email y te enviamos gratis el informe de comportamiento digital del paciente respiratorio de este mes.** 
+**Cerramos una reunión y te enviamos gratis el informe de comportamiento digital del paciente respiratorio de este mes.** 
 
-Más de 10.000 profesionales de la salud respiratoria ya lo reciben de forma mensual.
+Más de 1.000 profesionales de la salud respiratoria ya lo reciben de forma mensual.
 
 Si crees que necesitas más información en el informe, dínoslo y lo mejoramos. Garantía de mejora.
 
