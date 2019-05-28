@@ -113,7 +113,7 @@ Estos son algunos de los casos de uso que ya hemos desarrollado con otros client
 
 **6. Haz que el mismo paciente haga de visitador médico** con su informe de salud respiratoria. (Zensei App, en fase de validación médica)
 
-Gracias a que somos expertos en datos, producto digital, epidemiología digital y en la psicología y comportamiento digital podemos responder este tipo de preguntas. Que antes no era posible responder.
+Gracias a que somos expertos en datos, producto digital, epidemiología digital, intervenciones comportacionales y en la psicología y comportamiento digital podemos responder este tipo de preguntas. Que antes no eran posible responder.
 
 Bien.
 
@@ -179,7 +179,7 @@ También podemos hacer una sesión con tu equipo para contarte de que va la epid
 
 Philips, Savia by Mapfre, AXA Asistencia, PubliEspaña y farmaceúticas ya confían en nosotros para ayudarles.
 
-Han confiado en nosotros porque somos humildes, honestos y sabemos hacer las cosas de forma seria y profesional. 
+Han confiado en nosotros porque somos humildes, honestos y sabemos hacer las cosas de forma seria y profesional. Además, venimos con experiencia de haber trabajado en Doctor24 (primera plataforma de videoconsulta de España) y en Sanitas, liderando el desarrollo de productos de salud digital.
 
 También tenemos relación directa con el entorno académico, donde colaboramos con el Human Dynamics Lab de MIT Media Lab, Onnela Lab de la Harvard Public Health School y centro de estudio de sistemas técnico y biológicos de la Northeastern University.
 
@@ -189,7 +189,7 @@ Bien.
 
 Adaptamos nuestros productos y servicios de salud digital respiratoria a tus necesidades de negocio. 
 
-En base a nuestra experiencia, te podemos ayudar a cuidar al paciente, mejorar su calidad de vida y ayudar a compañías, como la vuestra, que proveen de soluciones, productos y medicamentos para el paciente respiratorio.
+En base a nuestra experiencia, te podemos ayudar a cuidar del paciente, mejorar su calidad de vida y ayudar a compañías, como la vuestra, que proveen de soluciones, productos y medicamentos para el paciente respiratorio.
 
 Toma ventaja de cara a tus competidores en tus iniciativas de transformación digital con nuestras soluciones digitales de salud respiratoria. Que te permitirán:
 
