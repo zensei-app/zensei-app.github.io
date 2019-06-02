@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: 10 curiosidades sobre el polen
+title: "\U0001F33C10 curiosidades sobre el polen"
 date: 2019-05-30 22:00:00 +0000
 last_modified_at: 2019-05-30 22:00:00 +0000
 author: Ana
