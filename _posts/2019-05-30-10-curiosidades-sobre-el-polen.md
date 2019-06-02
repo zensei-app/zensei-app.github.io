@@ -6,11 +6,11 @@ date: 2019-05-30 22:00:00 +0000
 last_modified_at: 2019-05-30 22:00:00 +0000
 author: Ana
 image: ''
-description: El polen posee increíbles propiedades beneficiosas para la salud. Sin
-  embargo, los afectados por la alergia no son precisamente unos privilegiados por
-  el polen y sus beneficios.
-intro: Las 10 curiosidades sobre el **polen** que estás a punto de descubrir te harán
-  verlo de otra manera. Sácale el máximo partido aunque seas **alérgico**.
+description: Te contamos 10 curiosidades sobre el polen. Aunque resulte una pesadilla
+  para millones de alérgicos es curioso que, incluso, sea considerado un superalimento.
+intro: Esas partículas molestas y que complican la vida cotidiana de millones de personas
+  son, a la vez, elementales para la continuidad de la naturaleza. Aprende **10 curiosidades
+  sobre el polen**.
 
 ---
 ![](/uploads/Polen.jpg)
@@ -51,7 +51,7 @@ El polen se transporta de innumerables maneras. Las plantas tienen diversas form
 
 **7. El papel de los animales en la polinización**
 
-Emplear animales para mover el polen es una estrategia muy común. La entomofilia, polinización por insectos, es la más habitual. Pero también existe la ornitofilia (polinización por aves) y la quiropirofilia (polinización por murciélagos). Las plantas que dependen de los animales para la polinización generalmente producen granos de polen que son pegajosos y nutritivos. Atraen animales usando flores llamativas, fragancias y néctar. Los cuerpos de los insectos polinizadores tienen modificaciones que les permiten recolectar y transportar el polen. Ciertas especies, como las abejas y abejorros, tienen canastas de polen en sus patas traseras, mientras que otras poseen pelos llamados scopae en ciertas partes de sus cuerpos.
+Emplear animales para mover el polen es una estrategia muy común. La entomofilia, [polinización](http://www.sinomarin.es/documents/1410466/1497307/calendario_polinizacion.pdf/c737b22c-e0e2-4fbc-be52-4e5fd6267fa9 "polinización") por insectos, es la más habitual. Pero también existe la ornitofilia (polinización por aves) y la quiropirofilia (polinización por murciélagos). Las plantas que dependen de los animales para la polinización generalmente producen granos de polen que son pegajosos y nutritivos. Atraen animales usando flores llamativas, fragancias y néctar. Los cuerpos de los insectos polinizadores tienen modificaciones que les permiten recolectar y transportar el polen. Ciertas especies, como las abejas y abejorros, tienen canastas de polen en sus patas traseras, mientras que otras poseen pelos llamados scopae en ciertas partes de sus cuerpos.
 
 **8. El polen es comestible**
 
@@ -69,7 +69,7 @@ La mayoría de la gente considera que el polen es esa niebla amarilla y pegajosa
 
 · **La coloración del polen**. Aunque asociamos el polen con el color amarillo, el polen puede venir en muchos colores brillantes, incluidos el rojo, el púrpura, el blanco y el marrón. Algunos insecto polinizadores, como las abejas, no pueden ver el rojo, por eso las plantas producen polen amarillo o azul para atraerlos. Es por esto por lo que la mayoría de las plantas tienen polen amarillo, pero hay algunas excepciones. Por ejemplo, las aves y las mariposas se sienten atraídas por los colores rojos, por lo que algunas plantas producen polen rojo para atraer a estos organismos.
 
-· **Algunas alergias son causadas por una hipersensibilidad al polen**. El polen es un alérgeno y el culpable de algunas reacciones alérgicas. Los granos de polen microscópicos que transportan un cierto tipo de proteína son generalmente la causa de reacciones alérgicas. Aunque inofensivo para los humanos, algunas personas tienen una reacción de hipersensibilidad a este tipo de polen. Las células del sistema inmune llamadas células B producen anticuerpos que reaccionan frente a estas partículas. Esta sobreproducción de anticuerpos conduce a la activación de otros glóbulos blancos, como los basófilos y los mastocitos. Estas células producen histamina, que dilata los vasos sanguíneos y produce síntomas de alergia, como congestión nasal e hinchazón alrededor de los ojos.
+· **Algunas alergias son causadas por una hipersensibilidad al polen**. El polen es un alérgeno y el culpable de algunas [reacciones alérgicas](https://zenseiapp.com/blog/tengo-alergia-al-polen-que-puedo-hacer/ "Alergia al polen"). Los granos de polen microscópicos que transportan un cierto tipo de proteína son generalmente la causa de reacciones alérgicas. Aunque inofensivo para los humanos, algunas personas tienen una reacción de hipersensibilidad a este tipo de polen. Las células del sistema inmune llamadas células B producen anticuerpos que reaccionan frente a estas partículas. Esta sobreproducción de anticuerpos conduce a la activación de otros glóbulos blancos, como los basófilos y los mastocitos. Estas células producen histamina, que dilata los vasos sanguíneos y produce síntomas de alergia, como congestión nasal e hinchazón alrededor de los ojos.
 
 · **No todos los tipos de polen provocan alergias.** Dado que las plantas con flores producen mucho polen, parece que todas estas especies causan reacciones alérgicas. Sin embargo, debido a que la mayoría de las plantas que florecen lo hacen a través de la polinización de insectos y no a través del viento, las plantas con flores no suelen ser la causa de las reacciones alérgicas. Sin embargo, las plantas que transfieren el polen al liberarlo en el aire, como la ambrosía, los robles, los olmos, los arces y los pastos, son los responsables de desencadenar reacciones alérgicas.
 
