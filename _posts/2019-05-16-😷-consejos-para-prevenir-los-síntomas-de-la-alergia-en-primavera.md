@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F63712 Consejos para prevenir los síntomas de la rinitis alérgica"
-date: 2019-05-16 22:00:00 +0000
-last_modified_at: 2019-05-16 22:00:00 +0000
+date: 2019-05-16T22:00:00.000+00:00
+last_modified_at: 2019-05-16T22:00:00.000+00:00
 author: Ana
 image: "/uploads/alergia polen.jpg"
 description: La alergia en primavera provoca síntomas a millones de personas cada
@@ -13,7 +13,7 @@ intro: Estamos en plena primavera y miles de personas padecen los **síntomas de
   para controlarlos.
 
 ---
-![](/uploads/Alergia primavera síntomas.jpg)España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la rinitis alérgica primaveral o alergia al polen.**
+España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la rinitis alérgica primaveral o alergia al polen.**
 
 Si eres uno de esos millones de alérgicos españoles, te daremos algunos _tips_ muy interesantes para poder mantener un mayor control sobre la enfermedad. Pero también te recomendamos **que te descargues la** [**app de Zensei**](https://zenseiapp.com/blog/zensei-app-enfermedades-respiratorias/).
 
@@ -47,7 +47,7 @@ El hecho es tan preocupante que, según datos de la Organización Mundial de la 
 
 Resulta muy importante para el paciente poder obtener información, en tiempo real, sobre los índices de polución de su ciudad o las condiciones atmosférica. Estos datos pueden servirle de ayuda para llevar un control sobre su salud respiratoria y como sistema de prevención.
 
-![](/uploads/alergia polen.jpg)
+![](/uploads/Alergia primavera síntomas.jpg)
 
 ## ¿Se pueden prevenir los síntomas de la alergia en primavera?
 
