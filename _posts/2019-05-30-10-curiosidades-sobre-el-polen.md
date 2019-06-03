@@ -5,7 +5,7 @@ title: "\U0001F33C10 curiosidades sobre el polen"
 date: 2019-05-30 22:00:00 +0000
 last_modified_at: 2019-05-30 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Polen.jpg"
 description: Te contamos 10 curiosidades sobre el polen. Aunque resulte una pesadilla
   para millones de alérgicos es curioso que, incluso, sea considerado un superalimento.
 intro: Esas partículas molestas y que complican la vida cotidiana de millones de personas
@@ -13,8 +13,6 @@ intro: Esas partículas molestas y que complican la vida cotidiana de millones d
   sobre el polen**.
 
 ---
-![](/uploads/Polen.jpg)
-
 Resulta increíble que uno de los superalimentos más considerados pueda, a la vez, resultar una pesadilla para millones de alérgicos. El polen posee increíbles propiedades beneficiosas para la salud. Sin embargo, los afectados por la alergia no son precisamente unos privilegiados por el polen y sus beneficios. Aún así, veamos 10 curiosidades sobre el polen que, por lo menos, te permitirán verlo desde otra perspectiva.
 
 ## El Top Ten más peculiar sobre el polen
