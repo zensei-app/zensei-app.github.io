@@ -33,7 +33,7 @@ Esto nos permite responder a las principales preguntas de un paciente respirator
 
 Si quieres saber cuales son esas preguntas sigue leyedo.
 
-## **¿Qué preguntas responde Zensei al al paciente respiratorio?**
+## **¿Qué preguntas responde Zensei al paciente respiratorio?**
 
 En base a nuestro contacto directo con miles de paciente respiratorios a diario, hemos identificado tres preguntas donde podemos ayudarles de forma diaria.
 
