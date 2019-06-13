@@ -1,16 +1,19 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/2018/08/01/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/'
-title:  "🤢 Causas de la falta de aire y cómo evitarlas de forma sencilla"
-date:   2018-08-01 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+redirect_from: "/blog/2018/08/01/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
+title: "\U0001F922 Si sientes que te falta de aire y tienes que respirar profundo
+  (esto es lo que hacen los médicos para evitarlo)"
+date: 2018-08-01T08:00:00.000+00:00
+last_modified_at: 2019-01-27T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 categories: respirar, diario, síntomas, respiratorios
-image: /img/photo-1531615018523-12556603349f.jpeg
-description: Si sientes dificultad para respirar profundamente, hondo, por la nariz o sientes sensación de falta de aire o te cuesta respirar simplemente, solo las personas que lo han padecido saben lo que significa...
----
+image: "/img/photo-1531615018523-12556603349f.jpeg"
+description: Conoce las causas por las que te falta el aire y por qué tienes que respirar
+  profundo. Te contamos en este artículo como consiguem evitar la falta de aire los
+  médicos.
 
+---
 Si sientes [dificultad para respirar](https://medlineplus.gov/spanish/ency/article/003075.htm) profundamente, hondo, por la nariz o sientes sensación de [falta de aire](https://www.tuasaude.com/es/falta-de-aire/) o te cuesta respirar simplemente, solo las personas que lo han padecido saben lo que significa.
 
 Esta sensación puede ser debida a múltiples desencadenantes como la contaminación, virus respiratorios, niveles de polen, cambios de temperatura, ansiedad o estrés, actividad física, ácaros, pelos de animales u otros alérgenos.
@@ -52,4 +55,3 @@ Zensei tal vez sea una de las apps más innovadoras y prácticas en el ámbito d
 <br>
 
 **[📱Tu decides si quieres cuidar tu salud respiratoria, la app de Zensei te lo pone fácil](https://zenseiapp.com)**.
-
