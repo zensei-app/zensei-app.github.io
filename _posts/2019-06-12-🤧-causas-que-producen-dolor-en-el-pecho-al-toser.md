@@ -5,7 +5,7 @@ title: "\U0001F927 Causas que producen dolor en el pecho al toser"
 date: 2019-06-12 22:00:00 +0000
 last_modified_at: 2019-06-12 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Dolor en el pecho al toser.jpg"
 description: Sentir dolor en el pecho al toser no tiene por qué ir asociado a una
   dolencia grave. Pero si la situación persiste se debe consultar al médico urgentemente.
 intro: Existen muchas causas que pueden provocar **dolor en el pecho al toser**. De
