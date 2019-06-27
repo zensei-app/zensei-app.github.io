@@ -13,6 +13,8 @@ intro: El **síndrome de dificultad respiratoria** es ocasionado por una falta d
   todo en neonatos prematuros.
 
 ---
+![](/uploads/insuficiencia respiratoria neonatal.jpg)
+
 La insuficiencia respiratoria en niños recién nacidos es conocida como **Síndrome de Dificultad Respiratoria (SDR) neonatal**. La afección, que consigue dificultar la capacidad para respirar, suele afectar con mayor virulencia a los bebés que nacen antes de tiempo.
 
 Este problema también es conocido como [**Síndrome de Distrés Respiratorio**](https://www.msdmanuals.com/es-es/hogar/salud-infantil/problemas-en-el-reci%C3%A9n-nacido/s%C3%ADndrome-de-dificultad-respiratoria-s%C3%ADndrome-de-distr%C3%A9s-respiratorio) **o enfermedad de la membrana hialina**. En cualquier caso, en la mayoría de las ocasiones afecta a los bebés **prematuros que nacen antes de la semana 39**. Resulta muy infrecuente que se presente en neonatos de embarazos llegados a término.
@@ -74,6 +76,8 @@ Cuando el líquido tarda en absorberse el pequeño no inspirará la cantidad de 
 **Los síntomas de la TTN pueden confundirse con los de otras afecciones**, como el distrés respiratorio neonatal o síndrome de insuficiencia respiratoria neonatal. Como en estos casos, el bebé puede presentar un cuadro de frecuencia respiratoria muy acelerada, sonidos al respirar, aleteo de las fosas nasales y retracciones torácicas.
 
 Es importante contar con la **valoración médica cuanto antes** para descartar problemas más serios para la salud del recién nacido.
+
+![](/uploads/insuficiencia respiratoria neonatal1.jpg)
 
 ## Pruebas y exámenes para detectar el SDR neonatal
 
