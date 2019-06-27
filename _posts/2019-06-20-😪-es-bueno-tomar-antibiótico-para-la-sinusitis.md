@@ -5,7 +5,7 @@ title: "\U0001F62A ¿Es bueno tomar antibiótico para la sinusitis?"
 date: 2019-06-20 22:00:00 +0000
 last_modified_at: 2019-06-20 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Sinusitis.jpg"
 description: No siempre es preciso tomar antibiótico para la sinusitis. Aquí tienes
   toda la información sobre la enfermedad.
 intro: La **sinusitis** puede estar causada por muchos y diversos factores y no todos
@@ -132,7 +132,7 @@ Por otro lado, en el caso de la [sinusitis en niños](https://www.analesdepediat
 
 Es preciso que, ante los primeros síntomas, el pediatra valore las opciones y alternativas para ayudar a los más pequeños. En muchos pacientes infantiles, el tratamiento pasa por tomar antibiótico para la sinusitis.
 
-![](/uploads/Sinusitis emoticono.png)
+![](/uploads/sinusitis.jpg)
 
 ### Acciones preventivas contra la sinusitis
 
