@@ -1,17 +1,20 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/2018/07/02/que-es-una-bronquitis/'
-title:  "🤒👾 Qué es la bronquitis, cómo evitarla y descubre si se contagia por besos"
-date:   2018-07-02 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+redirect_from: "/blog/2018/07/02/que-es-una-bronquitis/"
+title: "\U0001F912\U0001F47E Qué es la bronquitis, descubre si es contagiosa  y cómo
+  evitarla"
+date: 2018-07-02T08:00:00.000+00:00
+last_modified_at: 2019-01-27T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 categories: alergia cruazda
-image: /img/bronquitis-aguda.jpg
-description: La bronquitis es una inflamación aguda de los bronquios. Suele aparecer después de haber padecido un resfriado o una gripe. Por lo general...
-intro: La bronquitis normalmente se suele confundir con una neumonía y es una inflamación del arbol bronquial, suele ser debido a un catarro mal curado.
----
+image: "/img/bronquitis-aguda.jpg"
+description: La bronquitis es una inflamación aguda de los bronquios. Suele aparecer
+  después de haber padecido un resfriado o una gripe. Por lo general...
+intro: La bronquitis normalmente se suele confundir con una neumonía y es una inflamación
+  del arbol bronquial, suele ser debido a un catarro mal curado.
 
+---
 ## **¿Qué es una bronquitis?**
 
 La [bronquitis](https://es.wikipedia.org/wiki/Bronquitis) es una inflamación aguda de los bronquios. Suele aparecer después de haber padecido un resfriado o una gripe. 
