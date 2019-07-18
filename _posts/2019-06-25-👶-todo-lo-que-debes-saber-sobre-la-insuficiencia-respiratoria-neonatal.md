@@ -2,10 +2,10 @@
 layout: post
 toc: true
 title: "\U0001F476 Todo lo que debes saber sobre la insuficiencia respiratoria neonatal"
-date: 2019-06-25 22:00:00 +0000
-last_modified_at: 2019-06-25 22:00:00 +0000
+date: 2019-06-25T22:00:00.000+00:00
+last_modified_at: 2019-06-25T22:00:00.000+00:00
 author: Ana
-image: ''
+image: "/uploads/insuficiencia respiratoria neonatal.jpg"
 description: La insuficiencia respiratoria neonatal provoca la opresión de los alveolos,
   dificultando el funcionamiento de los pulmones.
 intro: El **síndrome de dificultad respiratoria** es ocasionado por una falta de surfactante
