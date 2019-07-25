@@ -7,10 +7,10 @@ last_modified_at: 2019-07-18 22:00:00 +0000
 author: Ana
 image: "/uploads/bronquiolitis.jpg"
 description: La bronquiolitis afecta principalmente a niños menores de tres años.
-  Aprende qué la provoca y cómo actuar.
+  Aprende cuáles son sus causas, síntomas y cómo actuar.
 intro: La **bronquiolitis** es una infección de los bronquiolos que suele darse en
   niños menores de tres años. Analizamos todo lo que necesitas saber acerca de esta
-  enfermedad con poca incidencia entre los adultos.
+  enfermedad (causas, síntomas y tratatamiento) con poca incidencia entre los adultos.
 
 ---
 ![](/uploads/bronquiolitis.jpg)
