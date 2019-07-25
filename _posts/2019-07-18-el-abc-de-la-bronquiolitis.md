@@ -1,11 +1,11 @@
 ---
 layout: post
 toc: true
-title: "\U0001F637 El ABC de la bronquiolitis"
+title: "\U0001F637 Bronquiolitis (Causas, síntomas y tratamiento)"
 date: 2019-07-18 22:00:00 +0000
 last_modified_at: 2019-07-18 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/bronquiolitis.jpg"
 description: La bronquiolitis afecta principalmente a niños menores de tres años.
   Aprende qué la provoca y cómo actuar.
 intro: La **bronquiolitis** es una infección de los bronquiolos que suele darse en
