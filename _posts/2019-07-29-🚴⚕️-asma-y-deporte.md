@@ -13,6 +13,7 @@ intro: La actividad física es fundamental para la buena calidad de vida de las 
   y dónde hacerlo. **Asma y deporte** pueden compaginarse con cierta facilidad.
 
 ---
+![](/uploads/Asma y deporte.jpg)
 
 La actividad física es recomendable para todas las personas, independientemente de su edad. La razón es que practicar ejercicio de forma regular reporta numerosos beneficios para el ser humano. Sin embargo, es importante tener en cuenta ciertos factores para que puedas sacar partido a tu rutina física sin padecer ninguna contraindicación. En este caso, **¿son compatibles asma y deporte?**
 
