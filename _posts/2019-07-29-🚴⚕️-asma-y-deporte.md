@@ -5,7 +5,7 @@ title: "\U0001F6B4⚕️ Asma y deporte"
 date: 2019-07-29 22:00:00 +0000
 last_modified_at: 2019-07-29 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Asma y deporte.jpg"
 description: Asma y deporte no deberían ser antagónicos. Elige bien tu deporte y mantén
   tus controles médicos.
 intro: La actividad física es fundamental para la buena calidad de vida de las personas.
