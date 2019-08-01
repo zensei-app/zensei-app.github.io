@@ -6,8 +6,9 @@ date: 2019-07-17 22:00:00 +0000
 last_modified_at: 2019-07-17 22:00:00 +0000
 author: Ana
 image: "/uploads/Contaminación atmosférica 2.jpg"
-description: Los efectos de la contaminación atmosférica sobre la salud son cada vez
-  más preocupantes. Unas 30.000 personas mueren al año en España por esta causa.
+description: Los efectos de la contaminación atmosférica sobre la salud respiratoria
+  son cada vez más preocupantes. Unas 30.000 personas mueren al año en España por
+  esta causa.
 intro: La OMS calcula que 1,3 millones de personas mueren al año por los efectos de
   la **contaminación atmosférica**. Se precisan acciones desde organismos e instituciones
   que se enfoquen a proporcionar una mayor calidad del aire.
