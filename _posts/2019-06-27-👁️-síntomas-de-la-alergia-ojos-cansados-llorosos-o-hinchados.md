@@ -1,11 +1,11 @@
 ---
 layout: post
 toc: true
-title: "\U0001F441️ Síntomas de la alergia: ojos cansados, llorosos o hinchados"
-date: 2019-06-27 22:00:00 +0000
-last_modified_at: 2019-06-27 22:00:00 +0000
+title: "\U0001F441️ Síntomas de la alergia en los ojos (causas y tratamiento)"
+date: 2019-06-27T22:00:00.000+00:00
+last_modified_at: 2019-06-27T22:00:00.000+00:00
 author: Ana
-image: ''
+image: "/uploads/alergia ocular.jpg"
 description: "¿Ojos cansados, llorosos o hinchados? Consulta a tu médico por si se
   trata de una alergia ocular."
 intro: "¿Tienes una **alergia ocular**? Consulta a tu médico. Este tipo de alergia
@@ -28,6 +28,26 @@ Más allá de ser molesto, **las alergias oculares pueden ser incapacitantes**. 
 Sin embargo, más allá de las actividades, las manifestaciones pueden convertirse en un **factor importante de la calidad de vida.** Para las personas alérgicas, los ojos rojos y los párpados hinchados pueden ser molestos porque dan la apariencia de fatiga o quizás incluso de enfermedades o abuso de sustancias.
 
 Las personas que sufren de ojo seco suelen sentirse "ojos cansados" Sus síntomas los afectan más en el trabajo con computadora, leer o mirar televisión.
+
+## ¿Cuáles son los principales síntomas?
+
+Los principales síntomas y signos de la alergia en los ojos son:
+
+* Dolor de ojos por la alergia.
+* Picor en los ojos.
+* Lagrimeo.
+* Ardor.
+* Enrojecimiento ocular.
+* Párpados inflamados y enrojecidos.
+* Legaña de color blanquecina y no abundante.
+* Visión borrosa.
+* Fotofobia: sensibilidad a la luz.
+
+A veces, una alergia ocular va acompañada de una rinitis alérgica con los siguientes síntomas:
+
+* Congestión nasal.
+* Estornudos.
+* Comezón en la nariz.
 
 ### Frecuencia de la alergia en los ojos
 
@@ -92,5 +112,14 @@ La reacción aguda puede causar una inflamación rápida y una "deflación" grad
 Muchas personas también tienen picazón y secreción nasal. Algunos médicos pueden tomar una muestra de las lágrimas de tus ojos para un análisis de laboratorio que ayude a identificar qué está causando que tus ojos tengan una respuesta alérgica.
 
 Es importante que el médico determine que efectivamente está teniendo una reacción alérgica. Otros problemas oculares pueden causar síntomas similares, **como conjuntivitis viral o bacteriana, ojos secos o una condición llamada blefaritis**, que ocurre cuando las glándulas sebáceas pequeñas ubicadas cerca de la base de las pestañas no funcionan correctamente. Si no respondes al tratamiento, debes ser tratado por un especialista, como un alergólogo, inmunólogo o un oftalmólogo.
+
+## Remedios para evitar la alergia en los ojos
+
+Los agentes de entorno y hábitos pueden provocar que tengas los síntomas que hemos visto. Para prevenirlos es recomendable :
+
+* Medidas de higiene del hogar, preferiblemente usando el aspirador, utilizar colchones de material sintético, evitar animales de compañía.
+* Es fundamental evitar frotarse los ojos, ya que podemos dañarlos y aumentar la duración de la sintomatología.
+* El uso de gafas permite evitar que partículas de polvo o polen entre en tus ojos.
+* Lávalos con suero para limpiar partículas que pudieras estar en contacto con el ojo.
 
 ¿Crees que podrías estar padeciendo una alergia ocular? ¿Sientes los ojos cansados, llorosos o hinchados? Consulta cuanto antes a tu médico y entra en [nuestro blog](https://zenseiapp.com/blog/) para encontrar más información sobre las alergias.
