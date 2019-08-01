@@ -1,15 +1,16 @@
 ---
 layout: post
 toc: true
-title: "\U0001F32C️ Aire acondicionado y efectos sobre la salud"
+title: "\U0001F32C️ Cómo afecta el Aire acondicionado a la salud"
 date: 2019-07-30 22:00:00 +0000
 last_modified_at: 2019-07-30 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Aire acondicionado.jpg"
 description: Aprende a utilizar el aire acondicionado sin correr riesgos que afecten
-  a tu salud.
+  a tu salud respiratoria.
 intro: El **aire acondicionado** garantiza nuestra comodidad y es una parte integral
-  de nuestra forma de vida actual. Sin embargo, **¿cuáles son sus efectos en la salud?**
+  de nuestra forma de vida actual. Sin embargo, **¿cuáles son sus efectos en la salud
+  respiratoria?**
 
 ---
 ![](/uploads/Aire acondicionado.jpg)
