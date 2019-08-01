@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "☁️\U0001F32B️ Efectos de la contaminación atmosférica sobre la salud"
+title: "☁️\U0001F32B️ Efectos de la contaminación atmosférica sobre la salud respiratoria"
 date: 2019-07-17 22:00:00 +0000
 last_modified_at: 2019-07-17 22:00:00 +0000
 author: Ana
