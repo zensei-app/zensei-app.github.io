@@ -2,8 +2,7 @@
 layout: post
 toc: true
 redirect_from: "/blog/2018/07/02/que-es-una-bronquitis/"
-title: "\U0001F912\U0001F47E Qué es la bronquitis, descubre si es contagiosa  y cómo
-  evitarla"
+title: "\U0001F912\U0001F47E Bronquitis ¿Es contagiosa? (Causas y prevención)"
 date: 2018-07-02T08:00:00.000+00:00
 last_modified_at: 2019-01-27T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
