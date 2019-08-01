@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F3E5Enfisema pulmonar y EPOC tratamiento"
-date: 2019-07-04 22:00:00 +0000
-last_modified_at: 2019-07-04 22:00:00 +0000
+title: "\U0001F3E5Enfisema pulmonar y EPOC (Causas y tratamiento)"
+date: 2019-07-04T22:00:00.000+00:00
+last_modified_at: 2019-07-04T22:00:00.000+00:00
 author: Ana
 image: ''
 description: 'En este artículo descubrirás todo lo que necesitas saber sobre el EPOC
