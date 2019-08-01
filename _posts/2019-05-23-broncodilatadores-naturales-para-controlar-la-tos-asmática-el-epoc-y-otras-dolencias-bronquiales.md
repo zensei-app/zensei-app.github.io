@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-title: "\U0001F927 Broncodilatadores naturales para controlar la tos asmática, el
-  EPOC y otras dolencias bronquiales"
+title: "\U0001F927 Broncodilatadores naturales para el asma, el EPOC y otras dolencias
+  bronquiales"
 date: 2019-05-23T22:00:00.000+00:00
 last_modified_at: 2019-05-25T22:00:00.000+00:00
 author: Ana
