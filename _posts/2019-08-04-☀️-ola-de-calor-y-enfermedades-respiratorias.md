@@ -110,7 +110,7 @@ Existe un alto riesgo de agotamiento por calor o insolación durante las olas de
 
 Para ayudar a prevenir el agotamiento por calor o el golpe de calor:
 
-· beba muchas bebidas frías, especialmente cuando hace ejercicio
+· beber muchas bebidas frías, especialmente cuando hace ejercicio
 
 · tomar baños fríos o duchas
 
