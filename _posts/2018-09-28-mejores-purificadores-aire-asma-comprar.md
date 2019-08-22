@@ -23,7 +23,7 @@ Como son pólenes, polvo, ácaros, esporas de moho, pelos de mascotas, compuesto
 
 Y son beneficiosos para personas personas con asma, alergia al polen, dermatitis atópica, sensibilidad química múltiple, encefalopatía miálgica, problemas cardiovasculares, etc. 
 
-[Así podrás respirar aire más limpio aunque vivas al lado de una autovía.](/blog/2018/06/18/como-evitar-respirar-aire-contaminado/)
+[Así podrás respirar aire más limpio aunque vivas al lado de una autovía.](/blog/como-evitar-respirar-aire-contaminado/)
 
 ## **¿Técnicas de purificación del aire?**
 
@@ -338,7 +338,7 @@ Ahora, te toca a ti cuidar de tu entorno para que evites los desagradables sínt
 Y si sueles tener síntomas cuando sales a la calle, a lo mejor necesitas una mascarilla antipolución.
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
 

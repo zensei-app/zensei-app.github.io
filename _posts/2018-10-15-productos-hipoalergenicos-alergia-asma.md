@@ -157,7 +157,7 @@ Un purificador de aire te permitirá todas las partículas en suspensión como p
 Si tienes dificultades por la noche para respirar, un purificador de aire te permitirá volver a descansar.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ## **Consejos para tener una casa hipoalergénica**
@@ -212,7 +212,7 @@ Y **sabánas 100% algodón transpirable**.
 
 La higiene diaria es vital para las personas con asma alérgica.
 
-Tener un hogar limpio de alérgenos es la primera línea de defensa a estornudos, ojos llorosos, [pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), ataques de asma y [noches sin domir por no poder respirar](/blog/2018/07/31/por-qué-no-puedo-respirar-cuando-duermo/).
+Tener un hogar limpio de alérgenos es la primera línea de defensa a estornudos, ojos llorosos, [pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), ataques de asma y [noches sin domir por no poder respirar](/blog/por-qué-no-puedo-respirar-cuando-duermo/).
 
 No sabemos si ya tienes tu hábito de limpieza.
 
