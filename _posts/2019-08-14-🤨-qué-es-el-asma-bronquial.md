@@ -5,7 +5,7 @@ title: "\U0001F928 Qué es el asma bronquial"
 date: 2019-08-14 22:00:00 +0000
 last_modified_at: 2019-08-14 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Inhalador.jpeg"
 description: El asma bronquial es una enfermedad que provoca la inflamación de las
   vías respiratorias. ¿Sabes cómo hacerle frente?
 intro: La vida de un asmático no tiene por qué detenerse. Lo más importante es tener
