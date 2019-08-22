@@ -1,11 +1,12 @@
 ---
 layout: post
-redirect_from: '/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/'
+redirect_from: '/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/'
 toc: true
-title: "\U0001F47E\U0001F912 Epidemia de Gripe en España 2018-2019 (Síntomas,
+title: "\U0001F47E\U0001F912 Epidemia de Gripe en España 2019-2020 (Síntomas,
   tratamiento, vacunación, prevención y predicción)"
 date: 2018-10-19 08:00:00 +0000
-last_modified_at: 2019-01-28 09:00:00 +0000
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Gripe
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
 description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La
@@ -19,7 +20,7 @@ intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br
   su incidencia ahora en tiempo real.<br><br>En resumen: si quieres evitar o tienes
   la gripe, te encantará esta guía. Si te preocupa la gripe y sobre todo, quieres
   prevenirla, al final del artículo tendrás un regalo que te será realmente útil...'
-
+tags: gripe síntomas tratamiento remedios
 ---
 <br>
 ![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }

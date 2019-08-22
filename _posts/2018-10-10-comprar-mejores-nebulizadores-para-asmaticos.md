@@ -1,15 +1,17 @@
 ---
 layout: post
-redirect_from: '/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/'
+redirect_from: '/blog/comprar-mejores-nebulizadores-para-asmaticos/'
 toc: true
 title:  "🥇 Elige el mejor nebulizador para asmáticos (y ahórrate las idas al hospital de madrugada)"
 date:   2018-10-10 10:00:00 +0200
-last_modified_at:   2019-01-19 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Asma
 author: David
 categories: nebulizadores para asma
 image: /img/photo-1537035448858-6d703dbc320f.jpeg
 description: ¿Quieres comprar un nebulizador, pero no sabes bien cual comprar? Aquí vas a aprender en que te tienes que fijar para elegir uno. Y cual es el mejor nebulizador para niños o adultos con asma.
 intro: "¿Quieres comprar un nebulizador, pero no sabes bien cual comprar?<br><br>Hoy vas a aprender en que te tienes que fijar para elegir uno.<br><br>Y cual es el mejor nebulizador para niños o adultos.<br><br>Un nebulizador es vital para enfermos con asma.<br><br>Mira.<br><br>Yo tengo uno y me ha ahorrado muchas noche en vela.<br><br>Y si estás leyendo seguro que sabes de lo que hablo.<br><br>Seguro que tu médico te ha dicho que compres uno.<br><br>Pero te vamos ayudar a la hora de comprar uno, así de fácil.<br><br>Empezamos."
+tags: productos asma alergia rinitis casa
 ---
 
 ## **¿Quieres respirar mejor por las noches?**

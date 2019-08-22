@@ -1,14 +1,16 @@
 ---
 layout: post
-redirect_from: '/blog/2018/10/15/productos-hipoalergenicos-alergia-asma/'
+redirect_from: '/blog/productos-hipoalergenicos-alergia-asma/'
 toc: true
 title:  "✨ Lista de productos hipoalergénicos para alérgicos y asmáticos (consigue una casa hipoalergénica)"
 date:   2018-10-15 10:00:00 +0200
-last_modified_at: 2019-01-19 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Alergia
 author: David
 image: /img/photo-1506664453913-f326aa81f54d.jpeg
 description: Si quieres ver una lista de productos hipoalergénicos en un solo lugar, entonces te encantará esta guía (actualizada). Si el médico te los ha recomendado. Aquí podrás saber cuales necesitas.
 intro: "Si quieres ver una lista de **productos hipoalergénicos** en un solo lugar, entonces te encantará esta guía (actualizada).<br><br>Seguro que el médico te ha recomendado que utilices productos hipoalergénicos.<br><br>Bien.<br><br>Aquí puedes saber que es todo lo que necesitas.<br><br>Puedes filtrar a través de la lista para encontrar el mejor producto hipoalergénico para ti y tu familia."
+tags: productos asma alergia rinitis casa
 ---
 
 ## **Qué significa hipoalergénico**

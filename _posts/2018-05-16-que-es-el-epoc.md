@@ -1,14 +1,15 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/2018/10/19/que-es-el-epoc/'
+redirect_from: '/blog/que-es-el-epoc/'
 title:  "😷 Qué es el EPOC (y entiendelo de forma fácil)"
 date:   2018-10-19 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
-categories: epoc, vías respiratorias, enfermedad pulmonar
+category: Epoc
 image: /img/tosfumador.jpg
 description: EPOC es el acrónimo del nombre de la Enfermedad Pulmonar Obstructiva Crónica. Es una patología pulmonar de alto índice de gravedad que, con el paso de los años, va mermando la capacidad del enfermo de coger aire,...
+tags: epoc causas
 ---
 
 [EPOC](https://es.wikipedia.org/wiki/Enfermedad_pulmonar_obstructiva_cr%C3%B3nica) es el acrónimo del nombre de la **[Enfermedad Pulmonar Obstructiva Crónica](https://medlineplus.gov/spanish/ency/article/000091.htm)**. Es una patología pulmonar de alto índice de gravedad que, con el paso de los años, va mermando la capacidad del enfermo de coger aire, dificultándole muchísimo la respiración.

@@ -1,13 +1,14 @@
 ---
 layout: post
-redirect_from: '/blog/2018/05/03/tabaco-causa-epoc/'
+redirect_from: '/blog/tabaco-causa-epoc/'
 title:  "🚬 El tabaco es la principal causa de EPOC (y ¿todavía sigues fumando?)"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 date:   2018-05-03 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: epoc, tabaco, salud ,respiratoria, app, zensei, diario, respiratoria
+category: Asma
 image: /img/cigarette-3112660_1280.jpg
 description: Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La Enfermedad Pulmonar Obstructiva Crónica o EPOC, fue la causante de...
+tags: epoc tabaco causas
 ---
 
 Los datos facilitados por la Organización Mundial de la Salud (OMS) resultan escalofriantes. La [Enfermedad Pulmonar Obstructiva Crónica o EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), fue la causante de más de **tres millones de muertes en todo el mundo**, solo durante 2015.

@@ -1,23 +1,22 @@
 <br>
 <br>
 <div class="container center padding-vertical">
-  <h2><b>A lo mejor te interesa algún artículo de nuestro blog<b></h2>
+  <h2><b>Últimos artículos en nuestro blog<b></h2>
 </div>
-<br>
 <div>
   <ul class="factors">
-  {% assign posts = site.posts | sample:3 %}
-  {% for item in posts %}
+  {% assign posts = site.posts %}
+  {% for item in posts limit:9 %}
      <li>
       <div class="card">
+        <img src="{{ item.image }}" alt="" height="200" width="100%" />
         <a href="{{ item.url }}">
-          <img src="{{ item.image }}" alt="" height="200" width="100%" />
           <div class="text-block">
-            <h1 style="position: absolute;text-align: left; bottom: 6px; padding-right: 6px; padding-left: 15px">
+            <h1 style="position: absolute; text-align: left; bottom: 6px; padding-right: 6px; padding-left: 15px">
               <b>{{ item.title }}</b>
             </h1>
-          </div>
-      </a>
+          </div> 
+        </a>
     </div>
     </li>
   {% endfor %}

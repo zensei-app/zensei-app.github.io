@@ -1,15 +1,16 @@
 ---
 layout: post
-redirect_from: '/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/'
+redirect_from: '/blog/mejores-purificadores-aire-asma-comprar/'
 toc: true
 title:  "🥇Purificadores de aire para asmáticos y alérgicos (y no te vuelvas loca al comprar uno)"
 date:   2018-09-28 10:00:00 +0200
-last_modified_at:   2019-01-19 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Alergia
 author: David
-categories: asma, purificador de aire, comprar
 image: /img/photo-1534397860164-120c97f4db0b.jpeg
 description: En este artículo te dar nuestra honesta opinión para ayudarte a elegir el mejor purificador de aire para asmáticos y alérgicos. ¿La mejor parte? Con tu nuevo purificador reducirás el número de crisis asmáticas en casa.
 intro: "En este artículo te dar nuestra honesta opinión para ayudarte a elegir el mejor purificador de aire para asmáticos y alérgicos.<br><br> ¿La mejor parte?<br><br>Con tu nuevo purificador reducirás el número de crisis asmáticas en casa.<br><br>Como bien sabes tener asma es horrible te pasas el dia tosiendo, con ahogo, con [falta de aire o pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), es una sensación algo desesperante.<br><br>Encima el médico te dice que no tiene cura.<br><br>Y te recomienda que te compres un purificador de aire.<br><br>¿Pero cúal?<br><br>No te preocupes que empezamos. <br><br>Qué seguro que estarás deseando saber cuál es el purificador de aire perfecto para cuidar del asma o de la alergia al polen."
+tags: purificador asma alergia rinitis casa
 ---
 
 ## **¿Qué es un purificador de aire?**

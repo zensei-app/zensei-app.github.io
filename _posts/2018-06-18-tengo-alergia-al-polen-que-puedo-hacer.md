@@ -1,14 +1,14 @@
 ---
 layout: post
-redirect_from: '/blog/2018/06/17/tengo-alergia-al-polen-que-puedo-hacer/'
+redirect_from: '/blog/tengo-alergia-al-polen-que-puedo-hacer/'
 title:  "🌼🌷 Qué puedo hacer para evitar los síntomas de la alergia al polen desde hoy"
 date:   2018-06-17 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 author: Zensei Team
-categories: polen, alergia, síntomas, polen
+category: Alergia
 image: /img/19389787_10213834807130019_102773456_n.jpg
 description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos...
-
+tags: alergia polen remedios síntomas
 ---
 
 Es el cuarto [ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo) que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos  🤧😷 – estarán relacionados con el cambio de estación. Si desarrollas estos mismos síntomas cada año en la misma fecha, lo más probable es que estés sufriendo de una alergia.

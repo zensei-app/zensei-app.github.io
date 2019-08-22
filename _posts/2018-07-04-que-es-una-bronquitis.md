@@ -1,18 +1,18 @@
 ---
 layout: post
 toc: true
-redirect_from: "/blog/2018/07/02/que-es-una-bronquitis/"
+redirect_from: "/blog/que-es-una-bronquitis/"
 title: "\U0001F912\U0001F47E Bronquitis ¿Es contagiosa? (Causas y prevención)"
 date: 2018-07-02T08:00:00.000+00:00
-last_modified_at: 2019-01-27T08:00:00.000+00:00
+last_modified_at: 2019-08-22 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
-categories: alergia cruazda
+category: Salud Respiratoria
 image: "/img/bronquitis-aguda.jpg"
 description: La bronquitis es una inflamación aguda de los bronquios. Suele aparecer
   después de haber padecido un resfriado o una gripe. Por lo general...
 intro: La bronquitis normalmente se suele confundir con una neumonía y es una inflamación
   del arbol bronquial, suele ser debido a un catarro mal curado.
-
+tags: bronquitis
 ---
 ## **¿Qué es una bronquitis?**
 

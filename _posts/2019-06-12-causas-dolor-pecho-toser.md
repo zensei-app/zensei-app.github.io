@@ -3,14 +3,15 @@ layout: post
 toc: true
 title: "\U0001F927 Dolor en el pecho al toser (Causas y tratamiento)"
 date: 2019-06-12T22:00:00.000+00:00
-last_modified_at: 2019-06-12T22:00:00.000+00:00
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Salud Respiratoria
 author: Ana
 image: "/uploads/Dolor en el pecho al toser.jpg"
 description: Sentir dolor en el pecho al toser no tiene por qué ir asociado a una
   dolencia grave. Pero si la situación persiste se debe consultar al médico urgentemente.
 intro: Existen muchas causas que pueden provocar **dolor en el pecho al toser**. De
   todos modos, no todas se revisten de gravedad. Te mostramos algunas causas.
-
+tags: dolor pecho tos
 ---
 ![](/uploads/Dolor en el pecho al toser.jpg)
 
@@ -22,7 +23,7 @@ El hecho de que tengas [tos](https://zenseiapp.com/blog/remedios-tos-seca-gargan
 
 El dolor en el pecho y la tos pueden desencadenarse con afecciones que afectan los pulmones, como **la bronquitis aguda y la neumonía**. De todos modos, aquí te ofrecemos una lista de dolor en el pecho al toser, para que pueda servirte como guía para identificar algunas causas.
 
-**1. bronquitis aguda**
+**1. Bronquitis aguda**
 
 La [bronquitis aguda](https://zenseiapp.com/blog/bronquitis-aguda-sintomas-tratamiento/) es la inflamación de los tubos que transportan aire hacia y desde sus pulmones. A veces se la conoce como resfriado de pecho. La irritación de los tubos bronquiales puede causar ataques repetidos de tos, lo que puede causar molestias en el pecho. La bronquitis aguda es temporal y los síntomas mejoran en aproximadamente una semana, aunque la tos puede durar hasta varias semanas.
 

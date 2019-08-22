@@ -1,14 +1,15 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/2018/06/18/como-evitar-respirar-aire-contaminado/'
+redirect_from: '/blog/como-evitar-respirar-aire-contaminado/'
 title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla aunque vivas al lado de una autovía"
 date:   2018-06-18 10:00:00 +0200
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
-categories: aire contaminado, evitar contaminación del aire
+category: Salud respiratoria
 image: /img/gas-2858150_960_720.jpg
 description: El 95% de la población de España respira aire contaminado, según los estudios de Calidad del Aire. Este porcentaje indica que no se están respetando los topes máximos...
+tags: aire contaminación respirar
 ---
 
 El [95% de la población de España respira aire contaminado](https://www.muyinteresante.es/naturaleza/articulo/el-95-de-la-poblacion-respira-aire-contaminado-321524219516), según los estudios de Calidad del Aire. 

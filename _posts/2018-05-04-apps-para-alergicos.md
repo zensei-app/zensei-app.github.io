@@ -1,13 +1,14 @@
 ---
 layout: post
-redirect_from: '/blog/2018/05/04/apps-para-alergicos/'
+redirect_from: '/blog/apps-para-alergicos/'
 title:  "📱🤧 Apps para alérgicos al polen (y cómo no morir de estornudos)"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 date:   2018-05-04 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas
+category: Alergia
 image: /img/zensei-app-description.png
 description: Las nuevas tecnologías están permitiendo avances en materia de salud. Afortunadamente estos hitos también están llegando al usuario de a pie. Es el caso de las aplicaciones que se utilizan...
+tags: tecnología alergia
 ---
 
 Las **Nuevas Tecnologías** están permitiendo avances en materia de salud. Afortunadamente estos hitos también están llegando al usuario de a pie. Es el caso de las aplicaciones que se utilizan para distintos problemas y dolencias. Es algo común desde hace un par de años y parece que el tema va en aumento, como en el caso de las **apps para alérgicos.**

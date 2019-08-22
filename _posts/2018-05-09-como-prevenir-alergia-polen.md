@@ -1,14 +1,15 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/2018/05/09/como-prevenir-alergia-polen/'
+redirect_from: '/blog/como-prevenir-alergia-polen/'
 title:  "🌼🤧 Cómo prevenir los síntomas de la alergia al polen de forma fácil"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 date:   2018-05-09 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: polen, alergia, primavera
+category: Alergia
 image: /img/pear-3349459_1280.jpg
 description: Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es...
+tags: prevenir alergia polen
 ---
 
 Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es compartida por millones de **alérgicos al polen** que, pañuelo en ristre y con el cuerpo lleno de [antihistamínicos](http://muysaludable.sanitas.es/salud/epoca-antihistaminicos-efecto-tienen-cuerpo/), luchan por tener un momento de sosiego.

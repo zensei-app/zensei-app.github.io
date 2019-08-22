@@ -5,10 +5,13 @@ permalink: /blog/
 
 <div class="home">
   <br>
-  <!--  { content }  -->
-
     <ul class="post-list">
       {% for post in site.posts %}
+        <p>
+          <a href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}">
+            {{ post.category | escape }}
+          </a>
+        </p>
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <h2>
               <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -25,11 +28,7 @@ permalink: /blog/
                 Leer Más
               </a>
             </p>
-            <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
         </li>
       {% endfor %}
     </ul>
-
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
-
 </div>

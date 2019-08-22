@@ -1,15 +1,16 @@
 ---
 layout: post
-redirect_from: '/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/'
+redirect_from: '/blog/mejor-mascarilla-asma-alergia-precio/'
 toc: true
 title:  "🥇😷 Mascarillas antipolución para asmáticos y alérgicos (y cuál comprar si no tienes ni idea)"
 date:   2018-10-02 10:00:00 +0200
-last_modified_at:   2019-01-20 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Alergia
 author: David
-categories: alergia, asma, mascarillas antipolución, mascarillas anticontaminación, mascarilla para ir en bici, comprar
 image: /img/photo-1526705645973-c3f37d960d3f.jpeg
 description: En este artículo te vamos ayudar a elegir la mejor mascarilla antipolución para asmáticos y alérgicos.
 intro: "La polución es un GRAN problema ahora mismo en las ciudades.<br><br>Y lo único que está haciendo es empeorar.<br><br>Se estima que aumente al 50% de la población el número de personas con alguna alergia para 2025.<br><br>Y la contaminación tiene mucho que ver.<br><br>Provocando crisis asmáticas.<br><br>¿Te cuesta respirar cuando vas por la calle andando, en bici o en moto?<br><br>Bien.<br><br>Eso es exactamente lo que vas a aprender en esta guía."
+tags: productos asma alergia rinitis calle
 ---
 
 ## **¿Por qué utilizar una mascarilla antipolución si tienes asma o alergia respiratoria?**

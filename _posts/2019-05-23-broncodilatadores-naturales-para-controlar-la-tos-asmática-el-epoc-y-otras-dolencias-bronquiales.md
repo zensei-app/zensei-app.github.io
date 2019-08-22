@@ -4,7 +4,8 @@ toc: true
 title: "\U0001F927 Broncodilatadores naturales para el asma, el EPOC y otras dolencias
   bronquiales"
 date: 2019-05-23T22:00:00.000+00:00
-last_modified_at: 2019-05-25T22:00:00.000+00:00
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Asma
 author: Ana
 image: "/uploads/Ventolin.jpg"
 description: Existen broncodilatadores naturales que pueden ayudarte a aliviar tus
@@ -13,7 +14,7 @@ description: Existen broncodilatadores naturales que pueden ayudarte a aliviar t
 intro: La fitoterapia es una buena coadyuvante como **broncodilatadores naturales**.
   No obstante, estas soluciones con plantas no deben prevalecer sobre la terapia impuesta
   por un especialista.
-
+tags: broncodilatodores asma epoc inhaladores tratamiento
 ---
 Los pacientes de enfermedades relacionadas con **la tos asmática, el EPOC u otras dolencias bronquiales** deben a menudo, son mayor o menor persistencia, convivir con los [broncodilatadores](https://es.wikipedia.org/wiki/Broncodilatador) químicos. De este modo alivian las crisis y permiten que sus bronquios se “abran” de manera que se facilite la respiración. Pero **¿existen broncodilatadores naturales?**
 

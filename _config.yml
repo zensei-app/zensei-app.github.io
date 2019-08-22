@@ -19,7 +19,7 @@ description: >
 baseurl: "" 
 url: "https://zenseiapp.com"
 
-permalink: /blog/:title/
+permalink: /:categories/:title/
 
 # Theme settings
 theme: minima

@@ -3,6 +3,11 @@ layout: blog
 ---
 <br>
 <br>
+<p>
+  <a href="{{ page.category | replace: ' ' , '-'  | downcase | relative_url  }}">
+    <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
+  </a>
+</p>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -29,6 +34,14 @@ layout: blog
     {% endif %}
     {{ content | toc_only }}
   </div>
+  <span>
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+  </span>
+  <br>
+  <br>
   <br>
   {% include app-cta.html %}
   <br>
@@ -40,13 +53,5 @@ layout: blog
        data-ad-slot="5424376407"></ins>
   <br>
   <!--   {% include disqus_comments.html %} -->
-  {% include share.html %}
-  <br>
-  <br>
-  <br>
-  <h1 class="post-title">Artículos relacionados</h1>
-  <br>
-  {% include recommended-posts.html %}
-  
-
+  {% include share.html %}  
 </article>

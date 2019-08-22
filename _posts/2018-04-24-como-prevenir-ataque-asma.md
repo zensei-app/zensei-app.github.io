@@ -1,13 +1,14 @@
 ---
 layout: post
-redirect_from: '/blog/2018/04/24/como-prevenir-ataque-asma/'
+redirect_from: '/blog/como-prevenir-ataque-asma/'
 title:  "🌬️ Cómo evitar un ataque de asma sin inhalador paso a paso"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 date:   2018-04-24 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: ataques, asma, prevenir, diario, salud, respiratoria, control, síntomas
+category: Asma
 image: /img/asma-ostetoscopio-kid.jpg
 description: El asma es una enfermedad crónica de las vías respiratorias. Cuando sufrimos una crisis asmática, nuestras vías respiratorias,...
+tags: remedios asma síntomas
 ---
 
 **El [asma](https://medlineplus.gov/spanish/ency/article/000141.htm) es una enfermedad crónica de las vías respiratorias.** Cuando sufrimos una crisis asmática, nuestras vías respiratorias, esos tubos por los que el aire circula cuando inspiramos y exhalamos, se inflaman.

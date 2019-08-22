@@ -3,7 +3,8 @@ layout: post
 toc: true
 title: "\U0001F3E0\U0001F4A8 Cómo purificar el aire de casa (salón o dormitorio)"
 date: 2019-05-10T06:00:00.000+00:00
-last_modified_at: 2019-05-16 22:00:00 +0000
+last_modified_at: 2019-08-22 10:00:00 +0000
+category: Alergia
 author: Ana
 image: "/uploads/IMG_20190516_194030.jpg"
 description: "¿Sabías que el aire en espacios cerrados está más contaminado que el
@@ -14,7 +15,7 @@ intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><
   el uso de material escolar o de oficina, el desgaste del material de construcción...
   <br><br>Te explicamos cómo **purificar el aire de casa** para que respires mejor
   y te sientas tranquilo."'
-
+tags: purificador asma alergia rinitis casa productos
 ---
 ![](/uploads/IMG_20190516_194030.jpg)
 

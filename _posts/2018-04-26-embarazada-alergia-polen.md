@@ -1,13 +1,14 @@
 ---
 layout: post
-redirect_from: '/blog/2018/04/26/embarada-alergia-polen/'
+redirect_from: '/blog/embarazada-alergia-polen/'
 title:  "🌼🤰 Qué puedo hacer si tengo alergia al polen y estoy embarazada"
-last_modified_at:  2019-01-27 10:00:00 +0200
+last_modified_at: 2019-08-22 10:00:00 +0000
 date:   2018-04-26 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
-categories: embarazada, polen, alergia, diario, salud, respiratoria, evitar, síntomas
+category: Alergia
 image: /img/pregnant-775028_1280.jpg
 description: La primavera está aquí y es una época temida por las futuras mamás que lidian con una alergia estacional. La polinosis o fiebre del heno, es... 
+tags: emabarazo alergia polen
 ---
 
 La primavera está aquí y es una época temida por las futuras mamás que lidian con una alergia estacional. La [polinosis](https://es.wikipedia.org/wiki/Alergia_al_polen) o [fiebre del heno](https://medlineplus.gov/spanish/ency/article/000813.htm), es capaz de aguarte el embarazo. Pero siguiendo unos cuantos consejos, seguro que estos meses se te harán más llevaderos.
