@@ -13,6 +13,7 @@ intro: Estamos en plena primavera y miles de personas padecen los **síntomas de
   rinitis alergia** debido al polen. Aquí tienes información útil y algunos consejos
   para controlarlos.
 tags: remedios síntomas rinitis alergia
+redirect_from: /blog/consejos-para-prevenir-los-síntomas-de-la-alergia-en-primavera/
 ---
 España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la rinitis alérgica primaveral o alergia al polen.**
 

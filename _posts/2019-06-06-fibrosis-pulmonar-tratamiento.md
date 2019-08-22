@@ -13,6 +13,7 @@ intro: Existen más de 200 tipos de **fibrosis pulmonar**. De la mayoría de ell
   se conoce el origen. Aún así, un tratamiento precoz aumenta la calidad de vida del
   paciente.
 tags: fibrosis pulmonar tratamiento
+redirect_from: /blog/fibrosis-pulmonar-tiene-cura/
 ---
 ![](/uploads/fibrosis pulmonar.png)
 

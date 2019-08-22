@@ -14,6 +14,7 @@ intro: La OMS calcula que 1,3 millones de personas mueren al año por los efecto
   la **contaminación atmosférica**. Se precisan acciones desde organismos e instituciones
   que se enfoquen a proporcionar una mayor calidad del aire.
 tags: contaminación respiración
+redirect_from: /blog/efectos-de-la-contaminación-atmosférica-sobre-la-salud/
 ---
 ![](/uploads/Contaminación atmosférica.jpg)
 

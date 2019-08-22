@@ -14,6 +14,7 @@ intro: El **síndrome de dificultad respiratoria** es ocasionado por una falta d
   en los pulmones. Aprende todo cuanto necesitas sobre esta afección que ocurre sobre
   todo en neonatos prematuros.
 tags: bebés insuficiencia respiratoria
+redirect_from: /blog/todo-lo-que-debes-saber-sobre-la-insuficiencia-respiratoria-neonatal/
 ---
 ![](/uploads/insuficiencia respiratoria neonatal.jpg)
 

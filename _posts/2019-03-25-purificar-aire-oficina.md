@@ -16,8 +16,8 @@ intro: Este es el artículo más completo sobre cómo purificar el aire de tu of
   de interiores de espacios de trabajo.<br><br>Bien.<br><br>Por lo tanto, si quieres
   respirar un aire más limpio en tu oficina, te encantará este artículo.<br><br>Vamos
   a zambullirnos de lleno.
-tags: purificador asma alergia rinitis oficina
-
+tags: purificador asma alergia rinitis oficina productos
+redirect_from: /blog/cómo-purificar-el-aire-de-la-oficina/
 ---
 ## **¿Por qué hay que purificar el aire de los espacios interiores?**
 

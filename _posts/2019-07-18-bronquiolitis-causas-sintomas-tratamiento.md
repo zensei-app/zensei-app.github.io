@@ -13,6 +13,7 @@ intro: La **bronquiolitis** es una infección de los bronquiolos que suele darse
   niños menores de tres años. Analizamos todo lo que necesitas saber acerca de esta
   enfermedad (causas, síntomas y tratatamiento) con poca incidencia entre los adultos.
 tags: bronquiolitis síntomas tratamiento
+redirect_from: /blog/el-abc-de-la-bronquiolitis/
 ---
 ![](/uploads/bronquiolitis.jpg)
 

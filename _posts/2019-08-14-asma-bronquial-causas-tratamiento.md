@@ -12,6 +12,7 @@ description: El asma bronquial es una enfermedad que provoca la inflamación de 
 intro: La vida de un asmático no tiene por qué detenerse. Lo más importante es tener
   diagnosticada el **asma bronquial** y seguir los consejos médicos.
 tags: asma bronquial tratamiento
+redirect_from: '/blog/qué-es-el-asma-bronquial/'
 ---
 ![](/uploads/Asma bronquial.jpeg)
 

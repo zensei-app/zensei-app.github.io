@@ -13,6 +13,7 @@ intro: El **aire acondicionado** garantiza nuestra comodidad y es una parte inte
   de nuestra forma de vida actual. Sin embargo, **¿cuáles son sus efectos en la salud
   respiratoria?**
 tags: verano asma rinitis epoc
+redirect_from: "/blog/aire-acondicionado-y-efectos-sobre-la-salud/"
 ---
 ![](/uploads/Aire acondicionado.jpg)
 

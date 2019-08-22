@@ -14,6 +14,7 @@ intro: La **tos seca**, llamada también tos persistente o tos irritante, se car
   por resultar improductiva y muy molesta para el paciente. Veamos cómo distinguirla
   de otros tipos de tos y cómo actuar frente a ella.
 tags: remedios tos
+redirect_from: /blog/remedios-tos-seca-garganta-irritada/
 ---
 **La tos seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
 

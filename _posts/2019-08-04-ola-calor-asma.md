@@ -14,6 +14,7 @@ intro: Las personas con **enfermedades respiratorias y otras afecciones crónica
   están más expuestos a sufrir los efectos de una **ola de calor**. Aprende a distinguir
   las señales de aviso.
 tags: calor enfermedades
+redirect_from: '/blog/ola-de-calor-y-enfermedades-respiratorias/'
 ---
 ![](/uploads/Ola de calor.jpg)
 

@@ -12,6 +12,7 @@ description: 'En este artículo descubrirás todo lo que necesitas saber sobre e
 intro: Se conoce como **EPOC** a la enfermedad pulmonar obstructiva crónica. Aunque
   no tiene cura, un **tratamiento** a tiempo puede mejorar la calidad de vida.
 tags: efisema pulmonar tratamiento epoc
+redirect_from: /blog/enfisema-pulmonar-y-epoc-tratamiento/
 ---
 ![](/uploads/epoc y pulmones.jpg)
 

@@ -13,6 +13,7 @@ intro: La actividad física es fundamental para la buena calidad de vida de las 
   Los asmáticos deben extremar sus controles médicos y elegir qué ejercicio practicar
   y dónde hacerlo. **Asma y deporte** pueden compaginarse con cierta facilidad.
 tags: asma deporte
+redirect_from: /blog/asma-y-deporte/
 ---
 ![](/uploads/Asma y deporte.jpg)
 

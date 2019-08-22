@@ -13,6 +13,7 @@ intro: "¿Tienes una **alergia ocular**? Consulta a tu médico. Este tipo de ale
   puede ceñirse a una serie de síntomas molestos, sin más, o desarrollar problemas
   muy graves para tus ojos."
 tags: síntomas ojos tratamiento alergia
+redirect_from: /blog/síntomas-de-la-alergia-ojos-cansados-llorosos-o-hinchados/
 ---
 ![](/uploads/alergia ocular.jpg)
 

@@ -16,6 +16,7 @@ intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><
   <br><br>Te explicamos cómo **purificar el aire de casa** para que respires mejor
   y te sientas tranquilo."'
 tags: purificador asma alergia rinitis casa productos
+redirect_from: /blog/purificar-aire-casa-habitacion-dormitorio/
 ---
 ![](/uploads/IMG_20190516_194030.jpg)
 

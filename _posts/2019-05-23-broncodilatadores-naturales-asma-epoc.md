@@ -15,6 +15,7 @@ intro: La fitoterapia es una buena coadyuvante como **broncodilatadores naturale
   No obstante, estas soluciones con plantas no deben prevalecer sobre la terapia impuesta
   por un especialista.
 tags: broncodilatodores asma epoc inhaladores tratamiento
+redirect_from: /blog/broncodilatadores-naturales-para-controlar-la-tos-asmática-el-epoc-y-otras-dolencias-bronquiales/
 ---
 Los pacientes de enfermedades relacionadas con **la tos asmática, el EPOC u otras dolencias bronquiales** deben a menudo, son mayor o menor persistencia, convivir con los [broncodilatadores](https://es.wikipedia.org/wiki/Broncodilatador) químicos. De este modo alivian las crisis y permiten que sus bronquios se “abran” de manera que se facilite la respiración. Pero **¿existen broncodilatadores naturales?**
 

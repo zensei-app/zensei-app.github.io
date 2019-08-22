@@ -13,6 +13,7 @@ intro: Esas partículas molestas y que complican la vida cotidiana de millones d
   son, a la vez, elementales para la continuidad de la naturaleza. Aprende **10 curiosidades
   sobre el polen**.
 tags: polen alergias rinitis
+redirect_from: /blog/10-curiosidades-sobre-el-polen/
 ---
 Resulta increíble que uno de los superalimentos más considerados pueda, a la vez, resultar una pesadilla para millones de alérgicos. El polen posee increíbles propiedades beneficiosas para la salud. Sin embargo, los afectados por la alergia no son precisamente unos privilegiados por el polen y sus beneficios. Aún así, veamos 10 curiosidades sobre el polen que, por lo menos, te permitirán verlo desde otra perspectiva.
 
