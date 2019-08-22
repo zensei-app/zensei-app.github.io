@@ -5,7 +5,7 @@ title: "☀️ Ola de calor y enfermedades respiratorias"
 date: 2019-08-04 22:00:00 +0000
 last_modified_at: 2019-08-04 22:00:00 +0000
 author: Ana
-image: ''
+image: "/uploads/Ola de calor 1.jpg"
 description: Ola de calor y enfermedades respiratorias son factores estrechamente
   ligados. El verano hace necesario extremar las precauciones.
 intro: Las personas con **enfermedades respiratorias y otras afecciones crónicas**,
