@@ -4,7 +4,7 @@ layout: blog
 <br>
 <br>
 <p>
-  <a href="{{ page.category | replace: ' ' , '-'  | downcase | relative_url  }}">
+  <a href="{{ page.category | replace: ' ' , '-'  | downcase | relative_url  }}" class="shake">
     <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
   </a>
 </p>
@@ -37,7 +37,7 @@ layout: blog
   <span>
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
     {% endfor %}
   </span>
   <br>

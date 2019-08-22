@@ -6,8 +6,8 @@ layout: blog
     <ul class="post-list">
       {% for post in site.tags[page.tag] %}
         <p>
-          <a href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}">
-            {{ post.category | escape }}
+          <a href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}" class="shake">
+            <code class="highligher-rouge"><nobr>{{ post.category | escape  }}</nobr></code>&nbsp;
           </a>
         </p>
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
