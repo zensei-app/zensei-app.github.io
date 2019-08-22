@@ -330,13 +330,13 @@ Los jabones antibaterianos no sirven encontra de los virus, es la acción lavars
 En algunos países como Japón las personas resfriadas se colocan máscaras de cirujano como cortesía hacia los demás.
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla para que evites la gripe con los Japos</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla para que evites la gripe con los Japos</bold></a>.
 </div>
 
 5. **Limpia el aire de casa** con un purificador de aire. Eliminará partículas de virus en suspensión.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 6. **Cúbrete la boca a la hora de estornudar o toser** con el codo.
