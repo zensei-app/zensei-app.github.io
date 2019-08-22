@@ -8,8 +8,8 @@ permalink: /blog/
     <ul class="post-list">
       {% for post in site.posts %}
         <p>
-          <a href="{{ page.category | replace: ' ' , '-'  | downcase | relative_url  }}">
-            <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
+          <a href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}">
+            <code class="highligher-rouge"><nobr>{{ post.category | escape  }}</nobr></code>&nbsp;
           </a>
         </p>
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
