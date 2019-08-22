@@ -32,7 +32,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la Grip
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category == 'Gripe' %}
+      {% if post.category == 'Salud Respiratoria' %}
       <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
           <h2>
             <a itemprop="url" href="{{ post.url | relative_url }}">
