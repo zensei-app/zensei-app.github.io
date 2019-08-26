@@ -39,7 +39,7 @@ hábitos y medicación.
 
 Y esto se traduce en que podrás:
 
-✅ Saber que causa tus síntomas de la alergia respiratoria.
+✅ Saber que causa tus ataques de asma.
 
 ✅ Recordar cuando tomarte la medicación de control.
 

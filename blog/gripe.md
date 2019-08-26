@@ -10,23 +10,57 @@ last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00
 ---
 
+## **En Zensei te ayudamos a controlar tu salud respiratoria con la app diario que hemos diseñado conjúntamente con médicos**
+
+Ahora, no esperes una solución mágica, porque esto es para seres humanos que quieren prevenir los síntomas de la gripe, no para hipocondriacos que están deseando cogerla gripe para no ir a trabajar.
+
 Bien.
 
-Supongo que si has llegado aquí es porque quieres saber más sobre el Gripe.
+Si eso te interesa, genial. Si no te interesa, pues puedes volver a buscar en Google un tratamiento milagroso.
 
-Pues mira.
+Por cierto, si quieres descargarte nuestra app para prevenir la gripe, es aquí: 
 
-Escribimos todas las semanas sobre el Gripe.
+{% include app-cta-landing.html %}
 
-- Cuáles son sus causas.
+Mira.
 
-- Cuáles son sus síntomas.
+Si sueles coger catarros, constipados o la gripe todos lso años.
 
-- Qué remedios son más fáciles para combatirla.
+Seguro que estás cansada de padecerlos.
 
-- Y qué tratamientos son más efectivos.
+Pues imagínate poder adelantarte a ellos y saber que los causa exactamente.
 
-Aquí abajo tienes una lista completa de todos nuestros artículos sobre la Gripe.
+Así podrás tomarte medidas para evitar el virus de la gripe y otros virus respiratorios.
+
+La solución, nada mágica. 
+
+Nuestro diario de salud respiratoria te permitirá llevar un control diario de tus síntomas sin esfuerzo y asociarlos con tu entorno (contaminación, pólenes, virus respiratorios, clima), hábitos y medicación.
+
+Y esto se traduce en que podrás:
+
+✅ Saber que causa tus síntomas de respiratorios.
+
+✅ Saber que hacer para prevenir la gripe.
+
+✅ Conocer mejor tu salud respiratoria y respirar mejor.
+
+Y cómo puedes evitar los horribles síntomas de la gripe. Dedicando solo 10 segundos diarios a guardar tus síntomas.
+
+Del resto nos encargamos nosotros.
+
+Analizaremos tus datos de salud, los asociaremos con otros datos de entorno, hábitos y medicación para descubrir exactamente cuales son los desencandenantes de tus síntomas respiratorios.
+
+Vale. 
+
+Si quieres evitar los síntomas de la gripe.
+
+Descárgate nuestra app diario aquí.
+
+{% include app-cta-landing.html %}
+
+## **Artículos sobre la Gripe en nuestro blog**
+
+Aquí abajo tienes una lista completa de todos nuestros artículos sobre la gripe. Solo por si quieres seguir aprendiendo sobre ella.
 
 <br>
 <br>
