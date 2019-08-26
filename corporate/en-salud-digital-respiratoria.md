@@ -1,12 +1,12 @@
 ---
-layout: content-landing
+layout: landing-corporate
 title:  "Salud digital respiratoria o cómo entender la psicología y comportamiento digital del paciente respiratorio."
 subtitle: "Vende más, entendiendo y cuidando de tus pacientes (consumidores) respiratorios digitales."
 date: 2019-05-27 00:00:00 +0200
 image: '/uploads/pexels-photo-321576.jpeg'
 description: Utilizando el big data para conocer mejor al paciente respiratorio. Tu estrategia de salud digital respiratoria mejorará y tendrás pacientes más adherentes.
 seo_description: "En este artículo te contamos que es la salud digital respiratoria y como puedes utilizar el big data para conocer mejor la psicología y comportamiento del paciente respiratorio digital."
-permalink: /en/salud-digital-respiratoria/
+permalink: /en/respiratory-digital-health/
 ---
 
 El paciente se ha digitalizado y busca soluciones en internet, pero retenerlos, fidelizarlos y hacerlos adherentes al tratamiento es muy difícil.

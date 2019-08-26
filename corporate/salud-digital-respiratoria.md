@@ -1,5 +1,5 @@
 ---
-layout: content-landing
+layout: landing-corporate
 title:  "Salud digital respiratoria o cómo entender la psicología y comportamiento digital del paciente respiratorio."
 subtitle: "Vende más, entendiendo y cuidando de tus pacientes (consumidores) respiratorios digitales."
 date: 2019-05-27 00:00:00 +0200

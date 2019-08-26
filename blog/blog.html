@@ -9,7 +9,7 @@ permalink: /blog/
     <ul class="post-list">
       {% for post in site.posts %}
         <p>
-          <a href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}">
+          <a href="/app-{{ post.category | replace: ' ' , '-'  | downcase  }}">
             <code class="highligher-rouge"><nobr>{{ post.category | escape  }}</nobr></code>&nbsp;
           </a>
         </p>

@@ -6,7 +6,7 @@ layout: blog
 <br>
 <br>
 <p>
-  <a href="{{ page.category | replace: ' ' , '-'  | downcase | relative_url  }}" class="shake">
+  <a href="/app-{{ page.category | replace: ' ' , '-'  | downcase }}" class="shake">
     <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
   </a>
 </p>
