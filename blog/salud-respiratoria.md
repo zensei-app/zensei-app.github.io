@@ -1,7 +1,7 @@
 ---
 layout: landing-app
 permalink: /app-salud-respiratoria/
-title: La app para personas que quieren cuidar su salud respiratoria
+title: La app para cuidar tu salud respiratoria
 description: Lleva un control de tu salud respiratoria y respira mejor sin esfuerzo
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe. Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
 image: /img/photo-1558554142-0b016c857381.jpeg
