@@ -29,5 +29,3 @@ fields:
 - type: textarea
   name: intro
   label: intro
-pages:
-- "_posts/☀️\U0001F927-puedo-coger-la-gripe-en-verano.md"
