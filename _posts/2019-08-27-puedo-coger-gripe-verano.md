@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "☀️\U0001F927 ¿Puedo coger la gripe en verano?"
-date: 2019-08-27 22:00:00 +0000
-last_modified_at: 2019-08-27 22:00:00 +0000
+date: 2019-08-27T22:00:00.000+00:00
+last_modified_at: 2019-08-27T22:00:00.000+00:00
 author: Ana
 category: Gripe
 image: "/uploads/Gripe en verano.jpg"
@@ -13,6 +13,7 @@ intro: Coger la **gripe en verano** es algo muy atípico. Sin embargo, puede ocu
   en ciertas ocasiones, sobre todo si has viajado a países con clima seco y frío.
   Si crees que puedes estar afectado debes recibir atención médica inmediata.
 tags: gripe verano
+
 ---
 ![](/uploads/Gripe en verano.jpg)
 
