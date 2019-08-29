@@ -35,5 +35,3 @@ fields:
 - type: text
   name: tags
   label: tags
-pages:
-- _posts/2019-08-28-remedios-alternativos-gripe.md

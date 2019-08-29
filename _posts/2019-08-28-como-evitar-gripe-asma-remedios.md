@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F47E\U0001F912 Cómo evitar la gripe (especial pacientes respiratorios)"
-date: 2019-08-28 22:00:00 +0000
-last_modified_at: 2019-08-28 22:00:00 +0000
+date: 2019-08-28T22:00:00.000+00:00
+last_modified_at: 2019-08-28T22:00:00.000+00:00
 author: David
 category: Gripe
 image: "/uploads/broncodilatadores naturales.jpg"
@@ -29,7 +29,7 @@ Antes de nada quería presentarme.
 
 Soy David Martín-Corral y soy experto en propagación de epidemias.
 
-He estudiado mucho sobre la epidemia de la [gripe](https://es.wikipedia.org/wiki/Gripe "Gripe") y estrategias para evitarla. 
+He estudiado mucho sobre la epidemia de la [gripe](https://es.wikipedia.org/wiki/Gripe "Gripe") y estrategias para evitarla.
 
 Voy a contarte algunas técnicas de prevención de la gripe que a lo mejor nunca habías escuchado y que son realmente efectivas.
 
@@ -43,7 +43,7 @@ Y son muy pequeños.
 
 ![EM of influenza virus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EM_of_influenza_virus.jpg/300px-EM_of_influenza_virus.jpg)
 
-Durante los meses de calor no pueden sobrevivir en el exterior ya que su carcasa exterior se derrite. Por eso, durante el verano hay pocos casos de gripe. 
+Durante los meses de calor no pueden sobrevivir en el exterior ya que su carcasa exterior se derrite. Por eso, durante el verano hay pocos casos de gripe.
 
 Puedes contraerla, pero no es habitual.
 
@@ -91,7 +91,7 @@ Son los siguientes y va en el siguiente order en la propagación de la gripe.
 
 **Lugares de trabajo y Comunidad -** Si nosotros lo hemos cogido el virus, porque nuestros pequeños nos lo han pegado, luego nosotros somos los que lo propagamos en nuestro trabajo, en el transporte público, gimnasio, supermercado, etc... (esto es lo que llamamos como comunidad).
 
-Bien. 
+Bien.
 
 Solo una cosa más antes de proseguir con los remedios que te voy a contar.
 
@@ -117,11 +117,11 @@ Básicamente, tenemos que procurar que el aire que respiramos y las superficies 
 
 #### Lavado de manos
 
-Sabías que nos llevamos las manos a la boca u ojos unas 2.500 veces al día. 
+Sabías que nos llevamos las manos a la boca u ojos unas 2.500 veces al día.
 
 Esto significa que al llevarnos la mano a la boca o los ojos ayudamos al virus a que entre en nuestro cuerpo y se reproduzca.
 
-Así que un simple jabón de manos sirve. 
+Así que un simple jabón de manos sirve.
 
 Otra opción es llevar en el bolso un [spray de aceites esenciales que elimina el virus de la gripe](https://sentideashop.com/es/purificante/98-spray-aereo-purificante-puressentiel-200-ml.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential "spray aceites esenciales eliminar gripe") y otros.
 
@@ -137,7 +137,7 @@ Las vías de entrada del virus de la gripe son las vías aéreas.
 
 Si ponemos una barrera para que el aire que respiramos no contenga ningún virus. Entonces no nos contagiarémos con el virus de la gripe.
 
-Si eres una persona con problemas respiratorios o inmuno deprimido. 
+Si eres una persona con problemas respiratorios o inmuno deprimido.
 
 No sé.
 
@@ -169,7 +169,7 @@ Existen varias opciones una costosa y otras más sencillas.
 
 La costosa es comprar un purificador de aire.
 
-En el siguiente artículo tienes todo lo que necesitas para [elegir el mejor purificador de aire](https://zenseiapp.com/alergia/mejores-purificadores-aire-asma-comprar/ "elegir purificador de aire"). 
+En el siguiente artículo tienes todo lo que necesitas para [elegir el mejor purificador de aire](https://zenseiapp.com/alergia/mejores-purificadores-aire-asma-comprar/ "elegir purificador de aire").
 
 Ahora.
 
@@ -205,7 +205,7 @@ Se trata de técnicas o remedios para proteger nosotros a otras personas de cont
 
 **No dar besos y la mano**
 
-Ya hemos hablado de ella. Pero es una técnica bidireccional. 
+Ya hemos hablado de ella. Pero es una técnica bidireccional.
 
 Si tenemos algún tipo de duda sobre si tenemos la gripe o la tenemos. Podemos avisar a nuestros contactos de que no los saludaremos dándoles un beso o la mano.
 
@@ -215,7 +215,7 @@ Así les evitaremos que puedan coger la gripe.
 
 **Vacunación**
 
-Soy un anti anti-vacunas. 
+Soy un anti anti-vacunas.
 
 No creo en sus argumentaciones, están totalmente faltas de rigor y evidencia científica.
 
@@ -227,7 +227,7 @@ Bien.
 
 Ahora te voy a contar como la tecnología te puede ayudar a evitar la gripe.
 
-## **Cómo utilizar la tecnología para evitar la gripe**
+# **Cómo utilizar la tecnología para evitar la gripe**
 
 Gracias al big data y los modelos matemáticos, ahora, es posible poder adelantarnos a la gripe.
 
@@ -237,7 +237,7 @@ Consistía en utilizar las búsquedas de la gripe en su buscador para predecir l
 
 Consiguieron buenos resultados, pero murieron de éxito, ya que  las búsqueda de la gripe por su propia noticia creo que sesgos en su modelo de predicción.
 
-Ahora los modelos son mucho más avanzados y con muchas otras fuentes de datos. 
+Ahora los modelos son mucho más avanzados y con muchas otras fuentes de datos.
 
 La evolución de Google Flu Trends se cristalizó en [HealthMap Flu Trends.](https://en.wikipedia.org/wiki/Spanish_flu)
 
