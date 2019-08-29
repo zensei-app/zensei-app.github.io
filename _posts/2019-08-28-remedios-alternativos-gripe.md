@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Cómo evitar la gripe (especial pacientes respiratorios)
+title: "\U0001F47E\U0001F912 Cómo evitar la gripe (especial pacientes respiratorios)"
 date: 2019-08-28 22:00:00 +0000
 last_modified_at: 2019-08-28 22:00:00 +0000
 author: David
