@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Remedios para evitar la gripe o cualquier otro virus (especial pacientes respiratorios)
+title: Cómo evitar la gripe (especial pacientes respiratorios)
 date: 2019-08-28 22:00:00 +0000
 last_modified_at: 2019-08-28 22:00:00 +0000
 author: David
@@ -29,7 +29,7 @@ Antes de nada quería presentarme.
 
 Soy David Martín-Corral y soy experto en propagación de epidemias.
 
-He estudiado mucho sobre la epidemia de la gripe y estrategias para evitarla. 
+He estudiado mucho sobre la epidemia de la [gripe](https://es.wikipedia.org/wiki/Gripe "Gripe") y estrategias para evitarla. 
 
 Voy a contarte algunas técnicas de prevención de la gripe que a lo mejor nunca habías escuchado y que son realmente efectivas.
 
@@ -179,18 +179,119 @@ Y por último, puedes utilizar un [spray de aceites esenciales que  que ya te he
 
 #### Vacunación
 
-#### 
+A no ser que vivas totalmente aislado del mundo y seas una obsesa de la limpieza.
+
+La vacunación es una de las más efectiva para protegerse de la gripe o cualquier otro virus.
+
+Solo es un virus de la gripe debilitado, para que tu cuerpo reconozca el virus para cuando venga el de verdad.
+
+Las vacunas se hacen anuales, debido a las mutaciones que el virus de la gripe tienen.
+
+Así que, si eres una persona de riesgo con problemas respiratorios, inmuno deprimida o edad avanzada, es totalmente recomendable. (Bebés y niños también).
+
+¿Tienes dudas?
+
+Consultalo con tu médico.
 
 # **Técnicas sociales para evitar la gripe**
 
-No dar besos
+Normalmente, cuando se habla de remedios para evitar la gripe, siempre se habla desde el punto de vista de no contraerla.
 
-Estornudar en el codo y no en la mano
+Bien.
 
-Vacunación
+Me gustaría darle un punto de vista distinto.
 
-# **Cómo utilizar la tecnología para evitar la gripe**
+Se trata de técnicas o remedios para proteger nosotros a otras personas de contraer la gripe.
 
-Seguimiento de la curva epidemia de la gripe
+**No dar besos y la mano**
 
-App para asociar síntomas con gripe y otros factores de entorno
+Ya hemos hablado de ella. Pero es una técnica bidireccional. 
+
+Si tenemos algún tipo de duda sobre si tenemos la gripe o la tenemos. Podemos avisar a nuestros contactos de que no los saludaremos dándoles un beso o la mano.
+
+Así les evitaremos que puedan coger la gripe.
+
+**Estornudar en el codo y no en la mano**
+
+**Vacunación**
+
+Soy un anti anti-vacunas. 
+
+No creo en sus argumentaciones, están totalmente faltas de rigor y evidencia científica.
+
+Una manera de proteger a estas personas o sus hijos es mediante la vacunación.
+
+Es lo que se llama "Herd Immunity" o inmunología de la masa. Al vacunar a la masa, protegemos a los eslabones débiles que no se han vacunado.
+
+Bien.
+
+Ahora te voy a contar como la tecnología te puede ayudar a evitar la gripe.
+
+## **Cómo utilizar la tecnología para evitar la gripe**
+
+Gracias al big data y los modelos matemáticos, ahora, es posible poder adelantarnos a la gripe.
+
+El primer ejemplo de utilizar la tecnología fue Google con Google Flu Trends.
+
+Consistía en utilizar las búsquedas de la gripe en su buscador para predecir los niveles de la gripe reales.
+
+Consiguieron buenos resultados, pero murieron de éxito, ya que  las búsqueda de la gripe por su propia noticia creo que sesgos en su modelo de predicción.
+
+Ahora los modelos son mucho más avanzados y con muchas otras fuentes de datos. 
+
+La evolución de Google Flu Trends se cristalizó en [HealthMap Flu Trends.](https://en.wikipedia.org/wiki/Spanish_flu)
+
+![](/uploads/Screen Shot 2019-08-29 at 15.32.52.png)
+
+Bien.
+
+Pero este modelo solo funciona para Estados Unidos.
+
+¿Pero donde puedes seguir la curva de la gripe para España?
+
+#### Seguimiento de la curva epidemia de la gripe
+
+Con el observatorio de la gripe de Zensei, donde hemos mejorado el modelo de Google Flu Trends, con múltiples fuentes de datos, búsquedas de Google y Wikipedia, datos oficiales del Instituto Carlos III de Salud y Clima.
+
+Todo estos datos los introducimos en una inteligencia artificial que predice la gripe con dos semanas por adelantado en nuestro observatorio.
+
+Y 4 semanas de predicción para nuestro clientes con error del 4%.
+
+[Puedes acceder a nuestro observatorio de la gripe aquí. ](https://zenseiapp.com/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
+
+Se actualiza todos los jueves a las 15 horas.
+
+#### Cómo asociar síntomas con gripe y otros factores de entorno
+
+En Zensei vamos un paso más allá.
+
+Somos expertos en ayudar a pacientes respiratorios con Asma, EPOC, Rinitis alérgica, inmuno deprimidos y otras condiciones respiratorias a responder las siguientes preguntas:
+
+1. ¿Qué provoca que tenga síntomas respiratorios?
+2. ¿Cómo me voy a encontrar mañana? ¿Tendré síntomas?
+
+Esto lo hacemos recolectando datos de nuestros usuarios.
+
+1. Datos de entorno
+   1. Polución
+   2. Virus respiratorios
+   3. Pólenes
+   4. Clima
+2. Sociales
+3. Hábitos
+4. Movilidad
+5. Medicación
+6. Síntomas
+7. Genéticos
+
+Con todos estos datos construimos el fenotipo digital profundo para responder las preguntas anteriores y ayudar a nuestros usuarios a respirar mejor.
+
+Puedes probar nuestra app diario de salud respiratoria.
+
+[Probar Zensei aquí.](https://zenseiapp.com)
+
+Soporte ilimitado a todas tus dudas de salud respiratoria si te descargas nuestra app.
+
+No sé si la necesitas.
+
+Pero a lo mejor te sirve de ayuda. Tu decides si quieres saber porque tienes pitidos respiratorios, tos, dolor de cabeza, estornudos, presión en el pecho, catarros frecuentes, etc....
