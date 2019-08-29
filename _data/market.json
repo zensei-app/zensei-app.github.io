@@ -106,6 +106,14 @@
     image: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/shopping-trolley_1f6d2.png'
   },
   {
+    title: 'Spray Natural para Purificar el Aire',
+    description: 'Elimina de forma totalmente natural componentes nocivos para tu respiración. Probado científicamente.',
+    link: 'https://sentideashop.com/es/purificante/98-spray-aereo-purificante-puressentiel-200-ml.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential',
+    type: 'respiratory-care',
+    provider: 'Sentidea',
+    image: 'https://sentideashop.com/2510-small_default/spray-aereo-purificante-puressentiel-200-ml.jpg',
+  },
+  {
     title: 'Rhinomer Fuerza 2',
     brand: 'Rhinomer',
     description: 'Favorece una respiración natural en niños a partir de los 2 años',
@@ -187,5 +195,5 @@
     type: 'respiratory-care',
     provider: 'Zensei',
     image: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/envelope_2709.png',
-  },
+  }
 ]
