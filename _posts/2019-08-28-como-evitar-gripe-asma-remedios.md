@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F47E\U0001F912 Cómo evitar la gripe (especial pacientes respiratorios)"
+title: "\U0001F47E\U0001F912 Cómo evitar la gripe (Especial asmáticos)"
 date: 2019-08-28 22:00:00 +0000
 last_modified_at: 2019-08-28 22:00:00 +0000
 author: David
@@ -35,7 +35,7 @@ Voy a contarte algunas técnicas de prevención de la gripe que a lo mejor nunca
 
 Antes de nada te voy a contar brevemente como funciona el virus de la gripe y su propagación.
 
-# **Cómo funciona la propagación de la gripe**
+## **Cómo funciona la propagación de la gripe**
 
 La gripe o virus de la influenza, se parece a algo como esto.
 
@@ -107,7 +107,7 @@ Ahora podemos pasar a ver los distintos tipos de remedios que existe, que hemos 
 
 Allá vamos.
 
-# **Remedios caseros de higiene para evitar la gripe**
+## **Remedios caseros de higiene para evitar la gripe**
 
 Bien.
 
