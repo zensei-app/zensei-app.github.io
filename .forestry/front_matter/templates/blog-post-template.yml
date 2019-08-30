@@ -35,3 +35,5 @@ fields:
 - type: text
   name: tags
   label: tags
+pages:
+- "_posts/\U0001F917-cómo-utilizar-la-línea-purificante-de-puressentiel.md"
