@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "¿Es seguro el uso de cigarrillos electrónicos?"
+title: "\U0001F6AC ¿Es seguro el uso de cigarrillos electrónicos?"
 date: 2019-08-30 22:00:00 +0000
 last_modified_at: 2019-08-30 22:00:00 +0000
 author: Ana
