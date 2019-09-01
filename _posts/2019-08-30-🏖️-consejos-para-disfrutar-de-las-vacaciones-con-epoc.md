@@ -5,14 +5,14 @@ title: "\U0001F3D6️ Consejos para disfrutar de las vacaciones con EPOC "
 date: 2019-08-30 22:00:00 +0000
 last_modified_at: 2019-08-30 22:00:00 +0000
 author: Ana
-category: ''
+category: EPOC
 image: ''
 description: "¿Pueden viajar los enfermos con complicaciones respiratorias? La respuesta
   es afirmativa. Te mostramos cómo planificar tus vacaciones con EPOC."
 intro: Los médicos aconsejan normalizar la vida de los pacientes con enfermedades
   respiratorias. En este sentido, aquí tienes unos consejos para programar tus **vacaciones
   con EPOC**.
-tags: ''
+tags: EPOC, pulmones,
 
 ---
 ![](/uploads/Vacaciones con EPOC.jpg)
