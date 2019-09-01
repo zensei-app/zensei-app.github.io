@@ -1,19 +1,18 @@
 ---
 layout: post
 toc: true
-title: "\U0001F917 Cómo utilizar la línea Purificante de Puressentiel"
+title: "\U0001F917 Cómo purificar el aire con aceites esenciales"
 date: 2019-08-29 22:00:00 +0000
 last_modified_at: 2019-08-29 22:00:00 +0000
 author: Ana
-category: ''
-image: ''
+category: 'Salud Respiratoria'
+image: '/uploads/Sentidea.jpg'
 description: Zensei y Sentidea unen esfuerzos para ayudar a mejorar la calidad del
   aire y las vías respiratorias.
 intro: Zensei comienza a colaborar con **Sentidea y la línea purificante de Puressentiel**
   con el objetivo de **mejorar la calidad del aire y las vías respiratorias**. Queremos
   ayudarte a sentirte bien y disfrutar de una salud inmejorable.
-tags: ''
-
+tags: purificar aire
 ---
 ![](/uploads/Sentidea.jpg)
 

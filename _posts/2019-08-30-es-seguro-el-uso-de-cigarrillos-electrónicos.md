@@ -6,13 +6,13 @@ date: 2019-08-30 22:00:00 +0000
 last_modified_at: 2019-08-30 22:00:00 +0000
 author: Ana
 category: Salud Respiratoria
-image: ''
+image: '/uploads/Cigarrilos electrónicos.jpg'
 description: Los cigarrillos electrónicos parecen estar de moda. Sin embargo, ¿es
   completamente seguro el uso de estos dispositivos?
 intro: El uso de **cigarrillos electrónicos y vapers** para dejar de fumar ha experimentado
   una escalada en los últimos años. No obstante, su seguridad y efectividad está en
   entredicho. Aún no existen estudios sobre las consecuencias de su uso a largo plazo.
-tags: tabaco
+tags: tabaco, EPOC
 
 ---
 ![](/uploads/Cigarrilos electrónicos.jpg)
