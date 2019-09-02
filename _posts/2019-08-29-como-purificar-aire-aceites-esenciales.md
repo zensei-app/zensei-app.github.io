@@ -17,7 +17,7 @@ tags: purificar aire
 ---
 ![](/uploads/Sentidea.jpg)
 
-Desde Zensei tenemos el placer de anunciar que comenzamos una nueva trayectoria empresarial. En esta ocasión nos complace indicar que **estrenamos colaboración con** [**Sentidea**](https://sentideashop.com/es/), empresa experta en aceites esenciales.
+Desde Zensei tenemos el placer de anunciar que comenzamos una nueva trayectoria empresarial. En esta ocasión nos complace indicar que **estrenamos colaboración con** [**Sentidea**](https://sentideashop.com/es/?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential), empresa experta en aceites esenciales.
 
 Seleccionando las mejores marcas francesas líderes en aceites esenciales, Sentidea está en la capacidad de proponer las **ofertas más eficaces y punteras**. Los ámbitos del bienestar, la salud y la belleza no tienen secretos para esta empresa de mujeres para mujeres.
 
@@ -43,7 +43,7 @@ El objetivo de esta gama de productos consiste en **facilitar la buena salud e h
 
 ### 1. Spray Purificante
 
-Cada mañana, antes de salir de casa, es recomendable **ventilar la casa y vaporizarla** con el [Spray Purificante Puressentiel](https://sentideashop.com/es/purificante/396-spray-aereo-purificante-puressentiel-75-ml.html). Sus 41 aceites esenciales actúan en pocos minutos mejorando la calidad del aire y minimizando la contaminación adherida en los textiles. Al volver a casa, volver a abrir las ventanas para ventilar los residuos.
+Cada mañana, antes de salir de casa, es recomendable **ventilar la casa y vaporizarla** con el [Spray Purificante Puressentiel](https://sentideashop.com/es/purificante/396-spray-aereo-purificante-puressentiel-75-ml.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential). Sus 41 aceites esenciales actúan en pocos minutos mejorando la calidad del aire y minimizando la contaminación adherida en los textiles. Al volver a casa, volver a abrir las ventanas para ventilar los residuos.
 
 Terminada la jornada, una vez que vuelvas a casa, abre unos minutos las ventanas para ventilar y eliminar cualquier posible residuo del spray.
 
@@ -53,7 +53,7 @@ Terminada la jornada, una vez que vuelvas a casa, abre unos minutos las ventanas
 
 ### 2. Loción AB Purificante
 
-Durante el día, límpiate las manos con la [Loción AB Purificante](https://sentideashop.com/es/purificante/402-locion-ab-purificante-puressentiel-80-ml.html) en spray. Este perfume **a base de 3 aceites esenciales** limpia las manos y cualquier objeto que utilicemos habitualmente. No necesita agua, ni jabón ni enjuague.
+Durante el día, límpiate las manos con la [Loción AB Purificante](https://sentideashop.com/es/purificante/402-locion-ab-purificante-puressentiel-80-ml.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential) en spray. Este perfume **a base de 3 aceites esenciales** limpia las manos y cualquier objeto que utilicemos habitualmente. No necesita agua, ni jabón ni enjuague.
 
 **Su efectividad es inmediata**, dejando tras de sí un aroma fresco y natural que purifica en apenas unos minutos. Además, suaviza e hidrata la piel, evitando que ésta se reseque. Esta loción también es apta para su uso en niños pequeños y sus juguetes.
 
@@ -63,11 +63,11 @@ Tu móvil, tableta, bolso u ordenador no habían estado tan limpios como ahora. 
 
 ### 3. Difuss RespOK
 
-De vuelta en casa, lo mejore será que **pongáis en marcha un humidificador** para mejorar la calidad del aire y gozar de una excelente calidad respiratoria. Aprovechando la colaboración con Sentidea, os recomendamos su [difusor humidificador compacto Ovoid](https://sentideashop.com/es/difusion/680-difusor-humidificador-compacto-ovoid.html).
+De vuelta en casa, lo mejore será que **pongáis en marcha un humidificador** para mejorar la calidad del aire y gozar de una excelente calidad respiratoria. Aprovechando la colaboración con Sentidea, os recomendamos su [difusor humidificador compacto Ovoid](https://sentideashop.com/es/difusion/680-difusor-humidificador-compacto-ovoid.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential).
 
 La difusión ultrasónica de este dispositivo genera una **ligera neblina de agua** mientras difunde los aceites esenciales. Gracias a ella, se consigue humedecer el ambiente y provoca una mejora en la capacidad de las vías respiratorias. El humidificador Ovoid de Sentidea ofrece una sensación de bienestar durante 5 horas seguidas. Además, su uso es apto en presencia de bebés y niños pequeños.
 
-Combinando el efecto de este humidificador con la mezcla para difusión [Aire Puro Difuss RespOK](https://sentideashop.com/es/difusion/413-difuss-respok-puressentiel-30-ml.html), se consigue la máxima efectividad a la hora de mejorar la calidad del aire. La combinación de **microgotas de agua y de los 18 aceites esenciales** puros de este producto, se logra humedecer las mucosas. Es decir, se facilita la capacidad respiratoria de cada individuo presente en su rango de acción.
+Combinando el efecto de este humidificador con la mezcla para difusión [Aire Puro Difuss RespOK](https://sentideashop.com/es/difusion/413-difuss-respok-puressentiel-30-ml.html?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential), se consigue la máxima efectividad a la hora de mejorar la calidad del aire. La combinación de **microgotas de agua y de los 18 aceites esenciales** puros de este producto, se logra humedecer las mucosas. Es decir, se facilita la capacidad respiratoria de cada individuo presente en su rango de acción.
 
 Difuss RespOK se recomienda ante los primeros signos de enfriamiento o sensibilidad estacional. Los aceites esenciales ayudan a **descongestionar las vías respiratorias** y proporcionan un bienestar respiratorio muy necesario.
 
@@ -75,4 +75,4 @@ Se trata de un producto 100 % natural a base de eucalipto, pino silvestre, lavan
 
 No pierdas más el tiempo y saca el máximo partido a la línea Purificante de Puressentiel. ¡Te sorprenderá! Pero, además, una vez que la pruebes no querrás usar otros productos. Jamás te habrás sentido tan reconfortado y con tanta facilidad para respirar bien.
 
-PURESSENTIEL se vende en farmacias y parafarmacias además de en la web oficial de [sentideashop.com](http://sentideashop.com/).
+PURESSENTIEL se vende en farmacias y parafarmacias además de en la web oficial de [sentideashop.com](http://sentideashop.com/es/?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential).
