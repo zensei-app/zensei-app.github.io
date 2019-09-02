@@ -2,17 +2,18 @@
 layout: post
 toc: true
 title: "\U0001F917 Cómo purificar el aire con aceites esenciales"
-date: 2019-08-29 22:00:00 +0000
-last_modified_at: 2019-08-29 22:00:00 +0000
+date: 2019-08-29T22:00:00.000+00:00
+last_modified_at: 2019-08-29T22:00:00.000+00:00
 author: Ana
-category: 'Salud Respiratoria'
-image: '/uploads/Sentidea.jpg'
+category: Salud Respiratoria
+image: "/uploads/Sentidea.jpg"
 description: Zensei y Sentidea unen esfuerzos para ayudar a mejorar la calidad del
   aire y las vías respiratorias.
 intro: Zensei comienza a colaborar con **Sentidea y la línea purificante de Puressentiel**
   con el objetivo de **mejorar la calidad del aire y las vías respiratorias**. Queremos
   ayudarte a sentirte bien y disfrutar de una salud inmejorable.
 tags: purificar aire
+
 ---
 ![](/uploads/Sentidea.jpg)
 
@@ -38,7 +39,7 @@ Con más de una década de experiencia, Puressentiel ofrece productos listos par
 
 El objetivo de esta gama de productos consiste en **facilitar la buena salud e higiene** de sus clientes. Porque la mejor prevención es la higiene cotidiana de los espacios de vida, Puressentiel, el especialista en farmacia de los productos naturales concentrados, propone un protocolo fácil y eficaz:
 
-![](/uploads/Spray aéreo purificante Puressentiel 75 ml.jpg)
+![](/uploads/PURIFYING_Spray41_75ml_FR-EN_plante-xprime.png)
 
 ### 1. Spray Purificante
 
@@ -48,7 +49,7 @@ Terminada la jornada, una vez que vuelvas a casa, abre unos minutos las ventanas
 
 **Este spray genera una atmósfera natural, pura y aromática**. Permite eliminar los malos olores y purifica el aire sin aportar productos químicos sintéticos. Su fórmula patentada, con una mezcla única de aceites esenciales totalmente puros, es ideal para usar en dormitorios, salones, oficinas, cocinas y todo tipo de habitaciones húmedas. Además, también puede aplicarse en artículos textiles como zapatillas, bolsos, peluches, cortinas, sofás, asientos del coche…
 
-![](/uploads/Loción AB purificante Puressentiel 80 ml.jpg)
+![](/uploads/locion_970x760_80_NL.png)
 
 ### 2. Loción AB Purificante
 
@@ -58,7 +59,7 @@ Durante el día, límpiate las manos con la [Loción AB Purificante](https://sen
 
 Tu móvil, tableta, bolso u ordenador no habían estado tan limpios como ahora. Ni siquiera cuando estaban en la línea de producción.
 
-![](/uploads/Difuss RespOK.jpg)
+![](/uploads/ASSAINISSANT_DiffuseAirPur_FR-EN.png)
 
 ### 3. Difuss RespOK
 
@@ -73,3 +74,5 @@ Difuss RespOK se recomienda ante los primeros signos de enfriamiento o sensibili
 Se trata de un producto 100 % natural a base de eucalipto, pino silvestre, lavandín grosso, niauli, menta piperita, cedro del Atlas, cajeput, romero, espliego, tomillo, anís, limón, ciprés, salvia, árbol de té, orégano, clavo de olor y ravintsara.
 
 No pierdas más el tiempo y saca el máximo partido a la línea Purificante de Puressentiel. ¡Te sorprenderá! Pero, además, una vez que la pruebes no querrás usar otros productos. Jamás te habrás sentido tan reconfortado y con tanta facilidad para respirar bien.
+
+PURESSENTIEL se vende en farmacias y parafarmacias además de en la web oficial de [sentideashop.com](http://sentideashop.com/).
