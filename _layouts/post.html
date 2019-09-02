@@ -26,6 +26,7 @@ layout: blog
   <div class="post-content" itemprop="articleBody">
     {{ page.intro | markdownify }}
     {% include app-cta.html %}
+    {% include app-cta-landing.html %}
     {% if page.toc %}
     <br>
       <div class="section-nav">
@@ -44,7 +45,7 @@ layout: blog
   </span>
   <br>
   <br>
- 
+  
   {% include search-bar.html %}
   <br>
   {% include app-cta.html %}
