@@ -1,18 +1,24 @@
 ---
 layout: post
-redirect_from: '/blog/bronquitis-aguda-sintomas-tratamiento/'
+redirect_from: "/blog/bronquitis-aguda-sintomas-tratamiento/"
 toc: true
-title:  "👾🤒 Síntomas, tratamiento y prevención de la Bronquitis Aguda"
-date:   2018-11-22 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+title: "\U0001F47E\U0001F912 Bronquitis Aguda (Síntomas, tratamiento y prevención)"
+date: 2018-11-22T08:00:00.000+00:00
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Salud Respiratoria
 author: David
-image: /img/bronquitis-asmatica_20234_l.jpg
-description: "Este artículo te va a ayudar a aprender los síntomas de la bronquitis aguda, cómo tratarla, y sobre todo, cómo evitarla. Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra."
-intro: "Esta guía te va ayudar a aprender los síntomas de la bronquitis aguda, cómo tratarla, y sobre todo, cómo evitarla.<br><br>Si estás desesperada porque tú o tu bebé no para de coger bronquitis una detrás de otra. <br><br>Resolveremos muchas de tus dudas sobre la bronquitis y sus síntomas.<br><br>Así podrás curar y prevenir la bronquitis lo antes posible.<br><br>Empezamos."
+image: "/img/bronquitis-asmatica_20234_l.jpg"
+description: Este artículo te va a ayudar a aprender los síntomas de la bronquitis
+  aguda, cómo tratarla, y sobre todo, cómo evitarla. Si estás desesperada porque tú
+  o tu bebé no para de coger bronquitis una detrás de otra.
+intro: Esta guía te va ayudar a aprender los síntomas de la bronquitis aguda, cómo
+  tratarla, y sobre todo, cómo evitarla.<br><br>Si estás desesperada porque tú o tu
+  bebé no para de coger bronquitis una detrás de otra. <br><br>Resolveremos muchas
+  de tus dudas sobre la bronquitis y sus síntomas.<br><br>Así podrás curar y prevenir
+  la bronquitis lo antes posible.<br><br>Empezamos.
 tags: bronquitis síntomas tratamiento
----
 
+---
 <br>
 ![bronqutis síntomas tratamiento](/img/bronquitis-asmatica_20234_l.jpg){: .center-image }
 <br>
