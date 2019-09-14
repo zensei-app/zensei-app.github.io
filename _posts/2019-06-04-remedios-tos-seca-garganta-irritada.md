@@ -1,9 +1,10 @@
 ---
 layout: post
 toc: true
-title: "\U0001F616 Remedios para la tos seca y garganta irritada "
-date: 2019-06-04 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+title: "\U0001F616 Tos Seca y Garganta Irritada (Remedios y ejercicios respiratorios
+  para evitar la tos)"
+date: 2019-06-04T22:00:00.000+00:00
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Asma
 author: Ana
 image: "/uploads/Tos seca.jpg"
@@ -14,7 +15,8 @@ intro: La **tos seca**, llamada también tos persistente o tos irritante, se car
   por resultar improductiva y muy molesta para el paciente. Veamos cómo distinguirla
   de otros tipos de tos y cómo actuar frente a ella.
 tags: remedios tos
-redirect_from: /blog/remedios-tos-seca-garganta-irritada/
+redirect_from: "/blog/remedios-tos-seca-garganta-irritada/"
+
 ---
 **La tos seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
 
@@ -195,3 +197,37 @@ Te proporcionamos algunos **remedios caseros** que te pueden ayudar a mitigar la
 \- **Chupar caramelos para la tos.** Entre otras cosas aumentará tu producción de saliva.
 
 En cualquier caso, sea cual sea el remedio que estés utilizando, debes consultar con un médico en caso de que los síntomas perduren después de siete días o notes que se intensifica. También si notas fiebre, dolor en el pecho o náuseas. Por último, tendrás que visitar al facultativo para que examine las causas de esa tos secas si sientes dificultades para respirar.
+
+## Ejercicios respiratorios para la tos
+
+Aquí tienes 3 ejercicios respiratorios para aliviar y asistir la tos. 
+
+Los puedes hacer en casa de forma totalmente autónoma.
+
+###   
+Ejercicio para aliviar la tos
+
+1. Siéntate en el borde de la cama con el tronco ligeramente inclinado hacia delante
+2. Rodea tu abdomen con los brazos.
+3. Presiona sobre la pared abdominal
+4. Contrae la musculatura de la caja torácica y se reduce la sensación de dolor.
+5. 
+
+### Ejercicios tos asistida (I)
+
+1. Sentado el cuerpo erguido sobre el borde de una cama o una silla.
+2. Flexiona las piernas con los pies sobre la cama.
+3. Cruza los brazos sobre el abdomen.
+4. Respira por la nariz hinchando el abdomen y retén el aire unos segundos.
+5. Después tose con una ligera inclinación del tronco hacia delante.
+
+###   
+Ejercicios tos asistida (II)
+
+1. Sentado en una silla o en el borde de la cama, lo más derecho posible,
+2. respira lenta y profundamente dirigiendo el aire hacia el abdomen.
+3. Contén la respiración durante 5 segundos
+4. luego, muy lentamente, espira sacando todo el aire de los pulmones
+5. Realiza una segunda respiración profunda
+6. aguanta el aire 5 segundos
+7. tose dos veces de forma corta y forzada desde el pecho (nunca desde la garganta)
