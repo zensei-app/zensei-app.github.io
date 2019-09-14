@@ -2,6 +2,9 @@
 layout: blog
 ---
 <div class="home">
+  <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  <br>
+  {% include app-cta.html %}
   <br>
     <ul class="post-list">
       {% for post in site.tags[page.tag] %}
@@ -29,4 +32,5 @@ layout: blog
         </li>
       {% endfor %}
     </ul>
+    {% include app-cta-landing.html %}
 </div>
