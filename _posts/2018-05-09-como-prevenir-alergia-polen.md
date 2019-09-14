@@ -1,17 +1,20 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/como-prevenir-alergia-polen/'
-title:  "🌼🤧 Cómo prevenir los síntomas de la alergia al polen de forma fácil"
-last_modified_at: 2019-08-22 10:00:00 +0000
-date:   2018-05-09 10:00:00 +0200
+redirect_from: "/blog/como-prevenir-alergia-polen/"
+title: "\U0001F33C\U0001F927 Alergia al Polen: Cómo prevenir los síntomas de forma
+  fácil"
+last_modified_at: 2019-08-22T10:00:00.000+00:00
+date: 2018-05-09T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/pear-3349459_1280.jpg
-description: Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es...
+image: "/img/pear-3349459_1280.jpg"
+description: Estamos en primavera, una de las estaciones más bonitas del año. El sol
+  luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y
+  podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es...
 tags: prevenir alergia polen
----
 
+---
 Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es compartida por millones de **alérgicos al polen** que, pañuelo en ristre y con el cuerpo lleno de [antihistamínicos](http://muysaludable.sanitas.es/salud/epoca-antihistaminicos-efecto-tienen-cuerpo/), luchan por tener un momento de sosiego.
 
 <br>
@@ -49,8 +52,3 @@ No eres novato en estas lides y si lo eres, aquí tienes **algunos consejos** qu
 En este caso hablamos de **una app para personas con problemas en las vías respiratorias**: [alérgicos](https://es.wikipedia.org/wiki/Alergia), [asmáticos](https://kidshealth.org/es/teens/flare-up-esp.html), enfermos de [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm), [rinitis](https://medlineplus.gov/spanish/hayfever.html), [bronquitis](https://medlineplus.gov/spanish/acutebronchitis.html)… Está disponible en Android e IOS y **es completamente gratuita**.
 
 Se llama [📱Zensei](https://zenseiapp.com) y con solo descargarla en tu teléfono móvil, **puedes llevar un diario de tu salud respiratoria.** Así como conocer cómo va la polución por tu zona, cómo está el polen, si hará viento y levantará más alérgenos… Es muy práctica. **No te rindas y prueba con [📱 Zensei](https://zenseiapp.com).**
-
-
-
-
-
