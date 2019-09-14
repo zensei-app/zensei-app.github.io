@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-title: "\U0001F3D6️ 5 Consejos para disfrutar de las vacaciones si tienes EPOC "
-date: 2019-08-30 22:00:00 +0000
-last_modified_at: 2019-08-30 22:00:00 +0000
+title: "\U0001F3D6️ EPOC: 5 Consejos para disfrutar de las vacaciones"
+date: 2019-08-30T22:00:00.000+00:00
+last_modified_at: 2019-08-30T22:00:00.000+00:00
 author: Ana
 category: EPOC
-image: '/uploads/Vacaciones con EPOC.jpg'
+image: "/uploads/Vacaciones con EPOC.jpg"
 description: "¿Pueden viajar los enfermos con complicaciones respiratorias? La respuesta
   es afirmativa. Te mostramos cómo planificar tus vacaciones con EPOC."
 intro: Los médicos aconsejan normalizar la vida de los pacientes con enfermedades
