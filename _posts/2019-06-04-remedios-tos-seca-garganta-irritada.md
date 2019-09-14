@@ -5,7 +5,7 @@ title: "\U0001F616 Tos Seca y Garganta Irritada (Remedios y ejercicios respirato
   para evitar la tos)"
 date: 2019-06-04T22:00:00.000+00:00
 last_modified_at: 2019-08-22T10:00:00.000+00:00
-category: Asma
+category: []
 author: Ana
 image: "/uploads/Tos seca.jpg"
 description: Si la tos seca se prolonga por más de una semana o va acompañada de otro
@@ -15,7 +15,7 @@ intro: La **tos seca**, llamada también tos persistente o tos irritante, se car
   por resultar improductiva y muy molesta para el paciente. Veamos cómo distinguirla
   de otros tipos de tos y cómo actuar frente a ella.
 tags: remedios tos
-redirect_from: "/blog/remedios-tos-seca-garganta-irritada/"
+redirect_from: "/asma/remedios-tos-seca-garganta-irritada/"
 
 ---
 **La tos seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
