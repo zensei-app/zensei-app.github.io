@@ -1,17 +1,19 @@
 ---
 layout: post
-redirect_from: '/blog/que-es-la-rinitis-alergica-sintomas/'
+redirect_from: "/blog/que-es-la-rinitis-alergica-sintomas/"
 toc: true
-title:  "🤧 Qué es la Rinitis Alérgica y cuáles son sus síntomas"
-date:   2018-08-29 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+title: "\U0001F927 Rinitis Alérgica (Causas y síntomas)"
+date: 2018-08-29T08:00:00.000+00:00
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/24399375170_b61ea09484_z.jpg
-description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
+image: "/img/24399375170_b61ea09484_z.jpg"
+description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas
+  de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que
+  es tener asma...
 tags: rinitis alergia síntomas
----
 
+---
 **La rinitis es una inflamación de la mucosa nasal.** Debido a ello se padecen una serie de incómodos síntomas: **[estornudos frecuentes](https://zenseiapp.com/blog/2018/06/11/como-detener-un-ataque-de-estornudos/), congestión, picor nasal, mocos…** Los síntomas prevalecen durante más de dos días consecutivos y, en la mayoría de las alergias, la situación perdura más de una hora diaria.
 
 <br>
