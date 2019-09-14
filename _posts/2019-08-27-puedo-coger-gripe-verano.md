@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "☀️\U0001F927 ¿Puedo coger la gripe en verano?"
+title: "☀️\U0001F927 Gripe: ¿Puedo cogerla cuando hace calor?"
 date: 2019-08-27T22:00:00.000+00:00
 last_modified_at: 2019-08-27T22:00:00.000+00:00
 author: Ana
