@@ -1,18 +1,24 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/por-qué-no-puedo-respirar-cuando-duermo/'
-title:  "😴 Por qué no puedo respirar bien cuando duermo (y cómo evitarlo de forma sencilla la falta de aire)"
-date: 2018-07-31 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+redirect_from: "/blog/por-qué-no-puedo-respirar-cuando-duermo/"
+title: "\U0001F634 Disnea (o Apnea del Sueño): Por qué no puedes respirar bien cuando
+  duermes"
+date: 2018-07-31T08:00:00.000+00:00
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
-image: /img/woman-2197947_1280.jpg
-description: Esta artículo te va ayudar a entender porque no puedes respirar bien cuando duermes, como evitarlo y que es la disnea (ausencia de respiración). Si estás desesperada porque te cuesta respirar durante la noche...
-intro: "Esta artículo te va ayudar a entender porque no puedes respirar bien cuando duermes y como evitarlo.<br><br>Si estás desesperada porque te cuesta respirar durante la noche. <br><br>Resolveremos muchas de tus dudas.<br><br>Así podrás prevenir la falta de aire durante las horas de sueño.<br><br>Empezamos."
+image: "/img/woman-2197947_1280.jpg"
+description: Esta artículo te va ayudar a entender porque no puedes respirar bien
+  cuando duermes, como evitarlo y que es la disnea (ausencia de respiración). Si estás
+  desesperada porque te cuesta respirar durante la noche...
+intro: Esta artículo te va ayudar a entender porque no puedes respirar bien cuando
+  duermes y como evitarlo.<br><br>Si estás desesperada porque te cuesta respirar durante
+  la noche. <br><br>Resolveremos muchas de tus dudas.<br><br>Así podrás prevenir la
+  falta de aire durante las horas de sueño.<br><br>Empezamos.
 tags: dormir respirar asma
----
 
+---
 Existe un largo listado de cuestiones por las cuales un paciente puede padecer [disnea](https://es.wikipedia.org/wiki/Disnea) (ausencia de respiración), que en el caso de que ocurra mientras se duerme se llama [apnea del sueño](https://medlineplus.gov/spanish/sleepapnea.html).
 
 Los factores de riesgo pueden ser tan dispares como padecer obesidad, ansiedad, anemia, enfermedades cardíacas… pero nosotros nos vamos a centrar en las afecciones respiratorias y las alergias.
