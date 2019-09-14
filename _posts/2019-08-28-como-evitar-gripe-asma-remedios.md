@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F47E\U0001F912 Cómo evitar la gripe (Especial asmáticos)"
+title: "\U0001F47E\U0001F912 Gripe. Cómo evitarla (Especial Asma)"
 date: 2019-08-28T22:00:00.000+00:00
 last_modified_at: 2019-08-28T22:00:00.000+00:00
 author: David
