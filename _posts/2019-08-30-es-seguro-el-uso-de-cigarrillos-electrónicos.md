@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-title: "\U0001F6AC ¿Es seguro el uso de cigarrillos electrónicos?"
-date: 2019-08-30 22:00:00 +0000
-last_modified_at: 2019-08-30 22:00:00 +0000
+title: "\U0001F6AC Cigarrillos electrónicos: ¿Son seguros?"
+date: 2019-08-30T22:00:00.000+00:00
+last_modified_at: 2019-08-30T22:00:00.000+00:00
 author: Ana
 category: Salud Respiratoria
-image: '/uploads/Cigarrilos electrónicos.jpg'
+image: "/uploads/Cigarrilos electrónicos.jpg"
 description: Los cigarrillos electrónicos parecen estar de moda. Sin embargo, ¿es
   completamente seguro el uso de estos dispositivos?
 intro: El uso de **cigarrillos electrónicos y vapers** para dejar de fumar ha experimentado
