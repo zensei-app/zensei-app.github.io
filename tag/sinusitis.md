@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: sinusitis"
+title: "Salud respiratoria y sinusitis"
 tag: sinusitis
-robots: noindex
 ---

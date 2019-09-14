@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: bronquial"
+title: "Salud respiratoria y bronquial"
 tag: bronquial
-robots: noindex
 ---

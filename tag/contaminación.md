@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: contaminación"
+title: "Salud respiratoria y contaminación"
 tag: contaminación
-robots: noindex
 ---

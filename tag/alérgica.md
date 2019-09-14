@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: alérgica"
+title: "Salud respiratoria y alérgica"
 tag: alérgica
-robots: noindex
 ---

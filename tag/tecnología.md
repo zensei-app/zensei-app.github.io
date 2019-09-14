@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: tecnología"
+title: "Salud respiratoria y tecnología"
 tag: tecnología
-robots: noindex
 ---

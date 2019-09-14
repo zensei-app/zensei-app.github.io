@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: broncodilatodores"
+title: "Salud respiratoria y broncodilatodores"
 tag: broncodilatodores
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: congestión"
+title: "Salud respiratoria y congestión"
 tag: congestión
-robots: noindex
 ---

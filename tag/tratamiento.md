@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: tratamiento"
+title: "Salud respiratoria y tratamiento"
 tag: tratamiento
-robots: noindex
 ---

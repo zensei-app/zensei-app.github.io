@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: prevenir"
+title: "Salud respiratoria y prevenir"
 tag: prevenir
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: calle"
+title: "Salud respiratoria y calle"
 tag: calle
-robots: noindex
 ---

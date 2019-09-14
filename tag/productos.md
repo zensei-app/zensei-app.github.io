@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: productos"
+title: "Salud respiratoria y productos"
 tag: productos
-robots: noindex
 ---

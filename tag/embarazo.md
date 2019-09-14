@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: embarazo"
+title: "Salud respiratoria y embarazo"
 tag: embarazo
-robots: noindex
 ---

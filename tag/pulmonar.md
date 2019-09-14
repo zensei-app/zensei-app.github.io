@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pulmonar"
+title: "Salud respiratoria y pulmonar"
 tag: pulmonar
-robots: noindex
 ---

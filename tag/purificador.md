@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: purificador"
+title: "Salud respiratoria y purificador"
 tag: purificador
-robots: noindex
 ---

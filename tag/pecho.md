@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pecho"
+title: "Salud respiratoria y pecho"
 tag: pecho
-robots: noindex
 ---

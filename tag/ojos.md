@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: ojos"
+title: "Salud respiratoria y ojos"
 tag: ojos
-robots: noindex
 ---

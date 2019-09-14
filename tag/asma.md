@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: asma"
+title: "Salud respiratoria y asma"
 tag: asma
-robots: noindex
 ---

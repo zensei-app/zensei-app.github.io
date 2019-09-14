@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: salud"
+title: "Salud respiratoria y salud"
 tag: salud
-robots: noindex
 ---

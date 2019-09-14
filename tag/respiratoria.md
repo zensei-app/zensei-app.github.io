@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: respiratoria"
+title: "Salud respiratoria y respiratoria"
 tag: respiratoria
-robots: noindex
 ---

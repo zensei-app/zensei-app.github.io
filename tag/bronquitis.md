@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: bronquitis"
+title: "Salud respiratoria y bronquitis"
 tag: bronquitis
-robots: noindex
 ---

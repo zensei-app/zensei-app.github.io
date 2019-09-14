@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: polen"
+title: "Salud respiratoria y polen"
 tag: polen
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: gripe"
+title: "Salud respiratoria y gripe"
 tag: gripe
-robots: noindex
 ---

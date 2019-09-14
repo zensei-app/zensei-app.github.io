@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: emabarazo"
+title: "Salud respiratoria y emabarazo"
 tag: emabarazo
-robots: noindex
 ---

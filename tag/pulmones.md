@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pulmones"
+title: "Salud respiratoria y pulmones"
 tag: pulmones
-robots: noindex
 ---

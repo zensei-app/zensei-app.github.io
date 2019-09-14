@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pruebas"
+title: "Salud respiratoria y pruebas"
 tag: pruebas
-robots: noindex
 ---

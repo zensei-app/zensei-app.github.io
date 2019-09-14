@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: inhaladores"
+title: "Salud respiratoria y inhaladores"
 tag: inhaladores
-robots: noindex
 ---

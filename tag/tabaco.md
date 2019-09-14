@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: tabaco"
+title: "Salud respiratoria y tabaco"
 tag: tabaco
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: dormir"
+title: "Salud respiratoria y dormir"
 tag: dormir
-robots: noindex
 ---

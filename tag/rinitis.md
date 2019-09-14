@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: rinitis"
+title: "Salud respiratoria y rinitis"
 tag: rinitis
-robots: noindex
 ---

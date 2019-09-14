@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: casa"
+title: "Salud respiratoria y casa"
 tag: casa
-robots: noindex
 ---

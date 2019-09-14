@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: causas"
+title: "Salud respiratoria y causas"
 tag: causas
-robots: noindex
 ---

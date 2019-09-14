@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: respiración"
+title: "Salud respiratoria y respiración"
 tag: respiración
-robots: noindex
 ---

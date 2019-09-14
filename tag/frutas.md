@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: frutas"
+title: "Salud respiratoria y frutas"
 tag: frutas
-robots: noindex
 ---

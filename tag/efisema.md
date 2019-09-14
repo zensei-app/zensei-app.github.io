@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: efisema"
+title: "Salud respiratoria y efisema"
 tag: efisema
-robots: noindex
 ---

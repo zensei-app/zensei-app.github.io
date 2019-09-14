@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: deporte"
+title: "Salud respiratoria y deporte"
 tag: deporte
-robots: noindex
 ---

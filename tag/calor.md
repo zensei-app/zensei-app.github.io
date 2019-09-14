@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: calor"
+title: "Salud respiratoria y calor"
 tag: calor
-robots: noindex
 ---

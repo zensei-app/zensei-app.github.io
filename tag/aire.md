@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: aire"
+title: "Salud respiratoria y aire"
 tag: aire
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: verano"
+title: "Salud respiratoria y verano"
 tag: verano
-robots: noindex
 ---

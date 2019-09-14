@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: insuficiencia"
+title: "Salud respiratoria y insuficiencia"
 tag: insuficiencia
-robots: noindex
 ---

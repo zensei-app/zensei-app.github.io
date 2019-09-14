@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pitidos"
+title: "Salud respiratoria y pitidos"
 tag: pitidos
-robots: noindex
 ---

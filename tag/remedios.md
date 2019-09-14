@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: remedios"
+title: "Salud respiratoria y remedios"
 tag: remedios
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: dolor"
+title: "Salud respiratoria y dolor"
 tag: dolor
-robots: noindex
 ---

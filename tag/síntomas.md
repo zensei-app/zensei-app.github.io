@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: síntomas"
+title: "Salud respiratoria y síntomas"
 tag: síntomas
-robots: noindex
 ---

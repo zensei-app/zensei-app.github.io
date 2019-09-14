@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: fibrosis"
+title: "Salud respiratoria y fibrosis"
 tag: fibrosis
-robots: noindex
 ---

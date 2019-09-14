@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: respirar"
+title: "Salud respiratoria y respirar"
 tag: respirar
-robots: noindex
 ---

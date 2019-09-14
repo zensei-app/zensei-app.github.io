@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: nebulizadores"
+title: "Salud respiratoria y nebulizadores"
 tag: nebulizadores
-robots: noindex
 ---

@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: enfermedades"
+title: "Salud respiratoria y enfermedades"
 tag: enfermedades
-robots: noindex
 ---

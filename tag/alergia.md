@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: alergia"
+title: "Salud respiratoria y alergia"
 tag: alergia
-robots: noindex
 ---

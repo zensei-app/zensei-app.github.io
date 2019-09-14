@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: bronquiolitis"
+title: "Salud respiratoria y bronquiolitis"
 tag: bronquiolitis
-robots: noindex
 ---

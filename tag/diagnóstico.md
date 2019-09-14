@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: diagnóstico"
+title: "Salud respiratoria y diagnóstico"
 tag: diagnóstico
-robots: noindex
 ---

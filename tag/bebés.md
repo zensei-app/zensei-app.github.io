@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: bebés"
+title: "Salud respiratoria y bebés"
 tag: bebés
-robots: noindex
 ---

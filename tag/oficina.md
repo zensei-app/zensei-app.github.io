@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: oficina"
+title: "Salud respiratoria y oficina"
 tag: oficina
-robots: noindex
 ---

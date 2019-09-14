@@ -1,12 +1,10 @@
 ---
 layout: tagpage
-title: "Tag: epoc"
+title: "Salud respiratoria y epoc"
 tag: epoc
-robots: noindex
 ---
 ---
 layout: tagpage
-title: "Tag: EPOC"
+title: "Salud respiratoria y EPOC"
 tag: EPOC
-robots: noindex
 ---

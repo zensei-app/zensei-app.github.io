@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: antibióticos"
+title: "Salud respiratoria y antibióticos"
 tag: antibióticos
-robots: noindex
 ---

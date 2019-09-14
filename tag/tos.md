@@ -1,6 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: tos"
+title: "Salud respiratoria y tos"
 tag: tos
-robots: noindex
 ---
