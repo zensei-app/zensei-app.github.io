@@ -2,7 +2,7 @@
 layout: post
 redirect_from: "/blog/comprar-mejores-nebulizadores-para-asmaticos/"
 toc: true
-title: "\U0001F947Nebulizador para asmáticos (elige el mejor y ahórrate las idas al
+title: "\U0001F947Nebulizador para Asmáticos (elige el mejor y ahórrate las idas al
   hospital de madrugada)"
 date: 2018-10-10T08:00:00.000+00:00
 last_modified_at: 2019-08-22T10:00:00.000+00:00
