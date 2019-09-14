@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F62A ¿Es bueno tomar antibiótico para la sinusitis?"
-date: 2019-06-20 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+title: "\U0001F62A Sinusitis: ¿Es bueno tomar antibiótico?"
+date: 2019-06-20T22:00:00.000+00:00
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Alergia
 author: Ana
 image: "/uploads/Sinusitis.jpg"
@@ -12,7 +12,8 @@ description: No siempre es preciso tomar antibiótico para la sinusitis. Aquí t
 intro: La **sinusitis** puede estar causada por muchos y diversos factores y no todos
   ellos reaccionan a la administración de antibióticos.
 tags: antibióticos sinusitis rinitis alérgica
-redirect_from: /blog/es-bueno-tomar-antibiótico-para-la-sinusitis/
+redirect_from: "/blog/es-bueno-tomar-antibiótico-para-la-sinusitis/"
+
 ---
 ![](/uploads/Sinusitis.jpg)
 
