@@ -8,9 +8,9 @@ date: 2018-05-08T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: "/img/5458857332_d404800a08_b.jpg"
-description: En este artículo vamos a explicarte qué son las sibilancias respiratorias
-  y como tratarlas. Si no lo sabes las sibilancias son esos conocidos pitidos al respirar.
-  Si quieres saber más, pulsa y te contamos más sobre las sibilancias.
+description: En este artículo vamos a explicarte qué son las sibilancias respiratorias,
+  sus causas y como tratarlas. Si no lo sabes las sibilancias son esos conocidos pitidos
+  al respirar. Si quieres saber más, pulsa y te contamos más sobre las sibilancias.
 intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)**
   y son esos conocidos pitidos, silbidos o ruidos al respirar. Su nombre proviene
   precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías
