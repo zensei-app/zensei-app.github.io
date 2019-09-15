@@ -198,7 +198,7 @@ Te proporcionamos algunos **remedios caseros** que te pueden ayudar a mitigar la
 
 En cualquier caso, sea cual sea el remedio que estés utilizando, debes consultar con un médico en caso de que los síntomas perduren después de siete días o notes que se intensifica. También si notas fiebre, dolor en el pecho o náuseas. Por último, tendrás que visitar al facultativo para que examine las causas de esa tos secas si sientes dificultades para respirar.
 
-## **Ejercicios respiratorios para la tos**
+## **\[BONUS\] Ejercicios respiratorios para la tos**
 
 Aquí tienes 3 ejercicios respiratorios para aliviar y asistir la tos.
 
