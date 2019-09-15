@@ -12,13 +12,13 @@ description: Si la tos seca se prolonga por más de una semana o va acompañada 
   tipo de sintomatología, como fiebre o dolor pectoral, debe ser el médico quien valore
   la situación y prescriba el medicamento adecuado.
 intro: La **tos seca**, llamada también tos persistente o tos irritante, se caracteriza
-  por resultar improductiva y muy molesta para el paciente. Veamos cómo distinguirla
-  de otros tipos de tos y cómo actuar frente a ella.
+  por resultar improductiva y muy molesta. Veamos cómo evitarla, distinguirla de otros
+  tipos de tos y cómo actuar frente a ella.
 tags: remedios tos
 redirect_from: "/asma/remedios-tos-seca-garganta-irritada/"
 
 ---
-**La tos seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
+**La** [**tos**](https://es.wikipedia.org/wiki/Tos) **seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
 
 Es fácil comprender que **la tos seca y la garganta irritada** suelen ir de la mano. Por esa razón, es importante que **analicemos la tos y sus causas** y encontremos los mejores **remedios para la tos seca y garganta irritada.**
 
