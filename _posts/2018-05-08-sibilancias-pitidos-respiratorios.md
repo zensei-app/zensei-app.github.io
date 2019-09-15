@@ -1,18 +1,26 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/sibilancias-pitidos-respiratorios/'
-title:  "🌬️ Qué son las Sibilancias (pitidos al respirar) y cómo evitarlas de forma sencilla"
-last_modified_at: 2019-08-22 10:00:00 +0000
-date:   2018-05-08 10:00:00 +0200
+redirect_from: "/blog/sibilancias-pitidos-respiratorios/"
+title: Sibilancias o pitidos al respirar (Causas y cómo evitarlos)
+last_modified_at: 2019-09-15 10:00:00 +0000
+date: 2018-05-08T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Asma
-image: /img/5458857332_d404800a08_b.jpg
-description: En este artículo vamos a explicarte qué son las sibilancias respiratorias y como tratarlas. Si no lo sabes las sibilancias son esos conocidos pitidos al respirar. Si quieres saber más, pulsa y te contamos más sobre las sibilancias.
-intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)** y son esos conocidos pitidos, silbidos o ruidos al respirar. Su nombre proviene precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/> <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan más audibles mientras exhalamos el aire.
+image: "/img/5458857332_d404800a08_b.jpg"
+description: En este artículo vamos a explicarte qué son las sibilancias respiratorias
+  y como tratarlas. Si no lo sabes las sibilancias son esos conocidos pitidos al respirar.
+  Si quieres saber más, pulsa y te contamos más sobre las sibilancias.
+intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm)**
+  y son esos conocidos pitidos, silbidos o ruidos al respirar. Su nombre proviene
+  precisamente del tipo de sonido, parecido al de un silbido. Ocurre cuando las vías
+  respiratorias se estrechan y el aire pasa por un conducto mucho más estrecho. <br/>
+  <br/> En realidad, los **conductos que se cierran son los bronquios y los bronquiolos**,
+  por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos
+  al respirar resultan más audibles mientras exhalamos el aire.
 tags: asma síntomas pitidos
----
 
+---
 <br>
 ![Asma Zensei app sibilancias](/img/5458857332_d404800a08_b.jpg){: .center-image }
 <br>
