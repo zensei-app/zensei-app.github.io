@@ -4,7 +4,7 @@ toc: true
 redirect_from: "/blog/como-detener-un-ataque-de-estornudos/"
 title: "\U0001F927 3 Remedios para detener un ataque de estornudos (Muy sencillos)"
 date: 2018-06-11T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2019-09-15 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: "/img/13397331035_dd80d2f94d_b.jpg"
