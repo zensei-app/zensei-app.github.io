@@ -18,7 +18,7 @@ tags: remedios tos
 redirect_from: "/asma/remedios-tos-seca-garganta-irritada/"
 
 ---
-**La** [**tos**](https://medlineplus.gov/spanish/cough.html) **seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
+**La** [**tos**](https://es.wikipedia.org/wiki/Tos) **seca es uno de los síntomas del asma** más incómodos para el paciente. Pero, también aparece relacionada con **otras causas**. Muchas personas se sienten afectadas por una **tos seca persistente**. Estos **ataques de tos seca**, a menudo, acaban provocando otros síntomas, como dolor de garganta.
 
 Es fácil comprender que **la tos seca y la garganta irritada** suelen ir de la mano. Por esa razón, es importante que **analicemos la tos y sus causas** y encontremos los mejores **remedios para la tos seca y garganta irritada.**
 
