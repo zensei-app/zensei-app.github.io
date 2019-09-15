@@ -2,10 +2,9 @@
 layout: post
 toc: true
 redirect_from: "/blog/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
-title: "\U0001F922 Si sientes que te falta de aire y tienes que respirar profundo
-  (esto son los remdios de los médicos para evitarlo)"
+title: "\U0001F922Sientes que te falta el aire. El remedio de los médicos para evitarlo."
 date: 2018-08-01T08:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: "/img/photo-1531615018523-12556603349f.jpeg"
@@ -13,6 +12,7 @@ description: Conoce las causas por las que te falta el aire y por qué tienes qu
   profundo. Te contamos en este artículo como consiguem evitar la falta de aire los
   médicos.
 tags: remedios asma
+
 ---
 Si sientes [dificultad para respirar](https://medlineplus.gov/spanish/ency/article/003075.htm) profundamente, hondo, por la nariz o sientes sensación de [falta de aire](https://www.tuasaude.com/es/falta-de-aire/) o te cuesta respirar simplemente, solo las personas que lo han padecido saben lo que significa.
 
