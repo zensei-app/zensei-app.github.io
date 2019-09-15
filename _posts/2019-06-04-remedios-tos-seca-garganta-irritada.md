@@ -210,7 +210,6 @@ Los puedes hacer en casa de forma totalmente autónoma.
 2. Rodea tu abdomen con los brazos.
 3. Presiona sobre la pared abdominal
 4. Contrae la musculatura de la caja torácica y se reduce la sensación de dolor.
-5. 
 
 ### **Ejercicios tos asistida (I)**
 
@@ -223,9 +222,19 @@ Los puedes hacer en casa de forma totalmente autónoma.
 ### **Ejercicios tos asistida (II)**
 
 1. Sentado en una silla o en el borde de la cama, lo más derecho posible,
-2. respira lenta y profundamente dirigiendo el aire hacia el abdomen.
+2. Respira lenta y profundamente dirigiendo el aire hacia el abdomen.
 3. Contén la respiración durante 5 segundos
-4. luego, muy lentamente, espira sacando todo el aire de los pulmones
+4. Luego, muy lentamente, espira sacando todo el aire de los pulmones
 5. Realiza una segunda respiración profunda
-6. aguanta el aire 5 segundos
-7. tose dos veces de forma corta y forzada desde el pecho (nunca desde la garganta)
+6. Aguanta el aire 5 segundos
+7. Tose dos veces de forma corta y forzada desde el pecho (nunca desde la garganta)
+
+### Conclusiones
+
+La tos es horrible, más cuando no te deja dormir y llevas días con ella.
+
+Por eso esperamos que este artículo te sirva de ayuda y puedas quitarte esa tos fea. 
+
+Ah!
+
+Si te interesa cuidar aún más de tu tos. Descárgate nuestra app diario de salud respiratoria. 
