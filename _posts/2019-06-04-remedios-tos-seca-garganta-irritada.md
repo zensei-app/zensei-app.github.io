@@ -1,8 +1,8 @@
 ---
 layout: post
 toc: true
-title: "\U0001F616 Tos Seca y Garganta Irritada (Remedios y ejercicios respiratorios
-  para evitar la tos)"
+title: "\U0001F616 15 Remedios para la Tos Seca y Garganta Irritada (+ Ejercicios
+  respiratorios para evitar la tos)"
 date: 2019-06-04T22:00:00.000+00:00
 last_modified_at: 2019-09-15 10:00:00 +0000
 category: []
