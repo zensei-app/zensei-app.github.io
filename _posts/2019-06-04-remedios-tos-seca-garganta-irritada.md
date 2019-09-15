@@ -22,7 +22,7 @@ redirect_from: "/asma/remedios-tos-seca-garganta-irritada/"
 
 Es fácil comprender que **la tos seca y la garganta irritada** suelen ir de la mano. Por esa razón, es importante que **analicemos la tos y sus causas** y encontremos los mejores **remedios para la tos seca y garganta irritada.**
 
-## ¿Qué es la tos?
+## **¿Qué es la tos?**
 
 Lo primero que hay que tener claro es que [**la tos**](https://medlineplus.gov/spanish/ency/article/003072.htm) **no siempre va asociada a una enfermedad**. Las personas sanas también tosen. De hecho, la tos es considerada como una especie de sistema que el cuerpo utiliza para **mantener la limpieza de la tráquea y los bronquios**. Todos tosemos y también lo hacen los animales.
 
@@ -30,7 +30,7 @@ Según las estadísticas, casi un 25% de las personas saludables, y no fumadoras
 
 A veces, la tos se prolonga repetidamente durante el día o se percibe una tos molesta que no cesa. En ese caso, lo mejor es **consultar al médico** o con un farmacéutico.
 
-### Fases de la tos
+### **Fases de la tos**
 
 Pero ¿qué es exactamente la tos? En lenguaje clínico es definida, según el diccionario, como “la expulsión brusca, violenta y ruidosa del aire contenido en los pulmones producida por la irritación de las vías respiratorias o para mantener el aire de los pulmones limpio de sustancias extrañas”.
 
@@ -44,7 +44,7 @@ Pero ¿qué es exactamente la tos? En lenguaje clínico es definida, según el d
 
 El cuerpo está dotado de una serie de **receptores de la tos**. Se encuentran concentrados, en su mayoría, en la garganta y las ramificaciones de las vías respiratorias. En menos cantidad, también aparecen en los senos paranasales, los oídos, el esófago, la barriga, el recubrimiento cardíaco y el de los pulmones.
 
-### Por qué tosemos
+### **Por qué tosemos**
 
 La tos es un **mecanismo reflejo** de nuestro cuerpo. Es decir, se produce incluso sin que tomemos consciencia de ello. Es lo mismo que ocurre al bostezar o al parpadear. Son hechos que realizamos con mucha frecuencia y que son susceptibles de ser **provocados o inhibidos**.
 
@@ -54,7 +54,7 @@ El proceso de toser resulta bastante curioso. **El reflejo desencadena un impuls
 
 Por último, una vez que el impulso ha tocado “techo” se ramifica por el diafragma y la musculatura intercostal y abdominal.
 
-### Qué nos pasa cuando tosemos
+### **Qué nos pasa cuando tosemos**
 
 Cuando los pulmones se encuentran henchidos de aire, se produce el cierre de los canales aéreos de la garganta, ubicados en la laringe. A la vez se va elevando el nivel de compresión en el interior de la caja torácica. Así se inicia la maniobra para esforzarnos y sacar el aire retenido por una glotis cerrada.
 
@@ -64,7 +64,7 @@ Con los ataques de tos, **el contenido de las vías respiratorias se elimina**. 
 
 Es fácil notar que al toser suele producirse [una especie de silbido](https://zenseiapp.com/blog/sibilancias-pitidos-respiratorios/). Su función es la de provocar una vibración en las vías respiratorias. Esta acción acaba sacudiendo la mucosidad y la empuja por la tráquea.
 
-### Cuáles son los tipos de tos
+### **Cuáles son los tipos de tos**
 
 Desde la tos productiva a la tos seca o tos persistente, existen muchos tipos de tos. La clasificación básica es la siguiente:
 
@@ -84,7 +84,7 @@ Desde la tos productiva a la tos seca o tos persistente, existen muchos tipos de
 
 8\. **Tos psicosomática.** Es considerada un tic que acompaña a personas muy nerviosas.
 
-### Qué causas provocan la tos
+### **Cuáles son las causas de la tos**
 
 Las [causas que provocan la tos](https://medlineplus.gov/spanish/ency/article/003072.htm) son muy diversas. Entre ellas destacan las siguientes razones:
 
@@ -108,7 +108,7 @@ Las [causas que provocan la tos](https://medlineplus.gov/spanish/ency/article/00
 
 ![](/uploads/Jarabe para la tos.jpg)
 
-## Cómo se puede calmar la tos
+## **Cómo se puede calmar la tos**
 
 Las fórmulas para calmar estos molestos síntomas **dependen del tipo de tos**. En el caso de la tos seca no productiva se intenta **suavizar el acceso** y contribuir a que desaparezca. Si tratamos con una tos productiva los fines se centran en el uso de **expectorantes y mucolíticos**.
 
@@ -126,7 +126,7 @@ Los fármacos apropiados deberán tomarse, en cualquier caso, dependiendo de la 
 
 En cualquier caso debe quedar muy claro que **el uso de medicamentos antitusígenos debe seguir las medidas y pautas prescritas por el farmacéutico o el médico** que atienda al paciente. Además, las soluciones medicamentosas contra la tos no deben perpetuarse a lo largo del tiempo. Si los síntomas no remiten en un periodo de tres semanas, habrá que volver al especialista para que valore la situación.
 
-### Otras medidas que ayudan a evitar la tos
+### **Otras medidas que ayudan a evitar la tos**
 
 Cuestiones como **un aire demasiado seco o la aspereza de la garganta** pueden hacer que la tos se vea agravada. Para **evitar o mitigar estos agentes** se pueden seguir las siguientes indicaciones:
 
@@ -140,11 +140,11 @@ Cuestiones como **un aire demasiado seco o la aspereza de la garganta** pueden h
 
 · Pedir información al farmacéutico o al especialista para obtener información sobre terapias sustitutivas de la nicotina y recursos o terapias para superar el hábito de fumar.
 
-## Qué es la tos seca
+## **Qué es la tos seca**
 
 Durante el padecimiento de un constipado, la mayor parte de los enfermos padece una tos muy molesta que puede ser productiva o seca. La primera suele ser conocida también como **tos persistente o tos irritante**. Su nivel de incomodidad crece durante el transcurso de la noche.
 
-### ¿Qué se considera tos seca?
+### **¿Qué se considera tos seca?**
 
 Con tos seca nos referimos a ese tipo **reacción espasmódica que no va acompañada de expectoración.** Va de la mano de un ruido fuerte y, en determinados casos, pueden producirse auténticos ataques de tos.
 
@@ -176,7 +176,7 @@ Normalmente suele estar relacionada con algún tipo **de infección de las vías
 
 Otra causa común que favorece la aparición de la tos seca es el hecho de acabar irritando repetidamente las vías respiratorias. Esto puede producirse al **estar sometidos a ambientes perniciosos**, como el humo del tabaco, el polvo o [agentes contaminantes](https://www.ecologiaverde.com/cuales-son-los-agentes-contaminantes-del-aire-1698.html).
 
-### Tos seca jarabe
+### **Tos seca jarabe**
 
 Existen muchos jarabes para aliviar los síntomas de la tos seca. No obstante, uno de los más extendidos es [Histiacil](https://www.vademecum.es/equivalencia-lista-histiacil+g+adulto+jarabe-mexico-r05fa02+p3-mx_1). Figura entre los remedios para la tos seca y garganta irritada más demandados. En España se comercializa bajo el nombre de Cinfatos.
 
@@ -184,7 +184,7 @@ La composición de Histiacil es una combinación de **Dextrometorfano más Guaif
 
 En cualquier de los casos, **antes de tomarlo hay que consultar con el facultativo** y leer bien el prospecto. Hay que recordar que no debe ingerirse ningún medicamento sin la prescripción de un médico.
 
-### Remedios caseros para la tos seca nocturna
+### **Remedios caseros para la tos seca nocturna**
 
 Ya hemos comentado que durante la noche la tos seca empeora y se agudiza al estar tumbados. Durante esas horas se presenta con mayor persistencia y resulta especialmente molesta.
 
@@ -198,14 +198,13 @@ Te proporcionamos algunos **remedios caseros** que te pueden ayudar a mitigar la
 
 En cualquier caso, sea cual sea el remedio que estés utilizando, debes consultar con un médico en caso de que los síntomas perduren después de siete días o notes que se intensifica. También si notas fiebre, dolor en el pecho o náuseas. Por último, tendrás que visitar al facultativo para que examine las causas de esa tos secas si sientes dificultades para respirar.
 
-## Ejercicios respiratorios para la tos
+## **Ejercicios respiratorios para la tos**
 
-Aquí tienes 3 ejercicios respiratorios para aliviar y asistir la tos. 
+Aquí tienes 3 ejercicios respiratorios para aliviar y asistir la tos.
 
 Los puedes hacer en casa de forma totalmente autónoma.
 
-###   
-Ejercicio para aliviar la tos
+### **Ejercicio para aliviar la tos**
 
 1. Siéntate en el borde de la cama con el tronco ligeramente inclinado hacia delante
 2. Rodea tu abdomen con los brazos.
@@ -213,7 +212,7 @@ Ejercicio para aliviar la tos
 4. Contrae la musculatura de la caja torácica y se reduce la sensación de dolor.
 5. 
 
-### Ejercicios tos asistida (I)
+### **Ejercicios tos asistida (I)**
 
 1. Sentado el cuerpo erguido sobre el borde de una cama o una silla.
 2. Flexiona las piernas con los pies sobre la cama.
@@ -221,8 +220,7 @@ Ejercicio para aliviar la tos
 4. Respira por la nariz hinchando el abdomen y retén el aire unos segundos.
 5. Después tose con una ligera inclinación del tronco hacia delante.
 
-###   
-Ejercicios tos asistida (II)
+### **Ejercicios tos asistida (II)**
 
 1. Sentado en una silla o en el borde de la cama, lo más derecho posible,
 2. respira lenta y profundamente dirigiendo el aire hacia el abdomen.
