@@ -1,15 +1,17 @@
 ---
 layout: landing-app
-permalink: /app-gripe/
-title: La app para personas que quieren evitar la gripe
-description: Lleva un control de tu salud respiratoria y evita los horribles síntomas de la gripe.
-intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe. Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
-image: /img/photo-1422433555807-2559a27433bd.jpeg
+permalink: "/app-gripe/"
+title: La App para evitar la Gripe y los malditos resfriados
+description: Lleva un control de tu salud respiratoria y evita los horribles síntomas
+  de la gripe.
+intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe.
+  Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
+image: "/img/photo-1422433555807-2559a27433bd.jpeg"
 category: Gripe
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00
----
 
+---
 ## **En Zensei te ayudamos a controlar tu salud respiratoria con la app diario que hemos diseñado conjúntamente con médicos**
 
 Ahora, no esperes una solución mágica, porque esto es para seres humanos que quieren prevenir los síntomas de la gripe, no para hipocondriacos que están deseando cogerla gripe para no ir a trabajar.

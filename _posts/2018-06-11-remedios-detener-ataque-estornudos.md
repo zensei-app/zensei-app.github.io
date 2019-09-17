@@ -1,18 +1,24 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/como-detener-un-ataque-de-estornudos/'
-title:  "🤧 Rmedios para los estornudos (Resultados rápidos)"
-date:   2018-06-11 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+redirect_from: "/blog/como-detener-un-ataque-de-estornudos/"
+title: "\U0001F927 3 Remedios para detener un ataque de estornudos (Muy sencillos)"
+date: 2018-06-11T08:00:00.000+00:00
+last_modified_at: 2019-09-15 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/13397331035_dd80d2f94d_b.jpg
-description: Si te acaba de dar un ataque de estornudos y no dejas de estornudar. En este artículo te enseñamos como dejar de estornudar con varios trucos y uno super secreto que nadie sabe.
-intro: ¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**. <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza a gotear. 
+image: "/img/13397331035_dd80d2f94d_b.jpg"
+description: Si te acaba de dar un ataque de estornudos y no dejas de estornudar.
+  En este artículo te enseñamos como dejar de estornudar con varios trucos y uno super
+  secreto que nadie sabe.
+intro: "¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas
+  hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**.
+  <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y
+  sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza
+  a gotear."
 tags: alergia polen remedios
----
 
+---
 **¿Cómo detener un ataque de estornudos?**
 
 Es lo que te estarás preguntando verdad.
