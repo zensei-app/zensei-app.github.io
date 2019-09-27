@@ -101,3 +101,5 @@ Dentro de las contraindicaciones, la más extendida es la de las personas que so
 No obstante, no debe administrarse la inyección a personas que hayan mostrado reacciones alérgicas en inoculaciones anteriores. **Las embarazadas deben ponerse la vacuna**, en cualquier momento del embarazo. Ellas son consideradas población de riesgo y la inyección también protege al feto.
 
 Los usuarios deben estar atentos a este calendario de vacunaciones contra la gripe 2019. Al margen de aquellos pacientes en los que la vacuna resulta imprescindible por sus factores de riesgo, también deben vacunarse las personas que convivan con ellos. De este modo se mitiga el riesgo de padecer una gripe y contagiarlos.
+
+Descubre la evolución de la gripe en tiempo real en nuestro [obsevatorio de la gripe (evolución y predicción de la epidemia).](/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/#observatorio-de-la-epidemia-de-la-gripe-en-españa-2019-2020)
