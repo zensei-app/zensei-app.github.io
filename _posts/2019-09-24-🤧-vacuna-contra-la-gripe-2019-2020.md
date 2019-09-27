@@ -11,7 +11,7 @@ description: La vacuna contra la gripe 2019 es la mejor manera de prevenir conta
   con la enfermedad.
 intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe 2019**? Te contamos
   cómo esta solución es la más acertada para mantenerse alejado de la enfermedad."
-tags: gripe, vacunas, campaña de vacunación,
+tags: gripe vacunas vacunación
 
 ---
 ![](/uploads/Vacuna gripe.jpg)
