@@ -10,8 +10,9 @@ image: "/uploads/Campaña vacunación gripe 2019.jpg"
 description: La vacuna contra la gripe para la temporada 2019-2020 es la mejor manera
   de prevenir contagiarse con el virus y evitar los horribles síntomas de la gripe.
   Te contamos todo lo que tienes que saber.
-intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe 2019**? Te contamos
-  cómo esta solución es la más acertada para mantenerse alejado de la enfermedad."
+intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe para la temporada
+  2019-2020**? Te contamos cómo esta solución es la más acertada para mantenerse alejado
+  de la enfermedad."
 tags: gripe vacunas vacunación
 
 ---
