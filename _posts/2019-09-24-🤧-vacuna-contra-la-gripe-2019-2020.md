@@ -5,8 +5,8 @@ title: "\U0001F927 Vacuna contra la gripe 2019 – 2020"
 date: 2019-09-24 22:00:00 +0000
 last_modified_at: 2019-09-24 22:00:00 +0000
 author: Ana
-category: gripe
-image: ''
+category: Gripe
+image: "/uploads/Campaña vacunación gripe 2019.jpg"
 description: La vacuna contra la gripe 2019 es la mejor manera de prevenir contagiarse
   con la enfermedad.
 intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe 2019**? Te contamos
