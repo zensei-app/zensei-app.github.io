@@ -5,7 +5,7 @@ title: "\U0001F476 Dificultad respiratoria del recién nacido"
 date: 2019-09-26 22:00:00 +0000
 last_modified_at: 2019-09-26 22:00:00 +0000
 author: Ana
-category: dificultad respiratoria
+category: salud respiratoria
 image: ''
 description: La Dificultad Respiratoria del Recién Nacido o Síndrome de Dificultad
   Respiratoria afecta sobre todo a neonatos prematuros o nacidos por cesárea
