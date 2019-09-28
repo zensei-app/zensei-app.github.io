@@ -83,6 +83,8 @@ Los bebés que la padecen suelen tener **insuficiencia nutricional, retrasos en 
 
 La Taquipnea Transitoria del Recién Nacido (TTN, por sus siglas en inglés), es **una de las causas principales** en los neonatos que presentan dificultad respiratoria en el recién nacido. Por ello, analizamos más profundamente su etiología.
 
+![](/uploads/Dificultad Respiratoria del Recién Nacido.jpg)
+
 ### Qué es la TTN
 
 El líquido contenido en el saco amniótico es muy importante para el bebé en desarrollo. Este líquido rodea al feto en el útero y actúa como un cojín para protegerlo de lesiones. También mantiene la temperatura estable y es necesario para **el desarrollo de huesos y pulmones sanos.**
