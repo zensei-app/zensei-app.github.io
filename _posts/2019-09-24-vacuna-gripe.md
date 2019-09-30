@@ -14,7 +14,7 @@ intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe para la
   2019-2020**? Te contamos cómo esta solución es la más acertada para mantenerse alejado
   de la enfermedad."
 tags: gripe vacunas vacunación
-redirect_from: /gripe/todo-lo-que-debes-saber-sobre-la-insuficiencia-respiratoria-neonatal/
+redirect_from: /gripe/vacuna-contra-la-gripe-2019-2020/
 ---
 ![](/uploads/Vacuna gripe.jpg)
 
