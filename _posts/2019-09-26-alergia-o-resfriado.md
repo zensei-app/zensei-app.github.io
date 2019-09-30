@@ -5,14 +5,13 @@ title: "\U0001F927\U0001F62A ¿Qué es: alergia o resfriado? "
 date: 2019-09-26 22:00:00 +0000
 last_modified_at: 2019-09-26 22:00:00 +0000
 author: Ana
-category: gripe
-image: ''
+category: Alergia
+image: /uploads/Alergia o resfriado.jpg
 description: "¿Alergia o resfriado? Te mostramos las claves para desentrañar qué te
   ocurre. Hay síntomas que te ayudarán a descubrir la diferencia."
 intro: Muchos pacientes se preguntan si tienen **alergia o resfriado**. La manera
   de diferenciarlos puede ser analizando los síntomas que no comparten ambas patologías.
-tags: alergia, resfriado,
-
+tags: alergia resfriado
 ---
 ![](/uploads/Alergia o resfriado.jpg)
 

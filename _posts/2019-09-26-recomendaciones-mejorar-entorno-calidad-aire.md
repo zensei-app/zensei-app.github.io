@@ -6,15 +6,14 @@ title: "\U0001F3D8️ \U0001F4A8 Recomendaciones para mejorar el entorno y la ca
 date: 2019-09-26 22:00:00 +0000
 last_modified_at: 2019-09-26 22:00:00 +0000
 author: Ana
-category: calidad del aire
-image: ''
+category: Salud respiratoria
+image: uploads/Calidad del aire.jpg
 description: 'La calidad del aire dentro de casa puede ser incluso peor que la del
   exterior. Te desvelamos cómo combatirlo eficazmente. '
 intro: Por increíble que pueda parecer, hay situaciones en que **la calidad del aire**
   en el hogar es inferior al del aire exterior. Aprende cómo liberarte de estos contaminantes
   de manera sencilla.
-tags: calidad aire, vías respiratorias, dificultad respiratoria, asma,
-
+tags: calidad aire purificación asma 
 ---
 ![](/uploads/Calidad del aire.jpg)
 
