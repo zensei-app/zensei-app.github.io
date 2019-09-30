@@ -16,6 +16,8 @@ intro: Por increíble que pueda parecer, hay situaciones en que **la calidad del
 tags: calidad aire, vías respiratorias, dificultad respiratoria, asma,
 
 ---
+![](/uploads/Calidad del aire.jpg)
+
 La calidad del aire y el medio ambiente que nos rodea es de vital importancia para **gozar de buena salud.** La [Organización Mundial de la Salud](https://www.who.int/es/about/who-we-are/frequently-asked-questions) (OMS) no deja lugar a dudas con la siguiente definición:
 
 _“La salud es un estado de completo bienestar físico, mental y social de la persona y no consiste simplemente en una ausencia de enfermedad o enfermedades"._
@@ -37,6 +39,8 @@ Además, hay que tener en cuenta la presencia de **alergenos domésticos**. Entr
 Los diferentes estudios realizados a personas con enfermedades de las vías respiratorias altas y bajas reflejan que su calidad de vida se ve afectada por estos contaminantes. Además de los síntomas específicos que afectan al órgano afectado (nariz, bronquios), hay una procesión de signos generales como la fatiga (astenia), clara fuente de discapacidad en la vida.
 
 Vivir con la nariz continuamente obstruida resulta más problemático que una mera incomodidad. No poder respirar con normalidad afecta a la **calidad del sueño**, siendo éste mucho menos reparador. Mejorar este síntoma, entre otros, es posible gracias a recursos como la **aromaterapia de** [**Sentidea**](https://sentideashop.com/es/).
+
+![](/uploads/Pared con humedad y moho.jpg)
 
 ## Qué hacer para mejorar nuestra salud respiratoria
 
