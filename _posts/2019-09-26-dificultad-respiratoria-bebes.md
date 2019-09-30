@@ -5,15 +5,15 @@ title: "\U0001F476 Dificultad respiratoria del recién nacido"
 date: 2019-09-26 22:00:00 +0000
 last_modified_at: 2019-09-26 22:00:00 +0000
 author: Ana
-category: salud respiratoria
-image: ''
+category: Salud respiratoria
+image: /uploads/Síndrome de dificultad respiratoria.jpg
 description: La Dificultad Respiratoria del Recién Nacido o Síndrome de Dificultad
   Respiratoria afecta sobre todo a neonatos prematuros o nacidos por cesárea
 intro: 'El **Síndrome de Dificultad Respiratoria o Dificultad Respiratoria del Recién
   Nacido** engloba a un grupo de afecciones donde destaca, entre otras, la Taquipnea
   Transitoria del Recién Nacido. Te hablamos de causas y procedimientos para su control. '
-tags: bebés, vías respiratorias, dificultad respiratoria,
-
+tags: bebés dificultad respiratoria
+redirect_from: /salud%20respiratoria/dificultad-respiratoria-del-recién-nacido/
 ---
 ![](/uploads/Síndrome de dificultad respiratoria.jpg)
 
