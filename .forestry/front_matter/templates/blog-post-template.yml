@@ -35,5 +35,3 @@ fields:
 - type: text
   name: tags
   label: tags
-pages:
-- "_posts/⚕️\U0001F637-todo-sobre-las-enfermedades-pulmonares-ocupacionales.md"
