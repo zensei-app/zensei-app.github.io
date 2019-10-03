@@ -5,15 +5,15 @@ title: "\U0001F6AD Sanidad financiará “Champix” para dejar de fumar"
 date: 2019-10-01 22:00:00 +0000
 last_modified_at: 2019-10-01 22:00:00 +0000
 author: Ana
-category: enfermedades pulmonares
-image: ''
+category: Salud respiratoria
+image: '/uploads/Dejar de fumar.jpg'
 description: El ministerio de Sanidad, por primera vez, subvencionará un medicamento
   contra el tabaquismo. Dejar de fumar será más sencillo a partir de enero de 2020.
 intro: La eficacia del Champix para **dejar de fumar** se ha comprobado en más de
   14 ensayos clínicos. Además, la experiencia sanitaria en la Comunidad de Navarra,
   donde lleva dos años subvencionado, arroja una tasa de éxito del 40%.
-tags: enfermedades pulmonares, tabaco, dejar de fumar
-
+tags: tabaco fumar
+redirect_from: /enfermedades%20pulmonares/sanidad-financiará-champix-para-dejar-de-fumar/
 ---
 ![](/uploads/Dejar de fumar.jpg)
 
