@@ -17,6 +17,8 @@ tags: tabaco EPOC
 ---
 ![](/uploads/Cigarrilos electrónicos.jpg)
 
+[Fuente de la imagen Blacknote](https://www.blacknote.com/e-juice/)
+
 Los e-Cigarrillos, comúnmente conocidos como **cigarrillos electrónicos o vapeadores**, son dispositivos que permiten que una persona inhale nicotina. Como estos productos son relativamente nuevos, apenas se han realizado estudios que evalúan, a largo plazo, **los beneficios y los riesgos** que conllevan para la salud.
 
 ## Los riesgos del tabaquismo
