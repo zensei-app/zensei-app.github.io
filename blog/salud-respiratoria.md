@@ -26,8 +26,6 @@ Hemos diseñado una app diario para personas como tú que quieren cuidar de su r
 * Te deice cómo te vas a encontrar mañana.
 * Y ayuda a tu médico a tomar mejores decisiones en base a tus datos de salud.
 
-{% include respiratory-report.html %}
-
 Aquí abajo tienes una lista completa de todos nuestros artículos sobre Salud Respiratoria.
 
 <br>

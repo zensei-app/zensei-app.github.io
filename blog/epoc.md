@@ -61,8 +61,6 @@ Descárgate nuestra app diario aquí.
 
 {% include app-cta-landing.html %}
 
-{% include respiratory-report.html %}
-
 ## **Artículos sobre el EPOCen nuestro blog**
 
 Aquí abajo tienes una lista completa de todos nuestros artículos sobre el EPOC. Solo por si quieres seguir aprendiendo sobre él.

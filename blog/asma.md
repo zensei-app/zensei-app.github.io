@@ -61,8 +61,6 @@ Descárgate nuestra app diario aquí.
 
 {% include app-cta-landing.html %}
 
-{% include respiratory-report.html %}
-
 ## **Artículos sobre el Asma en nuestro blog**
 
 Aquí abajo tienes una lista completa de todos nuestros artículos sobre el asma. Solo por si quieres seguir aprendiendo sobre él.
