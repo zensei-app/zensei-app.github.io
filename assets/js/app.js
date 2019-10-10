@@ -38,25 +38,14 @@ window.twttr = (function(d, s, id) {
   return t;
 }(document, "script", "twitter-wjs"));
 
-
-
-// When the user scrolls the page, execute myFunction 
-window.onscroll = function() {myFunction()};
-
-// Get the header
-var header = document.getElementById("blog-header");
-
-// Get the offset position of the navbar
-var sticky = header.offsetTop;
-
-// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-function myFunction() {
-  if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
+$(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 800) {
+    $('.top-banner').fadeIn();
   } else {
-    header.classList.remove("sticky");
+    $('.top-banner').fadeOut();
   }
-}
+});
 
 $("a").attr("target", "_blank");
 
@@ -218,65 +207,15 @@ var moves = function(){
     });
 }
 
-var drag = function() {
-    $(".draggable").draggable();
-}
 
-$(document).ready(drag);
-$(document).ready(moves);
-
-var tier = getUrlParameter('tier') || 'a';
-
-tiers = {
-  a: 5795,
-  b: 2635,
-  c: 1450
-}
-
-var price = tiers[tier];
-$( "text#price" ).text(price/100);
-
-if(tier == 'b' || tier == 'c'){
-  $("div#pricing").append("<h1 style='font-size:24px; color: red;'><strike>Antes 57.95€<strike></h2>")
-  $("div#pricing").append("<h1 style='font-size:32px; color: green;'>Ahora "+price/100+"€</h2>")
-} else {
-  $("div#pricing").append("<h1 style='font-size:32px; color: #363E40;'>Total 57.95€</h2>")
-}
+// var drag = function() {
+//   $(".draggable").draggable();
+// }
 
 
-var handler = StripeCheckout.configure({
-  key: 'pk_live_OHp9EY8wTbGlS0kYoeEOOXAp',
-  image: '/assets/icon.png',
-  locale: 'auto',
-  token: function(token) {
-    console.log(token)
-    post_to_url(
-      'https://ar8citwnof.execute-api.eu-west-1.amazonaws.com/dev/stripe/charges',
-      {
-        token: token.id,
-        amount: price,
-        currency: 'eur',
-      }
-    )
-    location.href = 'https://zenseiapp.com/es/digital-detox-program/thankyou';
-  }
-});
+// $(document).ready(drag);
+// $(document).ready(moves);
 
-document.getElementById('customButton').addEventListener('click', function(e) {
-  // Open Checkout with further options:
-  handler.open({
-    name: 'Zensei Health',
-    description: 'Digital Detox Program',
-    currency: 'eur',
-    amount: price
-  });
-  e.preventDefault();
-});
-
-// Close Checkout on page navigation:
-window.addEventListener('popstate', function() {
-  handler.close();
-});
 
 function post_to_url(path, params, method) {
   method = method || 'POST';
