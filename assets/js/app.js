@@ -40,7 +40,7 @@ window.twttr = (function(d, s, id) {
 
 $(document).scroll(function() {
   var y = $(this).scrollTop();
-  if (y > 800) {
+  if (y > 1600) {
     $('.top-banner').fadeIn();
   } else {
     $('.top-banner').fadeOut();
