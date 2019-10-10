@@ -25,7 +25,7 @@ layout: blog
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ page.intro | markdownify }}
-    {% include app-cta.html %}
+    {% include app-cta-landing.html %}
     {% if page.toc %}
     <div class="section-nav">
       <h1><b>🔖 Navega el contenido</b></h1>
@@ -43,10 +43,10 @@ layout: blog
   </span>
   <br>
   <br>
-  {% include app-cta.html %}
+  {% include app-cta-landing.html %}
   <br>
   {% include recommended-posts.html %}
-  {% include app-cta-landing.html %}
+  {% include app-cta.html %}
   <ins class="adsbygoogle"
        style="display:block; text-align:center;"
        data-ad-layout="in-article"
