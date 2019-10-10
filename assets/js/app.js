@@ -41,9 +41,9 @@ window.twttr = (function(d, s, id) {
 $(document).scroll(function() {
   var y = $(this).scrollTop();
   if (y > 1600) {
-    $('.top-banner').fadeIn();
+    $('.top-banner').slideDown();
   } else {
-    $('.top-banner').fadeOut();
+    $('.top-banner').slideUp();
   }
 });
 
