@@ -5,19 +5,19 @@ toc: true
 title: "\U0001F47E\U0001F912 Epidemia de Gripe en España 2019-2020 (Síntomas, tratamiento,
   vacunación, prevención y predicción)"
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2019-10-13T10:00:00.000+00:00
 category: Gripe
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
 description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La
   mejor parte? Te vamos a contar que es la gripe, cuáles son sus síntomas, tratamiento,
-  vacunación, prevención, cómo seguir la epidemia de gripe en España (2018-2019) y
+  vacunación, prevención, cómo seguir la epidemia de gripe en España (2019-2020) y
   su incidencia ahora en tiempo real. En resumen: si quieres evitar o tienes la gripe,
   te encantará esta guía.'
 intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La
   mejor parte?<br><br>Te vamos a contar que es la gripe, cuáles son sus síntomas,
   tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España
-  (2018-2019) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres
+  (2019-2020) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres
   evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre
   todo, quieres prevenirla, al final del artículo tendrás un regalo que te será realmente
   útil...'
