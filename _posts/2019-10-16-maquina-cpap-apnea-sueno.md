@@ -6,7 +6,7 @@ date: 2019-10-16 22:00:00 +0000
 last_modified_at: 2019-10-16 22:00:00 +0000
 author: David
 category: Salud respiratoria
-image: ''
+image: "/uploads/vitalaire-paying-for-your-cpap-mobile.jpg"
 description: En este post conocerás las mejores máquinas y máscaras de cpap del mercado
   para mejorar tu apnea del sueño y volver a dormir plácidamente.
 intro: |-
@@ -25,6 +25,8 @@ intro: |-
 tags: apnea cpap
 
 ---
+![Image result for cpap](https://www.vitalaire.ca/sites/vitalaire_ca/files/styles/retina_cover_page/public/2018/05/07/vitalaire-paying-for-your-cpap-mobile.jpg?itok=O_JXsD9p)
+
 Bien
 
 Si tienes algo de sobrepeso, te han recomendado bajar de peso, pero roncas desde hace bastante tiempo y fuerte.
