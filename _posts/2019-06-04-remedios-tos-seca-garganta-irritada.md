@@ -1,10 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F616 15 Remedios para la Tos Seca y Garganta Irritada (+ Ejercicios
-  respiratorios para evitar la tos)"
+title: "\U0001F616 15 Remedios para la Tos Seca y Garganta Irritada "
 date: 2019-06-04T22:00:00.000+00:00
-last_modified_at: 2019-09-15 10:00:00 +0000
+last_modified_at: 2019-10-17 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/Tos seca.jpg"
@@ -237,4 +236,4 @@ Por eso esperamos que este artículo te sirva de ayuda y puedas quitarte esa tos
 
 Ah!
 
-Si te interesa cuidar aún más de tu tos. Descárgate nuestra app diario de salud respiratoria. 
+Si te interesa cuidar aún más de tu tos. Descárgate nuestra app diario de salud respiratoria.
