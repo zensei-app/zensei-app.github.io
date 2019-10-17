@@ -51,7 +51,7 @@ Mira.
 
 Te cuento.
 
-## ¿Qué es el CPAP?
+## **¿Qué es el CPAP?**
 
 [**CPAP**](https://es.wikipedia.org/wiki/CPAP) son las iniciales en inglés de (Continuous Positive Airway Pressure) que en español significa **Presión positiva continua de las vías respiratorias**. 
 
@@ -69,7 +69,7 @@ Eso es justo lo que evita el cpap.
 
 Bien.
 
-## ¿Cuáles son los beneficios de dormir con un CPAP?
+## **¿Cuáles son los beneficios de dormir con un CPAP?**
 
 El CPAP tiene unos beneficios muy claros para tratar la apnea del sueño que son:
 
@@ -80,7 +80,7 @@ El CPAP tiene unos beneficios muy claros para tratar la apnea del sueño que son
 5. **Se reduce la tensión alta.**
 6. **No molestamos a nuestra pareja, familia y amigos** con nuestros ronquidos.
 
-Algunas desventajas.
+## **¿Cuáles son las desventajas de dormir con un CPAP?**
 
 1. Las máquinas de CPAP son caras.
 2. Pueden producir alergias o irritaciones en la piel.
@@ -91,7 +91,7 @@ Bien.
 
 Ahora vamos a ver que necesitas.
 
-## ¿Qué necesito para empezar mi terapia para la apnea del sueño con un CPAP?
+## **¿Qué necesito para empezar mi terapia para la apnea del sueño con un CPAP?**
 
 Vale.
 
@@ -157,7 +157,7 @@ Apenas la sentirás por las noches al principio y luego te acostumbrarás.
 
 [Comprar aquí Máscara Dreamwear]()
 
-## Conclusiones
+## **Conclusiones**
 
 Las máquinas de CPAP es la solución a roncar como un cochino, no descansar por las noches y molestar a tu pareja, familia y amigos.
 
