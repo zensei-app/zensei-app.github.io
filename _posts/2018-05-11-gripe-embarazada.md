@@ -1,16 +1,17 @@
 ---
 layout: post
-redirect_from: '/blog/gripe-estoy-embarazada/'
-title:  "🤧🤰 Tengo gripe y estoy embarazada. Evita coger un gripazo."
-last_modified_at: 2019-08-22 10:00:00 +0000
-date:   2018-05-11 10:00:00 +0200
+redirect_from: "/blog/gripe-estoy-embarazada/"
+title: "\U0001F927\U0001F930 Remedios para evitar la gripe si estás embarazada."
+last_modified_at: 2019-10-17 10:00:00 +0000
+date: 2018-05-11T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Gripe
-image: /img/bird-3058712_1280.jpg
-description: Estamos en primavera, una de las estaciones más bonitas del año. El sol luce esplendoroso, el color estalla en los campos y las calles. Hay mucha luz y podemos disfrutar de un clima bondadoso. Sin embargo, esta felicidad no es...
+image: "/img/bird-3058712_1280.jpg"
+description: Si tienes gripe y estás embarazada, en este artículo podrás conocer los
+  remedios para evitar que cojas la gripe y que afecte a tu embarazo.
 tags: gripe embarazo
----
 
+---
 ¡Menuda faena! Tengo [gripe](https://medlineplus.gov/spanish/flu.html) y estoy embarazada, ¿qué puedo hacer? Sobre todo porque, desde que estoy en estado, **parece que tengo más resfriados** y, en general, más problemas relacionados con el aparato respiratorio. ¿Es normal?
 
 <br>
@@ -42,7 +43,3 @@ Procura tumbarte con un par de almohadas detrás de la cabeza, para que el cuerp
 Sigue la evolución de la epidemia de la gripe en nuestro **[Observatorio de la Gripe para España](/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)** o si quieres puedes seguirla ene nuestra [app](https://zenseiapp.com).
 
 Descárgate [📱 Zensei](https://zenseiapp.com). Es completamente gratuita y es un diario sobre tu salud respiratoria. Puedes ver un montón de aspectos relacionados con este tipo de enfermedades, desde el tiempo que va a hacer, hasta si hay polución, [mucho polen](https://zenseiapp.com/blog/2018/04/26/embarazada-alergia-polen/)… o algunos consejos para que te encuentres mejor.
-
-
-
-
