@@ -12,14 +12,21 @@ description: En este post conocerás las mejores máquinas y máscaras de cpap d
 intro: |-
   En este post conocerás las mejores máquinas y máscaras de cpap para mejorar tu apnea del sueño y volver a dormir plácidamente.
   <br>
+  <br>
   Esta guía también incluye:
   <br>
+  <br>
   Qué es el cpap
+  <br>
   Mejores máquinas y mascarillas de cpap para dormir
+  <br>
   Beneficios de tratar tu apnea del sueño con cpap
+  <br>
   Mucho más
   <br>
+  <br>
   Así que si quieres obtener GRANDES resultados y dejar de roncar como un cochino. Te recomendamos que sigas leyendo.
+  <br>
   <br>
   Vamos a zambullirnos de lleno.
 tags: apnea cpap
