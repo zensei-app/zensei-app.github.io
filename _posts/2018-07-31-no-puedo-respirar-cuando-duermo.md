@@ -2,10 +2,9 @@
 layout: post
 toc: true
 redirect_from: "/blog/por-qué-no-puedo-respirar-cuando-duermo/"
-title: "\U0001F634 Disnea (o Apnea del Sueño): Por qué no puedes respirar bien cuando
-  duermes"
+title: "\U0001F634 Remedios para evitar la falta de aire cuando duermes"
 date: 2018-07-31T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2019-10-17 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
 image: "/img/woman-2197947_1280.jpg"
