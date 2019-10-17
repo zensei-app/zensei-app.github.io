@@ -2,8 +2,8 @@
 layout: post
 redirect_from: "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Síntomas de la Gripe 2019-2020 en España (Sigue la epidemia
-  en tiempo real) "
+title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 en España (Síntomas y
+  previsión) "
 date: 2018-10-19T08:00:00.000+00:00
 last_modified_at: 2019-10-17 10:00:00 +0000
 category: Gripe
@@ -27,6 +27,18 @@ tags: gripe síntomas tratamiento remedios
 <br>
 ![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
 <br>
+
+## **La campaña de la gripe 2019-2020** 
+
+Ya ha comenzado. 
+
+Se prevé un primer repunte en las próximas semanas debido a la caída en las temperaturas.
+
+Es el momento de vacunarse. Ya puedes ir a tu centro de salud para que te administren la vacuna.
+
+Todavía no tenemos datos sobre el tipo de síntomas y la virulencia del virus.
+
+En las próximas semanas podremos ver si el virus está rabioso o viene más apaciguado.
 
 ## **¿Cómo seguir la epidemia de la gripe ahora en tiempo real?**
 
