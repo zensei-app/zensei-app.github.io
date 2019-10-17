@@ -4,7 +4,7 @@ redirect_from: "/blog/productos-hipoalergenicos-alergia-asma/"
 toc: true
 title: "✨ Productos hipoalergénicos para alérgicos y asmáticos "
 date: 2018-10-15T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
 image: "/img/photo-1506664453913-f326aa81f54d.jpeg"
