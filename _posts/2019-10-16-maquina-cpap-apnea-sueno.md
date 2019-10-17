@@ -10,22 +10,22 @@ image: "/uploads/vitalaire-paying-for-your-cpap-mobile.jpg"
 description: En este post conocerás las mejores máquinas y máscaras de cpap del mercado
   para mejorar tu apnea del sueño y volver a dormir plácidamente.
 intro: |-
-  En este post conocerás las mejores máquinas y máscaras de cpap para mejorar tu apnea del sueño y volver a dormir plácidamente.
+  En este post conocerás las mejores máquinas y máscaras de CPAP para mejorar tu apnea del sueño y volver a dormir plácidamente.
   <br>
   <br>
   Esta guía también incluye:
   <br>
   <br>
-  Qué es el cpap
+  1. Qué es el CPAP
   <br>
-  Mejores máquinas y mascarillas de cpap para dormir
+  2. Mejores máquinas y mascarillas de cpap para dormir
   <br>
-  Beneficios de tratar tu apnea del sueño con cpap
+  3. Beneficios de tratar tu apnea del sueño con cpap
   <br>
   Mucho más
   <br>
   <br>
-  Así que si quieres obtener GRANDES resultados y dejar de roncar como un cochino. Te recomendamos que sigas leyendo.
+  Así que si quieres obtener **GRANDES resultados** y dejar de roncar como un cochino. Te recomendamos que sigas leyendo.
   <br>
   <br>
   Vamos a zambullirnos de lleno.
@@ -52,7 +52,7 @@ Y si no lo has hecho, deberías.
 
 En el caso de estar ya diagnosticado, supongo que te habrá recomendado comprar un cpap para tu apnea del sueño.
 
-Vale y qué es un cpap.
+Vale y qué es un CPAP.
 
 Mira.
 
@@ -62,13 +62,15 @@ Te cuento.
 
 [**CPAP**](https://es.wikipedia.org/wiki/CPAP) son las iniciales en inglés de (Continuous Positive Airway Pressure) que en español significa **Presión positiva continua de las vías respiratorias**. 
 
-El **CPAP** es entonces una máquina que se utiliza para tratar la apnea del sueño. 
+El **CPAP** es entonces una máquina que se utiliza para tratar la [**apnea del sueño**](https://www.mayoclinic.org/es-es/diseases-conditions/sleep-apnea/symptoms-causes/syc-20377631). 
 
 Funciona enviando una **presión positiva** continua a las vías aéreas para mantenerlas abiertas y evitar su cierre, esto evita que no deje de pasar el aire por las vías áreas.
 
 En la siguiente imagen puedes ver las diferencias entre ronquidos y apnea del sueño.
 
-![Image result for apnea del sueño número](http://www.u-pharmacist.es/uploads/2/3/7/1/23713723/apnea_orig.png)Como ves, la apnea del sueño es una cierre total de las vías aéreas. 
+![Image result for apnea del sueño número](http://www.u-pharmacist.es/uploads/2/3/7/1/23713723/apnea_orig.png)
+
+Como ves, la apnea del sueño es una cierre total de las vías aéreas. 
 
 Sabías que si estás 5 minutos sin respirar te morirías.
 
