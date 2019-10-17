@@ -4,7 +4,7 @@ redirect_from: "/blog/mejor-mascarilla-asma-alergia-precio/"
 toc: true
 title: "\U0001F947\U0001F637 Mejores Mascarillas antipolución para asmáticos y alérgicos"
 date: 2018-10-02T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
 image: "/img/photo-1526705645973-c3f37d960d3f.jpeg"
