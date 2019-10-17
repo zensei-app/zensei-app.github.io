@@ -2,8 +2,7 @@
 layout: post
 redirect_from: "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 en España (Síntomas y
-  previsión) "
+title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 (Síntomas y previsión) "
 date: 2018-10-19T08:00:00.000+00:00
 last_modified_at: 2019-10-17 10:00:00 +0000
 category: Gripe
