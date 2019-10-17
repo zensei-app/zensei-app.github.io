@@ -39,6 +39,10 @@ Todavía no tenemos datos sobre el tipo de síntomas y la virulencia del virus.
 
 En las próximas semanas podremos ver si el virus está rabioso o viene más apaciguado.
 
+Puedes seguir más abajo el nivel de gripe ahora y evolución y su previsión  de la epidemia de esta temporada 2019-2020.
+
+Actualizamos la previsión todos los jueves de cada semana a las 16:00 horas.
+
 ## **¿Cómo seguir la epidemia de la gripe ahora en tiempo real?**
 
 Mira.
