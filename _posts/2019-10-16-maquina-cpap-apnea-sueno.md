@@ -99,7 +99,7 @@ Lo que necesitas es una máquina de cpap y una mascarilla para mantener mantener
 
 Son las siguientes.
 
-#### **Mejores máquinas de cpap**
+### **Mejores máquinas de cpap**
 
 Las mejores máquinas son la [Philips Dreamstation](https://clk.tradedoubler.com/click?p=151108&a=3104198&url=https%3A%2F%2Fwww.philips.es%2Fc-p%2FHH1508_00%2Fdreamstation-go-cpap-de-viaje) y la Resmed Arsense 10.
 
@@ -139,7 +139,7 @@ Peso: 1,2 Kg.
 
 Precio: 949,99€
 
-#### **Mejor máscara para el cpap**
+### **Mejor máscara para el cpap**
 
 No de más vuelta, hemos hecho un análisis y hemos visto con diferencia que.
 
