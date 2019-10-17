@@ -2,13 +2,14 @@
 layout: post
 toc: true
 title: "\U0001F947 Mejores máquinas de CPAP (Apnea del sueño)"
-date: 2019-10-16 22:00:00 +0000
-last_modified_at: 2019-10-16 22:00:00 +0000
+date: 2019-10-16T22:00:00.000+00:00
+last_modified_at: 2019-10-16T22:00:00.000+00:00
 author: David
 category: Salud respiratoria
 image: "/uploads/vitalaire-paying-for-your-cpap-mobile.jpg"
-description: En este post conocerás las mejores máquinas y máscaras de cpap del mercado
-  para mejorar tu apnea del sueño y volver a dormir plácidamente.
+description: Si estás pensando en comprar un CPAP en este post conocerás las mejores
+  máquinas y máscaras de CPAP del mercado para mejorar tu apnea del sueño y volver
+  a dormir plácidamente.
 intro: |-
   En este post conocerás las mejores máquinas y máscaras de CPAP para mejorar tu apnea del sueño y volver a dormir plácidamente.
   <br>
