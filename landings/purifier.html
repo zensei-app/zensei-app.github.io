@@ -33,7 +33,7 @@ description: Si tienes problemas respiratorios, te ayudamos a respirar mejor.
           <p>Al pulsar el botón de abajo copiarás el código para que puedas utilizarlo.</p>
           <a class="main-cta-top" href="https://clk.tradedoubler.com/click?p=151108&a=3104198&url=https%3A%2F%2Fwww.philips.es%2Fc-p%2FAC3256_10%2Fpurificador-de-aire%3Futm_source%3Dzensei%26utm_medium%3Demail%26utm_campaign%3Dpurifiers-discount" 
           style="text-decoration:none; color: white"
-          onclick="copyToClipboard('#code')">QUIERO UN PURIFICADOR DE AIRE</a>
+          onclick="copyToClipboard('#code'); ga('send', 'event', 'buttons', 'click', 'cta-landing-purifier');">QUIERO UN PURIFICADOR DE AIRE</a>
         </div>
       </div>
       
@@ -59,6 +59,6 @@ description: Si tienes problemas respiratorios, te ayudamos a respirar mejor.
     alert("El código de descuento " + $(element).text() + " ha sido copiado. Utilízalo al pagar. Disfruta de tu nuevo Purificador de Aire. No olvides utilizar Zensei.");
     document.execCommand("copy");
     $temp.remove();
-    ga('send', 'event', 'buttons', 'click', 'cta-landing-purifier');
+    
   }
 </script>
