@@ -15,6 +15,8 @@ intro: Un **embarazo con alergias** no tiene por qué complicarse. En contacto c
 tags: embarazo, alergias, asma
 
 ---
+![](/uploads/Embarazo con alergias.jpg)
+
 Primero nos embarga la emoción, pero a continuación nos inunda la preocupación al tener que sobrellevar un embarazo con alergias. Las mujeres tienen muchas cosas en que pensar cuando están embarazadas. Sin embargo, lo más importante que debéis saber es que el asma y otros problemas alérgicos se encuentran entre las **enfermedades potencialmente más graves** que complican el embarazo.
 
 Aproximadamente **una de cada 100 mujeres embarazadas sufre de asma durante la gestación**. Otras muchas padecen la fiebre del heno y otro tipo de alergias. Por suerte, los alergólogos están perfectamente capacitados para ayudar a estas pacientes a controlar su asma y demás síntomas de alergia durante y después del embarazo.
@@ -60,6 +62,8 @@ Algunas mujeres gestantes también se vacunan contra la alergia. Si la mujer se 
 Es apropiado continuar con las inyecciones antialérgicas durante el embarazo en mujeres que no tienen reacciones a ellas, ya que así logran disminuir sus síntomas de alergia o asma. No hay evidencia de que tengan alguna influencia en la prevención de alergias en el recién nacido.
 
 Sin embargo, **el embarazo no es un buen momento para comenzar un tratamiento de vacunas contra la alergia**. Es posible que puedan causar fuertes reacciones alérgicas. Sin conocer la reacción de una mujer, es mejor retrasar el inicio de estas inyecciones contra la alergia hasta después del parto.
+
+![](/uploads/Embarazo con alergias y polen.jpg)
 
 ## Qué tipos de medicamentos tomar durante el embarazo con alergias
 
