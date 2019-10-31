@@ -5,7 +5,7 @@ subtitle: "¿Has probado ya nuestro Diario de Salud Respiratoria?"
 date: 2019-10-30 00:00:00 +0200
 image: '/assets/img/team.jpg'
 description: Ayudamos al paciente, médico, farmaceúticas y aseguradoras a través de los datos del fenotipo profundo
-seo_description: "En este artículo te contamos que es la salud digital respiratoria y como puedes utilizar el big data para conocer mejor la psicología y comportamiento del paciente respiratorio digital."
+seo_description: "Aquí te contamos quiénes somos, qué hacemos y cómo ayudamos a miles de personas a respirar mejor."
 permalink: /sobre-nosotros/
 ---
 
