@@ -65,6 +65,8 @@ La inhalación de aire frío activa el epitelio para la **secreción de sustanci
 
 Se ha demostrado que la vasodilatación de los vasos bronquiales causa engrosamiento de la mucosa de las vías respiratorias, antagonizando los efectos de la hiperventilación. Además, estimula la hiperreactividad bronquial, lo que puede desencadenar ataques de asma.
 
+![](/uploads/Aire acondicionado 1.jpg)
+
 ## Papel de las vías aéreas superiores frente al asma
 
 Respirar aire frío provoca la broncoconstricción en asmáticos. Si la persona con asma se limita a respirar por la nariz durante una durante la prueba de esfuerzo, prácticamente se inhibe la **respuesta broncoconstrictora** de la vía aérea tras del ejercicio.
