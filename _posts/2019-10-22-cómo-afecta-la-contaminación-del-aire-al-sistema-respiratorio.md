@@ -101,6 +101,8 @@ La misma suerte corren los **pacientes con afecciones cardíacas** (ataques al c
 
 Su aumento también está relacionado con un **mayor índice de muertes tempranas de enfermos pulmonares y cardíacos.** Además, hay evidencia de que la exposición a largo plazo a partículas puede contribuir al desarrollo de cáncer de pulmón y posiblemente asma.
 
+![](/uploads/Polución.jpg)
+
 ### Dióxido de nitrógeno (NO 2)
 
 **El dióxido de nitrógeno es un gas** y un componente importante en los episodios de contaminación del aire urbano.
