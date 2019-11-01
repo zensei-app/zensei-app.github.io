@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Qué es el Síndrome Respiratorio Agudo Severo (SARS)
+title: "\U0001F637 Qué es el Síndrome Respiratorio Agudo Severo (SARS)"
 date: 2019-10-30 23:00:00 +0000
 last_modified_at: 2019-10-30 23:00:00 +0000
 author: Ana
@@ -134,6 +134,8 @@ Los datos preliminares después del comienzo del brote sugirieron que los animal
 Se ha encontrado una amplia gama de otros coronavirus en los murciélagos. Ello sugiere que los murciélagos son el reservorio animal más probable para el brote de SARS. La infección por SARS en animales antes de la llegada a los mercados era poco común y estos animales probablemente no fueron el reservorio original del brote, aunque pudieron haber actuado como **huéspedes amplificadores**.
 
 **La proximidad en la que viven los humanos y el ganado** en las zonas rurales del sur de China puede haber llevado a la transmisión del virus a las personas.
+
+![](/uploads/SARS 1.jpg)
 
 ## Coronavirus del síndrome respiratorio del Medio Oriente (MERS-CoV)
 
