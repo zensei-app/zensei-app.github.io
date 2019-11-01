@@ -14,6 +14,8 @@ intro: La **Neumonía Adquirida en la Comunidad** afecta, sobre todo, a los niñ
 tags: enfermedades pulmonares, neumonía
 
 ---
+![](/uploads/Neumonía Adquirida en la Comunidad.jpg)
+
 La [**Neumonía**](https://www.fesemi.org/informacion-pacientes/conozca-mejor-su-enfermedad/neumonia) **Adquirida en la Comunidad (NAC)** es una infección aguda del parénquima pulmonar. Su acción recae sobre pacientes no hospitalizados o que no han permanecido en centros hospitalarios durante más de 14 días.
 
 La NAC se presenta con una serie de características habituales: **fiebre, síntomas respiratorios y aparición de infiltrados pulmonares.** Estos últimos se detectan a través de una radiografía torácica.
@@ -89,6 +91,8 @@ En niños de hasta 15 años, S. pneumoniae representa entre el 17% y el 28% de t
 Si bien las tasas generales de infecciones neumocócicas invasivas están disminuyendo, **la proporción de aislados que son resistentes a la penicilina o la ceftriaxona está aumentando**. Este desarrollo debería conducir a un cambio en las opciones empíricas de antibióticos para los niños que presentan neumonía.
 
 **Entre los niños en edad escolar, los virus solo representan la mitad de los casos de neumonía.** _M. pneumoniae_ es el segundo agente más común después de _S. pneumoniae_ y se convierte en el patógeno más común en adolescentes jóvenes, identificado en hasta la mitad de los casos. _C. pneumoniae_ es el segundo agente más común después de _M. pneumoniae_ entre los adolescentes jóvenes y representa hasta un tercio de todos los casos de neumonía.
+
+![](/uploads/Neumonía Adquirida en la Comunidad 1.jpg)
 
 ## Hallazgos clínicos sobre la Neumonía Adquirida en la Comunidad
 
