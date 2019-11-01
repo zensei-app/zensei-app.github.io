@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: 'Cómo afecta la contaminación del aire al sistema respiratorio '
+title: "\U0001F32B️\U0001F92F Cómo afecta la contaminación del aire al sistema respiratorio "
 date: 2019-10-22 22:00:00 +0000
 last_modified_at: 2019-10-22 22:00:00 +0000
 author: Ana
