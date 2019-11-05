@@ -6,7 +6,7 @@ date: 2019-10-19 22:00:00 +0000
 last_modified_at: 2019-10-19 22:00:00 +0000
 author: Ana
 category: asma
-image: ''
+image: "/uploads/Embarazo con alergias.jpg"
 description: 'Superar un embarazo con alergias no es tan complicado como puedes pensar
   en un primer momento. Te contamos todo lo que necesitas saber. '
 intro: Un **embarazo con alergias** no tiene por qué complicarse. En contacto con
