@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-title: "❄️\U0001F976 Impacto del aire frío en los bronquios "
+title: "❄️\U0001F976 Cómo afecta el aire frío en los bronquios "
 date: 2019-10-26 22:00:00 +0000
 last_modified_at: 2019-10-26 22:00:00 +0000
 author: Ana
 category: enfermedades pulmonares
-image: ''
+image: "/uploads/Aire frío.jpg"
 description: El invierno y el abuso de los aires acondicionados provoca que bronquios
   y vías respiratorias se vean afectados.
 intro: El clima frío y las bajas temperaturas de los aires acondicionados afectan
