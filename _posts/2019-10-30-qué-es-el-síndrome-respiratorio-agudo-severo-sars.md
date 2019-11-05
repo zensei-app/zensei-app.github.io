@@ -6,7 +6,7 @@ date: 2019-10-30 23:00:00 +0000
 last_modified_at: 2019-10-30 23:00:00 +0000
 author: Ana
 category: enfermedades pulmonares
-image: ''
+image: "/uploads/SARS.jpg"
 description: El SARS solo ha sido protagonistas de dos brotes epidémicos. Su carácter
   virulento y su capacidad de expansión han contribuido a que aún se esté investigando.
 intro: El **Síndrome Respiratorio Agudo Severo**, también conocido como **SARS**,
