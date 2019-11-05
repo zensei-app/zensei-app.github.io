@@ -6,7 +6,7 @@ date: 2019-10-29 23:00:00 +0000
 last_modified_at: 2019-10-29 23:00:00 +0000
 author: Ana
 category: enfermedades pulmonares
-image: ''
+image: "/uploads/Neumonía Adquirida en la Comunidad.jpg"
 description: "¿Sabes qué es la Neumonía Adquirida en la Comunidad? Te contamos todo
   lo relacionado con esta patología que afecta, sobre todo, a los niños."
 intro: La **Neumonía Adquirida en la Comunidad** afecta, sobre todo, a los niños pequeños.
