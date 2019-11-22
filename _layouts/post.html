@@ -1,15 +1,9 @@
 ---
 layout: blog
 ---
-{% include search-bar.html %}
 
 <br>
 <br>
-<p>
-  <a href="/app-{{ page.category | replace: ' ' , '-'  | downcase }}" class="shake">
-    <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
-  </a>
-</p>
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -34,14 +28,11 @@ layout: blog
     {% endif %}
     {{ content | toc_only }}
   </div>
-  <span>
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-    {% endfor %}
-  </span>
-  <br>
-  <br>
+  <p>
+    <a href="/app-{{ page.category | replace: ' ' , '-'  | downcase }}" class="shake">
+      <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
+    </a>
+  </p>
   {% include app-cta-landing.html %}
   <br>
   {% include recommended-posts.html %}
