@@ -38,7 +38,10 @@ fields:
 pages:
 - _posts/cómo-afecta-la-contaminación-del-aire-al-sistema-respiratorio.md
 - _posts/2019-10-26-impacto-del-aire-frío-en-los-bronquios.md
+<<<<<<< HEAD
 - "_posts/\U0001F628\U0001F9F1-qué-es-la-neumonía-adquirida-en-la-comunidad.md"
+=======
+>>>>>>> 9b1d64768954f30d81f4ba838121acab67d86604
 - "_posts/\U0001F930-consejos-para-sobrellevar-un-embarazo-con-alergias.md"
 - _posts/qué-es-el-síndrome-respiratorio-agudo-severo-sars.md
 - _posts/2019-10-16-maquina-cpap-apnea-sueno.md
