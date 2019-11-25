@@ -5,7 +5,7 @@ title: "\U0001F32B️\U0001F92F Cómo afecta la contaminación del aire al siste
 date: 2019-10-22 22:00:00 +0000
 last_modified_at: 2019-10-22 22:00:00 +0000
 author: Ana
-category: calidad del aire
+category: Salud respiratoria
 image: "/uploads/Contaminación.jpg"
 description: Te mostramos cómo afecta la contaminación del aire al sistema respiratorio.
   Es necesario concienciarnos de sus consecuencias.
