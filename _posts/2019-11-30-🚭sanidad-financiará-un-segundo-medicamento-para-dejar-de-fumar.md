@@ -16,6 +16,8 @@ intro: El Bupropión se suma a la lista de fármacos contra el tabaco. Sanidad h
 tags: enfermedades pulmonares, tabaco, dejar de fumar
 
 ---
+![](/uploads/Dejar de fumar 2.jpg)
+
 El sistema público de salud ha decidido incluir **otro medicamento para dejar de fumar** dentro del cupo de fármacos financiados por Sanidad. De este modo, ya son dos medicinas las que se subvencionan en un intento por acabar con el hábito del tabaco.
 
 ## Repunte del tabaquismo
@@ -41,13 +43,15 @@ La Vareniclina lleva, además, más de dos años de ventaja en Navarra. Allí es
 El segundo medicamento para dejar de fumar que entra en el listado de fármacos de Ministerio de Sanidad es el **Bupropión.** Esta medicina tampoco es ajena a la comunidad médica. De hecho ya venía siendo financiado desde hace años.
 
 La novedad estriba en el hecho de que hasta el momento, Bupropión, estaba subvencionado para el tratamiento de personas con problemas de depresión y para quienes precisaban de un ansiolítico.  
- Sin embargo, se había constatado que esta sustancia posee, como efecto secundario, valiosas capacidades para el tratamiento de las personas que desean dejar el tabaco. Concretamente, **el Bupropión también alivia la ansiedad que provoca el síndrome da abstinencia** en los paciente con tabaquismo que inician el proceso de deshabituación.
+Sin embargo, se había constatado que esta sustancia posee, como efecto secundario, valiosas capacidades para el tratamiento de las personas que desean dejar el tabaco. Concretamente, **el Bupropión también alivia la ansiedad que provoca el síndrome da abstinencia** en los paciente con tabaquismo que inician el proceso de deshabituación.
 
 No obstante, aunque la tasa de éxito de Bupropión como medicamento para dejar de fumar también supera el 35%, los médicos de atención primaria y los especialistas del Sistema Nacional de la Seguridad Social no podían recetarlo.
 
 La razón es que estos profesionales no pueden recetar un fármaco financiado para un fin distinto del que ha sido subvencionado. En este caso, al no estarlo como medicamento para dejar de fumar, el Bupropión no podía ser recetado para este fin.
 
 Sin embargo, las farmacéuticas sí lo comercializan desde hace años bajo distintos nombres, aunque **el más conocido es el de Zyntabac**. Aunque su acción es más suave que la de Champix, lo cierto es que los médicos señalan que la elección de uno u otro medicamento se realiza **en base al perfil del paciente.**
+
+![](/uploads/Dejar de fumar 3.jpg)
 
 ### A la espera de otro tratamiento
 
