@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Terapia biológica para el asma severa
+title: "\U0001F489 Terapia biológica para el asma severa"
 date: 2019-12-06 23:00:00 +0000
 last_modified_at: 2019-12-06 23:00:00 +0000
 author: Ana
