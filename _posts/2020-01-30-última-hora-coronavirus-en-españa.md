@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "¡Última hora!: Coronavirus en España"
+title: "\U0001F195 ¡Última hora!: Coronavirus en España"
 date: 2020-01-30 23:00:00 +0000
 last_modified_at: 2020-01-30 23:00:00 +0000
 author: Ana
