@@ -5,8 +5,8 @@ title: "\U0001F9A0 Coronavirus de Wuhan: Fake News vs. Realidad"
 date: 2020-01-29 23:00:00 +0000
 last_modified_at: 2020-01-29 23:00:00 +0000
 author: Ana
-category: gripe
-image: ''
+category: Gripe
+image: "/uploads/coronavirus de Wuhan.jpg"
 description: Se desata el pánico en las redes sociales en torno al coronavirus de
   Wuhan. La causa se encuentra en las fake news que inundan estos canales y se hacen
   virales.
