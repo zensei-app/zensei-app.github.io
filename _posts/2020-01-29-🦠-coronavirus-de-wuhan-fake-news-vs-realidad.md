@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F9A0 Coronavirus de Wuhan: Fake News vs. Realidad"
+title: "\U0001F4F0 Coronavirus de Wuhan: Fake News vs. Realidad"
 date: 2020-01-29 23:00:00 +0000
 last_modified_at: 2020-01-29 23:00:00 +0000
 author: Ana
