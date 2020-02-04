@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F914¿Pueden empeorar los enfermos de EPOC en invierno?"
+title: "¿Pueden empeorar los enfermos de EPOC en invierno?"
 date: 2019-12-18 23:00:00 +0000
 last_modified_at: 2019-12-18 23:00:00 +0000
 author: Ana
