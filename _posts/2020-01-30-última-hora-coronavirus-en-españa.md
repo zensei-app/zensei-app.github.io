@@ -6,7 +6,7 @@ date: 2020-01-30 23:00:00 +0000
 last_modified_at: 2020-01-30 23:00:00 +0000
 author: Ana
 category: gripe
-image: ''
+image: "/uploads/Coronavirus en España.jpeg"
 description: Un turista alemán es el primer caso positivo de coronavirus en España.
   En Cataluña se investiga a un niño procedente de Wuhan.
 intro: Cataluña está investigando un posible segundo caso de **coronavirus en España**.
