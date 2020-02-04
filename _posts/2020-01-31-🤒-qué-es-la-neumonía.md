@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F912 ¿Qué es la neumonía? "
 date: 2020-01-31 23:00:00 +0000
-last_modified_at: 2020-01-31 23:00:00 +0000
+last_modified_at: 2020-02-03 23:00:00 +0000
 author: Ana
 category: Enfermedades pulmonares
 image: "/uploads/Neumonía pulmones.jpg"
