@@ -6,7 +6,7 @@ title: "\U0001F1E8\U0001F1F3\U0001F637 Todo lo que necesitas saber sobre el coro
 date: 2020-01-23 23:00:00 +0000
 last_modified_at: 2020-01-23 23:00:00 +0000
 author: Ana
-category: dificultad respiratoria
+category: Dificultad respiratoria
 image: "/uploads/china con mascarilla.jpeg"
 description: El coronavirus de China ya se ha extendido a varios países. Te contamos
   todo lo que necesitas saber sobre esta enfermedad infecciosa.
