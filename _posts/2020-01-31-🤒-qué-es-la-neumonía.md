@@ -10,7 +10,7 @@ image: "/uploads/Neumonía pulmones.jpg"
 description: La neumonía es una de las infecciones pulmonares más habituales en la
   población. Descubre qué la causa y cuáles son sus tratamientos.
 intro: La **neumonía** suele estar provocada por la infección que generan hongos,
-  virus y bacterias. Sin embargo, no son los únicos que puedan afectar nuestra salud.
+  virus y bacterias. Sin embargo, no son los únicos que puedan afectar a nuestra salud.
   Descubre todo lo que necesitas saber respecto a esta enfermedad pulmonar.
 tags: enfermedades pulmonares, neumonía, infección pulmonar,
 
