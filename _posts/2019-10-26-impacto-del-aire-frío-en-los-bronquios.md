@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "❄️\U0001F976 Cómo afecta el aire frío en los bronquios "
-date: 2019-10-26 22:00:00 +0000
-last_modified_at: 2019-10-26 22:00:00 +0000
+title: "❄️ Cómo afecta el aire frío en los bronquios "
+date: 2019-10-26T22:00:00.000+00:00
+last_modified_at: 2019-10-26T22:00:00.000+00:00
 author: Ana
 category: Gripe
 image: "/uploads/Aire frío.jpg"

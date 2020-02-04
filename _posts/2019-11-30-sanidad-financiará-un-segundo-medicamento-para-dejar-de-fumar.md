@@ -2,11 +2,11 @@
 layout: post
 toc: true
 title: "\U0001F6ADSanidad financiará un segundo medicamento para dejar de fumar "
-date: 2019-11-30 23:00:00 +0000
-last_modified_at: 2019-11-30 23:00:00 +0000
+date: 2019-11-30T23:00:00.000+00:00
+last_modified_at: 2019-11-30T23:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: ''
+image: "/uploads/Dejar de fumar 2.jpg"
 description: El Sistema Nacional de Salud ha decidido financiar un segundo medicamento
   para dejar de fumar. El Bupropión podrá ser recetado a partir del 1 de enero de
   2020.

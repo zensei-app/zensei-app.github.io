@@ -4,7 +4,7 @@ redirect_from: "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
 title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 (Síntomas y previsión) "
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2019-10-17T10:00:00.000+00:00
+last_modified_at: 2020-01-09 11:00:00 +0000
 category: Gripe
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
@@ -28,17 +28,9 @@ tags: gripe síntomas tratamiento remedios
 
 ## **Vigilancia de la gripe 2019-2020**
 
-Ya ha comenzado.
+Ya estamos en epidemia de gripe, es le inicio.
 
-Se prevé un primer repunte en las próximas semanas debido a la caída en las temperaturas.
-
-Es el momento de vacunarse. Ya puedes ir a tu centro de salud para que te administren la vacuna.
-
-Todavía no tenemos datos sobre el tipo de síntomas y la virulencia del virus.
-
-En las próximas semanas podremos ver si el virus está rabioso o viene más apaciguado.
-
-Puedes seguir aquí el virus la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
+Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
 
 Actualizamos la previsión todos los jueves de cada semana a las 16:00 horas.
 
