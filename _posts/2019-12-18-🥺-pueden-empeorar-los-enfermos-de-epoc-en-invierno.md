@@ -1,11 +1,11 @@
 ---
 layout: post
 toc: true
-title: "\U0001F97A¿Pueden empeorar los enfermos de EPOC en invierno?"
+title: "\U0001F914¿Pueden empeorar los enfermos de EPOC en invierno?"
 date: 2019-12-18 23:00:00 +0000
 last_modified_at: 2019-12-18 23:00:00 +0000
 author: Ana
-category: enfermedades pulmonares
+category: Enfermedades pulmonares
 image: "/uploads/Enfermos de EPOC.jpg"
 description: Los enfermos de EPOC en invierno pueden empeorar. Las condiciones climáticas
   y ambientales requieren que el paciente siga una serie de pautas.
