@@ -1,8 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F1E8\U0001F1F3\U0001F637 Todo lo que necesitas saber sobre el coronavirus
-  de China"
+title: Todo lo que necesitas saber sobre el coronavirus de China
 date: 2020-01-23 23:00:00 +0000
 last_modified_at: 2020-01-23 23:00:00 +0000
 author: Ana
