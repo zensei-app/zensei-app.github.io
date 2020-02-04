@@ -14,6 +14,7 @@ intro: Cataluña está investigando un posible segundo caso de **coronavirus en 
   Mientras, el primer caso confirmado evoluciona favorablemente.
 tags: coronavirus epidemia vacunas
 
+
 ---
 ![Coronavirus en España](/uploads/Coronavirus en España.jpeg "Coronavirus")
 

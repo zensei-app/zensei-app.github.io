@@ -14,6 +14,7 @@ intro: La **neumonía** suele estar provocada por la infección que generan hong
   Descubre todo lo que necesitas saber respecto a esta enfermedad pulmonar.
 tags: enfermedades-pulmonares neumonía infección pulmonar
 
+
 ---
 ![Radiografía pulmones con neumonía](/uploads/Neumonía pulmones.jpg "Neumonía")
 
@@ -271,4 +272,8 @@ Además de las vacunas, **los médicos recomiendan** a modo de prevención lo si
 
 · Mantenerse alejado del esputo o las partículas de tos de otras personas con neumonía.
 
+<<<<<<< HEAD
 En general, **recuperarse de una neumonía te llevará entre una y tres semanas**. Aquellas personas con riesgo de padecer los síntomas más graves de esta enfermedad deben asegurarse de mantener al día sus vacunas.
+=======
+En general, **recuperarse de una neumonía te llevará entre una y tres semanas**. Aquellas personas con riesgo de padecer los síntomas más graves de esta enfermedad deben asegurarse de mantener al día sus vacunas.
+>>>>>>> 489e18d593d221d5bb4910debee8b6fe8ca8e0a7

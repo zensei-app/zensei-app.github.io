@@ -15,6 +15,7 @@ intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus d
   y supone elevar el nivel de riesgo.
 tags: sars síndrome-respiratorio-agudo-severo coronavius china
 
+
 ---
 ![SARS](/uploads/china con mascarilla.jpeg "Coronavirus de China")
 
@@ -130,4 +131,8 @@ Tienden a transformarse y mutar mucho. Este hecho hace que el nivel de riesgo qu
 
 En el caso de este último coronavirus de China, no se tiene muy claro la forma en que se propaga. De todos modos, la tesis más acertada parece ser la que apoya el mecanismo de **contagio a través de diminutas gotitas de saliva.**
 
+<<<<<<< HEAD
 El portador del coronavirus de China las excreta a través de la tos. Tal vez, por ello y hasta el momento, los contagios parecen estar más limitados que en 2003. Además, podrían ser más elevados entre personas que mantienen un contacto estrecho, como familiares y trabajadores de la salud.
+=======
+El portador del coronavirus de China las excreta a través de la tos. Tal vez, por ello y hasta el momento, los contagios parecen estar más limitados que en 2003. Además, podrían ser más elevados entre personas que mantienen un contacto estrecho, como familiares y trabajadores de la salud.
+>>>>>>> 489e18d593d221d5bb4910debee8b6fe8ca8e0a7
