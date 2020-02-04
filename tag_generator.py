@@ -24,7 +24,8 @@ for filename in filenames:
         if crawl:
             current_tags = line.strip().split()
             if 'tags:' in current_tags:
-                print current_tags[1:][0]
+                print current_tags
+                # print current_tags[1:][0]
                 total_tags.extend(current_tags[1:])
                 # print(total_tags)
                 crawl = False

@@ -5,14 +5,13 @@ title: "\U0001F489 Terapia biológica para el asma severa"
 date: 2019-12-06T23:00:00.000+00:00
 last_modified_at: 2019-12-06T23:00:00.000+00:00
 author: Ana
-category:
-- Enfermedades pulmonares
+category: Asma
 image: "/uploads/mujer%20inhalador.jpeg"
 description: "¿Eres asmático? ¿Conoces la terapia biológica para el asma severa? Te
   ofrecemos las pautas para que puedas planteársela a tu médico."
 intro: La *terapia biológica para el asma* severa se encuentra dentro de los tratamientos
   de última generación. Te contamos todo lo que necesitas saber sobre ella.
-tags: enfermedades pulmonares, asma, terapia biológica
+tags: enfermedades-pulmonares asma terapia-biológica
 
 ---
 ![](/uploads/mujer inhalador.jpeg)

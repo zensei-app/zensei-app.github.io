@@ -13,7 +13,7 @@ description: 'La calidad del aire dentro de casa puede ser incluso peor que la d
 intro: Por increíble que pueda parecer, hay situaciones en que **la calidad del aire**
   en el hogar es inferior al del aire exterior. Aprende cómo liberarte de estos contaminantes
   de manera sencilla.
-tags: calidad aire purificación asma 
+tags: calidad-aire purificación asma 
 ---
 ![](/uploads/Calidad del aire.jpg)
 

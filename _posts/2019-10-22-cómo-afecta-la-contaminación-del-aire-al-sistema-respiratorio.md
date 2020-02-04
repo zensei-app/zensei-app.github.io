@@ -12,7 +12,7 @@ description: Te mostramos cómo afecta la contaminación del aire al sistema res
 intro: La **contaminación del aire afecta directamente al sistema respiratorio y al
   cardiovascular**. Miles de personas mueren al año por problemas relacionados con
   la polución. Te contamos todo sobre los principales agentes contaminantes.
-tags: calidad aire, vías respiratorias, dificultad respiratoria, asma,
+tags: calidad-aire vías-respiratorias dificultad-respiratoria asma
 
 ---
 ![](/uploads/Contaminación.jpg)

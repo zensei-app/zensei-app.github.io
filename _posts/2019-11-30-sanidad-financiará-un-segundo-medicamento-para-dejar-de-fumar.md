@@ -13,7 +13,7 @@ description: El Sistema Nacional de Salud ha decidido financiar un segundo medic
 intro: El Bupropión se suma a la lista de fármacos contra el tabaco. Sanidad ha decidido
   financiar un segundo *medicamento para dejar de fumar*. Los médicos podrán elegir
   entre este fármaco o la Vareniclina, dependiendo del perfil del paciente.
-tags: enfermedades pulmonares, tabaco, dejar de fumar
+tags: enfermedades-pulmonares tabaco dejar-de-fumar
 
 ---
 ![](/uploads/Dejar de fumar 2.jpg)

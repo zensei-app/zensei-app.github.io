@@ -12,7 +12,7 @@ description: 'Superar un embarazo con alergias no es tan complicado como puedes 
 intro: Un **embarazo con alergias** no tiene por qué complicarse. En contacto con
   tu médico, encontraréis la combinación adecuada de medicamentos y tratamiento para
   mantener tus vías respiratorias en perfecto estado.
-tags: embarazo, alergias, asma
+tags: embarazo alergias asma
 
 ---
 ![](/uploads/Embarazo con alergias.jpg)

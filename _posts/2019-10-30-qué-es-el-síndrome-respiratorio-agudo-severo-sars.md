@@ -12,7 +12,7 @@ description: El SARS solo ha sido protagonistas de dos brotes epidémicos. Su ca
 intro: El **Síndrome Respiratorio Agudo Severo**, también conocido como **SARS**,
   tiene su origen en un coronavirus relacionado con el resfriado común. Sin embargo,
   su virulencia es mucho más preocupante.
-tags: enfermedades pulmonares, SARS, Síndrome Respiratorio Agudo Severo,
+tags: enfermedades pulmonares SARS Síndrome-respiratorio-agudo-severo
 
 ---
 ![](/uploads/SARS.jpg)
