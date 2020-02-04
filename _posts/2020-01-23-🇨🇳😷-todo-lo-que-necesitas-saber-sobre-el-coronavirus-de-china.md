@@ -7,7 +7,7 @@ date: 2020-01-23 23:00:00 +0000
 last_modified_at: 2020-01-23 23:00:00 +0000
 author: Ana
 category: dificultad respiratoria
-image: ''
+image: "/uploads/china con mascarilla.jpeg"
 description: El coronavirus de China ya se ha extendido a varios países. Te contamos
   todo lo que necesitas saber sobre esta enfermedad infecciosa.
 intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus de China**.
