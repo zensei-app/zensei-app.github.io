@@ -19,7 +19,7 @@ tags: enfermedades pulmonares, neumonía, infección pulmonar,
 
 La neumonía es una **infección pulmonar** que puede variar de leve a grave si no ponemos remedio a tiempo. En los casos más serios hay que acudir de inmediato al hospital más cercano.
 
-Ocurre cuando una infección hace que los alveolos (o saquitos de aire) de los pulmones se llenan de líquido o pus. Sin duda, esto dificulta la respiración e impide que llegue suficiente oxígeno al torrente sanguíneo.
+Ocurre cuando una infección hace que los alveolos (o saquitos de aire) de los pulmones se llenen de líquido o pus. Sin duda, esto dificulta la respiración e impide que llegue suficiente oxígeno al torrente sanguíneo.
 
 **Todos somos susceptibles de contraer neumonía**. Sin embargo, son los bebés menores de 2 años y las personas mayores de 65 años las que tienen un mayor riesgo. Se debe a que su sistema inmunológico podría no ser lo suficientemente fuerte como para combatir esta infección pulmonar.
 
