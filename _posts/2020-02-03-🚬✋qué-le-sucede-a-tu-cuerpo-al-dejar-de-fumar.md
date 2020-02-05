@@ -19,7 +19,7 @@ tags: dejar-de-fumar tabaco enfermedades-pulmonares enfermedades-cardiovasculare
 
 **El tabaco es la principal causa de muerte evitable en el mundo**. Su toxicidad es la culpable de enfermedades tan graves como el EPOC, patologías cardiovasculares o, incluso, cáncer de pulmón. Vale la pena abandonar un hábito tan peligroso. Por ello, resultará interesante saber **qué le sucede a tu cuerpo al dejar de fumar.**
 
-Si llevas tiempo fumando, podrías preguntarse si **dejar de fumar vale la pena**. Tal vez el miedo al síndrome de abstinencia de nicotina te frenan en tu empeño. No eres el primer fumador que se autoconvence para no dejarlo. Es fácil dejarse dominar por pensamientos como ‘el daño ya está hecho, ¿realmente voy a conseguir algún beneficio?’
+Si llevas tiempo fumando, podrías preguntarte si **dejar de fumar vale la pena**. Tal vez el miedo al síndrome de abstinencia de nicotina te frenan en tu empeño. No eres el primer fumador que se autoconvence para no dejarlo. Es fácil dejarse dominar por pensamientos como ‘el daño ya está hecho, ¿realmente voy a conseguir algún beneficio?’
 
 ## ¿Vale la pena dejar de fumar?
 
@@ -41,7 +41,7 @@ Al final de tu jornada laboral, **la cantidad de nicotina y monóxido de carbono
 
 Esta reacción causa problemas que afectan a muchas partes de tu organismo. **Desde los músculos hasta el cerebro se ven sometidos a una terrible presión.** La razón es que no logran obtener la cantidad de oxígeno que precisan para su funcionamiento regular. Pero a medida que disminuyen los niveles de la sustancia química, tu nivel de oxígeno vuelve a la normalidad.
 
-Por otro lado, es probable que ya sientas algunos tentaciones. Eso es normal. Pero generalmente **duran solo 5-10 minutos.** Para ayudarte a combatirlo, trata de encontrar formas de distraerte hasta que pase el sentimiento. Puedes masticar chicle o beber agua.
+Por otro lado, es probable que ya sientas algunas tentaciones. Eso es normal. Pero generalmente **duran solo 5-10 minutos.** Para ayudarte a combatirlo, trata de encontrar formas de distraerte hasta que pase el sentimiento. Puedes masticar chicle o beber agua.
 
 #### 12 horas
 
@@ -59,7 +59,7 @@ Con 2 días de descanso ya podrás disfrutar de algo sabroso. En este punto, **t
 
 Tu cuerpo también estará ocupado con mucha limpieza. Tus pulmones expulsan la mucosidad y otras sustancias que quedan de los cigarrillos. Ahora **ya no tienes más nicotina en tu cuerpo**.
 
-Este también es el momento en que **aparecen los síntomas de abstinencia más fuertes**. Puedes sentirse ansioso, mareado, hambriento o cansado. Puedes tener dolores de cabeza o sentirte aburrido o deprimido. Es normal, pero también hace que sea mucho más difícil evitar caer en la tentación de encender otro cigarrillo.
+Este también es el momento en que **aparecen los síntomas de abstinencia más fuertes**. Puedes sentirte ansioso, mareado, hambriento o cansado. Puedes tener dolores de cabeza o sentirte aburrido o deprimido. Es normal, pero también hace que sea mucho más difícil evitar caer en la tentación de encender otro cigarrillo.
 
 Cumple con tu plan. Ve al cine o a cualquier otro lugar en el que te puedas entretener y no esté permitido fumar. **Apóyate en su red de amigos o familiares.** No estaría mal contar también con la ayuda de un terapeuta.
 
