@@ -5,14 +5,14 @@ title: "\U0001F6AC✋Qué le sucede a tu cuerpo al dejar de fumar "
 date: 2020-02-03 23:00:00 +0000
 last_modified_at: 2020-02-03 23:00:00 +0000
 author: Ana
-category: dificultad respiratoria
-image: ''
+category: Dificultad respiratoria
+image: "/uploads/Dejar de fumar 4.jpg"
 description: Si estás pensando en dejar de fumar te recomendamos que leas el timeline
   a través del cual experimentarás una serie de mejoras que te harán reforzar tu decisión.
 intro: El tabaco es una de las principales causas de muerte evitable. Te contamos,
   día a día, cómo se recupera tu cuerpo al **dejar de fumar**.
-tags: dejar de fumar, tabaco, enfermedades pulmonares, enfermedades cardiovasculares,
-  cáncer,
+tags: dejar-de-fumar tabaco enfermedades-pulmonares enfermedades-cardiovasculares
+  cáncer
 
 ---
 ![Humo de tabaco](/uploads/Dejar de fumar 4.jpg "Dejar de fumar")
