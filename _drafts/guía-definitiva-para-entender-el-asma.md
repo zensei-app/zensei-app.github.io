@@ -63,7 +63,7 @@ Los principales síntomas del asma son:
 * **Cansancio durante el día.**
 * Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
-También es importante conocer diferentes situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
+También es importante conocer las situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
 
 * Al hacer **ejercicio físico**, que puede verse agravado con aire frío y seco.
 * En algunos sitios con **vapores químicos, gases o polvos.** Suele darse en algunos lugares de trabajo.
@@ -71,13 +71,13 @@ También es importante conocer diferentes situaciones en las que nuestro asma pu
 
 # Pruebas y diagnóstico del asma
 
-El diagnóstico del asma generalmente comprende una historia clínica, un examen físico y un análisis de los pulmones. Se basa en varios factores incluidos una historia clínica detallada, una exploración física, los síntomas, la salud general y los resultados de los análisis.
+El diagnóstico del asma generalmente comprende una historia clínica detallada, un examen físico, un análisis de los pulmones y conocer los síntomas que se padecen. 
 
 ## Historia clínica
 
-Lo primero que hay que hacer para diagnosticar el asma es **hablar con el médico** sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
+El primer paso para diagnosticar el asma es **hablar con el médico** sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
 
-Es probable que el médico te haga **preguntas** acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
+Es probable que el médico haga **preguntas** acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
 
 Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
@@ -91,20 +91,24 @@ Es posible que el médico haga lo siguientes:
 
 El médico también querrá saber si tienes signos y síntomas frecuentes de asma como de los que te hemos hablado antes (tos, problemas para respirar, opresión en el pecho, etc.).
 
-Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**. El médico también puede recurrir a varias pruebas para determinar cómo están funcionando los pulmones:
+Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**. 
+
+El médico también puede recurrir a varias pruebas para determinar cómo están funcionando los pulmones:
 
 1. **Espirometría**: es la prueba más importante y la que generalmente usan los médicos para diagnosticar el asma en personas mayores de 5 años. Para conocer cómo están funcionando los pulmones te pedirán que inspires profundamente y que sueltes el aire con fuerza dentro de un tubo conectado a una espirómetro. Esto registra tanto la cantidad del aire que exhalas (volumen) como la rapidez con la que exhalas. Si alguna de las mediciones importantes están por debajo de lo normal para una persona de tu edad, puede indicar que el asma ha estrechado las vías respiratorias.
 
-Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior. Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
+Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior. 
 
-1. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
+Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
+
+2. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
 
 En caso de que el asma sea desencadenado por el ejercicio es posible que el médico te pida que hagas actividades físicas para ver si desencadena los síntomas.
 
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
-1. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
-2. **Pruebas de los pulmones en niños**: es muy poco frecuente que los médicos realicen estas pruebas en niños menores de cinco años. Para diagnosticar asma en niños los médicos se basan en los síntomas, su historia clínica y la exploración física.
+3. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
+4. **Pruebas de los pulmones en niños**: es muy poco frecuente realizar estas pruebas en niños menores de cinco años. Para diagnosticar asma infantil los médicos se basan en los síntomas, su historia clínica y la exploración física.
 
 # Tratamiento del asma
 
@@ -115,13 +119,13 @@ Un tratamiento adecuado marca una gran diferencia a la hora de prevenir complica
 El tratamiento debe cubrir varios frentes:
 
 1. **Inflamación de la mucosa bronquial**: es la parte más importante. Por vía inhalatoria las dosis de corticoides empleadas son muy bajas y producen un efecto tópico sin los efectos secundarios de la administración por vía oral, endovenosa o intramuscular. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
-2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, el broncoespasmo remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
+2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
 3. En el caso de que el paciente padezca **alergia**:
    1. Los antihistamínicos pueden ser beneficiosos.
-   2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control del asma.
-   3. Lo más eficaz en el tratamiento de las alergias es evitar y reducir en lo posible la exposición a alérgenos.
+   2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control de ataques de asma.
+   3. Lo más eficaz en el tratamiento de las alergias asmáticas es evitar y reducir en lo posible la exposición a alérgenos.
 
 # Medicamentos para el asma
 
@@ -132,7 +136,7 @@ Los fármacos para tratar el asma se clasifican en dos categorías:
 
 ## Inhaladores y nebulizadores
 
-Los fármacos por vía inhalatoria es a elección ya que actúan directamente en el pulmón, proporciona una mayor cantidad en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos sistémicos.
+Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos sistémicos.
 
 El principal inconveniente de esta vía es la dificultad de la técnica de inhalación con los diferentes dispositivos, por esta razón es muy importante enseñar a los pacientes sobre el uso correcto de los inhaladores.
 
@@ -143,7 +147,7 @@ Los dispositivos de inhalación disponibles en la actualidad son:
 * El inhalador de vapor fino (SMI) Respimat.
 * Inhaladores de polvo seco (DPI).
 
-## Prevención del asma
+# Prevención del asma
 
 No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran ataques de asma. Además, tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
 
