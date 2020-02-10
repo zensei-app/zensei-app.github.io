@@ -104,17 +104,17 @@ Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. 
 
 # Tratamiento del asma
 
-El tratamiento del asma debe seguir un plan global, consensuado entre el médico y el paciente, en el que deben quedar claros los objetivos, los medios para lograrlos y las pautas para su modificación o adaptación a las circunstancias cambiantes de la enfermedad.
+El tratamiento del asma debe **seguir un plan global**, consensuado entre el médico y el paciente, en el que deben quedar claros los objetivos, los medios para lograrlos y las pautas para su modificación o adaptación a las circunstancias cambiantes de la enfermedad.
 
 Un tratamiento adecuado marca una gran diferencia a la hora de prevenir complicaciones a corto y largo plazo producidas por el asma.
 
 El tratamiento debe cubrir varios frentes:
 
-1. Inflamación de la mucosa bronquial: es la parte más importante. Por vía inhalatoria las dosis de corticoides empleadas son muy bajas y producen un efecto tópico sin los efectos secundarios de la administración por vía oral, endovenosa o intramuscular. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
-2. Broncoespasmos: los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, el broncoespasmo remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
+1. **Inflamación de la mucosa bronquial**: es la parte más importante. Por vía inhalatoria las dosis de corticoides empleadas son muy bajas y producen un efecto tópico sin los efectos secundarios de la administración por vía oral, endovenosa o intramuscular. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
+2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, el broncoespasmo remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
-3. En el caso de que el paciente padezca alergia:
+3. En el caso de que el paciente padezca **alergia**:
    1. Los antihistamínicos pueden ser beneficiosos.
    2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control del asma.
    3. Lo más eficaz en el tratamiento de las alergias es evitar y reducir en lo posible la exposición a alérgenos.
@@ -123,8 +123,8 @@ El tratamiento debe cubrir varios frentes:
 
 Los fármacos para tratar el asma se clasifican en dos categorías:
 
-* De control o mantenimiento: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab)
-* De alivio o rescate: se utilizan a demanda para tratar o prevenir la broncoconstricción de forma rápida y, entre ellos, se encuentran los agonistas beta2 adrenérgicos de acción corta (SABA) inhalados (de elección) y los anticolinérgicos inhalados (bromuro de ipratropio).
+* **De control o mantenimiento**: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab)
+* **De alivio o rescate**: se utilizan a demanda para tratar o prevenir la broncoconstricción de forma rápida y, entre ellos, se encuentran los agonistas beta2 adrenérgicos de acción corta (SABA) inhalados (de elección) y los anticolinérgicos inhalados (bromuro de ipratropio).
 
 ## Inhaladores y nebulizadores
 
@@ -143,16 +143,16 @@ Los dispositivos de inhalación disponibles en la actualidad son:
 
 No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran ataques de asma. Además, tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
 
-* Identifica y evita los desencadenantes del asma, por ejemplo, evita lugares con mucho polen o mucha contaminación.
-* Elabora un plan de acción para el asma con tu médico y asegúrate de seguirlo. Tener el tratamiento bajo control te hará sentir que tienes un mayor control de tu vida en general.
-* Toma tus medicamentos según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
-* Aprende a controlar tu respiración y conoce los signos de advertencia de un ataque Esto te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
-* Vacúnate contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
-* Presta atención al uso del inhalador de alivio rápido. Si notas que cada vez lo usas más significa que no está bajo control.
-* Si la causa del asma es una alergia es recomendable evitar la exposición a los agentes que la originan. En el caso de que una persona no esté diagnosticada pero presente síntomas, debe ir al alergólogo.
-* Evitar realizar ejercicios intensos en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
-* En caso de que padezcas rinitis, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
-* Evita fumar y espacios con mucho humo.
+* **Identifica y evita los desencadenantes del asma**, por ejemplo, evita lugares con mucho polen o mucha contaminación.
+* Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo. Tener el tratamiento bajo control te hará sentir que tienes un mayor control de tu vida en general.
+* **Toma tus medicamentos** según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
+* Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque Esto te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
+* **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
+* Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
+* Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. En el caso de que una persona no esté diagnosticada pero presente síntomas, debe ir al alergólogo.
+* Evitar realizar **ejercicios intensos** en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
+* En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
+* Evita **fumar** y espacios con mucho **humo**.
 
 # Complicaciones del asma
 
