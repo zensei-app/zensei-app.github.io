@@ -51,7 +51,7 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 
 # Síntomas del asma
 
-Varían en función de la persona y la edad. 
+Varían en función de la persona y la edad.
 
 La frecuencia de los síntomas pueden ser poco frecuentes o sufrirlos tenerlos constantemente.
 
@@ -71,7 +71,7 @@ También es importante conocer las situaciones en las que nuestro asma puede emp
 
 # Pruebas y diagnóstico del asma
 
-El diagnóstico del asma generalmente comprende una historia clínica detallada, un examen físico, un análisis de los pulmones y conocer los síntomas que se padecen. 
+El diagnóstico del asma generalmente comprende una historia clínica detallada, un examen físico, un análisis de los pulmones y conocer los síntomas que se padecen.
 
 ## Historia clínica
 
@@ -91,13 +91,13 @@ Es posible que el médico haga lo siguientes:
 
 El médico también querrá saber si tienes signos y síntomas frecuentes de asma como de los que te hemos hablado antes (tos, problemas para respirar, opresión en el pecho, etc.).
 
-Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**. 
+Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**.
 
 El médico también puede recurrir a varias pruebas para determinar cómo están funcionando los pulmones:
 
 1. **Espirometría**: es la prueba más importante y la que generalmente usan los médicos para diagnosticar el asma en personas mayores de 5 años. Para conocer cómo están funcionando los pulmones te pedirán que inspires profundamente y que sueltes el aire con fuerza dentro de un tubo conectado a una espirómetro. Esto registra tanto la cantidad del aire que exhalas (volumen) como la rapidez con la que exhalas. Si alguna de las mediciones importantes están por debajo de lo normal para una persona de tu edad, puede indicar que el asma ha estrechado las vías respiratorias.
 
-Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior. 
+Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior.
 
 Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
 
