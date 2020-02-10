@@ -122,7 +122,7 @@ El tratamiento debe cubrir varios frentes:
 2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
-3. En el caso de que el paciente padezca **alergia**:
+3. En el caso de que el paciente padezca **asma alérgica**:
    1. Los antihistamínicos pueden ser beneficiosos.
    2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control de ataques de asma.
    3. Lo más eficaz en el tratamiento de las alergias asmáticas es evitar y reducir en lo posible la exposición a alérgenos.
