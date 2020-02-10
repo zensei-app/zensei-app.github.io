@@ -160,19 +160,19 @@ Cuando el asma empeora, puede llevar a complicaciones más graves.
 
 Algunos de los síntomas que indican que el asma está empeorando son:
 
-* Signos y síntomas que interfieren en el sueño, el trabajo o las actividades recreativas.
-* Días de ausencia al trabajo o a la escuela por enfermedad durante los ataques de asma.
-* Estrechamiento permanente de los tubos bronquiales (remodelación de las vías respiratorias) que afecta la forma en que puedes respirar.
-* Visitas a urgencias y hospitalizaciones por ataques intensos de asma.
-* Efectos secundarios del consumo a largo plazo de algunos medicamentos que se utilizan para estabilizar el asma grave.
+* Signos y síntomas que **interfieren en el sueño**, el trabajo o las actividades recreativas.
+* Días de ausencia al trabajo o a la escuela por **enfermedad durante los ataques de asma.**
+* **Estrechamiento permanente de los tubos bronquiales** (remodelación de las vías respiratorias) que afecta la forma en que puedes respirar.
+* Visitas a urgencias y hospitalizaciones por **ataques intensos de asma.**
+* **Efectos secundarios** del consumo a largo plazo de algunos medicamentos que se utilizan para estabilizar el asma grave.
 
 Las complicaciones del asma pueden llevar a:
 
-* Exacerbaciones asmáticas: se trata de episodios agudos o subagudos de empeoramiento agresivo de los síntomas habituales de asma y descenso del flujo respiratorio, lo que se refleja en un empeoramiento de la función pulmonar.
+* **Exacerbaciones asmáticas:** se trata de episodios agudos o subagudos de empeoramiento agresivo de los síntomas habituales de asma y descenso del flujo respiratorio, lo que se refleja en un empeoramiento de la función pulmonar.
 
 Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) o de forma lenta (durante días o semanas). Además, pueden ser leves, moderadas-graves o suponer una amenaza para la vida de la persona.
 
-* Síndrome de solapamiento Asma-EPOC (ACO): es decir, que un paciente asmático acabe derivando en padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
+* **Síndrome de solapamiento Asma-EPOC (ACO)**: es decir, que un paciente asmático acabe derivando en padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
 
 # Tipos de asma
 
@@ -187,29 +187,29 @@ Existen diferentes clasificaciones:
   * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
 * En función de la situación:
   * **Asma** provocado por el **ejercicio físico**.
-  * **Asma ocupacional: desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.**
-  * **Asma alérgica: causado por sustancias que se encuentran en el aire como el polen o el pelo de las mascotas.**
+  * **Asma ocupacional:** desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.
+  * **Asma alérgica:** causado por sustancias que se encuentran en el aire como el polen o el pelo de las mascotas.
 
 # Cuándo contactar con un médico
 
 Es importante acudir al médico:
 
-* Si crees que tienes asma. Si tienes tos o silbido al respirar que dura más de algunos días o si tienes cualquier otro síntoma o signo de asma. Tratar el asma antes de tiempo puede prevenir daño pulmonar a largo plazo y ayudar a evitar que empeore con el paso del tiempo.
-* Para controlar el asma después del diagnóstico. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
-* Si empeoran los síntomas del asma. Si crees que los medicamentos no están aliviando los síntomas o si necesitas usar el inhalador de alivio rápido con mayor frecuencia. No intentes resolver el problema tomando más medicamentos sin antes consultar con el médico. El abuso de los medicamentos para el asma puede producir efectos secundarios y empeorar el asma.
-* Para revisar tu tratamiento. Con frecuencia, el asma cambia con el paso del tiempo. Reúnete con el médico regularmente para hablar sobre tus síntomas y hacer cualquier ajuste necesario al tratamiento.
+* **Si crees que tienes asma**. Si tienes tos o silbido al respirar que dura más de algunos días o si tienes cualquier otro síntoma o signo de asma. Tratar el asma antes de tiempo puede prevenir daño pulmonar a largo plazo y ayudar a evitar que empeore con el paso del tiempo.
+* Para **controlar el asma después del diagnóstico**. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
+* Si **empeoran los síntomas** del asma. Si crees que los medicamentos no están aliviando los síntomas o si necesitas usar el inhalador de alivio rápido con mayor frecuencia. No intentes resolver el problema tomando más medicamentos sin antes consultar con el médico. El abuso de los medicamentos para el asma puede producir efectos secundarios y empeorar el asma.
+* Para **revisar tu tratamiento**. Con frecuencia, el asma cambia con el paso del tiempo. Reúnete con el médico regularmente para hablar sobre tus síntomas y hacer cualquier ajuste necesario al tratamiento.
 
 Los ataques de asma graves pueden poner en riesgo tu vida. Habla con el médico para determinar qué hacer cuando los signos y síntomas empeoran, y cuándo necesitarás tratamiento de urgencia.
 
 Los signos de urgencia por asma comprenden:
 
-* Rápido empeoramiento de la falta de aire o del silbido al respirar.
-* Falta de mejora, incluso después de usar inhalador de alivio rápido, como salbutamol.
-* Falta de aire cuando haces la mínima actividad física.
+* Rápido **empeoramiento** de la falta de aire o del silbido al respirar.
+* **Falta de mejora**, incluso después de usar inhalador de alivio rápido, como salbutamol.
+* **Falta de aire** cuando haces la mínima actividad física.
 
 # Consejos para evitar el asma
 
-Si no padeces de asma o no eres consciente de ello, es importante que sepas que no existe una cura como tal. En caso de que sí seas padezcas asma, lo más importante para evitar ataques es tenerlo controlado y seguir a conciencia el tratamiento que te haya puesto tu médico.
+Si no padeces de asma o no eres consciente de ello, es importante que sepas que no existe una cura como tal. En caso de que sí seas padezcas asma, lo más importante para evitar ataques es **tenerlo controlado** y **seguir a conciencia el tratamiento** que te haya puesto tu médico.
 
 También es importante conocer los síntomas y signos de un ataque de asma para así poder estar preparado y remediarlo cuanto antes.
 
@@ -303,7 +303,7 @@ Seguir buscando
 
 # Datos interesantes
 
-* La OMS (Organización Mundial de Salud) calcula que en la actualidad hay 236 millones de personas con asma a nivel mundial.
-* El asma está presente en todos los países, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
-* El asma es la enfermedad crónicas más frecuente en los niños, pero puede controlarse.
-* Los niños y adolescentes con asma pueden desarrollar caries y gingivitis.
+* La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
+* El asma está **presente en todos los países**, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
+* El asma es la **enfermedad crónicas más frecuente en los niños**, pero puede controlarse.
+* Los niños y adolescentes con asma pueden desarrollar **caries y gingivitis.**
