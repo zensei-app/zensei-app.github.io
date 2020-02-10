@@ -20,9 +20,9 @@ intro: Conocer y controlar el asma es bastante complicado ya que el asma es una 
 tags: ''
 
 ---
-El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen. 
+El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen.
 
-Esto conlleva, entre otras cosas, dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
+Esto conlleva dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
 
 Dependiendo de la persona, el asma puede ser una molestia menor o una enfermedad que les afecta gravemente en su día a día.
 
@@ -30,7 +30,7 @@ El asma no tiene cura, pero cambia con el tiempo por lo que es importante llevar
 
 # Causas del asma
 
-Actualmente no está claro por qué algunas personas contraen asma y otras no, sin embargo es probable que esté relacionado con ciertos factores conocidos como alérgenos o desencadenantes:
+No está claro por qué algunas personas contraen asma y otras no, pero suele estar relacionado con ciertos factores conocidos como alérgenos o desencadenantes:
 
 * **El polen**: aunque la polinización se produce en primavera, existen variaciones según el clima y los tipos de plantas.
 * **Ácaros de polvo**: son parásitos microscópicos que viven en el polvo de las casas.
@@ -51,7 +51,9 @@ Actualmente no está claro por qué algunas personas contraen asma y otras no, s
 
 # Síntomas del asma
 
-Varían en función de la persona y la edad y es posible que se manifiesten con poca frecuencia, en algunos momentos o constantemente.
+Varían en función de la persona y la edad. 
+
+La frecuencia de los síntomas pueden ser poco frecuentes o sufrirlos tenerlos constantemente.
 
 Los principales síntomas del asma son:
 
