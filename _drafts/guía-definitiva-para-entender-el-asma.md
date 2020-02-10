@@ -26,27 +26,26 @@ Para algunas personas es una molestia menor, pero a otras muchas les afecta grav
 
 El asma no tiene cura, pero cambia con el tiempo por lo que es importante llevar un control y seguimiento con el médico para conocer tus signos y síntomas y ajustar el tratamiento.
 
-#   
-Causas del asma
+# Causas del asma
 
 Actualmente no está claro por qué algunas personas contraen asma y otras no, sin embargo es probable que esté relacionado con ciertos factores conocidos como alérgenos o desencadenantes:
 
 * **El polen**: aunque la polinización se produce en primavera, existen variaciones según el clima y los tipos de plantas.
-* **Ácaros de polvo: son parásitos microscópicos que viven en el polvo de las casas.**
+* **Ácaros de polvo**: son parásitos microscópicos que viven en el polvo de las casas.
 * **Algunos hongos.**
-* **Pelo o caspa de animales: tanto domésticos, como pueden ser los gatos, o no domésticos, como los caballos.**
-* **Algunos medicamentos: como la aspirina, los betabloqueantes, el ibuprofeno o el naproxeno.**
-* **Cambios en el clima: sobre todo el frío.**
-* **Algunos químicos que se añaden a los alimentos y bebidas.**
+* **Pelo o caspa de animales:** tanto domésticos, como pueden ser los gatos, o no domésticos, como los caballos.
+* **Algunos medicamentos:** como la aspirina, los betabloqueantes, el ibuprofeno o el naproxeno.
+* **Cambios en el clima:** sobre todo el frío.
+* **Algunos químicos** que se añaden a los alimentos y bebidas.
 * **Actividad física.**
 * **Infecciones respiratorias.**
-* **Emociones fuertes: como el estrés.**
-* **Contaminantes del aire e irritantes: como el humo del tabaco.**
-* **Tener un pariente consanguíneo con asma.**
-* **Tener alguna alergia: como la dermatitis atópica o rinitis alérgica.**
-* **Tener sobrepeso.**
-* **Ser fumador o estar expuesto al tabaquismo pasivo.**
-* **Estar expuesto a productos químicos en el ámbito laboral: como ocurre en la agricultura, la peluquería y la fabricación.**
+* **Emociones fuertes:** como el estrés.
+* **Contaminantes del aire e irritantes:** como el humo del tabaco.
+* Tener un **pariente consanguíneo con asma.**
+* Tener **alguna alergia:** como la dermatitis atópica o rinitis alérgica.
+* Tener **sobrepeso**.
+* Ser **fumador** o estar expuesto al **tabaquismo pasivo**.
+* Estar expuesto a **productos químicos en el ámbito laboral**: como ocurre en la agricultura, la peluquería y la fabricación.
 
 # Síntomas del asma
 
@@ -54,17 +53,17 @@ Varían en función de la persona y la edad y es posible que se manifiesten con 
 
 Los principales síntomas del asma son:
 
-* Falta de aire o dificultad para respirar, también conocido como disnea.
-* Dolor y opresión en el pecho.
-* Problemas para dormir causados por falta de aire.
-* Cansancio durante el día.
-* Un pitido o silbido al respirar que puede oírse al exhalar.
+* **Falta de aire o dificultad para respirar**, también conocido como disnea.
+* **Dolor y opresión en el pecho**.
+* **Problemas para dormir** causados por falta de aire.
+* **Cansancio durante el día.**
+* Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
 También es importante conocer diferentes situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
 
-* Al hacer ejercicio físico, que puede verse agravado con aire frío y seco.
-* En algunos sitios con vapores químicos, gases o polvos. Suele darse en algunos lugares de trabajo.
-* Existen ciertas sustancias en el aire que pueden afectar a nuestro asma como el polen, las esporas de moho, partículas de piel o pelos y saliva de diferentes mascotas.
+* Al hacer **ejercicio físico**, que puede verse agravado con aire frío y seco.
+* En algunos sitios con **vapores químicos, gases o polvos.** Suele darse en algunos lugares de trabajo.
+* Existen **ciertas sustancias en el aire** que pueden afectar a nuestro asma como el polen, las esporas de moho, partículas de piel o pelos y saliva de diferentes mascotas.
 
 # Pruebas y diagnóstico del asma
 
@@ -72,23 +71,23 @@ El diagnóstico del asma generalmente comprende una historia clínica, un examen
 
 ## Historia clínica
 
-Lo primero que hay que hacer para diagnosticar el asma es hablar con el médico sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
+Lo primero que hay que hacer para diagnosticar el asma es **hablar con el médico** sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
 
-Es probable que el médico te haga preguntas acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
+Es probable que el médico te haga **preguntas** acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
 
-Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de exploraciones para confirmar que se padece de asma antes de establecer un tratamiento a largo plazo.
+Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
 ## Exploración física
 
 Es posible que el médico haga lo siguientes:
 
-* Examinar la nariz, la garganta y las vías respiratorias superiores.
-* Usar un estetoscopio para escuchar la respiración. La sibilancia (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
-* Examinar la piel para detectar signos de afecciones alérgicas, como eccema y urticaria.
+* **Examinar** la nariz, la garganta y las vías respiratorias superiores.
+* Usar un estetoscopio para **escuchar la respiración**. La sibilancia (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
+* **Examinar la piel** para detectar signos de afecciones alérgicas, como eccema y urticaria.
 
 El médico también querrá saber si tienes signos y síntomas frecuentes de asma como de los que te hemos hablado antes (tos, problemas para respirar, opresión en el pecho, etc.).
 
-Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de obstrucción bronquial. Por otro lado, el médico puede recurrir a varias pruebas para determinar cómo están funcionando los pulmones:
+Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**. El médico también puede recurrir a varias pruebas para determinar cómo están funcionando los pulmones:
 
 1. **Espirometría**: es la prueba más importante y la que generalmente usan los médicos para diagnosticar el asma en personas mayores de 5 años. Para conocer cómo están funcionando los pulmones te pedirán que inspires profundamente y que sueltes el aire con fuerza dentro de un tubo conectado a una espirómetro. Esto registra tanto la cantidad del aire que exhalas (volumen) como la rapidez con la que exhalas. Si alguna de las mediciones importantes están por debajo de lo normal para una persona de tu edad, puede indicar que el asma ha estrechado las vías respiratorias.
 
@@ -284,7 +283,7 @@ Si has iniciado un ciclo de inyecciones para la alergia antes del embarazo, pued
 
 Cuidar de ti misma es la mejor manera de cuidar a tu bebé.
 
-16\. MAYORES
+# Mayores
 
 Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad. A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
@@ -298,9 +297,11 @@ Las personas mayores asmáticas requieren una vigilancia especial para cerciorar
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
-17\. ÚLTIMOS AVANCES
+# Últimos avances
 
-18\. DATOS INTERESANTES (INTERACTIVOS)
+Seguir buscando
+
+# Datos interesantes
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay 236 millones de personas con asma a nivel mundial.
 * El asma está presente en todos los países, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
