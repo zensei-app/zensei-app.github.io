@@ -20,9 +20,11 @@ intro: Conocer y controlar el asma es bastante complicado ya que el asma es una 
 tags: ''
 
 ---
-El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen. Esto conlleva, entre otras cosas, dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
+El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen. 
 
-Para algunas personas es una molestia menor, pero a otras muchas les afecta gravemente en su día a día.
+Esto conlleva, entre otras cosas, dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
+
+Dependiendo de la persona, el asma puede ser una molestia menor o una enfermedad que les afecta gravemente en su día a día.
 
 El asma no tiene cura, pero cambia con el tiempo por lo que es importante llevar un control y seguimiento con el médico para conocer tus signos y síntomas y ajustar el tratamiento.
 
