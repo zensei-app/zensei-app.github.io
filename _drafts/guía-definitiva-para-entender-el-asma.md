@@ -1,6 +1,6 @@
 ---
 layout: post
-toc: false
+toc: true
 title: Guía definitiva para entender el Asma
 date: 2020-02-03T23:00:00.000+00:00
 last_modified_at: 2020-02-03T23:00:00.000+00:00
@@ -20,7 +20,7 @@ intro: Conocer y controlar el asma es bastante complicado ya que el asma es una 
 tags: ''
 
 ---
-El asma es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen. Esto conlleva, entre otras cosas, dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
+El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen. Esto conlleva, entre otras cosas, dificultad para respirar, opresión en el pecho, tos y sonidos al respirar, también conocidos como sibilancias.
 
 Para algunas personas es una molestia menor, pero a otras muchas les afecta gravemente en su día a día.
 
@@ -93,14 +93,14 @@ Además de las llamadas pruebas de la alergia o análisis de sangre para demostr
 
 Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior. Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
 
-2. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
+1. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
 
 En caso de que el asma sea desencadenado por el ejercicio es posible que el médico te pida que hagas actividades físicas para ver si desencadena los síntomas.
 
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
-3. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
-4. **Pruebas de los pulmones en niños**: es muy poco frecuente que los médicos realicen estas pruebas en niños menores de cinco años. Para diagnosticar asma en niños los médicos se basan en los síntomas, su historia clínica y la exploración física.
+1. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
+2. **Pruebas de los pulmones en niños**: es muy poco frecuente que los médicos realicen estas pruebas en niños menores de cinco años. Para diagnosticar asma en niños los médicos se basan en los síntomas, su historia clínica y la exploración física.
 
 # Tratamiento del asma
 
