@@ -59,7 +59,7 @@ Los principales síntomas del asma son:
 
 * **Falta de aire o dificultad para respirar**, también conocido como disnea.
 * **Dolor y opresión en el pecho**.
-* **Problemas para dormir** causados por falta de aire.
+* **Problemas para dormir** causados por ataques de asma nocturnos.
 * **Cansancio durante el día.**
 * Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
@@ -136,7 +136,7 @@ Los fármacos para tratar el asma se clasifican en dos categorías:
 
 ## Inhaladores y nebulizadores
 
-Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos sistémicos.
+Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos sistémicos.
 
 El principal inconveniente de esta vía es la dificultad de la técnica de inhalación con los diferentes dispositivos, por esta razón es muy importante enseñar a los pacientes sobre el uso correcto de los inhaladores.
 
@@ -149,7 +149,7 @@ Los dispositivos de inhalación disponibles en la actualidad son:
 
 # Prevención del asma
 
-No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran ataques de asma. Además, tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
+No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas. Además, tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
 
 * **Identifica y evita los desencadenantes del asma**, por ejemplo, evita lugares con mucho polen o mucha contaminación.
 * Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo. Tener el tratamiento bajo control te hará sentir que tienes un mayor control de tu vida en general.
