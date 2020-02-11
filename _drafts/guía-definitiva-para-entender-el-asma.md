@@ -366,7 +366,13 @@ Gracias a la tecnología y los avances médicos se consigue mejorar tanto la cal
 
 Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente. Actualmente destacan en el mercado H&T Presspart y Propeller. 
 
-H&T Presspart, junto a Cohero Health, lanzaron al mercado el primer inhalador de dosis medidas que permite mejorar la adhesión, el autocuidado y el seguimiento en tiempo real del paciente por parte del médico. 
+H&T Presspart, junto a Cohero Health, lanzaron al mercado el primer inhalador de dosis medidas ([eMDI](https://www.presspart.com/es/ht-presspart-y-cohero-health-lanzan-hoy-al-mercado-el-primer-inhalador-de-dosis-medidas-totalmente-conectado-para-optimizar-el-cuidado-del-asma-y-la-epoc/)) que permite mejorar la adhesión, el autocuidado y el seguimiento en tiempo real del paciente por parte del médico. 
+
+Este inhalador tiene sensores integrados en el inhalador que permite conocer la fecha y hora de uso de la medicación y la calidad de la administración. Todos estos datos se recogen en la aplicación BreathSmart y proporciona recordatorios personalizados, alertas e incluso informes semanales. 
+
+Estos datos se pueden compartir con familiares y médicos. 
+
+![](/uploads/eMDIs.jpg)
 
 # Datos interesantes
 
