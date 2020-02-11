@@ -364,7 +364,9 @@ A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos con
 
 Gracias a la tecnología y los avances médicos se consigue mejorar tanto la calidad de vida de los pacientes como los tratamientos. 
 
-Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente.
+Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente. Actualmente destacan en el mercado H&T Presspart y Propeller. 
+
+H&T Presspart, junto a Cohero Health, lanzaron al mercado el primer inhalador de dosis medidas que permite mejorar la adhesión, el autocuidado y el seguimiento en tiempo real del paciente por parte del médico. 
 
 # Datos interesantes
 
