@@ -360,7 +360,11 @@ Es cierto que existen tratamientos cuyo uso es complicado para los más mayores,
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
-Últimos avances
+# Últimos avances
+
+Gracias a la tecnología y los avances médicos se consigue mejorar tanto la calidad de vida de los pacientes como los tratamientos. 
+
+Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente.
 
 # Datos interesantes
 
