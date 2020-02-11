@@ -305,6 +305,8 @@ El asma en adultos está muy ligado a la obesidad, el reflujo gastroesofágico, 
 
 Los síntomas del asma en los adultos se manifiesta con el pecho apretado, silbidos, cansancio que empeora con el ejercicio físico y/o tos persistente.
 
+![](/uploads/hombre-casco-moto-sobre-pared-aislada_1368-72592.jpg)
+
 Hay ciertos meses del año en los que se puede estar más expuesto a factores alérgenos como el polen, la contaminación y las infecciones virales respiratorias. También es importante prestar atención a los cambios de temperatura asociados a la polución.
 
 Es muy importante mantener el asma controlado y, aunque no tengas síntomas, seguir con tu tratamiento y tus medicamentos. En caso de que creas que es necesario ajustar alguna medicación, háblalo con tu médico y él te dirá qué es lo mejor para tu salud.
@@ -312,6 +314,8 @@ Es muy importante mantener el asma controlado y, aunque no tengas síntomas, seg
 # Embarazadas
 
 El asma es una de las enfermedades más comunes que pueden complicar un embarazo, aunque la mayoría de las mujeres asmáticas tienen embarazos normales y, si se lleva un control adecuado del asma, el riesgo de complicaciones es bajo.
+
+![](/uploads/tiro-medio-mujer-embarazada-pie-junto-ventana_23-2148252648.jpg)
 
 Sin embargo, el asma grave o mal controlada durante el embarazo puede aumentar el riesgo de diferentes problemas, entre ellos:
 
@@ -326,6 +330,8 @@ Si el asma mejora, suele ser de forma gradual según avanza el embarazo. Sin emb
 
 En cuanto a los medicamentos, es cierto que cualquier medicina que se tome durante el embarazo puede representar riesgos, sin embargo, los fármacos para el asma pueden usarse sin inconvenientes durante el embarazo.
 
+![](/uploads/mujer-embarazada-tomando-pastillas-embarazo_85869-7435.jpg)
+
 Es importante tomar los medicamentos según lo recetado por tu médico ya que cualquier cambio que hagas en la rutina de fármacos puede influir en la gravedad del asma. Si necesitas ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
 Si has iniciado un ciclo de inyecciones para la alergia antes del embarazo, puedes continuar con él sin problema, pero no se recomienda iniciar un ciclo de inyecciones durante el embarazo.
@@ -334,15 +340,25 @@ Cuidar de ti misma es la mejor manera de cuidar a tu bebé.
 
 # Mayores
 
-Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad. A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
+Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad. 
 
-Es importante diferenciar si el asma se ha iniciado antes de los 40 años o si se ha iniciado después de los 40 años. Según estudios realizados, los pacientes que inician el asma después de los 40 tienen una menor sensibilización alérgica y menos manifestaciones atópicas. Sin embargo, los pacientes que presentan asma antes de los 40 años tienen una mayor obstrucción irreversible al flujo aéreo provocando que el aire se quede atrapado en los pulmones y se inflen en exceso.
+![](/uploads/hombre-asiatico-mayor-tiene-gripe-estornuda-problema-virus-temporada-enfermedad_1439-86.jpg)
+
+Es importante diferenciar si el asma se ha iniciado antes de los 40 años o si se ha iniciado después de los 40 años. 
+
+Según estudios realizados, los pacientes que inician el asma después de los 40 tienen una menor sensibilización alérgica y menos manifestaciones atópicas. 
+
+Sin embargo, los pacientes que presentan asma antes de los 40 años tienen una mayor obstrucción irreversible al flujo aéreo provocando que el aire se quede atrapado en los pulmones y se inflen en exceso.
 
 Otro rasgo a tener en cuenta en las personas mayores es la medicación que toman, sobre todo el uso frecuente de betabloqueantes para la hipertensión arterial, alteraciones cardiacas leves o la tensión ocular, ya que pueden pueden ejercer un efecto negativo en el paciente con asma y dificultar su tratamiento.
 
+![](/uploads/anciana-prepararse-comer-pildora-medicina-diaria_1150-14593.jpg)
+
 Nunca se debe decidir por sí mismo suspender o modificar dosis de algunos medicamentos. Si se necesita ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
-Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento. Es cierto que existen tratamientos cuyo uso es complicado para los más mayores, pero hoy en día hay avances importantes que lo facilitan, como en el caso del inhalador con un único dispositivo provisto de broncodilatadores y corticoides inhalados en polvo seco, lo que permite ajustar la medicación a las necesidades del paciente.
+Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento. 
+
+Es cierto que existen tratamientos cuyo uso es complicado para los más mayores, pero hoy en día hay avances importantes que lo facilitan, como en el caso del inhalador con un único dispositivo provisto de broncodilatadores y corticoides inhalados en polvo seco, lo que permite ajustar la medicación a las necesidades del paciente.
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
