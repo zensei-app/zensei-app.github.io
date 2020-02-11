@@ -67,6 +67,8 @@ Los principales síntomas del asma son:
 * **Cansancio durante el día.**
 * Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
+![](/uploads/mujer-enferma-que-tiene-tos-descansando-cama_23-2147953577.jpg)
+
 También es importante conocer las situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
 
 * Al hacer **ejercicio físico**, que puede verse agravado con aire frío y seco.
@@ -82,6 +84,8 @@ El diagnóstico del asma generalmente comprende una historia clínica detallada,
 El primer paso para diagnosticar el asma es **hablar con el médico** sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
 
 Es probable que el médico haga **preguntas** acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
+
+![](/uploads/llenando-registro-medico_1098-18239.jpg)
 
 Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
