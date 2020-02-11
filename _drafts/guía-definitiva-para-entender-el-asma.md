@@ -1,13 +1,15 @@
 ---
 layout: post
 toc: true
-title: Guía definitiva para entender el Asma
+title: Guía definitiva para entender el asma
 date: 2020-02-03T23:00:00.000+00:00
 last_modified_at: 2020-02-03T23:00:00.000+00:00
 author: ''
 category: Asma
 image: ''
-description: |-
+description: Conocer y controlar el asma es bastante complicado ya que el asma es
+  una enfermedad que puede ser provocada por diversos factores.
+intro: |
   ¿Quieres entender en detalle el asma para poder controlarlo?
 
   No te preocupes en Zensei somos expertos en problemas respiratorios. Y hemos escrito y actualizado esta guía sobre el asma para ti.
@@ -15,8 +17,6 @@ description: |-
   En ella tienes todo lo que tienes que saber para que empieces a entender y controlar el asma. Da igual del tipo que sea.
 
   Empezamos.
-intro: Conocer y controlar el asma es bastante complicado ya que el asma es una enfermedad
-  que puede ser provocada por diversos factores.
 tags: ''
 
 ---
@@ -94,7 +94,7 @@ Los síntomas clínicos del asma se pueden confundir con otras enfermedades tant
 Es posible que el médico haga lo siguientes:
 
 * **Examinar** la nariz, la garganta y las vías respiratorias superiores.
-* Usar un estetoscopio para **escuchar la respiración**. La sibilancia (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
+* Usar un estetoscopio para **escuchar la respiración**. La [sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm) (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
 * **Examinar la piel** para detectar signos de afecciones alérgicas, como eccema y urticaria.
 
 ![](/uploads/doctor-auscultando-paciente_13339-210181.jpg)
@@ -178,7 +178,7 @@ Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu
   ![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.jpg)
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
 * Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. 
-* Evitar realizar **ejercicios intensos** en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
+* Evitar realizar [**ejercicios intensos**](https://zenseiapp.com/asma/practicar-deporte-asma/) en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
 
