@@ -174,11 +174,15 @@ Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu
 * **Toma tus medicamentos** según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
 * Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque. Te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
 * **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
+
+  ![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.jpg)
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
 * Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. 
 * Evitar realizar **ejercicios intensos** en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
+
+  ![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.jpg)
 
 # Complicaciones del asma
 
