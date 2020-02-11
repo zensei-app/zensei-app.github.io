@@ -374,6 +374,10 @@ Estos datos se pueden compartir con familiares y médicos.
 
 ![](/uploads/eMDIs.jpg)
 
+El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor que se conecta al inhalador. Este sensor permite rastrear de forma automática las dosis y recoge información que guarda en la aplicación y que también puede compartirse con la familia o el médico. Además, la aplicación te manda recordatorios e información sobre cuándo, dónde y por qué aparecen síntomas. 
+
+![](/uploads/Propeller-605x340.jpg)
+
 # Datos interesantes
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
