@@ -360,6 +360,8 @@ Es cierto que existen tratamientos cuyo uso es complicado para los más mayores,
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
+Últimos avances
+
 # Datos interesantes
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
