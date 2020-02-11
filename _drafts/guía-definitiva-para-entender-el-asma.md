@@ -36,6 +36,8 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * **Ácaros de polvo**: son parásitos microscópicos que viven en el polvo de las casas.
 * **Algunos hongos.**
 * **Pelo o caspa de animales:** tanto domésticos, como pueden ser los gatos, o no domésticos, como los caballos.
+
+  ![](/uploads/pelo de gato.jpg)
 * **Algunos medicamentos:** como la aspirina, los betabloqueantes, el ibuprofeno o el naproxeno.
 * **Cambios en el clima:** sobre todo el frío.
 * **Algunos químicos** que se añaden a los alimentos y bebidas.
@@ -43,6 +45,8 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * **Infecciones respiratorias.**
 * **Emociones fuertes:** como el estrés.
 * **Contaminantes del aire e irritantes:** como el humo del tabaco.
+
+  ![](/uploads/contaminacion.jpg)
 * Tener un **pariente consanguíneo con asma.**
 * Tener **alguna alergia:** como la dermatitis atópica o rinitis alérgica.
 * Tener **sobrepeso**.
@@ -118,7 +122,7 @@ Un tratamiento adecuado marca una gran diferencia a la hora de prevenir complica
 
 El tratamiento debe cubrir varios frentes:
 
-1. **Inflamación de la mucosa bronquial**: es la parte más importante. Por vía inhalatoria las dosis de corticoides empleadas son muy bajas y producen un efecto tópico sin los efectos secundarios de la administración por vía oral, endovenosa o intramuscular. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
+1. **Inflamación de la mucosa bronquial**: es la parte más importante. Se emplean dosis muy bajas de coirticoides por vía inhalatoria. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
 2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
@@ -136,7 +140,7 @@ Los fármacos para tratar el asma se clasifican en dos categorías:
 
 ## Inhaladores y nebulizadores
 
-Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos sistémicos.
+Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos a todo el cuerpo.
 
 El principal inconveniente de esta vía es la dificultad de la técnica de inhalación con los diferentes dispositivos, por esta razón es muy importante enseñar a los pacientes sobre el uso correcto de los inhaladores.
 
@@ -149,15 +153,17 @@ Los dispositivos de inhalación disponibles en la actualidad son:
 
 # Prevención del asma
 
-No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas. Además, tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
+No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas. 
 
-* **Identifica y evita los desencadenantes del asma**, por ejemplo, evita lugares con mucho polen o mucha contaminación.
-* Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo. Tener el tratamiento bajo control te hará sentir que tienes un mayor control de tu vida en general.
+Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
+
+* **Identifica y evita los desencadenantes del asma** (lugares con polen, por ejemplo).
+* Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo. 
 * **Toma tus medicamentos** según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
-* Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque Esto te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
+* Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque. Te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
 * **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
-* Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. En el caso de que una persona no esté diagnosticada pero presente síntomas, debe ir al alergólogo.
+* Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. 
 * Evitar realizar **ejercicios intensos** en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
@@ -176,18 +182,18 @@ Algunos de los síntomas que indican que el asma está empeorando son:
 
 Las complicaciones del asma pueden llevar a:
 
-* **Exacerbaciones asmáticas:** se trata de episodios agudos o subagudos de empeoramiento agresivo de los síntomas habituales de asma y descenso del flujo respiratorio, lo que se refleja en un empeoramiento de la función pulmonar.
+* **Exacerbaciones asmáticas:** se trata de episodios agudos donde los síntomas habituales empeoran agresivamente. Puede empeorar la función pulmonar. 
 
 Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) o de forma lenta (durante días o semanas). Además, pueden ser leves, moderadas-graves o suponer una amenaza para la vida de la persona.
 
-* **Síndrome de solapamiento Asma-EPOC (ACO)**: es decir, que un paciente asmático acabe derivando en padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
+* **Síndrome de solapamiento Asma-EPOC (ACO)**: es decir, que un paciente asmático llegue a padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
 
 # Tipos de asma
 
 Existen diferentes clasificaciones:
 
 * En función de su origen:
-  * **Asma intrínseca**: su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y tiene a tener una mayor duración.
+  * **Asma intrínseca**: su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
   * **Asma extrínseca o alérgica**: es una reacción antígeno-anticuerpo que desencadena el proceso. Afecta principalmente a niños y adultos jóvenes. Se caracteriza por ataques reversibles y breves de broncoespasmos con silbidos y dificultad respiratoria. Se puede controlar con un tratamiento adecuado.
 * En función de la frecuencia y la intensidad de los síntomas:
   * **Leve**: se puede controlar mediante tratamiento farmacológico y no suele alterar la vida cotidiana de quienes la padecen.
@@ -301,7 +307,7 @@ Otro rasgo a tener en cuenta en las personas mayores es la medicación que toman
 
 Nunca se debe decidir por sí mismo suspender o modificar dosis de algunos medicamentos. Si se necesita ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
-Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento. Es cierto que existen tratamientos cuyo uso es complicado para los más mayores, pero hoy en día hay avances importantes que lo facilitan, como en el caso del inhalador, que existen medicamentos con un único dispositivo provisto de broncodilatadores y corticoides inhalados en polvo seco, lo que permite ajustar la medicación a las necesidades del paciente.
+Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento. Es cierto que existen tratamientos cuyo uso es complicado para los más mayores, pero hoy en día hay avances importantes que lo facilitan, como en el caso del inhalador con un único dispositivo provisto de broncodilatadores y corticoides inhalados en polvo seco, lo que permite ajustar la medicación a las necesidades del paciente.
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
