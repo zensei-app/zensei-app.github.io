@@ -6,7 +6,7 @@ date: 2020-02-03T23:00:00.000+00:00
 last_modified_at: 2020-02-03T23:00:00.000+00:00
 author: ''
 category: Asma
-image: ''
+image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
 description: Conocer y controlar el asma es bastante complicado ya que el asma es
   una enfermedad que puede ser provocada por diversos factores.
 intro: |
