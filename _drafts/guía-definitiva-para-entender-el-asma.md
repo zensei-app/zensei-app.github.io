@@ -156,7 +156,7 @@ Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantid
 
 El principal inconveniente de esta vía es la dificultad de la técnica de inhalación con los diferentes dispositivos, por esta razón es muy importante enseñar a los pacientes sobre el uso correcto de los inhaladores.
 
-Los dispositivos de inhalación disponibles en la actualidad son:
+Los [dispositivos](https://zenseiapp.com/asma/comprar-mejores-nebulizadores-para-asmaticos/) de inhalación disponibles en la actualidad son:
 
 * El inhalador presurizado convencional: se puede utilizar con o sin cámara espaciadora.
 * El sistema Modulite.
@@ -204,14 +204,14 @@ Las complicaciones del asma pueden llevar a:
 
 Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) o de forma lenta (durante días o semanas). Además, pueden ser leves, moderadas-graves o suponer una amenaza para la vida de la persona.
 
-* **Síndrome de solapamiento Asma-EPOC (ACO)**: es decir, que un paciente asmático llegue a padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
+* **Síndrome de solapamiento Asma-EPOC** [**(ACO)**](https://www.livemed.in/blog/-/blogs/sindrome-de-solapamiento-asma-epoc): es decir, que un paciente asmático llegue a padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
 
 # Tipos de asma
 
 Existen diferentes clasificaciones:
 
 * En función de su origen:
-  * **Asma intrínseca**: su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
+  * [**Asma intrínseca**](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx): su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
   * **Asma extrínseca o alérgica**: es una reacción antígeno-anticuerpo que desencadena el proceso. Afecta principalmente a niños y adultos jóvenes. Se caracteriza por ataques reversibles y breves de broncoespasmos con silbidos y dificultad respiratoria. Se puede controlar con un tratamiento adecuado.
 
 
@@ -228,8 +228,6 @@ Existen diferentes clasificaciones:
   * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
 
 # Cuándo contactar con un médico
-
-Es importante acudir al médico:
 
 * **Si crees que tienes asma**. Si tienes tos o silbido al respirar que dura más de algunos días o si tienes cualquier otro síntoma o signo de asma. Tratar el asma antes de tiempo puede prevenir daño pulmonar a largo plazo y ayudar a evitar que empeore con el paso del tiempo.
 * Para **controlar el asma después del diagnóstico**. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
