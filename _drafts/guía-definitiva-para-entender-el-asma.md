@@ -97,6 +97,8 @@ Es posible que el médico haga lo siguientes:
 * Usar un estetoscopio para **escuchar la respiración**. La sibilancia (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
 * **Examinar la piel** para detectar signos de afecciones alérgicas, como eccema y urticaria.
 
+![](/uploads/doctor-auscultando-paciente_13339-210181.jpg)
+
 El médico también querrá saber si tienes signos y síntomas frecuentes de asma como de los que te hemos hablado antes (tos, problemas para respirar, opresión en el pecho, etc.).
 
 Además de las llamadas pruebas de la alergia o análisis de sangre para demostrar una sensibilización alérgica, es necesario confirmar la presencia de **obstrucción bronquial**.
@@ -105,6 +107,8 @@ El médico también puede recurrir a varias pruebas para determinar cómo están
 
 1. **Espirometría**: es la prueba más importante y la que generalmente usan los médicos para diagnosticar el asma en personas mayores de 5 años. Para conocer cómo están funcionando los pulmones te pedirán que inspires profundamente y que sueltes el aire con fuerza dentro de un tubo conectado a una espirómetro. Esto registra tanto la cantidad del aire que exhalas (volumen) como la rapidez con la que exhalas. Si alguna de las mediciones importantes están por debajo de lo normal para una persona de tu edad, puede indicar que el asma ha estrechado las vías respiratorias.
 
+![](/uploads/espirometria.jpg)
+
 Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior.
 
 Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
@@ -112,6 +116,8 @@ Si en los resultados de este segundo intento se ve una mejoría significativa, p
 2. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
 
 En caso de que el asma sea desencadenado por el ejercicio es posible que el médico te pida que hagas actividades físicas para ver si desencadena los síntomas.
+
+![](/uploads/primer-plano-mujer-corriendo-fondo-desenfocado_23-2147600468.jpg)
 
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
@@ -130,6 +136,8 @@ El tratamiento debe cubrir varios frentes:
 2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
+
+      ![](/uploads/primer-plano-mujer-que-usa-inhalador-asma_23-2147948420.jpg)
 3. En el caso de que el paciente padezca **asma alérgica**:
    1. Los antihistamínicos pueden ser beneficiosos.
    2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control de ataques de asma.
