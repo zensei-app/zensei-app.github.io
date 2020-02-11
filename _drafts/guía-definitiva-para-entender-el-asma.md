@@ -17,7 +17,7 @@ intro: |
   En ella tienes todo lo que tienes que saber para que empieces a entender y controlar el asma. Da igual del tipo que sea.
 
   Empezamos.
-tags: ''
+tags: asma sintomas causas definicion ataque dificultad-respiratoria
 
 ---
 El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen.
@@ -317,7 +317,7 @@ El asma es una de las enfermedades más comunes que pueden complicar un embarazo
 
 Sin embargo, el asma grave o mal controlada durante el embarazo puede aumentar el riesgo de diferentes problemas, entre ellos:
 
-* Presión arterial alta y signos de daños en otros sistemas de órganos, como en los riñones (preeclampsia).
+* Presión arterial alta y signos de daños en otros sistemas de órganos, como en los riñones ([preeclampsia](https://www.mayoclinic.org/es-es/diseases-conditions/preeclampsia/symptoms-causes/syc-20355745)).
 * Crecimiento fetal restringido.
 * Nacimiento prematuro.
 * La necesidad de una cesárea.
