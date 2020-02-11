@@ -196,6 +196,8 @@ Algunos de los síntomas que indican que el asma está empeorando son:
 * Visitas a urgencias y hospitalizaciones por **ataques intensos de asma.**
 * **Efectos secundarios** del consumo a largo plazo de algunos medicamentos que se utilizan para estabilizar el asma grave.
 
+![](/uploads/blur-hospital_1203-7957.jpg)
+
 Las complicaciones del asma pueden llevar a:
 
 * **Exacerbaciones asmáticas:** se trata de episodios agudos donde los síntomas habituales empeoran agresivamente. Puede empeorar la función pulmonar. 
@@ -211,14 +213,19 @@ Existen diferentes clasificaciones:
 * En función de su origen:
   * **Asma intrínseca**: su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
   * **Asma extrínseca o alérgica**: es una reacción antígeno-anticuerpo que desencadena el proceso. Afecta principalmente a niños y adultos jóvenes. Se caracteriza por ataques reversibles y breves de broncoespasmos con silbidos y dificultad respiratoria. Se puede controlar con un tratamiento adecuado.
-* En función de la frecuencia y la intensidad de los síntomas:
-  * **Leve**: se puede controlar mediante tratamiento farmacológico y no suele alterar la vida cotidiana de quienes la padecen.
-  * **Moderada**: requiere tratamientos más severos e interfiere con las actividades diarias de quienes la padecen.
-  * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
+
+
 * En función de la situación:
   * **Asma** provocado por el **ejercicio físico**.
   * **Asma ocupacional:** desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.
   * **Asma alérgica:** causado por sustancias que se encuentran en el aire como el polen o el pelo de las mascotas.
+
+# ![](/uploads/mujeres-tienen-dolor-pecho-mientras-corren-jardin_42310-100.jpg)
+
+* En función de la frecuencia y la intensidad de los síntomas:
+  * **Leve**: se puede controlar mediante tratamiento farmacológico y no suele alterar la vida cotidiana de quienes la padecen.
+  * **Moderada**: requiere tratamientos más severos e interfiere con las actividades diarias de quienes la padecen.
+  * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
 
 # Cuándo contactar con un médico
 
@@ -228,6 +235,8 @@ Es importante acudir al médico:
 * Para **controlar el asma después del diagnóstico**. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
 * Si **empeoran los síntomas** del asma. Si crees que los medicamentos no están aliviando los síntomas o si necesitas usar el inhalador de alivio rápido con mayor frecuencia. No intentes resolver el problema tomando más medicamentos sin antes consultar con el médico. El abuso de los medicamentos para el asma puede producir efectos secundarios y empeorar el asma.
 * Para **revisar tu tratamiento**. Con frecuencia, el asma cambia con el paso del tiempo. Reúnete con el médico regularmente para hablar sobre tus síntomas y hacer cualquier ajuste necesario al tratamiento.
+
+![](/uploads/primer-plano-medico-llenando-formulario-medico-paciente_23-2148050550.jpg)
 
 Los ataques de asma graves pueden poner en riesgo tu vida. Habla con el médico para determinar qué hacer cuando los signos y síntomas empeoran, y cuándo necesitarás tratamiento de urgencia.
 
@@ -245,9 +254,15 @@ También es importante conocer los síntomas y signos de un ataque de asma para 
 
 # Bebés
 
-Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la función pulmonar. Por ello, el pediatra dependerá mucho de los síntomas de tu hijo, la información que le puedas facilitar al respecto y si algún miembro de la familia sufre asma.
+Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la función pulmonar. 
 
-Es importante saber si el bebé sufre sibilancia, tos o respira rápido cuando está resfriado, en contacto con animales o en lugares con mucho humo o polvo. También es importante informar al pediatra de cualquier tos excesiva que el bebé pueda tener, sobre todo durante la noche.
+Por ello, el pediatra dependerá mucho de los síntomas de tu hijo, la información que le puedas facilitar al respecto y si algún miembro de la familia sufre asma.
+
+![](/uploads/bebe-visitando-hospital-mama_1098-21198.jpg)
+
+Es importante saber si el bebé sufre sibilancia, tos o respira rápido cuando está resfriado, en contacto con animales o en lugares con mucho humo o polvo. 
+
+También es importante informar al pediatra de cualquier tos excesiva que el bebé pueda tener, sobre todo durante la noche.
 
 Es probable que el pediatra no recomiende realizar la prueba de la alergia de inmediato a no ser que sospeches que las sibilancias siempre ocurren después de algún factor concreto, como por ejemplo, haber estado en contacto con ciertos animales.
 
@@ -256,6 +271,8 @@ Es probable que el pediatra no recomiende realizar la prueba de la alergia de in
 En los últimos años se ha registrado una mayor prevalencia y un aumento progresivo de casos en niños afectados por el asma, representando un 10% de la población infantil y adolescente. También es cierto, que el asma en niños es fundamentalmente temporal, aunque puede persistir.
 
 La mayoría de los niños pequeños tienen asma exclusivamente durante infecciones virales, por lo que pueden sufrir asma solo en invierno. En otras ocasiones, como los niños con alergia al polen, solo lo padecerán en primavera y verano.
+
+![](/uploads/mujer-hace-inhalacion-nino-casa_127093-541.jpg)
 
 Los padres deben controlar a los niños poniendo especial cuidado a la aparición de pitidos, fatiga y otros signos de obstrucción bronquial.
 
@@ -266,6 +283,8 @@ Los episodios de asma entre los niños suelen estar relacionados con alimentos y
 Tal y como ocurre con los niños, en los últimos años los casos de asma han aumentado de forma progresiva en los adolescentes, y junto a la obesidad, es la enfermedad más prevalente.
 
 Las características del asma en esta edad varían a las de los niños. Las infecciones respiratorias pierden importancia como desencadenantes del asma, son más frecuentes las alergias (polen, ácaros, hongos) y los broncoespasmos por ejercicio son más comunes.
+
+![](/uploads/nina-teniendo-ataque-asma-usando-inhalador-sentado-sofa-casa_127069-576.jpg)
 
 La adolescencia en un paciente sano ya es una etapa complicada y frustrante, pero en un paciente asmático, que es más vulnerable, puede constituir una dificultad añadida.
 
