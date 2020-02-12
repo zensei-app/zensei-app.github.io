@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: Guía definitiva para entender el Asma
-date: 2020-02-03T23:00:00.000+00:00
-last_modified_at: 2020-02-03T23:00:00.000+00:00
+date: 2020-02-11 23:00:00 +0000
+last_modified_at: 2020-02-11 23:00:00 +0000
 author: Cristina
 category: Asma
 image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
@@ -90,7 +90,7 @@ Es probable que el médico haga **preguntas** acerca de los síntomas y de la ex
 
 Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
-## Exploración física
+## Exploración física del asma
 
 Es posible que el médico haga lo siguientes:
 
@@ -114,7 +114,7 @@ Después es posible que el médico te pida que inhales un medicamento para el as
 
 Si en los resultados de este segundo intento se ve una mejoría significativa, podría indicar que tienes asma.
 
-2. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
+1. **Prueba de provocación**: si los resultados de la espirometría son normales, es posible que el médico trate de desencadenar los síntomas del asma haciéndote inhalar una sustancia que causa que las vías respiratorias se estrechen en las personas con asma.
 
 En caso de que el asma sea desencadenado por el ejercicio es posible que el médico te pida que hagas actividades físicas para ver si desencadena los síntomas.
 
@@ -122,8 +122,8 @@ En caso de que el asma sea desencadenado por el ejercicio es posible que el méd
 
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
-3. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
-4. **Pruebas de los pulmones en niños**: es muy poco frecuente realizar estas pruebas en niños menores de cinco años. Para diagnosticar asma infantil los médicos se basan en los síntomas, su historia clínica y la exploración física.
+1. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
+2. **Pruebas de los pulmones en niños**: es muy poco frecuente realizar estas pruebas en niños menores de cinco años. Para diagnosticar asma infantil los médicos se basan en los síntomas, su historia clínica y la exploración física.
 
 # Tratamiento del asma
 
@@ -148,12 +148,13 @@ El tratamiento debe cubrir varios frentes:
 
 Los fármacos para tratar el asma se clasifican en dos categorías:
 
-* **De control o mantenimiento**: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab)
+* **De control o mantenimiento**: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab).
+* 
 * **De alivio o rescate**: se utilizan a demanda para tratar o prevenir la broncoconstricción de forma rápida y, entre ellos, se encuentran los agonistas beta2 adrenérgicos de acción corta (SABA) inhalados (de elección) y los anticolinérgicos inhalados (bromuro de ipratropio).
 
-## Inhaladores y nebulizadores
+# Inhaladores y nebulizadores para el asma
 
-Los fármacos por vía inhalatoria son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos a todo el cuerpo.
+Los fármacos por vía inhalada son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos a todo el cuerpo.
 
 El principal inconveniente de esta vía es la dificultad de la técnica de inhalación con los diferentes dispositivos, por esta razón es muy importante enseñar a los pacientes sobre el uso correcto de los inhaladores.
 
@@ -166,19 +167,19 @@ Los [dispositivos](https://zenseiapp.com/asma/comprar-mejores-nebulizadores-para
 
 # Prevención del asma
 
-No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas. 
+No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas.
 
 Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
 
 * **Identifica y evita los desencadenantes del asma** (lugares con polen, por ejemplo).
-* Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo. 
+* Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo.
 * **Toma tus medicamentos** según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
 * Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque. Te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
 * **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
 
   ![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.jpg)
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
-* Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan. 
+* Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan.
 * Evitar realizar [**ejercicios intensos**](https://zenseiapp.com/asma/practicar-deporte-asma/) en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
@@ -201,7 +202,7 @@ Algunos de los síntomas que indican que el asma está empeorando son:
 
 Las complicaciones del asma pueden llevar a:
 
-* **Exacerbaciones asmáticas:** se trata de episodios agudos donde los síntomas habituales empeoran agresivamente. Puede empeorar la función pulmonar. 
+* **Exacerbaciones asmáticas:** se trata de episodios agudos donde los síntomas habituales empeoran agresivamente. Puede empeorar la función pulmonar.
 
 Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) o de forma lenta (durante días o semanas). Además, pueden ser leves, moderadas-graves o suponer una amenaza para la vida de la persona.
 
@@ -214,8 +215,6 @@ Existen diferentes clasificaciones:
 * En función de su origen:
   * [**Asma intrínseca**](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx): su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
   * **Asma extrínseca o alérgica**: es una reacción antígeno-anticuerpo que desencadena el proceso. Afecta principalmente a niños y adultos jóvenes. Se caracteriza por ataques reversibles y breves de broncoespasmos con silbidos y dificultad respiratoria. Se puede controlar con un tratamiento adecuado.
-
-
 * En función de la situación:
   * **Asma** provocado por el **ejercicio físico**.
   * **Asma ocupacional:** desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.
@@ -251,25 +250,29 @@ Si no padeces de asma o no eres consciente de ello, es importante que sepas que 
 
 También es importante conocer los síntomas y signos de un ataque de asma para así poder estar preparado y remediarlo cuanto antes.
 
-# Bebés
+# Asma en Bebés
 
-Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la función pulmonar. 
+Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la función pulmonar.
 
 Por ello, el pediatra dependerá mucho de los síntomas de tu hijo, la información que le puedas facilitar al respecto y si algún miembro de la familia sufre asma.
 
 ![](/uploads/bebe-visitando-hospital-mama_1098-21198.jpg)
 
-Es importante saber si el bebé sufre sibilancia, tos o respira rápido cuando está resfriado, en contacto con animales o en lugares con mucho humo o polvo. 
+Es importante saber si el bebé sufre sibilancia, tos o respira rápido cuando está resfriado, en contacto con animales o en lugares con mucho humo o polvo.
 
 También es importante informar al pediatra de cualquier tos excesiva que el bebé pueda tener, sobre todo durante la noche.
 
-Es probable que el pediatra no recomiende realizar la prueba de la alergia de inmediato a no ser que sospeches que las sibilancias siempre ocurren después de algún factor concreto, como por ejemplo, haber estado en contacto con ciertos animales.
+Es probable que el pediatra no recomiende realizar la prueba de la alergia de inmediato, a no ser que sospeches que las sibilancias siempre ocurren después de algún factor concreto, como por ejemplo, haber estado en contacto con ciertos animales.
 
-# Niños
+# Asma en Niños
 
-En los últimos años se ha registrado una mayor prevalencia y un aumento progresivo de casos en niños afectados por el asma, representando un 10% de la población infantil y adolescente. También es cierto, que el asma en niños es fundamentalmente temporal, aunque puede persistir.
+En los últimos años se ha registrado una mayor prevalencia y un aumento progresivo de casos en niños afectados por el asma, representando un 10% de la población infantil y adolescente. 
 
-La mayoría de los niños pequeños tienen asma exclusivamente durante infecciones virales, por lo que pueden sufrir asma solo en invierno. En otras ocasiones, como los niños con alergia al polen, solo lo padecerán en primavera y verano.
+También es cierto, que el asma en niños es fundamentalmente temporal, aunque puede persistir.
+
+La mayoría de los niños pequeños tienen asma exclusivamente durante infecciones virales, por lo que pueden sufrir asma solo en invierno. 
+
+En otras ocasiones, como los niños con alergia al polen, solo lo padecerán en primavera y verano.
 
 ![](/uploads/mujer-hace-inhalacion-nino-casa_127093-541.jpg)
 
@@ -277,7 +280,7 @@ Los padres deben controlar a los niños poniendo especial cuidado a la aparició
 
 Los episodios de asma entre los niños suelen estar relacionados con alimentos y van acompañados de otros síntomas como urticaria y vómitos, por lo que a menudo se confunden con intoxicaciones alimentarias.
 
-# Adolescentes
+# Asma en Adolescentes
 
 Tal y como ocurre con los niños, en los últimos años los casos de asma han aumentado de forma progresiva en los adolescentes, y junto a la obesidad, es la enfermedad más prevalente.
 
@@ -298,7 +301,7 @@ Los factores de riesgo durante la adolescencia no son diferentes a los de un adu
 
 Durante esta etapa es muy importante enseñarle a controlar e identificar el asma, aunque no es una tarea fácil. Todos los profesionales implicados durante el proceso (médicos, pediatras, alergólogos) deben haber recibido una formación adecuada y de calidad, además no solo hay que formar al paciente, también a la familia.
 
-# Adultos
+# Asma en Adultos
 
 El asma en adultos está muy ligado a la obesidad, el reflujo gastroesofágico, exposición asl humo e inhalantes.
 
@@ -310,7 +313,7 @@ Hay ciertos meses del año en los que se puede estar más expuesto a factores al
 
 Es muy importante mantener el asma controlado y, aunque no tengas síntomas, seguir con tu tratamiento y tus medicamentos. En caso de que creas que es necesario ajustar alguna medicación, háblalo con tu médico y él te dirá qué es lo mejor para tu salud.
 
-# Embarazadas
+# Asma en Embarazadas
 
 El asma es una de las enfermedades más comunes que pueden complicar un embarazo, aunque la mayoría de las mujeres asmáticas tienen embarazos normales y, si se lleva un control adecuado del asma, el riesgo de complicaciones es bajo.
 
@@ -337,15 +340,15 @@ Si has iniciado un ciclo de inyecciones para la alergia antes del embarazo, pued
 
 Cuidar de ti misma es la mejor manera de cuidar a tu bebé.
 
-# Mayores
+# Asma en Mayores
 
-Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad. 
+Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad.
 
 ![](/uploads/hombre-asiatico-mayor-tiene-gripe-estornuda-problema-virus-temporada-enfermedad_1439-86.jpg)
 
-Es importante diferenciar si el asma se ha iniciado antes de los 40 años o si se ha iniciado después de los 40 años. 
+Es importante diferenciar si el asma se ha iniciado antes de los 40 años o si se ha iniciado después de los 40 años.
 
-Según estudios realizados, los pacientes que inician el asma después de los 40 tienen una menor sensibilización alérgica y menos manifestaciones atópicas. 
+Según estudios realizados, los pacientes que inician el asma después de los 40 tienen una menor sensibilización alérgica y menos manifestaciones atópicas.
 
 Sin embargo, los pacientes que presentan asma antes de los 40 años tienen una mayor obstrucción irreversible al flujo aéreo provocando que el aire se quede atrapado en los pulmones y se inflen en exceso.
 
@@ -355,31 +358,31 @@ Otro rasgo a tener en cuenta en las personas mayores es la medicación que toman
 
 Nunca se debe decidir por sí mismo suspender o modificar dosis de algunos medicamentos. Si se necesita ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
-Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento. 
+Las personas mayores asmáticas requieren una vigilancia especial para cerciorarse de que cumplen con el tratamiento.
 
 Es cierto que existen tratamientos cuyo uso es complicado para los más mayores, pero hoy en día hay avances importantes que lo facilitan, como en el caso del inhalador con un único dispositivo provisto de broncodilatadores y corticoides inhalados en polvo seco, lo que permite ajustar la medicación a las necesidades del paciente.
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
-# Últimos avances
+# Últimos avances en el asma
 
-Gracias a la tecnología y los avances médicos se consigue mejorar tanto la calidad de vida de los pacientes como los tratamientos. 
+Gracias a la tecnología y los avances médicos se consigue mejorar tanto la calidad de vida de los pacientes como los tratamientos.
 
-Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente. Actualmente destacan en el mercado H&T Presspart y Propeller. 
+Así llegan los inhaladores inteligentes, inhaladores tradicionales para el asma pero conectados a sensores que permiten un seguimiento más detallado de las dosis utilizadas por el paciente. Actualmente destacan en el mercado H&T Presspart y Propeller.
 
-H&T Presspart, junto a Cohero Health, lanzaron al mercado el primer inhalador de dosis medidas ([eMDI](https://www.presspart.com/es/ht-presspart-y-cohero-health-lanzan-hoy-al-mercado-el-primer-inhalador-de-dosis-medidas-totalmente-conectado-para-optimizar-el-cuidado-del-asma-y-la-epoc/)) que permite mejorar la adhesión, el autocuidado y el seguimiento en tiempo real del paciente por parte del médico. 
+H&T Presspart, junto a Cohero Health, lanzaron al mercado el primer inhalador de dosis medidas ([eMDI](https://www.presspart.com/es/ht-presspart-y-cohero-health-lanzan-hoy-al-mercado-el-primer-inhalador-de-dosis-medidas-totalmente-conectado-para-optimizar-el-cuidado-del-asma-y-la-epoc/)) que permite mejorar la adhesión, el autocuidado y el seguimiento en tiempo real del paciente por parte del médico.
 
-Este inhalador tiene sensores integrados en el inhalador que permite conocer la fecha y hora de uso de la medicación y la calidad de la administración. Todos estos datos se recogen en la aplicación BreathSmart y proporciona recordatorios personalizados, alertas e incluso informes semanales. 
+Este inhalador tiene sensores integrados en el inhalador que permite conocer la fecha y hora de uso de la medicación y la calidad de la administración. Todos estos datos se recogen en la aplicación BreathSmart y proporciona recordatorios personalizados, alertas e incluso informes semanales.
 
-Estos datos se pueden compartir con familiares y médicos. 
+Estos datos se pueden compartir con familiares y médicos.
 
 ![](/uploads/eMDIs.jpg)
 
-El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor que se conecta al inhalador. Este sensor permite rastrear de forma automática las dosis y recoge información que guarda en la aplicación y que también puede compartirse con la familia o el médico. Además, la aplicación te manda recordatorios e información sobre cuándo, dónde y por qué aparecen síntomas. 
+El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor que se conecta al inhalador. Este sensor permite rastrear de forma automática las dosis y recoge información que guarda en la aplicación y que también puede compartirse con la familia o el médico. Además, la aplicación te manda recordatorios e información sobre cuándo, dónde y por qué aparecen síntomas.
 
 ![](/uploads/Propeller-605x340.jpg)
 
-# Datos interesantes
+# Datos interesantes sobre el asma
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
 * El asma está **presente en todos los países**, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
