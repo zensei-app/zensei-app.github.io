@@ -4,7 +4,7 @@ redirect_from: "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
 title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 (Síntomas y previsión) "
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2020-01-09 11:00:00 +0000
+last_modified_at: 2020-02-12 11:00:00 +0000
 category: Gripe
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
@@ -28,7 +28,7 @@ tags: gripe síntomas tratamiento remedios
 
 ## **Vigilancia de la gripe 2019-2020**
 
-Ya estamos en epidemia de gripe, es le inicio.
+La epidemia de la gripe ya ha llegado a su cumbre. Está en fase de descenso. Así que todo empieza a volver a la normalidad.
 
 Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
 
@@ -40,7 +40,7 @@ Mira.
 
 Hemos desarrollado este observatorio de la Gripe en España.
 
-Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológcios oficiales y búsquedas en Google.
+Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológicos oficiales y búsquedas en Google.
 
 Con estos datos, más datos de clima hemos entrenado un inteligencia artificial que predice el impacto de la epidemia de la gripe en España y se actualiza semanalmente.
 
@@ -122,7 +122,7 @@ Esto es, nariz, garganta, bronquios e infrecuentemente pulmones, sin embargo, ta
 
 La influenza se transmite por el aire e ingresa al organismo por la nariz o la boca.
 
-Transmitiendose por los individuos infectados a través de gotas en suspensión o en surperficies cotidianas, cargadas de virus procedentes de mocos o saliva.
+Transmitiéndose por los individuos infectados a través de gotas en suspensión o en superficies cotidianas, cargadas de virus procedentes de mocos o saliva.
 
 Bien.
 
@@ -209,11 +209,11 @@ Por lo tanto, la diferencia es:
 
 ## **¿Cuánto dura la gripe?**
 
-Normalmente **los sítomas duran de una a dos semanas.**
+Normalmente **los síntomas duran de una a dos semanas.**
 
 La mayoría de los adultos cogen la gripe el día antes de tener síntomas.
 
-Estas personas siguen contagiando durante cinco a siete días despúes de tener síntomas.
+Estas personas siguen contagiando durante cinco a siete días después de tener síntomas.
 
 En cambio, los niños y personas con sistemas inmunológicos débiles incluso pueden contagiar un tiempo más largo.
 
