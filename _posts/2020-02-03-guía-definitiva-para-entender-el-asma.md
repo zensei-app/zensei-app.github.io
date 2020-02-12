@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Guía definitiva para entender el asma
+title: Guía definitiva para entender el Asma
 date: 2020-02-03T23:00:00.000+00:00
 last_modified_at: 2020-02-03T23:00:00.000+00:00
 author: Cristina
