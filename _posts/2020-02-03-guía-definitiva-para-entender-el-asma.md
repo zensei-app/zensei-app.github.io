@@ -4,11 +4,12 @@ toc: true
 title: Guía definitiva para entender el asma
 date: 2020-02-03T23:00:00.000+00:00
 last_modified_at: 2020-02-03T23:00:00.000+00:00
-author: ''
+author: Cristina
 category: Asma
 image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
-description: Conocer y controlar el asma es bastante complicado ya que el asma es
-  una enfermedad que puede ser provocada por diversos factores.
+description: Te ayudamos a conocer y controlar el asma. Como bien sabes es bastante
+  complicado, ya que el asma es una enfermedad que puede ser provocada por diversos
+  factores. Descúbrelos.
 intro: |
   ¿Quieres entender en detalle el asma para poder controlarlo?
 
