@@ -29,7 +29,7 @@ Dependiendo de la persona, el asma puede ser una molestia menor o una enfermedad
 
 El asma no tiene cura, pero cambia con el tiempo por lo que es importante llevar un control y seguimiento con el médico para conocer tus signos y síntomas y ajustar el tratamiento.
 
-# Causas del asma
+## Causas del asma
 
 No está claro por qué algunas personas contraen asma y otras no, pero suele estar relacionado con ciertos factores conocidos como alérgenos o desencadenantes:
 
@@ -43,7 +43,7 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * **Cambios en el clima:** sobre todo el frío.
 * **Algunos químicos** que se añaden a los alimentos y bebidas.
 * **Actividad física.**
-* **Infecciones respiratorias.**
+* **Infecciones respiratorias** por virus respiratorios o bacterias.
 * **Emociones fuertes:** como el estrés.
 * **Contaminantes del aire e irritantes:** como el humo del tabaco.
 
@@ -54,7 +54,7 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * Ser **fumador** o estar expuesto al **tabaquismo pasivo**.
 * Estar expuesto a **productos químicos en el ámbito laboral**: como ocurre en la agricultura, la peluquería y la fabricación.
 
-# Síntomas del asma
+## Síntomas del asma
 
 Varían en función de la persona y la edad.
 
@@ -76,11 +76,11 @@ También es importante conocer las situaciones en las que nuestro asma puede emp
 * En algunos sitios con **vapores químicos, gases o polvos.** Suele darse en algunos lugares de trabajo.
 * Existen **ciertas sustancias en el aire** que pueden afectar a nuestro asma como el polen, las esporas de moho, partículas de piel o pelos y saliva de diferentes mascotas.
 
-# Pruebas y diagnóstico del asma
+## Pruebas y diagnóstico del asma
 
 El diagnóstico del asma generalmente comprende una historia clínica detallada, un examen físico, un análisis de los pulmones y conocer los síntomas que se padecen.
 
-## Historia clínica
+### Historia clínica
 
 El primer paso para diagnosticar el asma es **hablar con el médico** sobre tus síntomas y sobre tu salud y así conocer si es el asma u otra cosa lo que te provoca los síntomas.
 
@@ -90,7 +90,7 @@ Es probable que el médico haga **preguntas** acerca de los síntomas y de la ex
 
 Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
-## Exploración física del asma
+### Exploración física del asma
 
 Es posible que el médico haga lo siguientes:
 
@@ -125,7 +125,7 @@ Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. 
 1. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
 2. **Pruebas de los pulmones en niños**: es muy poco frecuente realizar estas pruebas en niños menores de cinco años. Para diagnosticar asma infantil los médicos se basan en los síntomas, su historia clínica y la exploración física.
 
-# Tratamiento del asma
+## Tratamiento del asma
 
 El tratamiento del asma debe **seguir un plan global**, consensuado entre el médico y el paciente, en el que deben quedar claros los objetivos, los medios para lograrlos y las pautas para su modificación o adaptación a las circunstancias cambiantes de la enfermedad.
 
@@ -144,15 +144,14 @@ El tratamiento debe cubrir varios frentes:
    2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control de ataques de asma.
    3. Lo más eficaz en el tratamiento de las alergias asmáticas es evitar y reducir en lo posible la exposición a alérgenos.
 
-# Medicamentos para el asma
+## Medicamentos para el asma
 
 Los fármacos para tratar el asma se clasifican en dos categorías:
 
 * **De control o mantenimiento**: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab).
-* 
 * **De alivio o rescate**: se utilizan a demanda para tratar o prevenir la broncoconstricción de forma rápida y, entre ellos, se encuentran los agonistas beta2 adrenérgicos de acción corta (SABA) inhalados (de elección) y los anticolinérgicos inhalados (bromuro de ipratropio).
 
-# Inhaladores y nebulizadores para el asma
+### Inhaladores y nebulizadores para el asma
 
 Los fármacos por vía inhalada son opcionales. Proporcionan una mayor cantidad de aire en las vías aéreas, tiene una respuesta rápida y escasos o nulos efectos a todo el cuerpo.
 
@@ -165,7 +164,7 @@ Los [dispositivos](https://zenseiapp.com/asma/comprar-mejores-nebulizadores-para
 * El inhalador de vapor fino (SMI) Respimat.
 * Inhaladores de polvo seco (DPI).
 
-# Prevención del asma
+## Prevención del asma
 
 No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se puede diseñar un plan que te permita mejorar tu vida y evitar que ocurran crisis asmáticas.
 
@@ -184,9 +183,9 @@ Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
 
-  ![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.jpg)
+* ![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.jpg)
 
-# Complicaciones del asma
+## Complicaciones del asma
 
 Cuando el asma empeora, puede llevar a complicaciones más graves.
 
@@ -208,7 +207,7 @@ Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) 
 
 * **Síndrome de solapamiento Asma-EPOC** [**(ACO)**](https://www.livemed.in/blog/-/blogs/sindrome-de-solapamiento-asma-epoc): es decir, que un paciente asmático llegue a padecer también EPOC (Enfermedad Pulmonar Obstructiva Crónica). El asma y la EPOC son dos enfermedades respiratorias diferentes pero es frecuente encontrar pacientes con características comunes.
 
-# Tipos de asma
+## Tipos de asma
 
 Existen diferentes clasificaciones:
 
@@ -227,7 +226,7 @@ Existen diferentes clasificaciones:
   * **Moderada**: requiere tratamientos más severos e interfiere con las actividades diarias de quienes la padecen.
   * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
 
-# Cuándo contactar con un médico
+## Cuándo contactar con un médico especialista en asma
 
 * **Si crees que tienes asma**. Si tienes tos o silbido al respirar que dura más de algunos días o si tienes cualquier otro síntoma o signo de asma. Tratar el asma antes de tiempo puede prevenir daño pulmonar a largo plazo y ayudar a evitar que empeore con el paso del tiempo.
 * Para **controlar el asma después del diagnóstico**. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
@@ -244,13 +243,13 @@ Los signos de urgencia por asma comprenden:
 * **Falta de mejora**, incluso después de usar inhalador de alivio rápido, como salbutamol.
 * **Falta de aire** cuando haces la mínima actividad física.
 
-# Consejos para evitar el asma
+## Consejos para evitar el asma
 
 Si no padeces de asma o no eres consciente de ello, es importante que sepas que no existe una cura como tal. En caso de que sí seas padezcas asma, lo más importante para evitar ataques es **tenerlo controlado** y **seguir a conciencia el tratamiento** que te haya puesto tu médico.
 
 También es importante conocer los síntomas y signos de un ataque de asma para así poder estar preparado y remediarlo cuanto antes.
 
-# Asma en Bebés
+## Asma en Bebés
 
 Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la función pulmonar.
 
@@ -264,13 +263,13 @@ También es importante informar al pediatra de cualquier tos excesiva que el beb
 
 Es probable que el pediatra no recomiende realizar la prueba de la alergia de inmediato, a no ser que sospeches que las sibilancias siempre ocurren después de algún factor concreto, como por ejemplo, haber estado en contacto con ciertos animales.
 
-# Asma en Niños
+## Asma en Niños
 
-En los últimos años se ha registrado una mayor prevalencia y un aumento progresivo de casos en niños afectados por el asma, representando un 10% de la población infantil y adolescente. 
+En los últimos años se ha registrado una mayor prevalencia y un aumento progresivo de casos en niños afectados por el asma, representando un 10% de la población infantil y adolescente.
 
 También es cierto, que el asma en niños es fundamentalmente temporal, aunque puede persistir.
 
-La mayoría de los niños pequeños tienen asma exclusivamente durante infecciones virales, por lo que pueden sufrir asma solo en invierno. 
+La mayoría de los niños pequeños tienen asma exclusivamente durante infecciones virales, por lo que pueden sufrir asma solo en invierno.
 
 En otras ocasiones, como los niños con alergia al polen, solo lo padecerán en primavera y verano.
 
@@ -280,7 +279,7 @@ Los padres deben controlar a los niños poniendo especial cuidado a la aparició
 
 Los episodios de asma entre los niños suelen estar relacionados con alimentos y van acompañados de otros síntomas como urticaria y vómitos, por lo que a menudo se confunden con intoxicaciones alimentarias.
 
-# Asma en Adolescentes
+## Asma en Adolescentes
 
 Tal y como ocurre con los niños, en los últimos años los casos de asma han aumentado de forma progresiva en los adolescentes, y junto a la obesidad, es la enfermedad más prevalente.
 
@@ -301,7 +300,7 @@ Los factores de riesgo durante la adolescencia no son diferentes a los de un adu
 
 Durante esta etapa es muy importante enseñarle a controlar e identificar el asma, aunque no es una tarea fácil. Todos los profesionales implicados durante el proceso (médicos, pediatras, alergólogos) deben haber recibido una formación adecuada y de calidad, además no solo hay que formar al paciente, también a la familia.
 
-# Asma en Adultos
+## Asma en Adultos
 
 El asma en adultos está muy ligado a la obesidad, el reflujo gastroesofágico, exposición asl humo e inhalantes.
 
@@ -313,7 +312,7 @@ Hay ciertos meses del año en los que se puede estar más expuesto a factores al
 
 Es muy importante mantener el asma controlado y, aunque no tengas síntomas, seguir con tu tratamiento y tus medicamentos. En caso de que creas que es necesario ajustar alguna medicación, háblalo con tu médico y él te dirá qué es lo mejor para tu salud.
 
-# Asma en Embarazadas
+## Asma en Embarazadas
 
 El asma es una de las enfermedades más comunes que pueden complicar un embarazo, aunque la mayoría de las mujeres asmáticas tienen embarazos normales y, si se lleva un control adecuado del asma, el riesgo de complicaciones es bajo.
 
@@ -340,7 +339,7 @@ Si has iniciado un ciclo de inyecciones para la alergia antes del embarazo, pued
 
 Cuidar de ti misma es la mejor manera de cuidar a tu bebé.
 
-# Asma en Mayores
+## Asma en Mayores
 
 Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad.
 
@@ -364,7 +363,7 @@ Es cierto que existen tratamientos cuyo uso es complicado para los más mayores,
 
 A pesar de que la mortalidad por asma ha disminuido, los asmáticos ancianos continúan siendo un sector con alta mortalidad.
 
-# Últimos avances en el asma
+## Últimos avances en el asma
 
 Gracias a la tecnología y los avances médicos se consigue mejorar tanto la calidad de vida de los pacientes como los tratamientos.
 
@@ -382,7 +381,7 @@ El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor q
 
 ![](/uploads/Propeller-605x340.jpg)
 
-# Datos interesantes sobre el asma
+## Datos interesantes sobre el asma
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
 * El asma está **presente en todos los países**, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
