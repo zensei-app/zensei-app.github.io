@@ -13,8 +13,7 @@ intro: La **neumonía** suele estar provocada por la infección que generan hong
   virus y bacterias. Sin embargo, no son los únicos que puedan afectar a nuestra salud.
   Descubre todo lo que necesitas saber respecto a esta enfermedad pulmonar.
 tags: enfermedades-pulmonares neumonía infección pulmonar
-
-
+slug: neumonia infeccion pulmonar
 ---
 ![Radiografía pulmones con neumonía](/uploads/Neumonía pulmones.jpg "Neumonía")
 
