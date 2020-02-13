@@ -13,7 +13,7 @@ description: Se desata el pánico en las redes sociales en torno al coronavirus 
 intro: Es preciso no dejarse llevar por las fake news que se están haciendo virales
   y aumentan el pánico al **coronavirus de Wuhan**. Para ello, se recomienda que se
   preste atención tan solo a la información procedente de fuentes oficiales o fiables.
-tags: coronavirus, wuhan, gripe, virus, epidemia
+tags: coronavirus wuhan gripe virus epidemia
 
 ---
 ![Placa de cultivo](/uploads/coronavirus de Wuhan.jpg "coronavirus de Wuhan")

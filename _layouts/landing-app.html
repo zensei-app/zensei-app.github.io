@@ -103,15 +103,7 @@
     <div class="post-content" aria-label="Content">
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
         <header class="post-header">
-          <h1 class="post-title" itemprop="name headline">{{ page.subtitle | escape }}</h1>
-          <p class="post-meta">
-            ⏳ Actualizado el
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              {% include locale-dates.html date=page.date %}
-              {{ day }} de {{ month | capitalize }} del {{ year }}
-            </time>
-          </p>
+          <h2 class="post-title" itemprop="name headline">{{ page.subtitle | escape }}</h2>
         </header>
         <div class="post-content" itemprop="articleBody">
           {{ content }}

@@ -1,6 +1,7 @@
 ---
 layout: landing-app
-permalink: /app-alergia/
+redirect_from: /app-alergia/
+permalink: /alergia
 title: La app para personas con alergia respiratoria (Rinitis alérgica)
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas de la alergia.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar la alergia respiratoria (rinitis alérgica). Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarla.

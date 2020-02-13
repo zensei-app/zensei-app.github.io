@@ -1,12 +1,10 @@
 ---
 layout: tagpage
-robots: noindex
-title: "Salud respiratoria y síndrome-respiratorio-agudo-severo"
-tag: síndrome-respiratorio-agudo-severo
+title: "Salud respiratoria y Síndrome-respiratorio-agudo-severo"
+tag: Síndrome-respiratorio-agudo-severo
 ---
 ---
 layout: tagpage
-robots: noindex
-title: "Salud respiratoria y Síndrome-respiratorio-agudo-severo"
-tag: Síndrome-respiratorio-agudo-severo
+title: "Salud respiratoria y síndrome-respiratorio-agudo-severo"
+tag: síndrome-respiratorio-agudo-severo
 ---
