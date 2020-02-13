@@ -211,6 +211,8 @@ Los síntomas en bebés lactantes son:
 
 ✅Mayor cansancio.
 
+![](/uploads/tratamiento-resfriado-comun-bebe_127093-572.jpg)
+
 La rinitis en bebés suele ser más complicada que en los adultos ya que los bebés todavía no se acostumbran a respirar con normalidad y tener mocos severo puede llegar a causarle asfixia.
 
 Es importante **acudir al pediatra** y que te de indicaciones que te ayuden a ti y al bebé.
@@ -238,6 +240,8 @@ El riesgo en niños de la que rinitis sea causada por alguna alergia se incremen
 Actualmente, el 16% de los adolescentes entre 13 y 14 años padecen rinitis alérgica.
 
 En caso de padecer tos frecuente por las noches o con el ejercicio y sufrir episodios de fatiga o dolor en el pecho se debe acudir al médico.
+
+![](/uploads/rinitis-alergica-vacaciones-verano-viaje-adolescente_116407-2829.jpg)
 
 La rinitis alérgica se asocia a otras enfermedades como la dermatitis atópica y el asma y puede llegar a interferir en la calidad de su vida.
 
