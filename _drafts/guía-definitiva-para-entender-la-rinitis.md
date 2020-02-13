@@ -43,6 +43,8 @@ Estos aeroalérgenos se clasifican como:
 
 ✅**Agentes laborales**: surge como respuesta a un agente presente en el aire y en el lugar de trabajo. Por ejemplo: harinas de cereales, enzimas proteolíticas y maderas tropicales.
 
+![](/uploads/seleccion-diferentes-harinas-gluten-almendra-trigo-sarraceno-arroz-garbanzos-avena_82893-3506.jpg)
+
 También existen factores de riesgo:
 
 ✅Tener **padres alérgicos**.
@@ -75,6 +77,8 @@ Los síntomas se presentan generalmente durante dos o más días consecutivos y 
 
 ✅**Fatiga**.
 
+![](/uploads/atleta-macho-cansado-tener-descanso-despues-trotar_1262-5912.jpg)
+
 Existen factores estacionales, es decir, pueden comenzar o empeorar en un momento particular del año. Los detonantes son:
 
 ✅**Polen** de los árboles al comienzo de la primavera.
@@ -95,6 +99,8 @@ También puede apoyarse en alguna **prueba**, pero son bastante comunes:
 
 ✅ **Análisis de sangre**.
 
+![](/uploads/medico-guantes-azules-toma-sangre-vena-mujer-joven_168258-31.jpg)
+
 En casos muy particulares se pueden llegar a hacer otras pruebas como pruebas olfatorias, determinación de los niveles de óxido nítrico nasal o pruebas de provocación nasal con alérgenos.
 
 ## **Tratamiento de la rinitis alérgica**
@@ -112,6 +118,8 @@ Es muy eficaz si tienes alergia a la caspa de gato, a los ácaros o al polen. En
 ✅**Pastillas** para la alergia que se colocan debajo de la lengua: sustituyen las inyecciones pero su funcionamiento es el mismo. Las pastillas se disuelven en la boca y su uso suele ser diario.
 
 ✅**Enjuague** de los senos paranasales: con una solución salina, estéril y destilada para aliviar la congestión nasal. Ayuda a expulsar el moco y los alérgenos de la nariz.
+
+![](/uploads/hombre-usando-spray-nasal_81262-608.jpg)
 
 Si tienes un hijo con rinitis alérgica, habla con el médico sobre el tratamiento ya que no todos los medicamentos para la rinitis alérgica están aprobados para el consumo pediátrico.
 
@@ -163,6 +171,8 @@ Problemas que pueden asociarse a la rinitis alérgica:
 
 ✅**Infección de oído**, sobre todo en los niños.
 
+![](/uploads/mujer-asiatica-tiene-dolor-oido-concepto-tinnitus_34670-865.jpg)
+
 ## **Tipos de rinitis alérgica**
 
 La clasificación de la rinitis alérgica se basa en el tipo de elérgenos a los que reacciona la persona y cuándo ocurren las reacciones:
@@ -182,6 +192,8 @@ Es importante acudir al médico en alguno de los siguientes casos:
 ✅Los medicamentos para la alergia **no te alivian** o te producen efectos secundarios.
 
 ✅Padeces **otro trastorno** que puede empeorar la rinitis alérgica, como pólipos nasales o asma.
+
+![](/uploads/doctor-sujetando-estetoscopio_23-2147822716.jpg)
 
 ## **Rinitis alérgica en bebés**
 
