@@ -257,6 +257,8 @@ No se trata de ninguna enfermedad peligrosa para el embarazo ni es peligrosa par
 
 Puede confundirse con la rinitis alérgica, pero las causas son diferentes. La rinitis alérgica es causada por diversos alérgenos, sin embargo, se cree que la rinitis gestacional se debe a los cambios hormonales.
 
+![](/uploads/mujer-embarazada-soplando-su-nariz-casa_107420-4312.jpg)
+
 Los síntomas pueden aparecer en cualquier momento pero son más comunes durante el primer trimestre de embarazo. Desaparecen por completo a las dos semanas después del parto.
 
 Los tratamientos para la rinitis del embarazo ayudan a aliviar los síntomas pero no consiguen que desaparezca completamente.
