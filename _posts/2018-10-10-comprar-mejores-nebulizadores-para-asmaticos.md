@@ -168,7 +168,7 @@ El Omron CompAIR NE-C28P está diseñado para hacer un uso intensivo.
 
 Es ideal para el tratamiento de las enfermedades como el asma, la EPOC, la fibrosis quística o el enfisema pulmonar. 
 
-Lo puedes utilizar para nebulizar agua destilada o algún medicamento cuando estás con tos, mocos, falta de aire, [pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios), etc.
+Lo puedes utilizar para nebulizar agua destilada o algún medicamento cuando estás con tos, mocos, falta de aire, [pitidos al respirar](/blog/sibilancias-pitidos-respiratorios), etc.
 
 Es rápido y en unos 5 min ya nebuliza el total del contenido.
 

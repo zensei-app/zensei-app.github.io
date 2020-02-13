@@ -49,7 +49,7 @@ Al parecer, el ozono es el elemento principal causante de la contaminación ambi
 
 Otro gran impacto medioambiental que ayuda al aumento de las alergias por contaminación se debe a **la combustión de los motores diesel**. Sus pequeñísimas partículas de dióxido de carbono son cien veces más que las que producen los motores de gasolina.
 
-Lo peor de la noticia es que ellas son las causantes de otra modificación de la estructura de los [pólenes](https://zenseiapp.com/blog/2018/04/25/cuales-sintomas-alergia-polen/) y refuerzan su disposición para la inducción de respuestas alérgicas en personas sensibles. Incluso, llegan a ejercer de medio de transporte para los alérgenos, introduciéndolos más profundamente en las vías respiratorias.  
+Lo peor de la noticia es que ellas son las causantes de otra modificación de la estructura de los [pólenes](https://zenseiapp.com/blog/cuales-sintomas-alergia-polen/) y refuerzan su disposición para la inducción de respuestas alérgicas en personas sensibles. Incluso, llegan a ejercer de medio de transporte para los alérgenos, introduciéndolos más profundamente en las vías respiratorias.  
 
 Lo cierto es que se ha podido comprobar que las personas que residen cerca de autovías y autopistas sufren más reacciones alérgicas del aparato respiratorio que los habitantes de otros lugares.
 
@@ -64,13 +64,13 @@ Mira.
 **Necesitarás tener una mascarilla anti pulución** para cuando salgas de casa y así no respirar aire contaminado.
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
 **Necesitarás un purificador de aire** para que cuando llegues a casa puedas tener tu burbuja de aire limpio y así respirar profundamente.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 **Necesitarás controlar tu salud respiratoria** para saber que, cuando y donde te afecta la contaminación y la alergia al polen.

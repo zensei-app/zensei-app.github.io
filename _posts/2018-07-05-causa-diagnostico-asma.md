@@ -56,7 +56,7 @@ Es indolora y no lleva mucho tiempo. Es probable que, durante la misma, te facil
 
 Si, tras tomar el medicamento, los resultados mejoran considerablemente y tus síntomas coinciden, lo más común es que seas diagnosticado como asmático.
 
-En el caso de que estos pasos no fueran concluyentes, el especialista puede indicarte la realización de [pruebas de alergia](https://zenseiapp.com/blog/2018/05/17/como-son-las-pruebas-de-la-alergia/), radiografías de tórax, pruebas de provocación bronquial con espirometrías o la realización de más tests que ayuden a descartar otras enfermedades con sintomatología similar a las del asma, como es el caso del reflujo o la apnea del sueño, por ejemplo.
+En el caso de que estos pasos no fueran concluyentes, el especialista puede indicarte la realización de [pruebas de alergia](https://zenseiapp.com/blog/como-son-las-pruebas-de-la-alergia/), radiografías de tórax, pruebas de provocación bronquial con espirometrías o la realización de más tests que ayuden a descartar otras enfermedades con sintomatología similar a las del asma, como es el caso del reflujo o la apnea del sueño, por ejemplo.
 
 Sea como sea, lo que queda claro es que siempre se debe acudir al médico para el correcto diagnóstico. 
 

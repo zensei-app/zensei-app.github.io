@@ -218,7 +218,7 @@ Y **sabánas 100% algodón transpirable**.
 
 La higiene diaria es vital para las personas con asma alérgica.
 
-Tener un hogar limpio de alérgenos es la primera línea de defensa a estornudos, ojos llorosos, [pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/), ataques de asma y [noches sin domir por no poder respirar](/blog/por-qué-no-puedo-respirar-cuando-duermo/).
+Tener un hogar limpio de alérgenos es la primera línea de defensa a estornudos, ojos llorosos, [pitidos al respirar](/blog/sibilancias-pitidos-respiratorios/), ataques de asma y [noches sin domir por no poder respirar](/blog/por-qué-no-puedo-respirar-cuando-duermo/).
 
 No sabemos si ya tienes tu hábito de limpieza.
 

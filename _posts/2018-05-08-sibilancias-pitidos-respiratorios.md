@@ -73,13 +73,13 @@ Los purificadores respiratorios son perfectos, si tienes niños y suelen tener p
 Solo tienes que instalarlo en su habitación.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 Permítenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
 

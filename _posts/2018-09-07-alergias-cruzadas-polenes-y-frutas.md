@@ -9,7 +9,7 @@ author: Ana Pérez y Mar Santiago
 category: Alergia
 image: /img/photo-1520238861346-a49993df0e69.jpeg
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
-intro: Hay personas que son **alérgicas al polen que a veces al ingerir alguna fruta o verdura sufren reacciones alérgicas**. Ya hemos hablado en nuestro blog de las [alergias cruzadas](https://zenseiapp.com/blog/2018/07/03/que-es-la-alergia-cruzada/). <br/><br/> Pero hoy vamos a analizar qué frutas y verduras suelen reaccionar según el tipo de polen al que le tienes alergia. 
+intro: Hay personas que son **alérgicas al polen que a veces al ingerir alguna fruta o verdura sufren reacciones alérgicas**. Ya hemos hablado en nuestro blog de las [alergias cruzadas](https://zenseiapp.com/blog/que-es-la-alergia-cruzada/). <br/><br/> Pero hoy vamos a analizar qué frutas y verduras suelen reaccionar según el tipo de polen al que le tienes alergia. 
 tags: alergia rinitis frutas
 ---
 

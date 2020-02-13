@@ -85,7 +85,7 @@ Notarás un gran cambio si tienes uno mientras durmes.
 Ya que el aire que respiras estará purificado y libre de ácaros, polvos u otros alérgenos que pueden hacer que no respires bien.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 También puedes **[probar nuestra app diario de salud respiratoria](https://zenseiapp.com)**, es gratuita y **te alerta de todas los factores que pueden provocarte una crisis respiratoria**, como la contaminación, virus respiratorios, polen, clima, etc.

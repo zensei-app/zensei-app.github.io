@@ -31,7 +31,7 @@ Ya sabemos que es una alergia estacional, así que podemos ponernos manos a la o
 
 Primero saber que no estás solo. **En España son nada más y nada menos que 8 millones las personas que sufren de alergia primaveral.** La mayoría de ellas deben pasar por ese filtro natural que nos pone nuestro propio cuerpo para intentar librarse del alérgeno: picor de ojos, ojos llorosos, nariz goteante, mocos… La rinitis alérgica está, entre marzo y junio, en su máximo esplendor.
 
-No eres novato en estas lides y si lo eres, aquí tienes **algunos consejos** que pueden hacer tu vida cotidiana un poco más soportable y aliviar los [síntomas de la alergia al polen](https://zenseiapp.com/blog/2018/04/25/cuales-sintomas-alergia-polen/).
+No eres novato en estas lides y si lo eres, aquí tienes **algunos consejos** que pueden hacer tu vida cotidiana un poco más soportable y aliviar los [síntomas de la alergia al polen](https://zenseiapp.com/blog/cuales-sintomas-alergia-polen/).
 
 🤧 Nada de vacaciones en el campo o la montaña
 

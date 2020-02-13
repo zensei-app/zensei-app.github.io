@@ -97,7 +97,7 @@ Estos los puedes tener tú o tu niño y son los siguientes:
 
 1. **Tos con mocos.** Normalmente pueden tener una coloración verde amarillenta.
 
-2. [**Pitidos al respirar**](/blog/2018/05/08/sibilancias-pitidos-respiratorios/).
+2. [**Pitidos al respirar**](/blog/sibilancias-pitidos-respiratorios/).
 
 3. **Cansancio y malestar general.**
 
@@ -111,7 +111,7 @@ En **el caso de bronquitis crónica**, también pueden aparecer síntomas como:
 
 2. **Coloración azulada**, esto es debido a la falta de oxígeno en sangre.
 
-3. **Propensión a sufrir infecciones respiratorios debido a virus** respiratorios causantes de la gripe o el resfriado. [Sigue la epidemia aquí](/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
+3. **Propensión a sufrir infecciones respiratorios debido a virus** respiratorios causantes de la gripe o el resfriado. [Sigue la epidemia aquí](/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
 
 Las personas propensas a padecer los síntomas que hemos visto son:
 
@@ -143,7 +143,7 @@ En cuanto no se respire aire de mala calidad los síntomas remitirán.
 
 **Prueba de esputo.** Analizando la mucosidad que se expulsa al toser. Se puede analizar para determinar si la bronquitis tiene origen bacteriano y si se debería tratar con antibióticos. El esputo también puede analizarse para detectar signos de alergias.
 
-**Prueba de la función pulmonar (espirometría).** El objetivo de esta prueba es medir la capacidad pulmonar, es decir, la cantidad de aire que los pulmones pueden retener y la rapidez con la que puedes expulsar el aire de los pulmones. Esta prueba detecta [signos de asma](/blog/2018/08/14/como-aprender-a-controlar-el-asma/) o enfisema.
+**Prueba de la función pulmonar (espirometría).** El objetivo de esta prueba es medir la capacidad pulmonar, es decir, la cantidad de aire que los pulmones pueden retener y la rapidez con la que puedes expulsar el aire de los pulmones. Esta prueba detecta [signos de asma](/blog/como-aprender-a-controlar-el-asma/) o enfisema.
 
 ## **Tratamiento para la bronquitis**
 
@@ -181,7 +181,7 @@ El aire cálido y húmedo ayuda a aliviar la tos y afloja la mucosidad en las v�
 Asegúrate de limpiar el humidificador y del nebulizador de acuerdo con las recomendaciones del fabricante para evitar el crecimiento de bacterias y hongos en el recipiente de agua.
 
 <div class="section-cta">
-<a href="/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/"><bold>elegir un nebulizador</bold></a>.
+<a href="/blog/comprar-mejores-nebulizadores-para-asmaticos/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/comprar-mejores-nebulizadores-para-asmaticos/"><bold>elegir un nebulizador</bold></a>.
 </div>
 
 **Utiliza una mascarilla cuando te encuentres al aire libre**. Esto te permitirá evitar el aire frío, pólenes, virus, contaminación u otros agentes que pueden agravar la tos y provocan dificultad para respirar. 
@@ -189,13 +189,13 @@ Asegúrate de limpiar el humidificador y del nebulizador de acuerdo con las reco
 Así que compra una mascarilla para cuando salgas a la calle si no los has hecho ya.
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla para que vayas como los Japos</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla para que vayas como los Japos</bold></a>.
 </div>
 
 **Utiliza un purificador de aire para casa**, así te aseguras que el aire que respiras en casa no puede causar ningún problema.
 
 <div class="section-cta">
-<a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 También puedes hacerte este **jarabe de cebolla casero**.

@@ -65,17 +65,17 @@ Su virulencia va a depender de tu grado de intolerancia. Por regla general, los 
 Básicamente, tienes que evitar la exposición al polen, sobre todo en primavera.
 
 1. Mantén cerradas las ventanas de casa.
-2. [Usa mascarilla para evitar respirar polen](/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/).
-3. [Compra un purificador de aire](/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/).
+2. [Usa mascarilla para evitar respirar polen](/blog/mejor-mascarilla-asma-alergia-precio/).
+3. [Compra un purificador de aire](/blog/mejores-purificadores-aire-asma-comprar/).
 4. Conoce los niveles de polen.
 5. Acude al médico para ver si necesitas tomar antihestamínicos.
 
-BONUS. [Cómo parar de estornudar haciéndote cosquillas...](/blog/2018/06/11/como-detener-un-ataque-de-estornudos/)
+BONUS. [Cómo parar de estornudar haciéndote cosquillas...](/blog/como-detener-un-ataque-de-estornudos/)
 
 Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico. 
 
 <div class="section-cta">
-<a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
+<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
 </div>
 
 Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.

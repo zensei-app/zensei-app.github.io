@@ -14,7 +14,7 @@ description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus s
 tags: rinitis alergia síntomas
 
 ---
-**La rinitis es una inflamación de la mucosa nasal.** Debido a ello se padecen una serie de incómodos síntomas: **[estornudos frecuentes](https://zenseiapp.com/blog/2018/06/11/como-detener-un-ataque-de-estornudos/), congestión, picor nasal, mocos…** Los síntomas prevalecen durante más de dos días consecutivos y, en la mayoría de las alergias, la situación perdura más de una hora diaria.
+**La rinitis es una inflamación de la mucosa nasal.** Debido a ello se padecen una serie de incómodos síntomas: **[estornudos frecuentes](https://zenseiapp.com/blog/como-detener-un-ataque-de-estornudos/), congestión, picor nasal, mocos…** Los síntomas prevalecen durante más de dos días consecutivos y, en la mayoría de las alergias, la situación perdura más de una hora diaria.
 
 <br>
 ![Zensei app diario de salud respiratoria](/img/24399375170_b61ea09484_z.jpg){: .center-image }

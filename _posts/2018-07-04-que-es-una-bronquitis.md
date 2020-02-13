@@ -18,7 +18,7 @@ tags: bronquitis
 
 La [bronquitis](https://es.wikipedia.org/wiki/Bronquitis) es una inflamación aguda de los bronquios. Suele aparecer después de haber padecido un resfriado o una gripe. 
 
-Por lo general comienza como una secuela de lo anterior. Sientes una tosecilla persistente, **[pitidos o sibilancias](https://zenseiapp.com/blog/2018/05/08/sibilancias-pitidos-respiratorios/)** y dificultades para respirar. En algunos casos, la bronquitis produce mucho cansancio y cursa con fiebre.
+Por lo general comienza como una secuela de lo anterior. Sientes una tosecilla persistente, **[pitidos o sibilancias](https://zenseiapp.com/blog/sibilancias-pitidos-respiratorios/)** y dificultades para respirar. En algunos casos, la bronquitis produce mucho cansancio y cursa con fiebre.
 
 <br>
 ![alergia cruzada alimentos](/img/bronquitis-aguda.jpg){: .center-image }

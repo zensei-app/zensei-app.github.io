@@ -25,7 +25,7 @@ Existen varios desencadenantes para una [crisis asmática](https://kidshealth.or
 
 Acabamos con una serie de síntomas muy desagradables:
 
-🤧 **[Ruidos y sibilancias](https://zenseiapp.com/blog/2018/05/08/sibilancias-pitidos-respiratorios/)**
+🤧 **[Ruidos y sibilancias](https://zenseiapp.com/blog/sibilancias-pitidos-respiratorios/)**
 
 🤧 **Tos persistente y repetitiva**
 

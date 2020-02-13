@@ -15,7 +15,7 @@ intro: En este artículo te dar nuestra honesta opinión para ayudarte a elegir 
   purificador de aire para asmáticos y alérgicos.<br><br> ¿La mejor parte?<br><br>Con
   tu nuevo purificador reducirás el número de crisis asmáticas en casa.<br><br>Como
   bien sabes tener asma es horrible te pasas el dia tosiendo, con ahogo, con [falta
-  de aire o pitidos al respirar](/blog/2018/05/08/sibilancias-pitidos-respiratorios/),
+  de aire o pitidos al respirar](/blog/sibilancias-pitidos-respiratorios/),
   es una sensación algo desesperante.<br><br>Encima el médico te dice que no tiene
   cura.<br><br>Y te recomienda que te compres un purificador de aire.<br><br>¿Pero
   cúal?<br><br>No te preocupes que empezamos. <br><br>Qué seguro que estarás deseando
@@ -273,7 +273,7 @@ Y cuando llegamos a casa nuestras vías aéreas están obstruidas por el aire co
 
 Así cuando llegues a casa después de todo el día te aseguras que el aire que respiras está limpio.
 
-[Previniendo el asma e podrás ir al médico solo cuando sea necesario.](/blog/2018/08/14/como-aprender-a-controlar-el-asma/)
+[Previniendo el asma e podrás ir al médico solo cuando sea necesario.](/blog/como-aprender-a-controlar-el-asma/)
 
 Bien.
 

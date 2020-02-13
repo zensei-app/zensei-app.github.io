@@ -8,7 +8,7 @@ last_modified_at: 2019-08-22 10:00:00 +0000
 author: David Martín-Corral
 category: Asma
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
-intro: "**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://zenseiapp.com/blog/2018/04/24/como-prevenir-ataque-asma/) y sus síntomas de forma sencilla**, así podrás cantar, correr, bailar, en resumen, una vida normal. Pese a lo horrible que es tener [asma](https://medlineplus.gov/spanish/ency/article/000141.htm). 
+intro: "**Te podemos ayudar a [prevenir y controlar tus crisis de asma](https://zenseiapp.com/blog/como-prevenir-ataque-asma/) y sus síntomas de forma sencilla**, así podrás cantar, correr, bailar, en resumen, una vida normal. Pese a lo horrible que es tener [asma](https://medlineplus.gov/spanish/ency/article/000141.htm). 
 <br><br>
 En este artículo te explicamos como puedes tener bajo control tu asma. 🙇"
 tags: asma tratamiento remedios
@@ -237,7 +237,7 @@ Si ves que Zensei no se adapta a tus necesidades, **tienes la garantía de que v
 </div>
 <br>
 
-Si no empiezas a utilizar hoy el Diario de Salud Respiratoria **no podrás tener un control sobre tu asma**, no podrás llevar una vida normal, tu médico no podrá tomar una mejor decisión si no le provees de tus datos de salud respiratoria, no podrás saber porque tienes tos, presión en el pecho, falta de aire, o [pitidos al respirar](https://zenseiapp.com/blog/2018/05/08/sibilancias-pitidos-respiratorios/) y cual es la probabilidad de tenerlos.
+Si no empiezas a utilizar hoy el Diario de Salud Respiratoria **no podrás tener un control sobre tu asma**, no podrás llevar una vida normal, tu médico no podrá tomar una mejor decisión si no le provees de tus datos de salud respiratoria, no podrás saber porque tienes tos, presión en el pecho, falta de aire, o [pitidos al respirar](https://zenseiapp.com/blog/sibilancias-pitidos-respiratorios/) y cual es la probabilidad de tenerlos.
 
 ### **Tu decides si quieres cuidar de tu asma, Zensei te lo pone fácil**
 
