@@ -6,7 +6,7 @@ date: 2020-02-12 23:00:00 +0000
 last_modified_at: 2020-02-12 23:00:00 +0000
 author: Cristina
 category: Alergia
-image: ''
+image: "/uploads/mujer-estornuda-pie-calle_8353-1327.jpg"
 description: Te ayudamos a conocer y controlar la rinitis alérgica. Como bien sabes
   es bastante complicado, ya que la rinitis es una enfermedad que puede ser provocada
   por diversos factores. Descúbrelos.
@@ -105,7 +105,7 @@ Si tienes un hijo con rinitis alérgica, habla con el médico sobre el tratamien
 
 ✅Diferentes **medicamentos** como corticoides o antihistamínicos,
 
-✅**Inyecciones** para la alergia (inmunoterapia): se suele recomendar en caso de que los medicamentos no alivien los síntomas o provoquen demasiados efectos secundarios. Tiene una duración de entre tres y cinco años y el objetivo es que el organismo se acostumbre a los alérgenos que causan los síntomas y disminuir la necesidad de medicamentos.
+✅[**Inyecciones**](https://zenseiapp.com/alergia/rinitis-alergica-sintomas/) para la alergia (inmunoterapia): se suele recomendar en caso de que los medicamentos no alivien los síntomas o provoquen demasiados efectos secundarios. Tiene una duración de entre tres y cinco años y el objetivo es que el organismo se acostumbre a los alérgenos que causan los síntomas y disminuir la necesidad de medicamentos.
 
 Es muy eficaz si tienes alergia a la caspa de gato, a los ácaros o al polen. En los niños, puede ayudar a prevenir la aparición de asma.
 
