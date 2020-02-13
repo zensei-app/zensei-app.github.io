@@ -1,6 +1,7 @@
 ---
 layout: landing-app
-permalink: "/app-salud-respiratoria/"
+redirect_from: /app-salud-respiratoria/
+permalink: /salud-respiratoria/
 title: La app para cuidar tu salud respiratoria
 description: Aquí podrás encontrar todo lo que necesitas saber para cuidar de tu salud
   respiratoria. Entra y te contamos en detalle como te podemos ayudar a respirar mejor.

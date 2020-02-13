@@ -21,6 +21,7 @@ intro: |-
 
   Empezamos.
 tags: rinitis rinitis-alergica tos sintomas causas rinitis-emabarazo rinitis-tratamiento
+slug: guia-rinitis-alergica
 
 ---
 La rinitis alérgica, también conocida como **fiebre del heno**, es una enfermedad respiratoria que provoca una hiperactividad nasal como respuesta a ciertos estímulos externos.

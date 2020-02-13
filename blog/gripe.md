@@ -1,6 +1,7 @@
 ---
 layout: landing-app
-permalink: "/app-gripe/"
+redirect_from: /app-gripe/
+permalink: /gripe/
 title: La App para evitar la Gripe y los malditos resfriados
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas
   de la gripe.
