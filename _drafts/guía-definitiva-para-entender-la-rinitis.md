@@ -23,66 +23,81 @@ intro: |-
 tags: 'rinitis '
 
 ---
-**Definición de la rinitis alérgica**
-
-También conocida como fiebre del heno, es una enfermedad respiratoria que provoca una hiperactividad nasal como respuesta a ciertos estímulos externos.
+La rinitis alérgica, también conocida como **fiebre del heno**, es una enfermedad respiratoria que provoca una hiperactividad nasal como respuesta a ciertos estímulos externos.
 
 Produce estornudos, congestión nasal y/o secreción y conjuntivitis.
 
 La rinitis puede ser un indicador de que la persona que la padece tiene una predisposición a desarrollar asma.
 
-**Causas de la rinitis**
+## **Causas de la rinitis alérgica**
 
 Es más frecuente en personas con algún familiar con alergias o personas que viven en zonas con mayor contaminación.
 
-El principal factor que causa la rinitis son los aeroalérgenos, particulares transportadas por el aire que producen alergias respiratorias, cutáneas o conjuntivales.
+El principal factor que causa la rinitis son los **aeroalérgenos**, particulares transportadas por el aire que producen alergias respiratorias, cutáneas o conjuntivales.
 
 Estos aeroalérgenos se clasifican como:
 
-* Agentes de interior: ácaros del polvo domésticos, la saliva, los epitelios u orina de animales (gatos, perros, hámsters).
-* Agentes de exterior: algunos hongos atmosféricos y pólenes.
-* Agentes laborales: surge como respuesta a un agente presente en el aire y en el lugar de trabajo. Por ejemplo: harinas de cereales, enzimas proteolíticas y maderas tropicales.
+✅**Agentes de interior**: ácaros del polvo domésticos, la saliva, los epitelios u orina de animales (gatos, perros, hámsters).
+
+✅**Agentes de exterior**: algunos hongos atmosféricos y pólenes.
+
+✅**Agentes laborales**: surge como respuesta a un agente presente en el aire y en el lugar de trabajo. Por ejemplo: harinas de cereales, enzimas proteolíticas y maderas tropicales.
 
 También existen factores de riesgo:
 
-* Tener padres alérgicos.
-* Exposición a factores ambientales.
-* La contaminación.
-* Padecer otras alergias.
-* Estar expuesto a fumadores.
+✅Tener **padres alérgicos**.
 
-**Síntomas de la rinitis**
+✅Exposición a **factores ambientales**.
+
+✅La **contaminación**.
+
+✅Padecer **otras alergias**.
+
+✅Estar expuesto a **fumadores**.
+
+## **Síntomas de la rinitis alérgica**
 
 Los síntomas se presentan generalmente durante dos o más días consecutivos y durante más de una hora la mayoría de los días.
 
-* Goteo y congestión nasal.
-* Ojos llorosos, rojos y que causan picazón.
-* Estornudos.
-* Tos.
-* Picazón en la nariz, el paladar o la garganta.
-* Piel hinchada y de color azul debajo de los ojos.
-* Goteo posnasal.
-* Fatiga.
+✅**Goteo y congestión** nasal.
+
+✅**Ojos llorosos**, **rojos** y que causan picazón.
+
+✅**Estornudos**.
+
+✅**Tos**.
+
+✅**Picor** en la nariz, el paladar o la garganta.
+
+✅**Piel hinchada** debajo de los ojos.
+
+✅**Goteo posnasal**.
+
+✅**Fatiga**.
 
 Existen factores estacionales, es decir, pueden comenzar o empeorar en un momento particular del año. Los detonantes son:
 
-* Polen de los árboles al comienzo de la primavera.
-* Polen del césped al final de la primavera y el verano.
-* Polen de la ambrosía, frecuente en otoño.
-* Los ácaros de polvo, las cucarachas y la caspa de mascotas pueden estar presentes todo el año, pero los síntomas pueden empeorar en invierno.
+✅**Polen** de los árboles al comienzo de la primavera.
 
-**Pruebas y diagnóstico de la rinitis alérgica**
+✅Polen del césped al final de la primavera y el verano.
 
-El médico se basa en los antecedentes familiares y un examen físico para diagnosticar la fiebre del heno.
+✅Polen de la ambrosía, frecuente en otoño.
 
-También puede apoyarse en alguna prueba, pero son bastante comunes:
+✅Los **ácaros de polvo**, las **cucarachas** y la **caspa de mascotas** pueden estar presentes todo el año, pero los síntomas pueden empeorar en invierno.
 
-* Prueba del pinchazo: el médico te pincha en la piel del brazo o en la parte superior de la espalda con materiales que desencadenan alergias. En caso de alergia se producirá una reacción y seguramente sea el desencadenante de tu rinitis.
-* Análisis de sangre.
+## **Pruebas y diagnóstico de la rinitis alérgica**
+
+El médico se basa en los **antecedentes familiares** y un **examen físico** para diagnosticar la fiebre del heno.
+
+También puede apoyarse en alguna **prueba**, pero son bastante comunes:
+
+✅ **Prueba del pinchazo**: el médico te pincha en la piel del brazo o en la parte superior de la espalda con materiales que desencadenan alergias. En caso de alergia se producirá una reacción y seguramente sea el desencadenante de tu rinitis.
+
+✅ **Análisis de sangre**.
 
 En casos muy particulares se pueden llegar a hacer otras pruebas como pruebas olfatorias, determinación de los niveles de óxido nítrico nasal o pruebas de provocación nasal con alérgenos.
 
-**Tratamiento de la rinitis alérgica:**
+## **Tratamiento de la rinitis alérgica**
 
 Lo mejor es limitar todo lo posible la exposición a aquello que te causa la rinitis aunque se puede seguir un tratamiento con medicación.
 
