@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: Guía definitiva para entender la Rinitis
-date: 2020-02-12 23:00:00 +0000
-last_modified_at: 2020-02-12 23:00:00 +0000
+date: 2020-02-12T23:00:00.000+00:00
+last_modified_at: 2020-02-12T23:00:00.000+00:00
 author: Cristina
 category: Alergia
 image: "/uploads/mujer-estornuda-pie-calle_8353-1327.jpg"
@@ -30,7 +30,7 @@ Produce estornudos, congestión nasal y/o secreción y conjuntivitis.
 
 La rinitis puede ser un indicador de que la persona que la padece tiene una predisposición a desarrollar asma.
 
-## **Causas de la rinitis alérgica**
+## Causas de la rinitis alérgica
 
 Es más frecuente en personas con algún familiar con alergias o personas que viven en zonas con mayor contaminación.
 
@@ -58,7 +58,7 @@ También existen factores de riesgo:
 
 ✅Estar expuesto a **fumadores**.
 
-## **Síntomas de la rinitis alérgica**
+## Síntomas de la rinitis alérgica
 
 Los síntomas se presentan generalmente durante dos o más días consecutivos y durante más de una hora la mayoría de los días.
 
@@ -90,7 +90,7 @@ Existen factores estacionales, es decir, pueden comenzar o empeorar en un moment
 
 ✅Los **ácaros de polvo**, las **cucarachas** y la **caspa de mascotas** pueden estar presentes todo el año, pero los síntomas pueden empeorar en invierno.
 
-## **Pruebas y diagnóstico de la rinitis alérgica**
+## Pruebas y diagnóstico de la rinitis alérgica
 
 El médico se basa en los **antecedentes familiares** y un **examen físico** para diagnosticar la fiebre del heno.
 
@@ -104,7 +104,7 @@ También puede apoyarse en alguna **prueba**, pero son bastante comunes:
 
 En casos muy particulares se pueden llegar a hacer otras pruebas como pruebas olfatorias, determinación de los niveles de óxido nítrico nasal o pruebas de provocación nasal con alérgenos.
 
-## **Tratamiento de la rinitis alérgica**
+## Tratamiento de la rinitis alérgica
 
 Lo mejor es **limitar** todo lo posible la exposición a aquello que te causa la rinitis aunque se puede seguir un tratamiento con medicación.
 
@@ -130,7 +130,7 @@ También existen otros tratamentos:
 
 ✅**Acupuntura:** no hay mucha información al respecto pero en algunos casos la acupuntura ha llegado a mejorar los síntomas y calidad de vida de quienes padecen la fiebre del heno.
 
-## **Medicamentos para la rinitis alérgica**
+## Medicamentos para la rinitis alérgica
 
 Entre los medicamentos destacan:
 
@@ -148,7 +148,7 @@ Entre los medicamentos destacan:
 
 ✅**Corticosteroides orales**: se suelen recetar durante períodos cortos ya que a largo plazo pueden causar efectos secundarios graves, como cataratas o debilidad muscular.
 
-## **Prevención de la rinitis alérgica**
+## Prevención de la rinitis alérgica
 
 No existe una manera de prevenir la rinitis alérgica. Lo mejor que se puede hacer es reducir la exposición a los alérgenos que provocan los síntomas.
 
@@ -158,7 +158,7 @@ También es muy importante mantener el **polen bajo control**, conocer su concen
 
 Evitar las alfombras o moquetas y **usar aires acondicionados con filtros** pueden ayudar a mejorar tu vida.
 
-## **Complicaciones de la rinitis alérgica**
+## Complicaciones de la rinitis alérgica
 
 Problemas que pueden asociarse a la rinitis alérgica:
 
@@ -174,7 +174,7 @@ Problemas que pueden asociarse a la rinitis alérgica:
 
 ![](/uploads/mujer-asiatica-tiene-dolor-oido-concepto-tinnitus_34670-865.jpg)
 
-## **Tipos de rinitis alérgica**
+## Tipos de rinitis alérgica
 
 La clasificación de la rinitis alérgica se basa en el tipo de elérgenos a los que reacciona la persona y cuándo ocurren las reacciones:
 
@@ -184,7 +184,7 @@ La clasificación de la rinitis alérgica se basa en el tipo de elérgenos a los
 
 ✅**Rinitis alérgica ocupacional**: sucede por una reacción alérgica a alguna sustancia presente en el entorno laboral, como por ejemplo granos, polvo de madera, sustancias químicas o animales de laboratorio.
 
-## **Cuándo contactar a un médico**
+## Cuándo contactar a un médico
 
 Es importante acudir al médico en alguno de los siguientes casos:
 
@@ -196,7 +196,7 @@ Es importante acudir al médico en alguno de los siguientes casos:
 
 ![](/uploads/doctor-sujetando-estetoscopio_23-2147822716.jpg)
 
-## **Rinitis alérgica en bebés**
+## Rinitis alérgica en bebés
 
 La fiebre del heno en bebés es más común si alguno de los padres es alérgico. Además, es más frecuente que los bebés la padezcan si sufren piel atópica.
 
@@ -222,7 +222,7 @@ Lo mejor para evitar una situación de asfixia son los aspiradores nasales.
 
 También es importante alimentarlo con frecuencia con leche materna.
 
-## **Rinitis alérgica en niños**
+## Rinitis alérgica en niños
 
 Uno de cada cuatro niños entre seis y siete años sufre o ha sufrido rinitis. Los niños con rinitis alérgica tienen peor calidad de vida y un menor rendimiento escolar.
 
@@ -236,7 +236,7 @@ En caso de que los niños hayan pasado una mala primavera o un mal verano debido
 
 El riesgo en niños de la que rinitis sea causada por alguna alergia se incrementa cuando ya padece alguna alergia alimentaria o dermatitis atópica o si sus padres también son alérgicos.
 
-## **Rinitis alérgica en adolescentes**
+## Rinitis alérgica en adolescentes
 
 Actualmente, el 16% de los adolescentes entre 13 y 14 años padecen rinitis alérgica.
 
@@ -248,7 +248,7 @@ La rinitis alérgica se asocia a otras enfermedades como la dermatitis atópica 
 
 Los adolescentes con rinitis alérgica presentan mayores tasas de ansiedad y depresión, por lo que, como en el caso de los niños, cuanto antes se diagnostica y se trate, mejor para la calidad de vida del adolescente.
 
-## **Rinitis alérgica en embarazadas**
+## Rinitis alérgica en embarazadas
 
 Hay mujeres que parece que durante todo el embarazo están resfriadas. Es normal padecer durante este periodo síntomas de congestión nasal, estornudos y tos.
 
@@ -270,7 +270,7 @@ Lo más común es la **irrigación nasal** con soluciones salinas, **antihistam�
 
 También es muy importante el cuidado personal, beber muchos líquidos, no exponerse al humo del tabaco y hacer ejercicio moderado.
 
-## **Rinitis alérgica en mayores**
+## Rinitis alérgica en mayores
 
 Las personas mayores con rinitis alérgica suelen padecer más síntomas como **pérdida de olfato** o **sequedad nasal**.
 
@@ -278,7 +278,7 @@ Es una enfermedad que se presenta con más severidad en los ancianos por [**inmu
 
 Con la edad también se producen cambios anatómicos y fisiológicos en la nariz que favorecen la aparición de rinitis.
 
-## **Datos interesantes sobre la rinitis alérgica**
+## Datos interesantes sobre la rinitis alérgica
 
 ✅Se calcula que **400 millones de personas** sufren de rinitis alérgica.
 
