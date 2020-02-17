@@ -7,32 +7,29 @@ last_modified_at: 2020-02-16 23:00:00 +0000
 author: Cristina
 category: EPOC
 image: ''
-description: ''
-intro: ''
+description: Te ayudamos a conocer y controlar la EPOC. Como bien sabes es bastante
+  complicado, ya que es una enfermedad que puede ser provocada por diversos factores.
+  Descúbrelos.
+intro: |-
+  ¿Quieres entender en detalle la EPOC?
+
+  Es bastante complicado ya que es una enfermedad que puede ser provocada por diferentes factores.
+
+  Pero no te preocupes en Zensei somos expertos en problemas respiratorios. Y hemos escrito y actualizado esta guía sobre la EPOC para ti.
+
+  En ella tienes todo lo que tienes que saber para que empieces a entender y controlar la EPOC. Da igual del tipo que sea.
+
+  Empezamos.
 tags: ''
 
 ---
-Guía definitiva para entender el EPOC
-
-¿Quieres entender en detalle la EPOC?
-
-Es bastante complicado ya que el asma es una enfermedad que puede ser provocada por muchos factores.
-
-Pero no te preocupes en Zensei somos expertos en problemas respiratorios. Y hemos escrito y actualizado esta guía sobre el asma para tí.
-
-En ella tienes todo lo que tienes que saber para que empieces a entender y controlar el asma. Da igual del tipo que sea.
-
-Empezamos.
-
-**Definición de EPOC**
-
-La enfermedad pulmonar obstructiva crónica (EPOC) es una enfermedad crónica inflamatoria de los pulmones que obstruye el flujo de aire desde los pulmones.
+La **enfermedad pulmonar obstructiva crónica** (EPOC) es una enfermedad crónica inflamatoria de los pulmones que obstruye el flujo de aire desde los pulmones.
 
 Las personas con EPOC tienen mayor riesgo de padecer enfermedades cardíacas, cáncer de pulmón y otras afecciones.
 
 Los pulmones pierden elasticidad y se estiran en exceso, atrapando el aire en ellos al exhalar.
 
-**Causas del EPOC**
+## **Causas de la EPOC**
 
 La principal causa de EPOC en los países desarrollados es el **tabaquismo**. En los países en vías de desarrollo es frecuente en personas expuestas a gases químicos.
 
@@ -107,9 +104,9 @@ Entre las pruebas que puede solicitar tu médico están:
 
 Esta prueba puede detectar la EPOC antes de que se tengan síntomas.
 
-2. **Radiografía torácica**: puede mostrar un enfisema. También puede descartar otros problemas pulmonares o insuficiencia cardíaca.
-3. **Exploración por TC**: también ayuda a detectar un enfisema y a determinar si podría ser beneficiosa una cirugía para tratar la EPOC.
-4. **Gasometría arterial**: es un análisis de sangre.
+1. **Radiografía torácica**: puede mostrar un enfisema. También puede descartar otros problemas pulmonares o insuficiencia cardíaca.
+2. **Exploración por TC**: también ayuda a detectar un enfisema y a determinar si podría ser beneficiosa una cirugía para tratar la EPOC.
+3. **Gasometría arterial**: es un análisis de sangre.
 
 **Tratamiento del EPOC**
 
