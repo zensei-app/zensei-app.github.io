@@ -329,6 +329,8 @@ Dejar de fumar también supone en estos pacientes una disminución de la mortali
 
 Incluso en estos pacientes dejar de fumar supone una disminución de la pérdida pulmonar y la mortalidad.
 
+![](/uploads/paciente-senior-masculino-visitando-medico_13339-194838.jpg)
+
 En cuanto al tratamiento es importante tener en cuenta:
 
 ✅ Es muy importante **vacunarse** de la antigripal anual y de la antineumocócica.
