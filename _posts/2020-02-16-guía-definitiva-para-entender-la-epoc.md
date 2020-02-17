@@ -6,7 +6,7 @@ date: 2020-02-16 23:00:00 +0000
 last_modified_at: 2020-02-16 23:00:00 +0000
 author: Cristina
 category: EPOC
-image: ''
+image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
 description: Te ayudamos a conocer y controlar la EPOC. Como bien sabes es bastante
   complicado, ya que es una enfermedad que puede ser provocada por diversos factores.
   Descúbrelos.
