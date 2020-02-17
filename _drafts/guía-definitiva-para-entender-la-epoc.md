@@ -84,7 +84,7 @@ Incluyen:
 
 ![](/uploads/mujeres-asiaticas-tienen-angina-fiebre-alta-tos-cronica_112699-294.jpg)
 
-✅ **Color azul** en los labios o debajo de las uñas (cianosis).
+✅ **Color azul** en los labios o debajo de las uñas ([cianosis](https://es.wikipedia.org/wiki/Cianosis)).
 
 ✅ **Infección respiratoria** frecuente.
 
@@ -107,7 +107,7 @@ Entre las **pruebas** que puede solicitar tu médico están:
 1. **Espirometría**: mide la cantidad de aire que puedes inhalar y exhalar y si se suministra suficiente oxígeno a la sangre.
 
    Esta prueba puede detectar la EPOC antes de que se tengan síntomas.
-2. **Radiografía torácica**: puede mostrar un enfisema. También puede descartar otros problemas pulmonares o insuficiencia cardíaca.
+2. **Radiografía torácica**: puede mostrar un [enfisema](https://es.wikipedia.org/wiki/Enfisema_pulmonar). También puede descartar otros problemas pulmonares o insuficiencia cardíaca.
 
    ![](/uploads/Rx-de-tórax-EPOC-tipo-enfisema-efe.jpg)
 3. **Exploración por TC**: también ayuda a detectar un enfisema y a determinar si podría ser beneficiosa una cirugía para tratar la EPOC.
@@ -179,11 +179,13 @@ La mayoría de los casos de EPOC están relacionados con el tabaquismo, por lo q
 
 En caso de que trabajes en sitios con irritantes pulmonares lo mejor es hablar con tu supervisor y conocer las mejores **maneras de protegerte**, como por ejemplo usar un equipo de protección respiratoria.
 
+También es importante saber que en [invierno](https://zenseiapp.com/epoc/pueden-empeorar-los-enfermos-de-epoc-en-invierno/) puedes sufrir más exacerbaciones (dolores más graves), ya que son meses más fríos. 
+
 ## **Complicaciones de la EPOC**
 
 Esta enfermedad puede causar muchas complicaciones:
 
-✅ **Infecciones respiratorias**: las personas con EPOC tienen mayor probabilidad de sufrir gripe o neumonía.
+✅ **Infecciones respiratorias**: las personas con EPOC tienen mayor probabilidad de sufrir gripe o [neumonía](https://zenseiapp.com/salud%20respiratoria/neumonia-infeccion-pulmonar/).
 
 ✅ **Problemas de corazón**. Dejar de fumar puede reducir su riesgo.
 
@@ -219,7 +221,7 @@ Cuanto antes se acuda al médico antes se puede diagnosticar lo ocurre y **estab
 
 Si sufres EPOC tendrás que acudir a **revisiones médicas**, pero la frecuencia de estas dependerá de la gravedad de la enfermedad, modificaciones en el tratamiento o si has tenido alguna exacerbación reciente.
 
-En caso de que sufras una **exacerbación** debes acudir al médico, tanto al inicio como al final para corroborar que se ha vuelto a la situación que se tenía antes de la exacerbación.
+En caso de que sufras una **exacerbación** debes acudir al médico, tanto al inicio como al final para corroborar que se ha vuelto a la situación que se tenía antes de la exacerbación. 
 
 Es importante también conocer los **síntomas y si empeoran**, reconocerlos y acudir al médico para que te ayuden.
 
@@ -277,7 +279,7 @@ El tratamiento puede incluir:
 
 **✅ Separación gradual** del respirador mecánico.
 
-✅ Reposición de **surfactante**.
+✅ Reposición de [**surfactante**](https://es.wikipedia.org/wiki/Surfactante_pulmonar).
 
 ✅ Diferentes **medicamentos** como broncodilatadores, diuréticos o antibióticos.
 
