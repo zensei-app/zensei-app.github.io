@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: Guía definitiva para entender la EPOC
 date: 2020-02-16 23:00:00 +0000
-last_modified_at: 2020-02-16 23:00:00 +0000
+last_modified_at: 2020-02-17 23:00:00 +0000
 author: Cristina
 category: EPOC
 image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
@@ -20,7 +20,8 @@ intro: |-
   En ella tienes todo lo que tienes que saber para que empieces a entender y controlar la EPOC. Da igual del tipo que sea.
 
   Empezamos.
-tags: ''
+tags: epoc tratamiento síntomas
+slug: guia-epoc
 
 ---
 La **enfermedad pulmonar obstructiva crónica** (EPOC) es una enfermedad crónica inflamatoria de los pulmones que obstruye el flujo de aire desde los pulmones.
