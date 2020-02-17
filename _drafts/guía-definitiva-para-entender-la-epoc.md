@@ -41,6 +41,8 @@ Los irritantes más comunes que pueden causar EPOC son:
 
 ✅ **Exposición a largo plazo a diversos gases**.
 
+![](/uploads/tubos-altos-planta-energia-humo-blanco_127089-1762.jpg)
+
 Destacan dos enfermedades muy frecuentes que contribuyen a desarrollar EPOC:
 
 * **Enfisema**: se destruyen las paredes frágiles y las fibras elásticas de los alvéolos. Las vías respiratorias pequeñas colapsan cuando exhalas impidiendo que salga el aire de los pulmones.
@@ -80,6 +82,8 @@ Incluyen:
 
 ✅ Necesidad de **aclarar la garganta** por la mañana debido al exceso de mucosidad en los pulmones.
 
+![](/uploads/mujeres-asiaticas-tienen-angina-fiebre-alta-tos-cronica_112699-294.jpg)
+
 ✅ **Color azul** en los labios o debajo de las uñas (cianosis).
 
 ✅ **Infección respiratoria** frecuente.
@@ -104,6 +108,8 @@ Entre las **pruebas** que puede solicitar tu médico están:
 
    Esta prueba puede detectar la EPOC antes de que se tengan síntomas.
 2. **Radiografía torácica**: puede mostrar un enfisema. También puede descartar otros problemas pulmonares o insuficiencia cardíaca.
+
+   ![](/uploads/Rx-de-tórax-EPOC-tipo-enfisema-efe.jpg)
 3. **Exploración por TC**: también ayuda a detectar un enfisema y a determinar si podría ser beneficiosa una cirugía para tratar la EPOC.
 4. **Gasometría arterial**: es un análisis de sangre.
 
@@ -114,6 +120,8 @@ La EPOC no se cura, pero se puede tratar. Con el tratamiento adecuado, la mayor�
 El **tratamiento farmacológico** y la **fisioterapia** pueden aliviar los síntomas, mejorar la capacidad de ejercicio y la calidad de vida y reducir el riesgo de muerte.
 
 El tratamiento menos costoso y más eficaz para los fumadores es **dejar de fumar.** Retrasa la evolución de la enfermedad y reduce su mortalidad.
+
+![](/uploads/senora-adicto-blanco-rompe-encantadora_1301-3106.jpg)
 
 Es posible que, incluso con un tratamiento, los síntomas empeoren durante unos días. Esto se conoce como **reagudización** y puede provocar insuficiencia pulmonar si no se trata a tiempo.
 
@@ -126,6 +134,8 @@ Esta opción es solo para casos más graves de enfisema pulmonar y no obtienen b
 1. **Cirugía para reducir el volumen pulmonar:** consiste en eliminar de la parte superior de los pulmones pequeños trozos de tejido pulmonar. De este modo se consigue que haya más espacio y el tejido sano se puede expandir y funcionar mejor.
 2. **Trasplante de pulmón:** para determinadas personas que cumplen determinados criterios. Puede mejorar la capacidad de respirar mejorar la calidad de vida, pero implica riesgos considerables como rechazo del órgano.
 3. **Bulectomía:** se extraen las bulas de los pulmones (espacios grandes de aire en los pulmones) para mejorar el flujo del aire.
+
+![](/uploads/cirujanos-que-realizan-operacion-sala-operacion_1170-2220.jpg)
 
 ### **Terapias pulmonares**
 
@@ -151,9 +161,11 @@ Los medicamentos para tratar la EPOC se toman o regularmente o solo cuando se ne
 
 ✅ **Esteroides inhalados:** reducen la inflamación de las vías respiratorias y ayudan a evitar reagudizaciones. Son comunes en personas que tienen episodios donde los síntomas empeoran.
 
+✅ **Inhaladores combinados:** mezclan broncodilatadores y esteroides inhalados.
+
 **✅ Esteroides orales:** en tratamientos cortos (cinco días, por ejemplo) previenen el empeoramiento de la enfermedad. Sin embargo, a largo plazo pueden tener efectos secundarios graves como aumento de peso o diabetes.
 
-✅ **Inhaladores combinados:** mezclan broncodilatadores y esteroides inhalados.
+![](/uploads/corticoesteroides.jpg)
 
 **✅ Inhibidores de la fosfodiesterasa tipo 4:** reduce la inflamación de las vías respiratorias y las relaja. Se usa en personas con EPOC grave y síntomas de bronquitis crónica.
 
@@ -203,6 +215,8 @@ El médico te hará algún examen físico y te hará preguntas sobre tus síntom
 
 Cuanto antes se acuda al médico antes se puede diagnosticar lo ocurre y **establecer un tratamiento adecuado**.
 
+![](/uploads/consulta-medica-clinica_151013-252.jpg)
+
 Si sufres EPOC tendrás que acudir a **revisiones médicas**, pero la frecuencia de estas dependerá de la gravedad de la enfermedad, modificaciones en el tratamiento o si has tenido alguna exacerbación reciente.
 
 En caso de que sufras una **exacerbación** debes acudir al médico, tanto al inicio como al final para corroborar que se ha vuelto a la situación que se tenía antes de la exacerbación.
@@ -236,6 +250,8 @@ La lesión pulmonar puede deberse a:
 **✅ Uso de oxígeno:** grandes cantidades de oxígeno puede dañar las células de los pulmones.
 
 ✅ **Respirador mecánico:** la presión que ejerce del aire puede dañar los pulmones.
+
+![](/uploads/cuidar-al-recien-nacido_78455-540.jpg)
 
 También hay diferentes causas que pueden aumentar la probabilidad de que un bebé tenga enfermedad pulmonar crónica:
 
@@ -280,6 +296,8 @@ Es una afección pulmonar que puede suponer un grave peligro en los más pequeñ
 Los niños que suelen padecer EPOC tienen secuelas de infecciones respiratorias agudas que evolucionaron hacia esta enfermedad.
 
 Lo principal es evitar fumar en el ambiente donde vive el niño ya que el humo del tabaco es uno de los peores irritantes.
+
+![](/uploads/nina-que-tiene-tratamiento-inhalacion-medica-nebulizador_137573-2340.jpg)
 
 ## **EPOC en adolescentes**
 
