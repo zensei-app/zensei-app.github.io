@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: Guía definitiva para entender la EPOC
-date: 2020-02-16 23:00:00 +0000
-last_modified_at: 2020-02-17 23:00:00 +0000
+date: 2020-02-16T23:00:00.000+00:00
+last_modified_at: 2020-02-18 23:00:00 +0000
 author: Cristina
 category: EPOC
 image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
@@ -30,7 +30,7 @@ Los pulmones pierden elasticidad y se estiran en exceso, atrapando el aire en el
 
 Las personas con EPOC tienen mayor riesgo de padecer enfermedades cardíacas, cáncer de pulmón y otras afecciones.
 
-## **Causas de la EPOC**
+## Causas de la EPOC
 
 La principal causa de EPOC en los países desarrollados es el **tabaquismo**. En los países en vías de desarrollo es frecuente en personas expuestas a gases químicos.
 
@@ -63,7 +63,7 @@ También hay diferentes **factores de riesgo** para la EPOC:
 
 ✅ Genética: existe un trastorno genético llamado **deficiencia de alfa-1 antitripsina** que en algunos casos es la causa de EPOC.
 
-## **Síntomas de la EPOC**
+## Síntomas de la EPOC
 
 Los síntomas no suelen aparecer hasta que ya se ha producido un daño importante.
 
@@ -97,7 +97,7 @@ Incluyen:
 
 En ocasiones las personas con EPOC sufren episodios en los cuales los síntomas empeoran durante más tiempo que otros días. Duran varios días.
 
-## **Pruebas y diagnóstico de la EPOC**
+## Pruebas y diagnóstico de la EPOC
 
 Para diagnosticar esta enfermedad el médico debe conocer tus síntomas y signos, tus antecedentes y tu historia clínica.
 
@@ -114,7 +114,7 @@ Entre las **pruebas** que puede solicitar tu médico están:
 3. **Exploración por TC**: también ayuda a detectar un enfisema y a determinar si podría ser beneficiosa una cirugía para tratar la EPOC.
 4. **Gasometría arterial**: es un análisis de sangre.
 
-## **Tratamiento de la EPOC**
+## Tratamiento de la EPOC
 
 La EPOC no se cura, pero se puede tratar. Con el tratamiento adecuado, la mayoría de las personas con EPOC logra un buen control de los síntomas y la calidad de vida, además de reducir el riesgo de otras enfermedades relacionadas.
 
@@ -154,7 +154,7 @@ La oxigenoterapia puede mejorar la calidad de vida y es la única terapia para e
 
 Estos programas pueden acortar las internaciones y mejorar la calidad de vida.
 
-## **Medicamentos para la EPOC**
+## Medicamentos para la EPOC
 
 Los medicamentos para tratar la EPOC se toman o regularmente o solo cuando se necesitan.
 
@@ -174,15 +174,15 @@ Los medicamentos para tratar la EPOC se toman o regularmente o solo cuando se ne
 
 **✅ Antibiótico:** ayudan a tratar la reagudización pero no suelen recomendarse como medida de prevención.
 
-## **Prevención de la EPOC**
+## Prevención de la EPOC
 
 La mayoría de los casos de EPOC están relacionados con el tabaquismo, por lo que la mejor manera de prevenir esta enfermedad es **no fumar** o dejar de fumar cuanto antes.
 
 En caso de que trabajes en sitios con irritantes pulmonares lo mejor es hablar con tu supervisor y conocer las mejores **maneras de protegerte**, como por ejemplo usar un equipo de protección respiratoria.
 
-También es importante saber que en [invierno](https://zenseiapp.com/epoc/pueden-empeorar-los-enfermos-de-epoc-en-invierno/) puedes sufrir más exacerbaciones (dolores más graves), ya que son meses más fríos. 
+También es importante saber que en [invierno](https://zenseiapp.com/epoc/pueden-empeorar-los-enfermos-de-epoc-en-invierno/) puedes sufrir más exacerbaciones (dolores más graves), ya que son meses más fríos.
 
-## **Complicaciones de la EPOC**
+## Complicaciones de la EPOC
 
 Esta enfermedad puede causar muchas complicaciones:
 
@@ -196,7 +196,7 @@ Esta enfermedad puede causar muchas complicaciones:
 
 ✅ **Depresión**: la dificultad para respirar puede condicionar mucho tu vida y que dejes de hacer actividades que te gustan. Esto puede contribuir a que se presente depresión.
 
-## **Tipos de EPOC**
+## Tipos de EPOC
 
 La EPOC es una enfermedad muy heterogénea por lo que no existe una clasificación. Sin embargo, existen diferentes formas clínicas de los pacientes con EPOC.
 
@@ -210,7 +210,7 @@ Estas formas clínicas permiten identificar a los pacientes y determinar la tera
 
 ✅ **Fenotipo agudizador**: se da en aquellos pacientes que muestran dos o más agudizaciones moderadas o graves al año cuyo tratamiento es a base de corticoides sistémicos y/o antibióticos.
 
-## **Cuándo contactar a un médico**
+## Cuándo contactar a un médico
 
 Siempre que se tengan problemas respiratorios como falta de aire, tos o dolor en el pecho, entre otros, es importante acudir al médico.
 
@@ -222,11 +222,11 @@ Cuanto antes se acuda al médico antes se puede diagnosticar lo ocurre y **estab
 
 Si sufres EPOC tendrás que acudir a **revisiones médicas**, pero la frecuencia de estas dependerá de la gravedad de la enfermedad, modificaciones en el tratamiento o si has tenido alguna exacerbación reciente.
 
-En caso de que sufras una **exacerbación** debes acudir al médico, tanto al inicio como al final para corroborar que se ha vuelto a la situación que se tenía antes de la exacerbación. 
+En caso de que sufras una **exacerbación** debes acudir al médico, tanto al inicio como al final para corroborar que se ha vuelto a la situación que se tenía antes de la exacerbación.
 
 Es importante también conocer los **síntomas y si empeoran**, reconocerlos y acudir al médico para que te ayuden.
 
-## **Consejos para evitar la EPOC**
+## Consejos para evitar la EPOC
 
 La principal causa de la EPOC es el tabaco, por lo que, como ya se ha explicado, la primera medida si fumas es dejarlo cuanto antes.
 
@@ -234,7 +234,7 @@ En caso de que no fumes, el humo de las personas de tu entorno que sí lo hacen 
 
 Utilizar aires acondicionados con filtros de aire es una gran medida que puede evitar desarrollar enfermedades respiratorias, entre ellas EPOC.
 
-## **EPOC en bebés**
+## EPOC en bebés
 
 Los bebés no pueden tener EPOC como tal, pero sí que pueden padecer enfermedades pulmonares crónicas.
 
@@ -290,7 +290,7 @@ El tratamiento puede incluir:
 
 ✅ **Vacunas**, que reducen el riesgo de infección en los pulmones.
 
-## **EPOC en niños**
+## EPOC en niños
 
 La EPOC es una enfermedad prevalente en adultos pero en los últimos años ha sido diagnosticada en niños.
 
@@ -302,7 +302,7 @@ Lo principal es evitar fumar en el ambiente donde vive el niño ya que el humo d
 
 ![](/uploads/nina-que-tiene-tratamiento-inhalacion-medica-nebulizador_137573-2340.jpg)
 
-## **EPOC en adolescentes**
+## EPOC en adolescentes
 
 Hasta en la mitad de los casos de personas que padecen EPOC, los problemas pulmonares empiezan a producirse en la adolescencia y juventud.
 
@@ -310,7 +310,7 @@ Es importante garantizar el buen funcionamiento pulmonar a esas edades por lo qu
 
 Las probabilidades de padecer esta enfermedad aumentan si alguno de los progenitores es fumador.
 
-## **EPOC en embarazadas**
+## EPOC en embarazadas
 
 La EPOC en mujeres en edad fértil es una enfermedad rara y por tanto, no hay mucha documentación al respecto.
 
@@ -322,7 +322,7 @@ Aunque una mujer embarazada no padezca EPOC durante el embarazo, puede desarroll
 
 Es importante cuidarse mucho durante el embarazo y evitar fumar y entornos con mucho humo ya que pueden ser perjudiciales tanto para la madre como para el bebé.
 
-## **EPOC en mayores**
+## EPOC en mayores
 
 El envejecimiento afecta a la estructura, función y control del sistema respiratorio. Por ello, las personas mayores suponen una población en riesgo de sufrir EPOC.
 
@@ -348,7 +348,7 @@ En cuanto al tratamiento es importante tener en cuenta:
 
 Existe una relación entre la EPOC y una probabilidad doblemente mayor de presentar deterioro cognitivo leve. Además, cuanto más tiempo se ha padecido EPOC más probabilidades hay.
 
-## **Datos interesantes**
+## Datos interesantes
 
 ✅ Más del 90% de las muertes de EPOC se producen en países de bajos y medianos ingresos.
 
