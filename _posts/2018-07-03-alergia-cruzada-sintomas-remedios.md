@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/que-es-la-alergia-cruzada/'
+redirect_from: 
+  - '/blog/que-es-la-alergia-cruzada/'
+  - '/blog/2018/07/03/que-es-la-alergia-cruzada/'
 title:  "🥜🤢 Qué es la alergia cruzada y cúales son sus síntomas"
 date:   2018-07-03 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

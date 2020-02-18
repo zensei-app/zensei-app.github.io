@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: "/blog/como-prevenir-alergia-polen/"
+redirect_from: 
+  - "/blog/como-prevenir-alergia-polen/"
+  - "/blog/2018/05/09/como-prevenir-alergia-polen/"
 title: "\U0001F33C\U0001F927 Alergia al Polen: Cómo prevenir los síntomas de forma
   fácil"
 last_modified_at: 2019-08-22T10:00:00.000+00:00

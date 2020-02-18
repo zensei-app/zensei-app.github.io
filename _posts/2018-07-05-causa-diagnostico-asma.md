@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/como-saber-si-tengo-asma/'
+redirect_from: 
+  - '/blog/como-saber-si-tengo-asma/'
+  - '/blog/2018/07/04/como-saber-si-tengo-asma/'
 title:  "🤢🌬️ Cómo saber si tengo asma (y que hacer para evitarlo)"
 date:   2018-07-04 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

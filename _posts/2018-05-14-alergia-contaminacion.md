@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/que-es-alergia-contaminación/'
+redirect_from: 
+  - '/blog/que-es-alergia-contaminación/'
+  - '/blog/2018/05/14/que-es-alergia-contaminación/'
 title:  "🚗💨🤧 Alergia al polen y contaminación (Evita sus síntomas)"
 date:   2018-05-14 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

@@ -1,6 +1,8 @@
 ---
 layout: post
-redirect_from: "/blog/bronquitis-aguda-sintomas-tratamiento/"
+redirect_from: 
+  - "/blog/bronquitis-aguda-sintomas-tratamiento/"
+  - "/blog/2018/11/22/bronquitis-aguda-sintomas-tratamiento/"
 toc: true
 title: "\U0001F47E\U0001F912 Bronquitis Asmática (Síntomas, tratamiento y prevención)"
 date: 2018-11-22T08:00:00.000+00:00

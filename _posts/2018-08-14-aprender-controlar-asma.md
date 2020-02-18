@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/como-aprender-a-controlar-el-asma/'
+redirect_from: 
+	- '/blog/como-aprender-a-controlar-el-asma/'
+	- '/blog/2018/08/14/como-aprender-a-controlar-el-asma/'
 title:  "🌬️ Cómo controlar el asma sin inhalador (y evita visitas a urgencias)"
 date:   2018-08-14 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

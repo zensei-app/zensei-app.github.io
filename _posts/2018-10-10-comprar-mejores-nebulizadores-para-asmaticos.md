@@ -1,6 +1,8 @@
 ---
 layout: post
-redirect_from: "/blog/comprar-mejores-nebulizadores-para-asmaticos/"
+redirect_from: 
+  - "/blog/comprar-mejores-nebulizadores-para-asmaticos/"
+  - "/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/"
 toc: true
 title: "\U0001F947Mejores Nebulizadores para Asmáticos "
 date: 2018-10-10T08:00:00.000+00:00

@@ -1,6 +1,8 @@
 ---
 layout: post
-redirect_from: '/blog/alergias-cruzadas-polenes-y-frutas/'
+redirect_from: 
+    - '/blog/alergias-cruzadas-polenes-y-frutas/'
+    - '/blog/2018/09/07/alergias-cruzadas-polenes-y-frutas/'
 toc: true
 title:  "🤧🍓🌼 Alergias cruzadas: qué frutas reaccionan con cada tipo de polen"
 date:   2018-09-07 10:00:00 +0200

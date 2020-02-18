@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/que-es-el-epoc/'
+redirect_from: 
+  - '/blog/que-es-el-epoc/'
+  - '/blog/2018/05/16/que-es-el-epoc/'
 title:  "😷 Qué es el EPOC (y entiendelo de forma fácil)"
 date:   2018-10-19 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

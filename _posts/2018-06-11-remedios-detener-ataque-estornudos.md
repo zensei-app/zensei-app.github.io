@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: "/blog/como-detener-un-ataque-de-estornudos/"
+redirect_from: 
+  - "/blog/como-detener-un-ataque-de-estornudos/"
+  - "/blog/2018/06/11/como-detener-un-ataque-de-estornudos/"
 title: "\U0001F927 3 Remedios para detener un ataque de estornudos (Muy sencillos)"
 date: 2018-06-11T08:00:00.000+00:00
 last_modified_at: 2019-09-15 10:00:00 +0000

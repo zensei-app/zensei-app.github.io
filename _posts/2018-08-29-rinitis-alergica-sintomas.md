@@ -1,6 +1,8 @@
 ---
 layout: post
-redirect_from: "/blog/que-es-la-rinitis-alergica-sintomas/"
+redirect_from: 
+  - "/blog/que-es-la-rinitis-alergica-sintomas/"
+  - "/blog/2018/08/29/que-es-la-rinitis-alergica-sintomas/"
 toc: true
 title: "\U0001F927 Rinitis Alérgica (Causas y síntomas)"
 date: 2018-08-29T08:00:00.000+00:00

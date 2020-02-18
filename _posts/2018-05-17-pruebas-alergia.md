@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: '/blog/como-son-las-pruebas-de-la-alergia/'
+redirect_from: 
+  - '/blog/como-son-las-pruebas-de-la-alergia/'
+  - '/blog/2018/05/17/como-son-las-pruebas-de-la-alergia/'
 title:  "🤧 Cómo son las pruebas de la alergia (entiende fácilmente en que consisten)"
 date:   2018-05-17 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000

@@ -1,7 +1,9 @@
 ---
 layout: post
 toc: true
-redirect_from: "/blog/sibilancias-pitidos-respiratorios/"
+redirect_from: 
+  - "/blog/sibilancias-pitidos-respiratorios/"
+  - "/blog/2018/05/08/sibilancias-pitidos-respiratorios/"
 title: 'Pitidos al respirar: Causas y cómo evitarlos'
 last_modified_at: 2019-10-17 10:00:00 +0000
 date: 2018-05-08T08:00:00.000+00:00
