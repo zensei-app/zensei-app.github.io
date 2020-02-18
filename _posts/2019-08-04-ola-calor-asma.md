@@ -152,4 +152,4 @@ Las siguientes estrategias pueden ayudar:
 
 · pasar parte del día en lugares con aire acondicionado, como un centro comercial, una biblioteca o una sala de cine
 
-Nadie debe permanecer solo en un automóvil estacionado cuando hace mucho calor. Hacerlo podría ser especialmente peligroso para niños y personas mayores de 65 años. Por último, resulta imprescindible tomar conciencia de la peligrosa relación que se establece entre ola de calor y enfermedades respiratorias. Durante esos días se deben **extremar todas las precauciones.** Es importante para mantener la [salud respiratoria](https://zenseiapp.com/blog/salud-futuro/).
+Nadie debe permanecer solo en un automóvil estacionado cuando hace mucho calor. Hacerlo podría ser especialmente peligroso para niños y personas mayores de 65 años. Por último, resulta imprescindible tomar conciencia de la peligrosa relación que se establece entre ola de calor y enfermedades respiratorias. Durante esos días se deben **extremar todas las precauciones.**

@@ -51,7 +51,7 @@ A pesar de que sea una consecuencia lógica para **liberar las vías respiratori
 
 Ya hemos visto que el estornudo es un **acto reflejo** mediante el cual el sistema respiratorio reacciona **ante la presencia de virus o alérgenos.**
 
-En ocasiones se presentan de forma muy seguida y si no conseguimos detener el ataque de estornudos, podemos acabar con **una inflamación de la mucosa nasal y desencadenar una rinitis, sinusitis o [crisis asmática](https://zenseiapp.com/blog/como-prevenir-ataque-asma/).** 
+En ocasiones se presentan de forma muy seguida y si no conseguimos detener el ataque de estornudos, podemos acabar con **una inflamación de la mucosa nasal y desencadenar una rinitis, sinusitis o [crisis asmática](https://zenseiapp.com/asma/como-prevenir-ataque-asma/).** 
 
 Veamos algunos consejos para parar un ataque de estornudos.
 
@@ -68,7 +68,7 @@ Así podrás respiraras un aire más limpio y evitar los ataques de estornudos e
 Solo tienes que instalarlo en su habitación.
 
 <div class="section-cta">
-<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a href="/alergia/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ### **😷 Mascarilla antipolución**
@@ -80,7 +80,7 @@ Las mascarillas pueden ayudarte a evitar la polución, polvo, ácaros, polenes e
 Muchos causantes de los ataques de estornudos.
 
 <div class="section-cta">
-<a href="/blog/mejor-mascarillas-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarillas-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
+<a href="/alergia/mejor-mascarillas-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejor-mascarillas-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
 </div>
 
 ### **👃 Trucos caseros para dejar de estornudos**
