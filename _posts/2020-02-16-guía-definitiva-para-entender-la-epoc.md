@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: Guía definitiva para entender la EPOC
 date: 2020-02-16T23:00:00.000+00:00
-last_modified_at: 2020-02-18 23:00:00 +0000
+last_modified_at: 2020-02-17 23:00:00 +0000
 author: Cristina
 category: EPOC
 image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
