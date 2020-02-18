@@ -35,6 +35,13 @@ fields:
 - type: text
   name: tags
   label: tags
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
+  hidden: false
+  description: link keywords
 pages:
 - _posts/2019-10-16-maquina-cpap-apnea-sueno.md
 - _posts/2019-10-26-impacto-del-aire-frío-en-los-bronquios.md
