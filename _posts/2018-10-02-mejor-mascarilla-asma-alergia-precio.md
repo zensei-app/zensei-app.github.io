@@ -2,6 +2,7 @@
 layout: post
 redirect_from: 
   - "/blog/mejor-mascarilla-asma-alergia-precio/"
+  - "/blog/mejor-mascarillas-asma-alergia-precio/"
   - "/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"
 toc: true
 title: "\U0001F947\U0001F637 Mejores Mascarillas antipolución para asmáticos y alérgicos"
