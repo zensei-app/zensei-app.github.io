@@ -68,7 +68,7 @@ Si padeces EPOC cuyos síntomas son peores en el invierno, no estás solo. Como 
 
 ¿Por qué ocurre esto? Una de las razones más comunes está relacionada con las condiciones meteorológicas. **El clima frío afecta a los pulmones** al causar cambios dramáticos en el sistema respiratorio.
 
-Para algunas personas, **respirar** [**aire frío**](https://zenseiapp.com/gripe/impacto-del-aire-fr%C3%ADo-en-los-bronquios/) **y seco obliga a su cuerpo a producir más humedad en las vías respiratorias.** De este modo pueden afrontar el hecho de que hay un mayor volumen de aire que necesita ser calentado y humidificado.
+Para algunas personas, **respirar** [**aire frío**](https://zenseiapp.com/salud%20respiratoria/impacto-del-aire-fr%C3%ADo-en-los-bronquios/) **y seco obliga a su cuerpo a producir más humedad en las vías respiratorias.** De este modo pueden afrontar el hecho de que hay un mayor volumen de aire que necesita ser calentado y humidificado.
 
 Se ha demostrado que las temperaturas bajo cero desencadenan brotes de EPOC. Una entrada de aire frío en los pulmones da como resultado un **estrechamiento de las vías respiratorias**. Esto puede provocar un aumento de los siguientes síntomas:
 

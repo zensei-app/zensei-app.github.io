@@ -46,7 +46,7 @@ En consecuencia, cuanto menos formados estén los pulmones más probabilidad exi
 
 ### Sintomatología de la enfermedad de la membrana hialina
 
-Por lo general, un [bebé](https://zenseiapp.com/blog/ni%C3%B1os/) mostrará signos de SDR poco después del nacimiento. Sin embargo, a veces los síntomas se desarrollan **dentro de las primeras 24 horas después del parto**. Los síntomas a tener en cuenta incluyen:
+Por lo general, un bebé mostrará signos de SDR poco después del nacimiento. Sin embargo, a veces los síntomas se desarrollan **dentro de las primeras 24 horas después del parto**. Los síntomas a tener en cuenta incluyen:
 
 · Tinte azulado de la piel (cianosis)
 
@@ -170,6 +170,6 @@ Tomar medidas para prevenir la prematuridad también puede ayudar a evitar el SD
 
 El riesgo del SDR también se puede disminuir por medio de la **sincronización apropiada del parto.** Puede ser necesario un parto inducido o una cesárea. Se puede hacer un examen de laboratorio antes del parto para verificar la preparación de los pulmones del bebé. A menos que sea necesario, los partos inducidos o por cesárea se deben retrasar hasta al menos la semana 39 o hasta que los exámenes muestren que los pulmones del bebé hayan madurado.
 
-Las medicinas llamadas **corticosteroides** pueden ayudar a acelerar la madurez pulmonar antes que el bebé nazca. A menudo se administran a [mujeres embarazadas](https://zenseiapp.com/blog/tengo-gripe-estoy-embarazada/) entre 24 y 34 semanas de gestación que muestren señales de que el embarazo no llegará a término.
+Las medicinas llamadas **corticosteroides** pueden ayudar a acelerar la madurez pulmonar antes que el bebé nazca. A menudo se administran a [mujeres embarazadas](https://zenseiapp.com/gripe/gripe-embarazada/) entre 24 y 34 semanas de gestación que muestren señales de que el embarazo no llegará a término.
 
 Como ves, resulta importante llevar un control adecuado del embarazo y pasar las revisiones regulares que el especialista recomienda. En el caso de que el bebé presente el Síndrome de la Insuficiencia Respiratoria Neonatal, resultará de vital importancia la actuación médica inmediata.

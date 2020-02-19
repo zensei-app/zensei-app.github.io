@@ -30,7 +30,7 @@ Las noticias falsas sobre el brote han variado. Nos encontramos desde afirmacion
 
 Se presentan en forma de captura de pantalla de informaciones que nunca existieron. Algunas, además, supuran un elevado componente racista. Otras noticias falsas, que pululan por las redes sociales, llegan incluso a aconsejar métodos caseros para prevenir el virus. Destaca, por ejemplo, una _fake new_ que aconseja beber detergente líquido doméstico o lejía.
 
-Estas acciones, no solo **resultan ineficaces frente al virus 2019-nCoV**, como se conoce al [nuevo coronavirus](https://zenseiapp.com/dificultad%20respiratoria/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/). Hay que ser muy tajantes y dejar claro que, además, **pondrían en serio peligro la vida** de la persona que se arriesgara a seguir el consejo.
+Estas acciones, no solo **resultan ineficaces frente al virus 2019-nCoV**, como se conoce al [nuevo coronavirus](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/). Hay que ser muy tajantes y dejar claro que, además, **pondrían en serio peligro la vida** de la persona que se arriesgara a seguir el consejo.
 
 En indudable la importancia de las consecuencias que pueden generar estas informaciones falsas. Por ello, es preciso que se desmientan algunas de las más populares y se explique por qué no son verdaderas.
 

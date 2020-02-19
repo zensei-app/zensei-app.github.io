@@ -67,7 +67,7 @@ Algunos pacientes hospitalizados terminan contrayendo lo que se conoce como "**n
 
 En aquellos casos en que se contrae neumonía en el hospital, pero no se está usando un respirador, esta variedad de la enfermedad se conoce como **“neumonía adquirida en el hospital".**
 
-Lo más habitual es encontrar pacientes con lo que se conoce como "[neumonía adquirida en la comunidad](https://zenseiapp.com/enfermedades%20pulmonares/qu%C3%A9-es-la-neumon%C3%ADa-adquirida-en-la-comunidad/)", lo que significa que no la contrajeron en un hospital.
+Lo más habitual es encontrar pacientes con lo que se conoce como "[neumonía adquirida en la comunidad](https://zenseiapp.com/salud%20respiratoria/qu%C3%A9-es-la-neumon%C3%ADa-adquirida-en-la-comunidad/)", lo que significa que no la contrajeron en un hospital.
 
 ## Cómo saber si padezco neumonía
 

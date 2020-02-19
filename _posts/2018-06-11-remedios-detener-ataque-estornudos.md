@@ -80,7 +80,7 @@ Las mascarillas pueden ayudarte a evitar la polución, polvo, ácaros, polenes e
 Muchos causantes de los ataques de estornudos.
 
 <div class="section-cta">
-<a href="/alergia/mejor-mascarillas-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejor-mascarillas-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
+<a href="/alergia/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
 </div>
 
 ### **👃 Trucos caseros para dejar de estornudos**
