@@ -13,7 +13,7 @@ description: El coronavirus de China ya se ha extendido a varios países. Te con
 intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus de China**.
   La celebración del Año Nuevo Lunar moviliza a millones de personas del país asiático
   y supone elevar el nivel de riesgo.
-tags: sars síndrome-respiratorio-agudo-severo coronavius china
+tags: sars síndrome-respiratorio-agudo-severo coronavirus china
 
 
 ---
