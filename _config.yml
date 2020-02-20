@@ -51,7 +51,7 @@ compress_images:
     - "img/*.{gif,png,jpg,jpeg,svg}"
 
 lazy_load_image:
-  src_attr_name: data-src # [required] You need to specify the attributes to be saved for lazy loading
+  src_attr_name: data-echo # [required] You need to specify the attributes to be saved for lazy loading
   class_attr_values: # [optional] if you want to add custom class value, please add values
     - lazyload
   ignore_selectors: # [optional] if you want to ignore applying lazy load image, please add selector (css or xpath)
