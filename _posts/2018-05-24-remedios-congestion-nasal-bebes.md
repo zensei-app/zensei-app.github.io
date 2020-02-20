@@ -26,7 +26,7 @@ Lo cierto es que la forma de respirar de los bebés es muy diferente de la de un
 
 Ello es una adaptación para la alimentación con leche materna, de forma que se vea favorecida y no se produzcan interferencias entre la respiración y el acto de tragar. Eso quiere decir que respiran solo por la nariz.
 
-Esta es la razón por la que es tan importante **mantener la nariz del bebé despejada** y [que no se pongan malos](https://zenseiapp.com/blog/ni%C3%B1os/). Una congestión nasal en esta etapa de la vida **le causará molestias para dormir o alimentarse.**
+Esta es la razón por la que es tan importante **mantener la nariz del bebé despejada** y que no se pongan malos. Una congestión nasal en esta etapa de la vida **le causará molestias para dormir o alimentarse.**
 
 ### Por qué se produce la congestión nasal
 

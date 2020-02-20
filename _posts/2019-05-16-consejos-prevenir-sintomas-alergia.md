@@ -17,7 +17,7 @@ redirect_from: /blog/consejos-para-prevenir-los-síntomas-de-la-alergia-en-prima
 ---
 España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la rinitis alérgica primaveral o alergia al polen.**
 
-Si eres uno de esos millones de alérgicos españoles, te daremos algunos _tips_ muy interesantes para poder mantener un mayor control sobre la enfermedad. Pero también te recomendamos **que te descargues la** [**app de Zensei**](https://zenseiapp.com/blog/zensei-app-enfermedades-respiratorias/).
+Si eres uno de esos millones de alérgicos españoles, te daremos algunos _tips_ muy interesantes para poder mantener un mayor control sobre la enfermedad. Pero también te recomendamos **que te descargues la** [**app de Zensei**](https://zenseiapp.com/).
 
 Con ella obtendrás información muy valiosa sobre el día a día. Desde los **niveles de polución** hasta la cantidad de **polen** que hay en el ambiente o las **condiciones meteorológicas** que pueden afectarte. Pero vayamos con esas recomendaciones para hacerte este periodo más llevadero.
 
@@ -43,7 +43,7 @@ Es el caso de las **gramíneas**, que han pasado de afectar a un 35% de la pobla
 
 ### ¿Por qué han crecido tanto los índices de alergias en primavera?
 
-La razón de esta asombrosa subida de los índices de incidencia de los alérgenos parece encontrarse relacionada con **la** [**contaminación**](https://zenseiapp.com/blog/que-es-alergia-contaminaci%C3%B3n/) **ambiental** **y la forma en la que el cambio climático está afectando a los pólenes.**
+La razón de esta asombrosa subida de los índices de incidencia de los alérgenos parece encontrarse relacionada con **la** [**contaminación**](https://zenseiapp.com/alergia/alergia-contaminacion/) **ambiental** **y la forma en la que el cambio climático está afectando a los pólenes.**
 
 El hecho es tan preocupante que, según datos de la Organización Mundial de la Salud (OMS), durante la próxima década las alergias irán en aumento. El punto culminante llegará alrededor de **2030, cuando más de la mitad de la población mundial padecerá algún tipo de alergia**.
 

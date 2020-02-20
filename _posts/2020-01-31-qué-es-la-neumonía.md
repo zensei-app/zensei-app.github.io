@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "\U0001F912 ¿Qué es la neumonía? "
+title: "\U0001F912 Neumonía: Qué es y tipos de neumonías. "
 date: 2020-01-31 23:00:00 +0000
 last_modified_at: 2020-02-03 23:00:00 +0000
 author: Ana
@@ -67,7 +67,7 @@ Algunos pacientes hospitalizados terminan contrayendo lo que se conoce como "**n
 
 En aquellos casos en que se contrae neumonía en el hospital, pero no se está usando un respirador, esta variedad de la enfermedad se conoce como **“neumonía adquirida en el hospital".**
 
-Lo más habitual es encontrar pacientes con lo que se conoce como "[neumonía adquirida en la comunidad](https://zenseiapp.com/salud%20respiratoria/qu%C3%A9-es-la-neumon%C3%ADa-adquirida-en-la-comunidad/)", lo que significa que no la contrajeron en un hospital.
+Lo más habitual es encontrar pacientes con lo que se conoce como "[neumonía adquirida en la comunidad](https://zenseiapp.com/salud%20respiratoria/neumonia-infeccion-pulmonar/#adquirida-en-la-comunidad)", lo que significa que no la contrajeron en un hospital.
 
 ## Cómo saber si padezco neumonía
 
@@ -211,7 +211,7 @@ En este caso, el origen de la neumonía es un virus. Entre los más habituales n
 
 · El virus sincitial respiratorio, o VSR, es el más habitual en bebés y niños.
 
-· Otros incluyen [coronavirus](https://zenseiapp.com/dificultad%20respiratoria/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/), rinovirus, virus de parainfluenza y adenovirus.
+· Otros incluyen [coronavirus](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/), rinovirus, virus de parainfluenza y adenovirus.
 
 · De manera más rara, el herpes simple, el sarampión y la varicela también podrían ser el origen de esta infección pulmonar.
 
