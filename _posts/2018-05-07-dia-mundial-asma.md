@@ -3,8 +3,8 @@ layout: post
 redirect_from: 
   - '/blog/dia-mundial-asma/'
   - '/blog/2018/05/07/dia-mundial-asma/'
-title:  "🗓️ Día Mundial del Asma (5 de Mayo)"
-last_modified_at: 2019-08-22 10:00:00 +0000
+title:  "🗓️ Asma: Día Mundial el 5 de Mayo"
+last_modified_at: 2020-02-20 10:00:00 +0000
 date:   2018-05-07 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 category: Asma

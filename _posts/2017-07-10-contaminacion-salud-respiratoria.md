@@ -3,8 +3,8 @@ layout: post
 redirect_from: 
   - '/blog/contaminacion/'
   - '/blog/2017/07/10/contaminacion/'
-title:  "😷 Remedios para evitar la contaminación sobre la salud respiratoria (sin esfuerzo)"
-last_modified_at:  2019-01-27 10:00:00 +0200
+title:  "😷 Contaminación: Efectos sobre la respiración y remedios"
+last_modified_at:  2020-02-20 10:00:00 +0200
 date:   2018-06-10 10:00:00 +0200
 author: Zensei Team
 category: Salud Respiratoria

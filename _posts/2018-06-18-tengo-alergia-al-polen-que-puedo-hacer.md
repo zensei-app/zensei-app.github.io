@@ -3,9 +3,9 @@ layout: post
 redirect_from: 
   - '/blog/tengo-alergia-al-polen-que-puedo-hacer/'
   - '/blog/2018/06/17/tengo-alergia-al-polen-que-puedo-hacer/'
-title:  "🌼🌷 Qué puedo hacer para evitar los síntomas de la alergia al polen desde hoy"
+title:  "🌼🌷 Alergía al polen: Remedios para evitar sus síntomas"
 date:   2018-06-17 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Zensei Team
 category: Alergia
 image: /img/19389787_10213834807130019_102773456_n.jpg

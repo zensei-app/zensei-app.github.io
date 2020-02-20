@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F63712 Consejos para prevenir los síntomas de la rinitis alérgica"
+title: "\U0001F63712 Rinitis alérgica: Síntomas y remedios caseros"
 date: 2019-05-16T22:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 category: Alergia
 author: Ana
 image: "/uploads/alergia polen.jpg"

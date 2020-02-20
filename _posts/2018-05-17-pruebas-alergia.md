@@ -4,9 +4,9 @@ toc: true
 redirect_from: 
   - '/blog/como-son-las-pruebas-de-la-alergia/'
   - '/blog/2018/05/17/como-son-las-pruebas-de-la-alergia/'
-title:  "🤧 Cómo son las pruebas de la alergia (entiende fácilmente en que consisten)"
+title:  "🤧 Alergia al polen: Pruebas diagnósticas"
 date:   2018-05-17 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: /img/25729666890_98d70b051f_h.jpg

@@ -2,9 +2,9 @@
 layout: post
 toc: true
 redirect_from: '/blog/como-evitar-respirar-aire-contaminado/'
-title:  "🌆😷 Cómo evitar respirar aire contaminado de forma sencilla aunque vivas al lado de una autovía"
+title:  "🌆😷 Aire contaminado: Remedios para evitar sus efectos en la salud"
 date:   2018-06-18 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud respiratoria
 image: /img/gas-2858150_960_720.jpg

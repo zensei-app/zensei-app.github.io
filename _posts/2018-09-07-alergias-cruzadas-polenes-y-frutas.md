@@ -6,7 +6,7 @@ redirect_from:
 toc: true
 title:  "🤧🍓🌼 Alergias cruzadas: qué frutas reaccionan con cada tipo de polen"
 date:   2018-09-07 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: /img/photo-1520238861346-a49993df0e69.jpeg

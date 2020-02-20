@@ -3,8 +3,8 @@ layout: post
 redirect_from: 
   - "/blog/gripe-estoy-embarazada/"
   - "/blog/2018/05/11/gripe-estoy-embarazada/"
-title: "\U0001F927\U0001F930 Remedios para evitar la gripe si estás embarazada."
-last_modified_at: 2019-10-17 10:00:00 +0000
+title: "\U0001F927\U0001F930 Embarazada: Remedios para evitar la gripe"
+last_modified_at: 2020-02-20 10:00:00 +0000
 date: 2018-05-11T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Gripe

@@ -2,7 +2,7 @@
 layout: landing-app
 redirect_from: /app-alergia/
 permalink: /alergia/
-title: La app para personas con alergia respiratoria (Rinitis alérgica)
+title: Diario de síntomas para Alérgicos
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas de la alergia.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar la alergia respiratoria (rinitis alérgica). Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarla.
 image: '/img/photo-1444930694458-01babf71870c.jpeg'

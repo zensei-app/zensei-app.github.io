@@ -2,7 +2,7 @@
 layout: landing-app
 redirect_from: /app-asma/
 permalink: /asma/
-title: La app para personas con asma y que quieren evitar la falta de aire
+title: Diario de síntomas para Asmáticos
 description: Lleva un control de tu salud respiratoria y evita los horribles ataques de asma
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el asma. Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
 image: /img/woman-short-of-breath.jpg

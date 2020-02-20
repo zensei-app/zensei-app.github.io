@@ -4,9 +4,9 @@ toc: true
 redirect_from: 
   - '/blog/como-saber-si-tengo-asma/'
   - '/blog/2018/07/04/como-saber-si-tengo-asma/'
-title:  "🤢🌬️ Cómo saber si tengo asma (y que hacer para evitarlo)"
+title:  "🤢🌬️ Cómo saber si tengo asma y remedios caseros"
 date:   2018-07-04 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: /img/allergy-1738191_1280.jpg

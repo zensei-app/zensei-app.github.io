@@ -1,10 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F927 Broncodilatadores naturales para el asma, el EPOC y otras dolencias
-  bronquiales"
+title: "\U0001F927 Broncodilatadores naturales para Asma y EPOC"
 date: 2019-05-23T22:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 category: Asma
 author: Ana
 image: "/uploads/Ventolin.jpg"

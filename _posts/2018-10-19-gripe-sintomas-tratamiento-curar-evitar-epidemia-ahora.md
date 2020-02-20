@@ -4,9 +4,9 @@ redirect_from:
   - "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
   - "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 (Síntomas y previsión) "
+title: "\U0001F47E\U0001F912 Gripe: Epidemia 2019-2020, síntomas y previsión"
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2020-02-12 11:00:00 +0000
+last_modified_at: 2020-02-20 11:00:00 +0000
 category: Gripe
 author: David
 image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"

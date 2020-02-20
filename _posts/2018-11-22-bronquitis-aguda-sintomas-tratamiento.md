@@ -4,9 +4,9 @@ redirect_from:
   - "/blog/bronquitis-aguda-sintomas-tratamiento/"
   - "/blog/2018/11/22/bronquitis-aguda-sintomas-tratamiento/"
 toc: true
-title: "\U0001F47E\U0001F912 Bronquitis Asmática (Síntomas, tratamiento y prevención)"
+title: "\U0001F47E\U0001F912 Bronquitis Asmática: Qué es, síntomas y tratamiento"
 date: 2018-11-22T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2020-02-20T10:00:00.000+00:00
 category: Salud Respiratoria
 author: David
 image: "/img/bronquitis-asmatica_20234_l.jpg"

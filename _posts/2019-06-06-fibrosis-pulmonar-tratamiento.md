@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "⚕️ Fibrosis pulmonar (Tratamiento)"
+title: "⚕️ Fibrosis pulmonar: Qué es y tratamiento"
 date: 2019-06-06 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: '/uploads/fibrosis pulmonar.png'

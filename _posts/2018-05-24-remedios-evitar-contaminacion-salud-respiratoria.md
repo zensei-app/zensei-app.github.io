@@ -3,9 +3,9 @@ layout: post
 redirect_from: 
   - '/blog/como-evitar-la-contaminacion-con-ayuda-la-tecnologia/'
   - '/blog/2018/05/24/como-evitar-la-contaminacion-con-ayuda-la-tecnologia/'
-title: "🌆📱 Cómo la tecnología puede evitar los riesgo de la contaminación sobre la salud respiratoria"
+title: "🌆📱 Contaminación, efectos y nuevas tecnolgías"
 date: 2018-05-24 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Zensei Team
 category: Salud respiratoria
 image: https://www.youtube.com/embed/NQilk-irm2U

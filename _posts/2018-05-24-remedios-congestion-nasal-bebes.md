@@ -4,9 +4,9 @@ toc: true
 redirect_from: 
   - '/blog/como-aliviar-la-congestion-nasal-bebes/'
   - '/blog/2018/05/24/como-aliviar-la-congestion-nasal-bebes/'
-title:  "👶🤧 Remedios para la congesión nasal en bebés (Así respirará mucho mejor)"
+title:  "👶🤧 Congestión nasal: Remedios para bebés"
 date:   2018-05-24 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
 image: /img/baby-3386758_1280.jpg

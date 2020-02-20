@@ -4,7 +4,7 @@ redirect_from:
   - "/blog/mejores-purificadores-aire-asma-comprar/"
   - "/blog/2018/09/28/mejores-purificadores-aire-asma-comprar/"
 toc: true
-title: "\U0001F947Mejores Purificadores de Aire para asmáticos y alérgicos [ACTUALIZADO]"
+title: "\U0001F947 Mejores Purificadores de Aire para asmáticos y alérgicos [ACTUALIZADO]"
 date: 2018-09-28T08:00:00.000+00:00
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Alergia

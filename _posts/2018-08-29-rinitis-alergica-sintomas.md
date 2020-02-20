@@ -4,9 +4,9 @@ redirect_from:
   - "/blog/que-es-la-rinitis-alergica-sintomas/"
   - "/blog/2018/08/29/que-es-la-rinitis-alergica-sintomas/"
 toc: true
-title: "\U0001F927 Rinitis Alérgica (Causas y síntomas)"
+title: "\U0001F927 Rinitis Alérgica: Causas, síntomas y vacuna"
 date: 2018-08-29T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2020-02-20T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: "/img/24399375170_b61ea09484_z.jpg"

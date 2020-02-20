@@ -4,8 +4,8 @@ toc: true
 redirect_from: 
   - '/blog/cuales-sintomas-alergia-polen/'
   - '/blog/2018/04/25/cuales-sintomas-alergia-polen/'
-title:  "🌼🤧 Síntomas de la Alergia al polen y cómo evitarlos (Estornudos, ojos llorosos, mucosidad)"
-last_modified_at: 2019-08-22 10:00:00 +0000
+title:  "🌼🤧 Alergia al polen: Síntomas y remedios"
+last_modified_at: 2020-02-20 10:00:00 +0000
 date:   2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 category: Alergia

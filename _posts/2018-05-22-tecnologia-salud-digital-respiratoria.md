@@ -4,9 +4,9 @@ toc: true
 redirect_from: 
   - '/blog/que-puede-hacer-la-tecnologia-por-la-salud/'
   - '/blog/2018/05/22/que-puede-hacer-la-tecnologia-por-la-salud/'
-title:  "📱🤧 Qué pueden hacer las nuevas tecnologías por la salud respiratoria"
+title:  "📱🤧 Salud respiratoria y nuevas tecnologías"
 date:   2018-05-22 10:00:00 +0200
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
 image: /img/zensei-app-description.png

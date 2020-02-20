@@ -2,7 +2,7 @@
 layout: landing-app
 redirect_from: /app-gripe/
 permalink: /gripe/
-title: La App para evitar la Gripe y los malditos resfriados
+title: Diario de Salud para evitar los virus
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas
   de la gripe.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe.

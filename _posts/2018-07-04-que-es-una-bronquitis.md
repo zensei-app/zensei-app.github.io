@@ -4,9 +4,9 @@ toc: true
 redirect_from: 
   - "/blog/que-es-una-bronquitis/"
   - "/blog/2018/07/02/que-es-una-bronquitis/"
-title: "\U0001F912\U0001F47E Bronquitis ¿Es contagiosa? (Causas y prevención)"
+title: "\U0001F912\U0001F47E Bronquitis: Causas, remedios y contagio"
 date: 2018-07-02T08:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
 image: "/img/bronquitis-aguda.jpg"
