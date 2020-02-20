@@ -11,8 +11,9 @@
     background-image: url('{{ page.image }}'); 
     background-repeat: no-repeat;
     background-size: cover;">  
-    <div>
-      <a href="https://zenseiapp.com"><div class="logo">zensei</div></a>
+    <div class="wrapper">
+      <a href="{{ "/" | relative_url }}"><div class="logo">zensei</div></a>
+      <a class="blog-header__logo" href="{{ "/blog/" | relative_url }}">Blog</a>
     </div>
     <div class="container-narrow center" id="fade-in">
       <h1 style="font-size:42px"><strong>{{ page.title | escape }}</strong></h1>
