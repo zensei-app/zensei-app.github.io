@@ -15,6 +15,7 @@ tags: coronavirus, gripe, enfermedades respiratorias
 slug: ''
 
 ---
+![](/uploads/Coronavirus vs gripe.jpg)
 
 Cuando ya ascienden a más de [**100 casos los afectados por el COVID-19 en España, **](https://as.com/deporteyvida/2020/02/29/portada/1582957545_463697.html)la alarma se ha extendido entre la población. Al igual que en otros lugares, las mascarillas se han agotado en las farmacias y los habitantes han entrado en pánico. **Coronavirus vs. gripe: cómo diferenciarlos.**
 
@@ -47,6 +48,8 @@ Mientras el coronavirus ha sido contraído por unos 80.000 enfermos, nadie habla
 [¿Qué es el COVID-19?](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/) El coronavirus pertenece a una familia de patógenos que provocan afecciones en animales y humanos. Son desencadenantes de enfermedades muy dispares. Se abre un abanico de posibilidades que va **desde un simple resfriado hasta una afección respiratoria muy grave.**
 
 En ocasiones, un coronavirus que ha infectado a un animal **puede mutar y ser transmitido al ser humano.** De este modo, el virus se convierte en una cepa nueva que es capaz de desencadenar afecciones en personas. Así ocurrió con el SARS (Síndrome Respiratorio Agudo Severo) y el MERS (Síndrome Respiratorio de Oriente Medio).
+
+![](/uploads/Coronavirus vs gripe 1.jpg)
 
 ## Sintomatología del coronavirus y de la gripe
 
