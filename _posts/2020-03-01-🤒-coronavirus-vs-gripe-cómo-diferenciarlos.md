@@ -5,14 +5,14 @@ title: "\U0001F912 Coronavirus vs. gripe: cómo diferenciarlos "
 date: 2020-03-01 23:00:00 +0000
 last_modified_at: 2020-03-03 23:00:00 +0000
 author: Ana
-category: gripe
+category: Gripe
 image: "/uploads/Gripe en verano.jpg"
 description: Te mostramos diferencias y similitudes entre el coronavirus y la gripe.
   Aprende a diferenciar ambas enfermedades respiratorias.
 intro: El coronavirus ha desatado la alarma social. Sin embargo, esta patología altamente
   contagiosa posee una letalidad mucho menor que la gripe.
 tags: coronavirus gripe enfermedades-respiratorias
-slug: ''
+slug: coronavirus gripe diferencia
 
 ---
 ![](/uploads/Coronavirus vs gripe.jpg)
