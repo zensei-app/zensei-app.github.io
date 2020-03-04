@@ -6,12 +6,12 @@ date: 2020-03-01 23:00:00 +0000
 last_modified_at: 2020-03-01 23:00:00 +0000
 author: Ana
 category: gripe
-image: ''
+image: "/uploads/Gripe en verano.jpg"
 description: Te mostramos diferencias y similitudes entre el coronavirus y la gripe.
   Aprende a diferenciar ambas enfermedades respiratorias.
 intro: El coronavirus ha desatado la alarma social. Sin embargo, esta patología altamente
   contagiosa posee una letalidad mucho menor que la gripe.
-tags: coronavirus, gripe, enfermedades respiratorias
+tags: coronavirus gripe enfermedades-respiratorias
 slug: ''
 
 ---
@@ -65,49 +65,49 @@ Por su parte, en el caso de la gripe, la neumonía asociada es causada por **una
 
 Analizamos directamente las cosas que parecen tener en común el coronavirus y la gripe común.
 
-· **Síntomas.** Las dos patologías cursan con fiebre, tos, dolor corporal y cansancio. En algunos casos se observan vómitos y diarrea. Esta sintomatología puede ser de carácter leve o grave. En los dos casos la enfermedad pueden desencadenar una neumonía. También pueden resultar mortales, aunque muy raramente.
+✅ **Síntomas.** Las dos patologías cursan con fiebre, tos, dolor corporal y cansancio. En algunos casos se observan vómitos y diarrea. Esta sintomatología puede ser de carácter leve o grave. En los dos casos la enfermedad pueden desencadenar una neumonía. También pueden resultar mortales, aunque muy raramente.
 
-· **Transmisión.** La forma de transmisión de ambas enfermedades es de persona a persona. La infección se puede contagiar a través de pequeñas gotitas del infectado, que son expulsadas al toser, estornudar o hablar. Un paciente infectado de gripe puede ser transmisor de la enfermedad durante unos días antes de presentar síntomas. En el caso del coronavirus, el periodo de transmisión podría llegar a los 21 días y aunque el portador permanezca asintomático. Además, también podría ser transmitido a través del aire.
+✅ **Transmisión.** La forma de transmisión de ambas enfermedades es de persona a persona. La infección se puede contagiar a través de pequeñas gotitas del infectado, que son expulsadas al toser, estornudar o hablar. Un paciente infectado de gripe puede ser transmisor de la enfermedad durante unos días antes de presentar síntomas. En el caso del coronavirus, el periodo de transmisión podría llegar a los 21 días y aunque el portador permanezca asintomático. Además, también podría ser transmitido a través del aire.
 
-· **Tratamiento.** El patógeno, en ambos casos, es un virus. Esto quiere decir que los antibióticos no sirven de nada. El tratamiento se lleva a cabo a través de un abordaje de la sintomatología. Es decir, se intenta bajar la fiebre y, en casos más graves, es precisa la ventilación asistida. El tratamiento más eficaz contra la gripe es la vacunación preventiva. En el caso del coronavirus aún no se dispone de vacuna.
+✅ **Tratamiento.** El patógeno, en ambos casos, es un virus. Esto quiere decir que los antibióticos no sirven de nada. El tratamiento se lleva a cabo a través de un abordaje de la sintomatología. Es decir, se intenta bajar la fiebre y, en casos más graves, es precisa la ventilación asistida. El tratamiento más eficaz contra la gripe es la vacunación preventiva. En el caso del coronavirus aún no se dispone de vacuna.
 
-· **Prevención.** Tanto el virus de la gripe como el COVID-19 obligan a llevar las mismas pautas preventivas. Es preciso lavar las manos con frecuencia y de manera minuciosa, tapar la boca al toser con el hueco del codo y evitar el contacto con personas infectadas.
+✅ **Prevención.** Tanto el virus de la gripe como el COVID-19 obligan a llevar las mismas pautas preventivas. Es preciso lavar las manos con frecuencia y de manera minuciosa, tapar la boca al toser con el hueco del codo y evitar el contacto con personas infectadas.
 
 ### Diferencias entre ambos patógenos
 
 Analizamos directamente las diferencias que se han observado entre el coronavirus y la gripe común.
 
-· **Causas:**
+✅ **Causas:**
 
 **El COVID-19,** según la información facilitada por la OMS, es provocado por la acción del [Síndrome Respiratorio Agudo Severo](https://zenseiapp.com/salud%20respiratoria/qu%C3%A9-es-el-s%C3%ADndrome-respiratorio-agudo-severo-sars/) o SARS-CoV-2. También recibe otros nombres: coronavirus 2019 y coronavirus 2.
 
 **La Gripe** tiene como protagonistas a una serie de tipos y cepas distintas del virus influenza.
 
-· **Estacionalidad:**
+✅ **Estacionalidad:**
 
 **La gripe** es una patología estacional. Su pico de mayor incidencia se establece en otoño e invierno. Se observa un tiempo de incubación de 48 horas,
 
 **Para el coronavirus**, al ser un patógeno tan reciente, no existe un patrón determinado ni se cuenta con datos que establezcan una estacionalidad.
 
-· **Tratamiento antiviral:**
+✅ **Tratamiento antiviral:**
 
 Con el **coronavirus** se están testando diferentes antivirales para comprobar si son eficaces a la hora de mantener bajo control su sintomatología.
 
 **En el caso de la gripe** se utilizan medicamentos antivirales capaces de atajar los síntomas. En muchos casos se experimenta, con ellos, un acortamiento del periodo de duración.
 
-· **Vacunación:**
+✅ **Vacunación:**
 
 Los científicos trabajan a contrarreloj para encontrar una vacuna contra el **COVID-19.** Parece que existen varias vías de actuación que están dando resultados en animales. No obstante, todavía podría tardar meses antes de tener resultados positivos en humanos.
 
 La vacuna de **la gripe** ha demostrado su efectividad contra algunos de los tipos más peligrosos. También consigue reducir la gravedad de la enfermedad.
 
-· **Infección:**
+✅ **Infección:**
 
 Del **coronavirus**, a fecha de hoy, existen casi 90.000 casos registrados en todo el mundo. En España se han registrado 119 casos hasta el momento.
 
 **La gripe** arroja una cifra de mil millones de casos a nivel mundial. Más de 520.000 pacientes se habrían registrado en nuestro país.
 
-· **Letalidad:**
+✅ **Letalidad:**
 
 **El COVID-19** lleva más de 3.000 muertos en todo el planeta. En España no se ha registrado ningún fallecido.
 
