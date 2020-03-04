@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F912 Coronavirus vs. gripe: cómo diferenciarlos "
 date: 2020-03-01 23:00:00 +0000
-last_modified_at: 2020-03-01 23:00:00 +0000
+last_modified_at: 2020-03-03 23:00:00 +0000
 author: Ana
 category: gripe
 image: "/uploads/Gripe en verano.jpg"
