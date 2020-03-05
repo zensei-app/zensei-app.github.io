@@ -5,15 +5,15 @@ title: "⚕️ Qué es la sarcoidosis "
 date: 2020-03-05 09:00:00 +0000
 last_modified_at: 2020-03-05 09:00:00 +0000
 author: Ana
-category: enfermedades pulmonares
-image: ''
+category: Enfermedades pulmonares
+image: "/uploads/Captura de pantalla 2020-03-05 a las 11.47.08.png"
 description: La sarcoidosis es una patología que puede afectar a los pulmones. Aprende
   todo lo que necesitas saber sobre la enfermedad.
 intro: La **sarcoidosis** es una enfermedad inflamatoria que puede afectar a diversos
   órganos, con más frecuencia a los pulmones. Te explicamos todo acerca de esta patología
   que, a veces, cursa de manera asintomática.
-tags: enfermedades pulmonares, sarcoidosis, inflamación pulmonar
-slug: ''
+tags: enfermedades-pulmonares sarcoidosis inflamación-pulmonar
+slug: sarcoidosis sintomas causas tratamiento
 
 ---
 ![](/uploads/sarcoidosis.jpeg)
@@ -26,29 +26,29 @@ Los granulomas son masas de tejidos inflamados. Estos corpúsculos pueden altera
 
 **Los síntomas de la sarcoidosis pueden variar mucho,** dependiendo de qué órganos estén involucrados. La mayoría de los pacientes inicialmente se quejan de **tos seca persistente, fatiga y falta de aliento.** Otros síntomas pueden incluir:
 
-· Tiernas protuberancias o parches rojizos en la piel.
+✅ Tiernas protuberancias o parches rojizos en la piel.
 
-· Ojos rojos y llorosos o visión borrosa.
+✅ Ojos rojos y llorosos o visión borrosa.
 
-· Articulaciones inflamadas.
+✅ Articulaciones inflamadas.
 
-· Dolor articular.
+✅ Dolor articular.
 
-· Ganglios linfáticos agrandados y sensibles en el cuello, las axilas y la ingle.
+✅ Ganglios linfáticos agrandados y sensibles en el cuello, las axilas y la ingle.
 
-· Ganglios linfáticos agrandados en el pecho y alrededor de los pulmones.
+✅ Ganglios linfáticos agrandados en el pecho y alrededor de los pulmones.
 
-· Voz ronca.
+✅ Voz ronca.
 
-· Dolor en las manos, pies u otras áreas óseas debido a la formación de quistes (un crecimiento anormal similar a un saco) en los huesos.
+✅ Dolor en las manos, pies u otras áreas óseas debido a la formación de quistes (un crecimiento anormal similar a un saco) en los huesos.
 
-· Formación de cálculos renales.
+✅ Formación de cálculos renales.
 
-· Agrandamiento del hígado.
+✅ Agrandamiento del hígado.
 
-· Desarrollo de latidos cardíacos anormales o perdidos (arritmias), inflamación de la cubierta del corazón (pericarditis) o insuficiencia cardíaca.
+✅ Desarrollo de latidos cardíacos anormales o perdidos (arritmias), inflamación de la cubierta del corazón (pericarditis) o insuficiencia cardíaca.
 
-· Efectos en el sistema nervioso, incluyendo pérdida de audición, meningitis, convulsiones o trastornos psiquiátricos (por ejemplo, demencia, depresión o psicosis).
+✅ Efectos en el sistema nervioso, incluyendo pérdida de audición, meningitis, convulsiones o trastornos psiquiátricos (por ejemplo, demencia, depresión o psicosis).
 
 En algunas personas, los síntomas pueden comenzar repentinamente y/o severamente y desaparecer en un corto período de tiempo. Otros pueden no tener síntomas externos a pesar de que los órganos están afectados. También se pueden producir síntomas que aparecen lenta y sutilmente, pero que duran o se repiten durante un período de tiempo prolongado.
 
@@ -56,17 +56,17 @@ En algunas personas, los síntomas pueden comenzar repentinamente y/o severament
 
 Los síntomas de la sarcoidosis varían según el área del cuerpo involucrado. Hay que tener en cuenta que **esta sintomatología puede ser leve, moderada, severa o ausente.** Los primeros síntomas a menudo son vagos y pueden incluir los siguientes:
 
-· Fatiga.
+✅ Fatiga.
 
-· Fiebre.
+✅ Fiebre.
 
-· Pérdida de peso.
+✅ Pérdida de peso.
 
-· Dolor en las articulaciones.
+✅ Dolor en las articulaciones.
 
-· Falta de aliento.
+✅ Falta de aliento.
 
-· Tos persistente.
+✅ Tos persistente.
 
 **Los pulmones suelen ser la primera área afectada por la sarcoidosis:** 9 de cada 10 personas con sarcoidosis tienen algún tipo de afectación pulmonar. La sarcoidosis pulmonar puede ser grave y provocar la formación de **tejido cicatricial (fibrosis) en los pulmones.** Esta complicación puede interferir con la respiración.
 
@@ -82,13 +82,13 @@ Los pacientes que sufren de dificultad para respirar y erupciones cutáneas pued
 
 **Es importante acudir al médico si se dan algunas de las siguientes circunstancias:**
 
-· Tienes tos que no desaparece.
+✅ Tienes tos que no desaparece.
 
-· Desarrollas una erupción cutánea repentina e inexplicable.
+✅ Desarrollas una erupción cutánea repentina e inexplicable.
 
-· Experimentas una pérdida de peso repentina e inexplicable.
+✅ Experimentas una pérdida de peso repentina e inexplicable.
 
-· Experimentas fatiga crónica o no se sientes bien.
+✅ Experimentas fatiga crónica o no se sientes bien.
 
 Esta sintomatología no implica necesariamente que se padezca sarcoidosis, pero el médico será quien se encargue de descartar o confirmar la enfermedad.
 
@@ -104,13 +104,13 @@ Esta sintomatología no implica necesariamente que se padezca sarcoidosis, pero 
 
 **No existe una única forma de diagnosticar la sarcoidosis,** ya que todos los síntomas y resultados de laboratorio pueden ser idénticos a los de otras enfermedades. Por esta razón, el especialista tiene que revisar cuidadosamente tu historial médico. Tendrás que someterte a un examen para determinar si tienes sarcoidosis. Las herramientas principales que usará el médico para diagnosticar la sarcoidosis incluyen:
 
-· **Radiografías de tórax.** Con ellas se podrá detectar turbidez (infiltraciones pulmonares) o ganglios linfáticos inflamados (linfadenopatía).
+✅ **Radiografías de tórax.** Con ellas se podrá detectar turbidez (infiltraciones pulmonares) o ganglios linfáticos inflamados (linfadenopatía).
 
-· **TCAR (TC de alta resolución).** Esta prueba puede proporcionar una visión mucho más detallada de los pulmones y los ganglios linfáticos que la que se obtiene mediante una radiografía de tórax.
+✅ **TCAR (TC de alta resolución).** Esta prueba puede proporcionar una visión mucho más detallada de los pulmones y los ganglios linfáticos que la que se obtiene mediante una radiografía de tórax.
 
-· **Pruebas de función pulmonar.** Este método servirá para medir cómo es el funcionamiento de los pulmones.
+✅ **Pruebas de función pulmonar.** Este método servirá para medir cómo es el funcionamiento de los pulmones.
 
-· **Broncoscopia.** Sirve para inspeccionar los bronquios y extraer una biopsia (una pequeña muestra de tejido). De este modo se pueden buscar granulomas y obtener material para descartar infección. La broncoscopia implica pasar un pequeño tubo (broncoscopio) por la tráquea y hacia los bronquios.
+✅ **Broncoscopia.** Sirve para inspeccionar los bronquios y extraer una biopsia (una pequeña muestra de tejido). De este modo se pueden buscar granulomas y obtener material para descartar infección. La broncoscopia implica pasar un pequeño tubo (broncoscopio) por la tráquea y hacia los bronquios.
 
 ![](/uploads/llenando-registro-medico_1098-18239.jpg)
 
@@ -120,17 +120,17 @@ Esta sintomatología no implica necesariamente que se padezca sarcoidosis, pero 
 
 Los tratamientos generalmente se dividen en dos categorías: mantenimiento de **buenos hábitos de salud y tratamiento con fármacos.** Las buenas prácticas de salud incluyen:
 
-· Realizar chequeos regulares.
+✅ Realizar chequeos regulares.
 
-· Seguir una dieta bien balanceada con una variedad de frutas y verduras frescas.
+✅ Seguir una dieta bien balanceada con una variedad de frutas y verduras frescas.
 
-· Beber suficientes líquidos todos los días.
+✅ Beber suficientes líquidos todos los días.
 
-· Dormir de seis a ocho horas cada noche.
+✅ Dormir de seis a ocho horas cada noche.
 
-· Hacer ejercicio regularmente y controlar el peso.
+✅ Hacer ejercicio regularmente y controlar el peso.
 
-· Dejar de fumar.
+✅ Dejar de fumar.
 
 **Los tratamientos farmacológicos se usan para aliviar los síntomas y reducir la inflamación** de los tejidos afectados. La prednisona oral con corticosteroides es el tratamiento más utilizado. La fatiga y la tos persistente generalmente mejoran con el tratamiento con esteroides.
 
@@ -160,31 +160,31 @@ Este tipo de sarcoidosis **también puede acabar en bronquiectasia**. Este hecho
 
 Cada persona puede experimentar la sintomatología de manera diferente**. Los síntomas más comunes pueden incluir:**
 
-· Falta de aliento, que a menudo empeora con la actividad.
+✅ Falta de aliento, que a menudo empeora con la actividad.
 
-· Tos seca que no desaparece.
+✅ Tos seca que no desaparece.
 
-· Dolor de pecho.
+✅ Dolor de pecho.
 
-· Sibilancias.
+✅ Sibilancias.
 
 La sarcoidosis también puede causar síntomas no relacionados directamente con los pulmones, como:
 
-· Cansancio extremo.
+✅ Cansancio extremo.
 
-· Fiebre.
+✅ Fiebre.
 
-· Inflamación de los ojos y dolor, ardor, visión borrosa y sensibilidad a la luz.
+✅ Inflamación de los ojos y dolor, ardor, visión borrosa y sensibilidad a la luz.
 
-· Sudores nocturnos.
+✅ Sudores nocturnos.
 
-· Dolor en las articulaciones y los huesos.
+✅ Dolor en las articulaciones y los huesos.
 
-· Erupciones en la piel, bultos y cambios de color en la cara, brazos o espinillas.
+✅ Erupciones en la piel, bultos y cambios de color en la cara, brazos o espinillas.
 
-· Ganglios linfáticos inflamados.
+✅ Ganglios linfáticos inflamados.
 
-· Pérdida de peso.
+✅ Pérdida de peso.
 
 Los síntomas de la sarcoidosis pulmonar pueden parecerse a otras afecciones o problemas médicos. Es importante que el médico realice las pruebas necesarias para obtener un diagnóstico.
 
@@ -192,19 +192,19 @@ Los síntomas de la sarcoidosis pulmonar pueden parecerse a otras afecciones o p
 
 Primero es preciso realizar un historial médico completo y un examen físico. Las pruebas utilizadas pueden incluir:
 
-· **Radiografía de pecho.** Un tipo de prueba de imagen utilizada para evaluar los pulmones, así como el corazón. Las radiografías de tórax pueden mostrar información importante sobre el tamaño, la forma y la ubicación de los pulmones, los bronquios y el mediastino (área en el medio de la caja torácica que separa los pulmones).
+✅ **Radiografía de pecho.** Un tipo de prueba de imagen utilizada para evaluar los pulmones, así como el corazón. Las radiografías de tórax pueden mostrar información importante sobre el tamaño, la forma y la ubicación de los pulmones, los bronquios y el mediastino (área en el medio de la caja torácica que separa los pulmones).
 
-· **Tomografía computarizada.** Una prueba de imagen que utiliza rayos X y tecnología informática para producir imágenes o cortes horizontales o axiales del cuerpo. Una tomografía computarizada muestra imágenes detalladas de cualquier parte del cuerpo, incluidos los pulmones. Las tomografías computarizadas son más detalladas que las radiografías regulares. Se pueden usar para diagnosticar enfermedades pulmonares, controlar la progresión de la enfermedad y evaluar la respuesta al tratamiento.
+✅ **Tomografía computarizada.** Una prueba de imagen que utiliza rayos X y tecnología informática para producir imágenes o cortes horizontales o axiales del cuerpo. Una tomografía computarizada muestra imágenes detalladas de cualquier parte del cuerpo, incluidos los pulmones. Las tomografías computarizadas son más detalladas que las radiografías regulares. Se pueden usar para diagnosticar enfermedades pulmonares, controlar la progresión de la enfermedad y evaluar la respuesta al tratamiento.
 
-· **Pruebas de función pulmonar.** Estas son pruebas que ayudan a medir la capacidad de los pulmones para mover el aire dentro y fuera de los pulmones. Las pruebas generalmente se realizan con máquinas especiales en las que la persona debe respirar.
+✅ **Pruebas de función pulmonar.** Estas son pruebas que ayudan a medir la capacidad de los pulmones para mover el aire dentro y fuera de los pulmones. Las pruebas generalmente se realizan con máquinas especiales en las que la persona debe respirar.
 
-· **Análisis de sangre.** Estos pueden usarse para verificar la cantidad de dióxido de carbono y oxígeno en la sangre, evaluar la función hepática y renal y buscar infecciones y otras enfermedades.
+✅ **Análisis de sangre.** Estos pueden usarse para verificar la cantidad de dióxido de carbono y oxígeno en la sangre, evaluar la función hepática y renal y buscar infecciones y otras enfermedades.
 
-· **Broncoscopia.** Se coloca un tubo largo, delgado y flexible con una luz al final por la garganta hasta los pulmones. Esto le permite al médico ver los bronquios, las principales vías respiratorias de los pulmones. Se hace para ayudar a evaluar y diagnosticar problemas pulmonares. Las muestras de tejido pulmonar (biopsia) y los lavados de pulmón, que eliminan las células de los pulmones, se pueden hacer a través del broncoscopio.
+✅ **Broncoscopia.** Se coloca un tubo largo, delgado y flexible con una luz al final por la garganta hasta los pulmones. Esto le permite al médico ver los bronquios, las principales vías respiratorias de los pulmones. Se hace para ayudar a evaluar y diagnosticar problemas pulmonares. Las muestras de tejido pulmonar (biopsia) y los lavados de pulmón, que eliminan las células de los pulmones, se pueden hacer a través del broncoscopio.
 
-· **Lavado broncoalveolar.** Este es un procedimiento en el cual se coloca una solución salina estéril en los pulmones a través de un broncoscopio y luego se succiona. La solución salina transporta células del tracto respiratorio inferior, que se pueden revisar con un microscopio para ayudar a identificar la inflamación y la infección. Puede ayudar a descartar ciertas causas.
+✅ **Lavado broncoalveolar.** Este es un procedimiento en el cual se coloca una solución salina estéril en los pulmones a través de un broncoscopio y luego se succiona. La solución salina transporta células del tracto respiratorio inferior, que se pueden revisar con un microscopio para ayudar a identificar la inflamación y la infección. Puede ayudar a descartar ciertas causas.
 
-· **Biopsia pulmonar.** Una prueba en la que se extrae un pequeño trozo de tejido, células o líquido de los pulmones y se examina con un microscopio.
+✅ **Biopsia pulmonar.** Una prueba en la que se extrae un pequeño trozo de tejido, células o líquido de los pulmones y se examina con un microscopio.
 
 La sarcoidosis generalmente se diagnostica cuando se descartan otros trastornos pulmonares.
 
