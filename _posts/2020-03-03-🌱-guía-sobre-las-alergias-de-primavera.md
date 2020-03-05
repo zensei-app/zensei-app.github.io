@@ -9,8 +9,8 @@ category: calidad del aire
 image: ''
 description: Las alergias de primavera son una de las afecciones estacionales más
   extendidas. Te contamos todo sobre ellas.
-intro: "¿Eres alérgico? ¿Temes la llegada del buen tiempo? Aprende más sobre las alergias
-  de primavera y qué puedes hacer para prevenirlas o minimizar su incidencia."
+intro: "¿Eres alérgico? ¿Temes la llegada del buen tiempo? Aprende más sobre las **alergias
+  de primavera** y qué puedes hacer para prevenirlas o minimizar su incidencia."
 tags: calidad aire, vías respiratorias, dificultad respiratoria, asma, alergias, primavera
 slug: ''
 
