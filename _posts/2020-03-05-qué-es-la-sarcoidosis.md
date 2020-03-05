@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: 'Qué es la sarcoidosis '
+title: "⚕️ Qué es la sarcoidosis "
 date: 2020-03-05 09:00:00 +0000
 last_modified_at: 2020-03-05 09:00:00 +0000
 author: Ana
