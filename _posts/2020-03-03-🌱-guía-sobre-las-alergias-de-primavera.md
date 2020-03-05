@@ -5,14 +5,14 @@ title: "\U0001F331 Guía sobre las alergias de primavera "
 date: 2020-03-03 23:00:00 +0000
 last_modified_at: 2020-03-03 23:00:00 +0000
 author: Ana
-category: calidad del aire
-image: ''
+category: Alergia
+image: "/uploads/Captura de pantalla 2020-03-05 a las 12.01.56.png"
 description: Las alergias de primavera son una de las afecciones estacionales más
   extendidas. Te contamos todo sobre ellas.
 intro: "¿Eres alérgico? ¿Temes la llegada del buen tiempo? Aprende más sobre las **alergias
   de primavera** y qué puedes hacer para prevenirlas o minimizar su incidencia."
-tags: calidad aire, vías respiratorias, dificultad respiratoria, asma, alergias, primavera
-slug: ''
+tags: calidad-aire vías-respiratorias dificultad-respiratoria asma alergias primavera
+slug: alergia primavera sintomas prevencion
 
 ---
 ![alergia polen](/uploads/Alergias de primavera.jpg "Alergias de primavera")
@@ -27,13 +27,13 @@ Las alergias de primavera se disparan, además, cuando la temporada de lluvia ot
 
 La **sintomatología de este tipo de alergia**, provocada por una reacción del sistema inmunitario ante estos alérgenos, resultan muy comunes:
 
-· Estornudos.
+✅ Estornudos.
 
-· [Rinitis.](https://zenseiapp.com/alergia/guia-rinitis-alergica/)
+✅ [Rinitis.](https://zenseiapp.com/alergia/guia-rinitis-alergica/)
 
-· Conjuntivitis.
+✅ Conjuntivitis.
 
-· Crisis de asma.
+✅ Crisis de asma.
 
 Durante este periodo es preciso que los alérgicos tomen ciertas precauciones para minimizar la incidencia y conseguir evitar los síntomas. **La prevención es la mejor medida para hacer frente a las alergias primaverales.**
 
@@ -43,17 +43,17 @@ Además, resultará muy útil ser previsores y, con ayuda del alergólogo, prest
 
 Con las acciones preventivas se pretende conseguir la máxima reducción posible del contacto de la persona alérgica con el polen. Igualmente, **también se minimizará la concentración de ácaros.**
 
-· Cerrar las ventanas durante las horas de mayor incidencia (horas de sol).
+✅ Cerrar las ventanas durante las horas de mayor incidencia (horas de sol).
 
-· Abrir las ventanas para ventilar con la puesta de sol.
+✅ Abrir las ventanas para ventilar con la puesta de sol.
 
-· No pasear por parques y jardines y abstenerse de actividades al aire libre, sobre todo en el campo y en zonas con vegetación.
+✅ No pasear por parques y jardines y abstenerse de actividades al aire libre, sobre todo en el campo y en zonas con vegetación.
 
-· Usar gafas de sol para proteger los ojos en el exterior.
+✅ Usar gafas de sol para proteger los ojos en el exterior.
 
-· Secar la ropa dentro de la casa para evitar que se adhieran partículas de polen.
+✅ Secar la ropa dentro de la casa para evitar que se adhieran partículas de polen.
 
-· Mantener la vivienda limpia y una humedad del ambiente inferior al 60%. La temperatura de los interiores no debe llegar a 24° C. Esto ayudará a controlar la presencia de ácaros.
+✅ Mantener la vivienda limpia y una humedad del ambiente inferior al 60%. La temperatura de los interiores no debe llegar a 24° C. Esto ayudará a controlar la presencia de ácaros.
 
 Si estas medidas no son suficiente para mantener a raya los síntomas de las alergias de primavera, **será necesario el uso de medicamentos específicos para paliar las reacciones adversas.** El especialista podrá recetar colirios contra la conjuntivitis, broncodilatadores para las crisis asmáticas o descongestionantes contra la rinitis.
 
