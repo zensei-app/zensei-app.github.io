@@ -14,7 +14,7 @@ intro: La **alveolitis pulmonar** es un trastorno pulmonar resultante de la inha
   esta enfermedad muy relacionada con el entorno laboral.
 tags:
 - enfermedades-pulmonares enfermedades-pulmonares-ocupacionales alveolitis-pulmonar
-slug: ''
+slug: alveolitis pulmonar
 
 ---
 ![Alveolos](/uploads/alveolos.jpeg "Alveolitis pulmonar")
