@@ -5,7 +5,7 @@ title: "⚕️ Qué es la sarcoidosis "
 date: 2020-03-05 09:00:00 +0000
 last_modified_at: 2020-03-05 09:00:00 +0000
 author: Ana
-category: Enfermedades pulmonares
+category: Salud respiratoria
 image: "/uploads/Captura de pantalla 2020-03-05 a las 11.47.08.png"
 description: La sarcoidosis es una patología que puede afectar a los pulmones. Aprende
   todo lo que necesitas saber sobre la enfermedad.
