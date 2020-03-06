@@ -2,10 +2,10 @@
 layout: post
 toc: true
 title: 'Qué es la alveolitis pulmonar '
-date: 2020-03-04 23:00:00 +0000
-last_modified_at: 2020-03-04 23:00:00 +0000
+date: 2020-03-04T23:00:00.000+00:00
+last_modified_at: 2020-03-04T23:00:00.000+00:00
 author: Ana
-category: enfermedades pulmonares
+category: []
 image: ''
 description: La alveolitis pulmonar es una enfermedad que precisa de un diagnóstico
   temprano. Descubre todo lo que necesitas saber sobre esta patología.
