@@ -6,13 +6,14 @@ date: 2020-03-04T23:00:00.000+00:00
 last_modified_at: 2020-03-04T23:00:00.000+00:00
 author: Ana
 category: []
-image: ''
+image: https://img.freepik.com/foto-gratis/pulmones_1048-4972.jpg?size=338&ext=jpg
 description: La alveolitis pulmonar es una enfermedad que precisa de un diagnóstico
   temprano. Descubre todo lo que necesitas saber sobre esta patología.
 intro: La **alveolitis pulmonar** es un trastorno pulmonar resultante de la inhalación
   repetida de polvo orgánico. Te mostramos los patrones necesarios para identificar
   esta enfermedad muy relacionada con el entorno laboral.
-tags: enfermedades pulmonares, enfermedades pulmonares ocupaciones, alveolitis pulmonar
+tags:
+- enfermedades-pulmonares enfermedades-pulmonares-ocupacionales alveolitis-pulmonar
 slug: ''
 
 ---
@@ -24,13 +25,13 @@ En la forma aguda de la patología, **los síntomas respiratorios y la fiebre co
 
 **Otros nombres con los que se conoce a la alveolitis pulmonar:**
 
-· Alveolitis alérgica extrínseca.
+✅ Alveolitis alérgica extrínseca.
 
-· Neumonitis intersticial alérgica.
+✅ Neumonitis intersticial alérgica.
 
-· Neumonía alérgica extrínseca.
+✅ Neumonía alérgica extrínseca.
 
-· Neumonitis por hipersensibilidad.
+✅ Neumonitis por hipersensibilidad.
 
 ## Signos y síntomas de la alveolitis pulmonar
 
@@ -48,39 +49,39 @@ En estos casos, **el alérgeno pasa a los pequeños sacos alveolares de los pulm
 
 Una **gran variedad de sustancias** que se encuentran en entornos laborales pueden estar relacionadas con la alveolitis pulmonar. Veamos algunas de las más frecuentes:
 
-· Irritantes asociados con las aves (polvo aviar).
+✅ Irritantes asociados con las aves (polvo aviar).
 
-· Moho por la fabricación de queso.
+✅ Moho por la fabricación de queso.
 
-· Polvo de la caña de azúcar mohosa en las fabricas de azúcar.
+✅ Polvo de la caña de azúcar mohosa en las fabricas de azúcar.
 
-· Catalizador de pintura en el acabado de bañeras e inodoros.
+✅ Catalizador de pintura en el acabado de bañeras e inodoros.
 
-· El polvo de heno en entornos agrícolas.
+✅ El polvo de heno en entornos agrícolas.
 
-· Cultivo de hongos en el compostaje.
+✅ Cultivo de hongos en el compostaje.
 
-· Residuos de orina de roedores en trabajos de laboratorio.
+✅ Residuos de orina de roedores en trabajos de laboratorio.
 
-· Tabaco.
+✅ Tabaco.
 
-· Sistemas de calefacción y refrigeración (agua con moho).
+✅ Sistemas de calefacción y refrigeración (agua con moho).
 
-· Elaboración de maltas / elaboración de cerveza (cebada con moho).
+✅ Elaboración de maltas / elaboración de cerveza (cebada con moho).
 
-· Enfermedad de la corteza de arce (polvo de corteza de arce mohoso).
+✅ Enfermedad de la corteza de arce (polvo de corteza de arce mohoso).
 
-· Secuoyosis (polvo de corteza de secuoya mohosa).
+✅ Secuoyosis (polvo de corteza de secuoya mohosa).
 
-· Suberosis (polvo de corcho mohoso).
+✅ Suberosis (polvo de corcho mohoso).
 
-· Trabajo con plásticos (residuo plástico).
+✅ Trabajo con plásticos (residuo plástico).
 
-· Resina epoxi (residuo epoxi calentado).
+✅ Resina epoxi (residuo epoxi calentado).
 
-· Detergente enzimático (polvo).
+✅ Detergente enzimático (polvo).
 
-· Enfermedad del gorgojo del trigo (moho o polvo de trigo).
+✅ Enfermedad del gorgojo del trigo (moho o polvo de trigo).
 
 ### Poblaciones Afectadas
 
