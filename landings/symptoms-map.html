@@ -1,7 +1,7 @@
 ---
 permalink: /sintomas-respiratorios-mapa
 title: 🚨 Descubre si hay personas con síntomas respiratrorios cerca de ti
-description: Descárgate Zensei. La App para controlar tus síntomas respiratorios y proteger a tus seres más queridos.
+description: Descárgate Zensei. La App para cuidar de tu salud respiratoria.
 ---
 <html>
   <head>
@@ -14,20 +14,26 @@ description: Descárgate Zensei. La App para controlar tus síntomas respiratori
     {% include sticky-cta.html %}
 
     <div id="map">
-        <h1 class="over_map" id="count" ></h1>
-        <p id="count-copy">Personas con Síntomas Respiratorios</p>
-      <h1 class="over_map" id="time"></h1>
+      <p class="over_map" id="count" ></p>
+      <p id="count-copy">Personas con Síntomas Respiratorios</p>
+      <p class="over_map" id="time"></p>
     </div>
     <br>
     <div class="container center padding-vertical">
-      <h2 class="post-title">
+      <h1 class="post-title">
         <strong>Descubre si hay síntomas respiratorios en tu zona</strong>
-      </h2>
+      </h1>
       {% include map-content.html %}
     </div>
 
+    <br>
+    {% include share.html %}
+
     {% include blog-recommendations.html %}
 
+    {% include share.html %}
+
+    <br>
     {% include footer.html %}
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
