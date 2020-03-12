@@ -20,8 +20,8 @@ El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, 
 
 ## **¿Cómo puedes ayudar en una situación como la actual?**
 
-**Compartiendo este mapa** para que personas en riesgo puedan tomar medidas adecuadas para cuidar de su salud respiratoria.
+**Compartiendo este mapa** para que personas en riesgo puedan tomar medidas adecuadas para cuidar de su salud respiratoria. Lo puedes hacer más abajo.
 
-**Descargándote nuestra app** para que monitorices tus sítomas y mejores este mapa. Así ayduras a muchas peronas con problemas respiratorios.
+**Descargándote nuestra app** para que monitorices tus sítomas y mejores este mapa. Así ayduras a muchas peronas con problemas respiratorios. En los botones de Google Play y App Store.
 
 </div>
