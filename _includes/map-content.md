@@ -1,6 +1,5 @@
-<br>
 <div markdown="1">
-Hola, somos el equipo de **[Zensei](/)** y hemos construido este **mapa de los síntomas respiratorios** agregados a nivel poblacional que recolectamos en nuestra app de los últimos 7 días. El mapa se actualiza diariamente.
+Hola, somos el equipo de **[Zensei](/)** y hemos construido este **mapa de síntomas respiratorios** agregados a nivel poblacional que recolectamos en nuestra app. Se visualizan los últimos 7 días de síntomas recolectados. El mapa se actualiza diariamente.
 
 ## **¿Qué síntomas monitorizamos?**
 
@@ -25,6 +24,16 @@ Fiebre
 Malestar corporal
 
 Estornudos
+
+## **¿Qué medidas puedo tomar para prevenir síntomas respiratorios?**
+
+Lavado de manos 💦👐 
+
+Evitar tocarse ojos, nariz y boca 🙅🛑
+
+Ante una persona infectada, mantener una distancia de 2 metros 🛑🧑🏾‍🤝‍
+
+Toser en un pañuelo desechable o en el hueco del codo en su defecto 🤧
 
 ## **¿Cuáles son los objetivos de este mapa síntomas respiratorios?**
 

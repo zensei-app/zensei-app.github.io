@@ -1,6 +1,6 @@
 ---
 permalink: /sintomas-respiratorios-mapa
-title: 🚨 Descubre si hay personas con síntomas respiratrorios cerca de ti
+title: 🚨 Mapa de Síntomas Respiratorios en Tiempo Real
 description: Descárgate Zensei y monitoriza tus síntomas respiratorios.
 ---
 <html>
@@ -27,9 +27,14 @@ description: Descárgate Zensei y monitoriza tus síntomas respiratorios.
     <br>
     <br>
     <div class="container-narrow">
-      <h1 class="post-title center">
-        <strong>Descubre si hay síntomas respiratorios en tu zona</strong>
-      </h1>
+      <div class="center">
+          <h1 class="post-title">
+            <strong>Mapa de Síntomas Respiratorios</strong>
+          </h1>
+          <p>
+            👆Pulsa sobre el mapa para explorarlo.
+          </p>
+      </div>
       <div class="row">
         {% capture p2 %}{% include map-content.md %}{% endcapture %}
         {{ p2 | markdownify }}
