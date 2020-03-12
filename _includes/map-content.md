@@ -50,7 +50,7 @@ Dada la situación actual una herramienta como la nuestra puede ser de gran ayud
 
 ## **¿Quién forma el equipo de Zensei?**
 
-El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, diseñadores de productos de salud y expertos en comunicación. Habiendo trabajado en el Hospital Ramón y Cajal, Sanitas, Doctor24 y Philips. Estamos comprometidos con mejorar la calidad de vida de millones de pacientes respiratorios. 
+El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, diseñadores de productos de salud y expertos en comunicación. Tenemos experiencias previas trabajando en el Hospital Ramón y Cajal, Sanitas, Doctor24, Philips y Carburos Metálicos. Estamos comprometidos en mejorar la calidad de vida de millones de pacientes respiratorios. 
 
 ## **¿En qué somos expertos?**
 
