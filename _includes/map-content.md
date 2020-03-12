@@ -1,3 +1,4 @@
+<br>
 <div markdown="1">
 Hola, somos el equipo de **[Zensei](/)** y hemos construido este **mapa de síntomas respiratorios** agregados a nivel poblacional que recolectamos en nuestra app. Se visualizan los últimos 7 días de síntomas recolectados. El mapa se actualiza diariamente.
 
@@ -54,6 +55,12 @@ El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, 
 ## **¿Cómo puedes ayudar en una situación como la actual?**
 
 **Compartiendo este mapa** para que personas en riesgo puedan tomar medidas adecuadas para cuidar de su salud respiratoria. Lo puedes hacer más abajo.
+
+<ul class="social-btns">
+  <li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={% if page.title %}{{ page.title | uri_escape }}{% else %}{{ site.title | uri_escape }}{% endif %}" data-url="{% if page.title %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% endif %}" data-size="large">Tweet</a></li>
+  <li><div class="fb-share-button" data-href="{% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog {% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog{% endif %}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse">Compartir</a></div></li>
+  <li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text={% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=map {% else %}{{ site.url | escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=map{% endif %}"><img src="/assets/img/whatsapp.svg" alt="Whatsapp">Whatsappear</a></li>
+</ul>
 
 **Descargándote nuestra app** para que monitorices tus sítomas y mejores este mapa. Así ayduras a muchas peronas con problemas respiratorios. En los botones de Google Play y App Store.
 
