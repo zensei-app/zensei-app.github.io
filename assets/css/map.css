@@ -30,7 +30,7 @@
 #count{
   position:absolute; 
   right: 10px; 
-  top: 1px; 
+  top: -25px; 
   font-size: 450%; 
   font-weight: 600;
 }
@@ -38,7 +38,7 @@
 #count-copy { 
   position: absolute; 
   right:11px; 
-  top:80px; 
+  top: 65px; 
   z-index:1000;
   font-size: 120%; 
   width: 100px;
