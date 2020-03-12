@@ -52,6 +52,18 @@ Dada la situación actual una herramienta como la nuestra puede ser de gran ayud
 
 El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, diseñadores de productos de salud y expertos en comunicación. Habiendo trabajado en el Hospital Ramón y Cajal, Sanitas, Doctor24 y Philips. Estamos comprometidos con mejorar la calidad de vida de millones de pacientes respiratorios. 
 
+## **¿En qué somos expertos?**
+
+En salud digital respiratoria y en las siguientes condiciones de salud:
+
+Asma
+
+EPOC 
+
+Rinitis alérgica
+
+Virus respiratorios
+
 ## **¿Cómo puedes ayudar en una situación como la actual?**
 
 **Compartiendo este mapa** para que personas en riesgo puedan tomar medidas adecuadas para cuidar de su salud respiratoria. Lo puedes hacer más abajo.
