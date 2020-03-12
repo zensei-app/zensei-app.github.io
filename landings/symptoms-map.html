@@ -12,20 +12,24 @@ description: Descárgate Zensei. La App para cuidar de tu salud respiratoria.
   </head>
   <body>
     {% include sticky-cta.html %}
-
+  
     <div id="map">
       <p class="over_map" id="count" ></p>
       <p id="count-copy">Personas con Síntomas Respiratorios</p>
       <p class="over_map" id="time"></p>
     </div>
     <br>
-    <div class="container center padding-vertical">
-      <h1 class="post-title">
+    <br>
+    <div class="container-narrow">
+      <h1 class="post-title center">
         <strong>Descubre si hay síntomas respiratorios en tu zona</strong>
       </h1>
-      {% include map-content.html %}
+      <div class="row">
+        {% capture p2 %}{% include map-content.md %}{% endcapture %}
+        {{ p2 | markdownify }}
+      </div>
     </div>
-
+    {% include app-cta-landing.html %}
     <br>
     {% include share.html %}
 
