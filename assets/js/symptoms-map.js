@@ -31,27 +31,25 @@ $(document).ready(function(){
       };
 
       $.getJSON('https://i2lverrng9.execute-api.eu-west-1.amazonaws.com/dev/symptoms', function(data) {
-          var len = data.count
-          
-          for (i = 0; i < len; i++) { 
-              console.log(data.data[i])
-              coordinates = [data.data[i].coords.latitude, data.data[i].coords.longitude]
-              marker = L.circle(coordinates, 1000,  geojsonMarkerOptions);
-              marker.addTo(map);
-              markers.push(marker)
-              if(count > 20000){
-                  map.removeLayer(markers[0]);
-                  markers.splice(0, 1)   
-              }
-              count = count + 1;
-        
+        console.log(data)
+        var len = data.count
+        dynamic_number('#count' ,current , len)
+        for (i = 0; i < len; i++) {
+          size = data.data[i].count
+          coordinates = [data.data[i].latitude, data.data[i].longitude];
+          marker = L.circle(coordinates, size * 1000,  geojsonMarkerOptions);
+          marker.addTo(map);
+          markers.push(marker)
+          if(count > 20000){
+              map.removeLayer(markers[0]);
+              markers.splice(0, 1)   
           }
-          
-          dynamic_number('#count' ,current ,len)
-          current = len;
+          count = count + 1;
+        }
+        current = len;
 
-          // elapsedTime = new Date().getMilliseconds() - elapsedTime;
-          // setTimeout(update_position, 2000 - elapsedTime);
+        // elapsedTime = new Date().getMilliseconds() - elapsedTime;
+        // setTimeout(update_position, 2000 - elapsedTime);
 
       });
   };
