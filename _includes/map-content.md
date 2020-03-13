@@ -8,7 +8,7 @@ Dada la pandemia actual una herramienta como la nuestra puede ser de gran ayuda 
  
 ## **¿Quién forma el equipo de Zensei?**
  
-El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, diseñadores de productos de salud y expertos en comunicación. Tenemos experiencias previas trabajando en el Hospital Ramón y Cajal, Sanitas, Doctor24, Philips y Carburos Metálicos. Estamos comprometidos en mejorar la calidad de vida de millones de pacientes respiratorios.
+El equipo de Zensei lo formamos médicos, ingenieros, epidemiólogos digitales, diseñadores de servicios de salud y expertos en comunicación. Tenemos experiencias previas trabajando en el Hospital Ramón y Cajal, Sanitas, Doctor24, Philips y Carburos Metálicos. Estamos comprometidos en mejorar la calidad de vida de millones de pacientes respiratorios.
  
 Somos expertos en salud digital respiratoria y en las siguientes condiciones de salud: Virus respiratorios, asma, rinitis alérgica y EPOC. 
  
@@ -51,6 +51,10 @@ Fiebre
 Malestar corporal
  
 Estornudos
+
+## **Sobre los datos**
+
+Internamente en Zensei medimos de forma anónima los síntomas respiratorios (y sin especificar la dolencia) el uso que hacen nuestros usuarios de nuestra App. Hemos trasladado ese uso sobre este mapa por el interés común para sensibilizar a la población.
  
 ## **¿Qué medidas puedo tomar para prevenir síntomas respiratorios?**
  
