@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: Todo lo que necesitas saber sobre la cuarentena
+title: 'Coronavirus y cuarentena: todo lo que necesitas saber. '
 date: 2020-03-15 23:00:00 +0000
 last_modified_at: 2020-03-15 23:00:00 +0000
 author: Cristina
@@ -35,11 +35,29 @@ De ahí lo de no salir de casa. Para evitar que se propague.
 
 Es mejor prevenir que curar.
 
+## **Síntomas del coronavirus.**
+
+Los síntomas del coronavirus son muy similares a los de otras afecciones: 
+
+✅ Fiebre.
+
+✅ Tos seca.
+
+✅ Dolor de garganta.
+
+✅ Dolor muscular.
+
+✅ Dificultad respiratoria. 
+
+Pero no por tener estos síntomas es indicativo de tener coronavirus.
+
+Cualquier duda que puedas tener en caso de encontrarte mal o de padecer alguno de estos síntomas, no acudas al hospital, llama al **900 102 112.**
+
 ## **¿Qué hacer si estoy malo o me encuentro mal?**
 
 Hay una pequeña posibilidad de que contraigas coronavirus, pero no pasa nada. La mayoría de las personas lo sufren como un resfriado.
 
-De hecho, sus **síntomas** son muy parecidos: fiebre, tos seca, dolor de garganta, dolor muscular o dificultad respiratoria.
+De hecho, sus **síntomas** son muy parecidos.
 
 El problema viene con la **población vulnerable**: las personas mayores o con enfermedades previas.
 
