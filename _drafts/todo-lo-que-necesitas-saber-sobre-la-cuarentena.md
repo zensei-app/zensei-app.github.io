@@ -9,13 +9,13 @@ category: Salud respiratoria
 image: "/uploads/Cuarentena.jpg"
 description: ''
 intro: ''
-tags: ''
-slug: cuarentena-
+tags: coronavirus aislamiento casa cuarentena que-hacer
+slug: cuarentena casa aislamiento coronavirus
 
 ---
 Estar en casa es algo que de vez en cuando es necesario y apetece.
 
-Pero estar más de dos días en casa si no es porque estás enfermo (muy enfermo), es algo que puede complicarse.
+Pero estar más de dos días en casa si no es porque estás enfermo (muy enfermo), es algo que no nos gusta tanto.
 
 Ahora mismo es imprescindible quedarse en casa. La seguridad de todos depende de ello.
 
@@ -101,7 +101,6 @@ Aquí te dejamos algunos consejos que seguro que te ayudan:
 
 ✅ En cuanto haga bueno abre las ventanas y saca un poco la cabeza, que te de el sol. Seguro que eso te alegra.
 
-  
 Y lo más importante, **no te obsesiones con que estás en casa** y no puedes salir.
 
 Ahora más que nunca hay que ser fuerte y no hay nada más poderoso como la mente humana.
@@ -124,20 +123,16 @@ Llevar un control de tus síntomas y conocer los niveles de tu entorno te ayudar
 
 En Zensei puedes hacer ambas cosas gracias a la información de nuestro feed social y al diario de salud respiratoria.
 
-  
 Además, en caso de que tus síntomas empeorasen, gracias al diario y a tu constancia al haber registrado tus síntomas todos los días, si necesitas realmente acudir al médico, esta información ayudará mucho a quien te atienda.
 
-  
 Nuestro diario de salud respiratoria es un herramienta muy cómoda y sencilla que aporta mucha tranquilidad.
 
-  
 Si crees que entre tus amigos, familiares y conocidos hay gente preocupada por ponerse enferma **recomíendales Zensei.**
 
 Estar tranquilos en estos momentos está en la palma de tu mano.
 
-Puedes descargártela aquí: [ZenseiApp](https://wgji.app.link/fIu9tK3PMO). 
+Puedes descargártela aquí: [ZenseiApp](https://wgji.app.link/fIu9tK3PMO).
 
-  
 ¡Mucho ánimo! Juntos lo conseguiremos.
 
 \#YoMeQuedoEnCasa #ZenseiEstaEnCasa
