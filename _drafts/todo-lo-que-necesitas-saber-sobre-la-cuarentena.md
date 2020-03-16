@@ -7,19 +7,19 @@ last_modified_at: 2020-03-15 23:00:00 +0000
 author: Cristina
 category: Salud respiratoria
 image: "/uploads/Cuarentena.jpg"
-description: ''
-intro: ''
+description: 'El Gobierno implanta el estado de alarma en España. Sabemos que estar
+  en casa no es fácil, pero es necesario. La seguridad de todos depende de ello. '
+intro: |-
+  Estar en casa es algo que de vez en cuando es necesario y apetece.
+
+  Pero estar más de dos días en casa si no es porque estás enfermo (muy enfermo), es algo que no nos gusta tanto.
+
+  Ahora mismo es imprescindible quedarse en casa. La seguridad de todos depende de ello.
 tags: coronavirus aislamiento casa cuarentena que-hacer
 slug: cuarentena casa aislamiento coronavirus
 
 ---
 ![](/uploads/Cuarentena-1.jpg)
-
-Estar en casa es algo que de vez en cuando es necesario y apetece.
-
-Pero estar más de dos días en casa si no es porque estás enfermo (muy enfermo), es algo que no nos gusta tanto.
-
-Ahora mismo es imprescindible quedarse en casa. La seguridad de todos depende de ello.
 
 ## **Motivos de la cuarentena actual.**
 
