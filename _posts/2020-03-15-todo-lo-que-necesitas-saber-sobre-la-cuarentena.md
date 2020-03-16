@@ -37,7 +37,7 @@ Es mejor prevenir que curar.
 
 ## **Síntomas del coronavirus.**
 
-Los síntomas del coronavirus son muy similares a los de otras afecciones: 
+Los síntomas del coronavirus son muy similares a los de otras afecciones:
 
 ✅ Fiebre.
 
@@ -47,9 +47,9 @@ Los síntomas del coronavirus son muy similares a los de otras afecciones:
 
 ✅ Dolor muscular.
 
-✅ Dificultad respiratoria. 
+✅ Dificultad respiratoria.
 
-Pero no por tener estos síntomas es indicativo de tener coronavirus.
+Pero tener estos síntomas no es indicativo de tener coronavirus.
 
 Cualquier duda que puedas tener en caso de encontrarte mal o de padecer alguno de estos síntomas, no acudas al hospital, llama al **900 102 112.**
 
