@@ -13,6 +13,8 @@ tags: coronavirus aislamiento casa cuarentena que-hacer
 slug: cuarentena casa aislamiento coronavirus
 
 ---
+![](/uploads/Cuarentena-1.jpg)
+
 Estar en casa es algo que de vez en cuando es necesario y apetece.
 
 Pero estar más de dos días en casa si no es porque estás enfermo (muy enfermo), es algo que no nos gusta tanto.
@@ -42,6 +44,8 @@ De hecho, sus **síntomas** son muy parecidos: fiebre, tos seca, dolor de gargan
 El problema viene con la **población vulnerable**: las personas mayores o con enfermedades previas.
 
 Por eso, si tienes síntomas es importante no acudir directamente al centro sanitario.
+
+![](/uploads/coronavirus-china-personas-blanco-mascarilla-medica-conjunto-concepto-ilustracion-cuarentena-coronavirus_10083-937.jpg)
 
 Si te estás poniendo malo, llama al **900 102 112**. Allí te atenderán y te dirán las indicaciones que tienes que seguir.
 
@@ -89,6 +93,8 @@ Aquí te dejamos algunos consejos que seguro que te ayudan:
 
 ✅ Aprovecha para limpiar y ordenar esas cosas que has ido dejando. El momento ha llegado. Ordena tu casa, tu armario, limpia esa estantería que llevas tiempo queriendo ordenar.
 
+![](/uploads/metodo-vertical-limpieza-ropa-marie-kondo_136595-1069.jpg)
+
 ✅ Haz una lista de todas las películas que querías ver y hazlo. También vale para series y documentales.
 
 ✅ Lee. Seguro que tienes un montón de libros atrasados que por falta de tiempo no has empezado. Ahora sí tienes tiempo.
@@ -98,6 +104,8 @@ Aquí te dejamos algunos consejos que seguro que te ayudan:
 ✅ Cocina. Arriesgate e intenta hacer esa tarta o esa cena que tanto querías.
 
 ✅ Desempolva los juegos de mesa. Chinchón, monopoli, cinquillo, trucos de magia, Catán, lo que sea.
+
+![](/uploads/jugador-jugando-al-ajedrez-mesa_114579-6048.jpg)
 
 ✅ En cuanto haga bueno abre las ventanas y saca un poco la cabeza, que te de el sol. Seguro que eso te alegra.
 
