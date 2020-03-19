@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F912 Coronavirus vs. gripe: cómo diferenciarlos "
-date: 2020-03-01 23:00:00 +0000
-last_modified_at: 2020-03-03 23:00:00 +0000
+date: 2020-03-01T23:00:00.000+00:00
+last_modified_at: 2020-03-03T23:00:00.000+00:00
 author: Ana
 category: Gripe
 image: "/uploads/Gripe en verano.jpg"
@@ -17,7 +17,7 @@ slug: coronavirus gripe diferencia
 ---
 ![](/uploads/Coronavirus vs gripe.jpg)
 
-Cuando ya ascienden a más de [**100 casos los afectados por el COVID-19 en España, **](https://as.com/deporteyvida/2020/02/29/portada/1582957545_463697.html)la alarma se ha extendido entre la población. Al igual que en otros lugares, las mascarillas se han agotado en las farmacias y los habitantes han entrado en pánico. **Coronavirus vs. gripe: cómo diferenciarlos.**
+Cuando ya ascienden a más de [**100 casos los afectados por el COVID-19 en España**](https://as.com/deporteyvida/2020/02/29/portada/1582957545_463697.html), la alarma se ha extendido entre la población. Al igual que en otros lugares, las mascarillas se han agotado en las farmacias y los habitantes han entrado en pánico. **Coronavirus vs. gripe: cómo diferenciarlos.**
 
 El [Centro Europeo de Control de Enfermedades](https://www.ecdc.europa.eu/en) eleva de moderado a alto el riesgo por el coronavirus. **La información es vital para poner cerco a este estado de alerta en que se encuentra la población.**
 
