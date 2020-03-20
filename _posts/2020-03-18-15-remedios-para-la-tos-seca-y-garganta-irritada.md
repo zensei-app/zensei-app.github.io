@@ -44,11 +44,11 @@ Pero ¿qué es exactamente la tos? En lenguaje clínico es definida, según el d
 
 **Esta maniobra se lleva a cabo a través de tres pasos:**
 
-· La glotis se abre con inspiración.
+✅ La glotis se abre con inspiración.
 
-· La glotis se cierra y se contrae la musculatura respiratoria.
+✅ La glotis se cierra y se contrae la musculatura respiratoria.
 
-· La glotis se abre bruscamente y el aire que ha estado retenido en los pulmones es expulsado violentamente.
+✅ La glotis se abre bruscamente y el aire que ha estado retenido en los pulmones es expulsado violentamente.
 
 **El cuerpo está dotado de una serie de receptores de la tos.** Se encuentran concentrados, en su mayoría, en la garganta y las ramificaciones de las vías respiratorias. En menos cantidad, también aparecen en los senos paranasales, los oídos, el esófago, la barriga, el recubrimiento cardíaco y el de los pulmones.
 
@@ -58,13 +58,13 @@ Pero ¿qué es exactamente la tos? En lenguaje clínico es definida, según el d
 
 En el caso de la tos, esta se produce a través del **estímulo que percibe la mucosa bronquial, la tráquea o la laringe.** Esta estimulación puede deberse a cuatro factores fundamentales:
 
-· Un exceso de moco acumulado en la superficie.
+✅ Un exceso de moco acumulado en la superficie.
 
-· Un tracto demasiado seco.
+✅ Un tracto demasiado seco.
 
-· Como consecuencia de un enfriamiento.
+✅ Como consecuencia de un enfriamiento.
 
-· Por la acción de ciertos agentes químicos.
+✅ Por la acción de ciertos agentes químicos.
 
 El proceso de toser resulta bastante curioso. **El reflejo desencadena un impulso.** Comienza al excitarse los receptores a través de algún erosionante de origen químico o físico. Ese impulso asciende hasta el bulbo raquídeo y la protuberancia. Para ello se sirve del nervio vago como medio de transporte.
 
@@ -104,25 +104,25 @@ Desde la tos productiva a la tos seca o tos persistente, existen muchos tipos. E
 
 **Las causas que provocan la tos son muy diversas.** Entre ellas destacan las siguientes razones:
 
-· Dolencias de procedencia otorrinolaringológicas.
+✅ Dolencias de procedencia otorrinolaringológicas.
 
-· Problemas de los canales auditivos externos o del tímpano.
+✅ Problemas de los canales auditivos externos o del tímpano.
 
-· Sinusitis.
+✅ Sinusitis.
 
-· Rinitis.
+✅ Rinitis.
 
-· Amigdalitis.
+✅ Amigdalitis.
 
-· Enfermedades cardíacas.
+✅ Enfermedades cardíacas.
 
-· Problemas irritativos de las vías aéreas superiores.
+✅ Problemas irritativos de las vías aéreas superiores.
 
-· Causas que afectan a los pulmones de manera aguda o crónica.
+✅ Causas que afectan a los pulmones de manera aguda o crónica.
 
-· Pólenes, bacterias, polvos y alérgenos.
+✅ Pólenes, bacterias, polvos y alérgenos.
 
-· Cuestiones accidentales: humo, alimentos que pasan a la tráquea, cuerpos extraños, etc.
+✅ Cuestiones accidentales: humo, alimentos que pasan a la tráquea, cuerpos extraños, etc.
 
 ![](/uploads/Jarabe.jpg)
 
@@ -136,23 +136,23 @@ En ciertos casos relacionados con la tos seca, hay que sumar las molestias que s
 
 Existen antitusígenos de diferentes tipologías:
 
-\- **Los que actúan de manera centralizada.** Estos [antitusígenos](http://www.guiafarmapediatrica.es/indice/antitusigenos-mucoliticos-expectorantes) erradican o refrenan el reflejo de la tos y deprimen el foco que la produce. Los más habituales son la codeína y el dextrometorfano.
+✅ **Los que actúan de manera centralizada.** Estos [antitusígenos](http://www.guiafarmapediatrica.es/indice/antitusigenos-mucoliticos-expectorantes) erradican o refrenan el reflejo de la tos y deprimen el foco que la produce. Los más habituales son la codeína y el dextrometorfano.
 
-\- **Los que actúan de manera periférica.** Inciden sobre los estímulos foráneos del reflejo de la tos.
+✅ **Los que actúan de manera periférica.** Inciden sobre los estímulos foráneos del reflejo de la tos.
 
 **Los fármacos apropiados deberán tomarse siempre bajo las indicaciones del médico** o, en su defecto, el farmacéutico. Además, es imprescindible leer los prospectos para tomar la dosis adecuada.
 
 En cualquier caso los medicamentos **se administran dependiendo de una serie de factores.** Entre los más habituales se encuentran los siguientes:
 
-· Edad del enfermo.
+✅ Edad del enfermo.
 
-· Tipología de la tos.
+✅ Tipología de la tos.
 
-· Sintomatología asociada.
+✅ Sintomatología asociada.
 
-· Administración de otros tratamientos médicos y farmacológicos.
+✅ Administración de otros tratamientos médicos y farmacológicos.
 
-· Antecedentes médicos: preexistencia de bronquitis, diabetes, cardiopatías, enfermedades crónicas, etc.
+✅ Antecedentes médicos: preexistencia de bronquitis, diabetes, cardiopatías, enfermedades crónicas, etc.
 
 En cualquier caso debe quedar muy claro que las soluciones medicamentosas contra la tos no deben perpetuarse a lo largo del tiempo. **Si los síntomas no remiten en un periodo de tres semanas, habrá que volver al especialista** para que valore la situación.
 
@@ -160,13 +160,13 @@ En cualquier caso debe quedar muy claro que las soluciones medicamentosas contra
 
 Cuestiones como un aire demasiado seco o la aspereza de la garganta pueden hacer que la tos se vea agravada. **Para evitar o mitigar estos agentes se pueden seguir las siguientes indicaciones:**
 
-· **Beber agua.** Se aconseja ingerir al menos un par de litros al día. De esta manera se fomenta la humidificación del tracto respiratorio.
+✅ **Beber agua.** Se aconseja ingerir al menos un par de litros al día. De esta manera se fomenta la humidificación del tracto respiratorio.
 
-· **Mantener la humedad ambiental.** La humedad de las estancias debe rondar el 40%.
+✅ **Mantener la humedad ambiental.** La humedad de las estancias debe rondar el 40%.
 
-· **No inhalar humo.** Rehuir de espacios en los que se concentre el humo producido por el tabaco, que actúa estimulando la tos.
+✅ **No inhalar humo.** Rehuir de espacios en los que se concentre el humo producido por el tabaco, que actúa estimulando la tos.
 
-· **Abandonar el tabaquismo.** El tabaco es una de las causas más habituales de la aparición de la tos. Los fumadores pueden solicitar valoración médica para iniciar [terapias para dejar de fumar](https://zenseiapp.com/salud%20respiratoria/sanidad-financiar%C3%A1-un-segundo-medicamento-para-dejar-de-fumar/).
+✅ **Abandonar el tabaquismo.** El tabaco es una de las causas más habituales de la aparición de la tos. Los fumadores pueden solicitar valoración médica para iniciar [terapias para dejar de fumar](https://zenseiapp.com/salud%20respiratoria/sanidad-financiar%C3%A1-un-segundo-medicamento-para-dejar-de-fumar/).
 
 ### Qué es la tos seca
 
@@ -186,19 +186,19 @@ Aunque pueda parecer un mal menor, lo cierto es que la tos seca puede resultar m
 
 Los síntomas de la tos seca pueden darse por separado o conjuntamente. Pero ¿qué es lo que provoca que padezcamos de tos seca? Normalmente **suele estar relacionada con algún tipo de infección de las vías respiratorias altas.** Por lo general se debe a la acción del virus del resfriado común y puede acabar derivando en una tos productiva. **La sintomatología incluye:**
 
-\- Necesidad incontrolable y permanente de toser.
+✅ Necesidad incontrolable y permanente de toser.
 
-\- Tos que no expele ningún tipo de secreción mucosa.
+✅ Tos que no expele ningún tipo de secreción mucosa.
 
-\- Garganta irritada, con cosquilleo y sequedad.
+✅ Garganta irritada, con cosquilleo y sequedad.
 
-\- Sonido bronco y seco.
+✅ Sonido bronco y seco.
 
-\- Falta de congestión en el pecho.
+✅ Falta de congestión en el pecho.
 
-\- Dificultad para conciliar el sueño.
+✅ Dificultad para conciliar el sueño.
 
-\- Cansancio.
+✅ Cansancio.
 
 Otra causa común que favorece la aparición de la tos seca es el hecho de **someter las vías respiratorias a un irritación repetitiva.** Esto puede producirse al estar sometidos a ambientes perniciosos, como el humo del tabaco, el polvo o agentes contaminantes.
 
@@ -218,19 +218,19 @@ En cualquier de los casos, **antes de tomarlo hay que consultar con el facultati
 
 Estos remedios caseros para aliviar la tos seca y la garganta irritada puedes usarlos en cualquier momento. Sin embargo, durante la noche la tos seca empeora y se agudiza al estar tumbados. A lo largo de estas horas se presenta con mayor persistencia y resulta especialmente molesta. Te proporcionamos **algunos remedios caseros** que te pueden ayudar a mitigar la tos y permitirte un descanso más efectivo.
 
-1\. **Zumo de limón y miel.** Se puede diluir en un vaso de agua templada. Otra alternativa es disolver una cucharadita de miel en un vaso de leche caliente. La miel posee efectos sedantes, es un antitusígeno natural y suaviza las mucosas. El limón, por su parte, es rico en vitamina C, es antiséptico y antibacteriano. El conjunto aliviará la tos seca y la garganta irritada.
+**1. Zumo de limón y miel.** Se puede diluir en un vaso de agua templada. Otra alternativa es disolver una cucharadita de miel en un vaso de leche caliente. La miel posee efectos sedantes, es un antitusígeno natural y suaviza las mucosas. El limón, por su parte, es rico en vitamina C, es antiséptico y antibacteriano. El conjunto aliviará la tos seca y la garganta irritada.
 
-2\. **Gárgaras de agua tibia con sal.** Solo hay que disolver media cucharadita de sal en un vaso de agua templada.
+**2. Gárgaras de agua tibia con sal.** Solo hay que disolver media cucharadita de sal en un vaso de agua templada.
 
-3\. **Chupar caramelos para la tos.** Entre otras cosas aumentará tu producción de saliva.
+**3. Chupar caramelos para la tos.** Entre otras cosas aumentará tu producción de saliva.
 
-4\. **Infusión con miel y pimienta.** La infusión puede ser de cualquier hierba que te guste, incluido el té. Haces la infusión, añades unos granitos de pimienta y un par de cucharaditas de miel. Dejas reposar antes de ingerir. Propiciará la movilización de flemas y suavizará la garganta irritada.
+**4. Infusión con miel y pimienta.** La infusión puede ser de cualquier hierba que te guste, incluido el té. Haces la infusión, añades unos granitos de pimienta y un par de cucharaditas de miel. Dejas reposar antes de ingerir. Propiciará la movilización de flemas y suavizará la garganta irritada.
 
-5\. **Té de tomillo.** Elegimos una infusión de nuestro agrado y le añadimos unas hojitas de tomillo. Tapamos y dejamos reposar. El tomillo es un antitusivo natural y también posee propiedades antiinflamatorias que vendrán muy bien para la garganta.
+**5. Té de tomillo.** Elegimos una infusión de nuestro agrado y le añadimos unas hojitas de tomillo. Tapamos y dejamos reposar. El tomillo es un antitusivo natural y también posee propiedades antiinflamatorias que vendrán muy bien para la garganta.
 
-6\. **Vahos con menta.** Es un excelente remedio para la tos seca y la tos asmática. Toma un recipiente con agua hirviendo y añade unas gotas de esencia de menta o unos cristalitos de mentol. Deja reposar un par de minutos y haz inhalaciones.
+**6. Vahos con menta.** Es un excelente remedio para la tos seca y la tos asmática. Toma un recipiente con agua hirviendo y añade unas gotas de esencia de menta o unos cristalitos de mentol. Deja reposar un par de minutos y haz inhalaciones.
 
-7\. **Té de jengibre.** El jengibre es conocido por sus propiedades antihistamínicas y su capacidad como descongestivo. Añade unas rodajitas de jengibre al agua hirviendo, deja cocer unos minutos y cuélalo en un vaso. Añade una bolsita de tu infusión preferida, deja reposar un cuarto de hora antes de tomarlo.
+**7. Té de jengibre.** El jengibre es conocido por sus propiedades antihistamínicas y su capacidad como descongestivo. Añade unas rodajitas de jengibre al agua hirviendo, deja cocer unos minutos y cuélalo en un vaso. Añade una bolsita de tu infusión preferida, deja reposar un cuarto de hora antes de tomarlo.
 
 **8. Infusión de regaliz.** El regaliz es muy efectivo para aliviar la garganta irritada. Puedes chupar caramelos de regaliz o hervir unos palitos de regaliz durante 20 minutos. Cuela y toma el líquido con miel y limón.
 
