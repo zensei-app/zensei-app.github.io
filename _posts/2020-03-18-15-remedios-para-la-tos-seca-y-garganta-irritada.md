@@ -5,14 +5,14 @@ title: '15 Remedios para la Tos Seca y Garganta Irritada '
 date: 2020-03-18 23:00:00 +0000
 last_modified_at: 2020-03-18 23:00:00 +0000
 author: Ana
-category: dificultad respiratoria
+category: Dificultad respiratoria
 image: "/uploads/Tos seca y garganta irritada.jpg"
 description: Líbrate de la tos seca y la garganta irritada con estos 15 remedios caseros
   que te ayudarán a sentirte aliviado.
 intro: La **tos seca** puede resultar muy molesta y dificultar el descanso nocturno.
   Te explicamos todo sobre la tos y te ofrecemos 15 remedios para aliviar ese síntoma
   y la garganta irritada.
-tags: tos, garganta irritada, remedios tos, tos seca,
+tags: tos garganta-irritada remedios-tos tos-seca
 slug: tos-seca garganta-irritada
 
 ---
