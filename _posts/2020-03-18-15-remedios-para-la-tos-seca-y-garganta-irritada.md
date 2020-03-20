@@ -13,7 +13,7 @@ intro: La **tos seca** puede resultar muy molesta y dificultar el descanso noctu
   Te explicamos todo sobre la tos y te ofrecemos 15 remedios para aliviar ese síntoma
   y la garganta irritada.
 tags: tos garganta-irritada remedios-tos tos-seca
-slug: tos-seca garganta-irritada
+slug: tos seca garganta irritada
 
 ---
 ![Mujer tosiendo](/uploads/Tos seca y garganta irritada.jpg "Tos seca")
