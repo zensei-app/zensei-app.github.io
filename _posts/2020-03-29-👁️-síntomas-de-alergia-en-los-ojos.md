@@ -14,7 +14,7 @@ intro: La **alergia ocular** puede disminuir nuestra calidad de vida. Es importa
   realizar un buen diagnóstico para no confundirla con otras dolencias que presentan
   sintomatologías muy similares. Te contamos todo lo que necesitas saber sobre las
   alergias oculares.
-tags: alergia, alergia ocular, ojos,
+tags: alergia alergia-ocular ojos
 slug: alergia-ojos
 
 ---
@@ -52,13 +52,13 @@ Resulta imprescindible acudir al médico para que examine los ojos. La razón es
 
 Principales diferencias entre ojo seco y alergia ocular:
 
-· **Escozor o picor.** Los pacientes de síndrome de ojo seco experimentan resquemor y escozor en la zona externa del globo ocular. En cambio, la alergia se caracteriza por sensación de picor que, en muchos casos, va acompañada de estornudos.
+✅ **Escozor o picor.** Los pacientes de síndrome de ojo seco experimentan resquemor y escozor en la zona externa del globo ocular. En cambio, la alergia se caracteriza por sensación de picor que, en muchos casos, va acompañada de estornudos.
 
-· **Empeoramiento diurno.** La sequedad se alivia momentáneamente cuando se cierran los ojos. Los aquejados perciben un empeoramiento de la sintomatología durante el día. Esto no ocurre con la alergia.
+✅ **Empeoramiento diurno.** La sequedad se alivia momentáneamente cuando se cierran los ojos. Los aquejados perciben un empeoramiento de la sintomatología durante el día. Esto no ocurre con la alergia.
 
-· **Condiciones ambientales.** Los afectados por el síndrome de ojo seco han de procurar mantenerse alejados de los sitios muy secos y del aire acondicionado. Estos factores contribuyen notablemente al agravamiento de los síntomas. Sin embargo, los pacientes con alergia deben evitar los ambientes exteriores y cerrar puertas y ventanas. De este modo, pueden suavizar el impacto al minimizar el contacto con los alérgenos que afectan a la superficie ocular.
+✅ **Condiciones ambientales.** Los afectados por el síndrome de ojo seco han de procurar mantenerse alejados de los sitios muy secos y del aire acondicionado. Estos factores contribuyen notablemente al agravamiento de los síntomas. Sin embargo, los pacientes con alergia deben evitar los ambientes exteriores y cerrar puertas y ventanas. De este modo, pueden suavizar el impacto al minimizar el contacto con los alérgenos que afectan a la superficie ocular.
 
-· **El factor edad.** El síndrome de ojo seco está estrechamente relacionado con el paso de los años. También depende de cuestiones hormonales que afectan a la producción y calidad de la lágrima. En este último caso, son las mujeres que han pasado la menopausia las más afectadas por la sequedad ocular.
+✅ **El factor edad.** El síndrome de ojo seco está estrechamente relacionado con el paso de los años. También depende de cuestiones hormonales que afectan a la producción y calidad de la lágrima. En este último caso, son las mujeres que han pasado la menopausia las más afectadas por la sequedad ocular.
 
 Más allá de resultar una molestia, **las alergias oculares pueden llegar a ser incapacitantes.** Los síntomas alérgicos suelen ocurrir cuando las personas alérgicas se encuentran en situaciones que los ponen en contacto directo con los alérgenos a los que son sensibles.
 
@@ -72,31 +72,31 @@ Por su parte, las personas que sufren el síndrome de ojo seco suelen sentir los
 
 La alergia ocular puede venir acompañada de numerosos efectos secundarios. Revisamos cuáles son los principales síntomas:
 
-· Dolor de ojos por la alergia.
+✅ Dolor de ojos por la alergia.
 
-· Picor en los ojos.
+✅ Picor en los ojos.
 
-· Lagrimeo.
+✅ Lagrimeo.
 
-· Ardor.
+✅ Ardor.
 
-· Enrojecimiento ocular.
+✅ Enrojecimiento ocular.
 
-· Párpados hinchados y enrojecidos.
+✅ Párpados hinchados y enrojecidos.
 
-· Legaña de color blanquecina y no abundante.
+✅ Legaña de color blanquecina y no abundante.
 
-· Visión borrosa.
+✅ Visión borrosa.
 
-· Fotofobia: sensibilidad a la luz.
+✅ Fotofobia: sensibilidad a la luz.
 
 A veces, una alergia ocular va acompañada de una [rinitis](https://zenseiapp.com/alergia/guia-rinitis-alergica/) alérgica con la siguiente sintomatología:
 
-· Congestión nasal.
+✅ Congestión nasal.
 
-· Estornudos.
+✅ Estornudos.
 
-· Comezón en la nariz.
+✅ Comezón en la nariz.
 
 ## Frecuencia de la alergia en los ojos
 
@@ -130,9 +130,9 @@ Además, algunos alérgenos residen en el interior. Es el caso de la caspa de la
 
 **Las alergias oculares se pueden clasificar como agudas o crónicas:**
 
-\- Se produce una **reacción aguda** con la exposición intermitente a un alérgeno, como suele ser el caso de la conjuntivitis alérgica estacional. En este tipo puede ocurrir solo en el punto más alto de la temporada de polen.
+✅ Se produce una **reacción aguda** con la exposición intermitente a un alérgeno, como suele ser el caso de la conjuntivitis alérgica estacional. En este tipo puede ocurrir solo en el punto más alto de la temporada de polen.
 
-\- **Las reacciones crónicas** ocurren con la exposición persistente a los alérgenos y es más probable que ocurran en la conjuntivitis alérgica perenne.
+✅ **Las reacciones crónicas** ocurren con la exposición persistente a los alérgenos y es más probable que ocurran en la conjuntivitis alérgica perenne.
 
 ### Queratoconjuntivitis vernal
 
@@ -186,12 +186,12 @@ Además, también la alergia **se puede confundir con una condición llamada ble
 
 Los agentes del entorno y ciertos hábitos pueden provocar los síntomas que hemos visto. Para prevenirlos se recomiendan los siguientes consejos:
 
-· **Medidas de higiene del hogar.** Usar aspiradora, utilizar colchones de material sintético, evitar animales de compañía.
+✅ **Medidas de higiene del hogar.** Usar aspiradora, utilizar colchones de material sintético, evitar animales de compañía.
 
-· Es fundamental **evitar frotarse los ojos**, ya que podemos dañarlos y aumentar la duración de la sintomatología.
+✅ Es fundamental **evitar frotarse los ojos**, ya que podemos dañarlos y aumentar la duración de la sintomatología.
 
-· El **uso de gafas** permite evitar que partículas de polvo o polen entre en tus ojos.
+✅ El **uso de gafas** permite evitar que partículas de polvo o polen entre en tus ojos.
 
-· **Lavados oculares con suero,** para limpiar partículas que pudieran estar en contacto con la superficie del ojo.
+✅ **Lavados oculares con suero,** para limpiar partículas que pudieran estar en contacto con la superficie del ojo.
 
 ¿Crees que podrías estar padeciendo una alergia ocular? ¿Sientes los ojos cansados, llorosos o hinchados? Consulta cuanto antes a tu médico y [entra en nuestro blog](https://zenseiapp.com/blog/) para encontrar más información sobre las alergias.
