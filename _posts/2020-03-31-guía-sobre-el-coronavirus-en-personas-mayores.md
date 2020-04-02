@@ -117,3 +117,12 @@ Los pacientes con [asma](https://zenseiapp.com/asma/guia-asma/) tendrán que **s
 Los enfermos de cáncer también corren un mayor riesgo ante el COVID-19. Esta situación se acentúa en el caso de padecer un cáncer que afecte al sistema inmunitario y cuando se está sometido a algún tratamiento para vencer a la enfermedad. Por esta razón, la Asociación Española Contra el Cáncer (AECC) ha elaborado unas **pautas sobre** [coronavirus y cáncer.](https://blog.aecc.es/consejos-coronavirus-pacientes-cancer/?_ga=2.56436713.350466171.1584459611-1174506893.1582891701&_gac=1.41676694.1584459611.EAIaIQobChMI_pu-4-uh6AIVh8jeCh3HFgNlEAAYASAAEgKn_fD_BwE) Además, disponen de un **teléfono Infocáncer (900 100 036) para consultas personalizadas.**
 
 Por último, para paliar todo cuanto sea posible la incidencia del coronavirus en personas mayores, es fundamental que amigos y familiares no se comuniquen con ellos presencialmente, salvo en ocasiones de extrema necesidad. En cualquier caso, **estas personas y los cuidadores que se sientan mal deberán evitar visitar a los mayores.** Este comportamiento deberá extremarse sobre todo si experimentan fiebre, tos o dificultad para respirar.
+
+##### _Referencias:_
+
+* [_HelpAge International_](http://www.helpage.es/noticias/coronavirus-covid19-y-personas-mayores)
+* [_Geriatricarea_](https://www.geriatricarea.com/2020/03/06/ceaps-remite-un-protocolo-a-residencias-y-centros-de-dia-para-saber-como-actuar-y-prevenir-el-contagio-del-coronavirus/)
+* [_Redacción Médica_](https://www.redaccionmedica.com/secciones/sanidad-hoy/coronavirus-sintomas-personas-mayores-tercera-edad-7454)
+* [_iSanidad_](http://isanidad.com/157269/estas-son-las-precauciones-que-deben-tomar-personas-mayores-y-cuidadores-frente-al-coronavirus/)
+* [_Asociación Española Contra el Cáncer_](https://blog.aecc.es/consejos-coronavirus-pacientes-cancer/?_ga=2.56436713.350466171.1584459611-1174506893.1582891701&_gac=1.41676694.1584459611.EAIaIQobChMI_pu-4-uh6AIVh8jeCh3HFgNlEAAYASAAEgKn_fD_BwE)
+* [_Ministerio de Sanidad, Consumo y Bienestar Social. Gobierno de España_](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/home.htm)
