@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: '15 Remedios para la Tos Seca y Garganta Irritada '
 date: 2020-03-18 23:00:00 +0000
-last_modified_at: 2020-03-18 23:00:00 +0000
+last_modified_at: 2020-04-01 22:00:00 +0000
 author: Ana
 category: Dificultad respiratoria
 image: "/uploads/Tos seca y garganta irritada.jpg"
@@ -250,11 +250,11 @@ Estos remedios caseros para aliviar la tos seca y la garganta irritada puedes us
 
 De todos modos, sea cual sea el remedio que estés utilizando, debes consultar con un médico en caso de que los síntomas perduren después de siete días o notes que se intensifica. También si notas fiebre, dolor en el pecho o náuseas. Por último, tendrás que visitar al facultativo para que examine las causas de esa tos secas si sientes dificultades para respirar.
 
-### Ejercicios respiratorios para la tos
+## Ejercicios respiratorios para la tos
 
 Aquí tienes 3 ejercicios respiratorios para aliviar y asistir la tos. Los puedes hacer en casa de forma totalmente autónoma.
 
-#### Ejercicio para aliviar la tos
+### Ejercicio para aliviar la tos
 
 Siéntate en el borde de la cama con el tronco ligeramente inclinado hacia delante.
 
@@ -264,7 +264,7 @@ Presiona sobre la pared abdominal.
 
 Contrae la musculatura de la caja torácica y así reducirás la sensación de dolor.
 
-#### Ejercicios tos asistida (I)
+### Ejercicios tos asistida (I)
 
 Sentado con el cuerpo erguido sobre el borde de una cama o una silla.
 
@@ -276,7 +276,7 @@ Respira por la nariz hinchando el abdomen y retén el aire unos segundos.
 
 Después tose con una ligera inclinación del tronco hacia delante.
 
-#### Ejercicios tos asistida (II)
+### Ejercicios tos asistida (II)
 
 Sentado en una silla o en el borde de la cama, lo más derecho posible.
 
@@ -292,6 +292,6 @@ Aguanta el aire 5 segundos.
 
 Tose dos veces de forma corta y forzada desde el pecho (nunca desde la garganta).
 
-### Conclusiones
+## Conclusiones
 
 La tos es un síntoma muy incómodo, que puede alterar tu vida diaria. Durante la noche, las crisis de tos pueden dificultar el descanso. Los remedios que te hemos recomendado para la tos seca y la garganta irritada te ayudarán a sentir alivio. Si te interesa cuidar aún más de tu tos seca, [**descárgate nuestra app diario de salud respiratoria**](https://zenseiapp.com/).
