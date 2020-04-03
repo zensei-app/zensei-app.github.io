@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: 'Guía sobre el coronavirus en personas mayores '
 date: 2020-03-31 22:00:00 +0000
-last_modified_at: 2020-03-31 22:00:00 +0000
+last_modified_at: 2020-04-02 22:00:00 +0000
 author: Ana
 category: gripe
 image: "/uploads/coronavirus en personas mayores.jpg"
