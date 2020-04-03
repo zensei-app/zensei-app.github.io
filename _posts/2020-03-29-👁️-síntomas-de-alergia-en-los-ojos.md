@@ -5,7 +5,8 @@ title: "\U0001F441️ Síntomas de alergia en los ojos (causas y tratamiento) "
 date: 2020-03-29T22:00:00.000+00:00
 last_modified_at: 2020-03-29T22:00:00.000+00:00
 author: Ana
-category: []
+category:
+- Alergia
 image: "/uploads/alergia ocular.jpg"
 description: "¿Tienes una alergia ocular? Consulta a tu médico. Este tipo de alergia
   puede reducirse a una serie de síntomas molestos o desarrollar problemas muy graves
