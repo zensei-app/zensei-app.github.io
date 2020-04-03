@@ -2,10 +2,10 @@
 layout: post
 toc: true
 title: "\U0001F441️ Síntomas de alergia en los ojos (causas y tratamiento) "
-date: 2020-03-29 22:00:00 +0000
-last_modified_at: 2020-03-29 22:00:00 +0000
+date: 2020-03-29T22:00:00.000+00:00
+last_modified_at: 2020-03-29T22:00:00.000+00:00
 author: Ana
-category: calidad del aire
+category: []
 image: "/uploads/alergia ocular.jpg"
 description: "¿Tienes una alergia ocular? Consulta a tu médico. Este tipo de alergia
   puede reducirse a una serie de síntomas molestos o desarrollar problemas muy graves
@@ -15,7 +15,7 @@ intro: La **alergia ocular** puede disminuir nuestra calidad de vida. Es importa
   sintomatologías muy similares. Te contamos todo lo que necesitas saber sobre las
   alergias oculares.
 tags: alergia alergia-ocular ojos
-slug: alergia-ojos
+slug: alergia ojos
 
 ---
 ![Alergia ojos](/uploads/alergia ocular.jpg "Alergia ocular")
