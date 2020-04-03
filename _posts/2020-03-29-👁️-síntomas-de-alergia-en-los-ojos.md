@@ -15,7 +15,7 @@ intro: La **alergia ocular** puede disminuir nuestra calidad de vida. Es importa
   sintomatologías muy similares. Te contamos todo lo que necesitas saber sobre las
   alergias oculares.
 tags: alergia alergia-ocular ojos
-slug: alergia ojos
+slug: alergia ojos sintomas causas
 
 ---
 ![Alergia ojos](/uploads/alergia ocular.jpg "Alergia ocular")
