@@ -2,10 +2,10 @@
 layout: post
 toc: true
 title: 'Coronavirus y cuarentena: todo lo que necesitas saber. '
-date: 2020-03-15 23:00:00 +0000
-last_modified_at: 2020-03-15 23:00:00 +0000
+date: 2020-03-15T23:00:00.000+00:00
+last_modified_at: 2020-03-15T23:00:00.000+00:00
 author: Cristina
-category: Salud respiratoria
+category: Gripe
 image: "/uploads/Cuarentena.jpg"
 description: 'El Gobierno implanta el estado de alarma en España. Sabemos que estar
   en casa no es fácil, pero es necesario. La seguridad de todos depende de ello. '
