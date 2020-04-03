@@ -3,9 +3,10 @@ layout: post
 toc: true
 title: 'Guía sobre el coronavirus en personas mayores '
 date: 2020-03-31T22:00:00.000+00:00
-last_modified_at: 2020-04-02T22:00:00.000+00:00
+last_modified_at: 2020-04-02 22:00:00 +0000
 author: Ana
-category: []
+category:
+- Gripe
 image: "/uploads/coronavirus en personas mayores.jpg"
 description: El coronavirus en personas mayores preocupa por su virulencia. Te mostramos
   todo lo que necesitas saber para minimizar su incidencia.
