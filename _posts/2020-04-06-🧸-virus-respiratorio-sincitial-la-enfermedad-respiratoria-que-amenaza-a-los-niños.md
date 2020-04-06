@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-title: "\U0001F9F8 Virus Respiratorio Sincitial: la enfermedad respiratoria que amenaza
+title: "\U0001F637 Virus Respiratorio Sincitial: la enfermedad respiratoria que amenaza
   a los niños "
 date: 2020-04-06 08:00:00 +0000
 last_modified_at: 2020-04-06 08:00:00 +0000
 author: Ana
-category: dificultad respiratoria
+category: Salud respiratoria
 image: "/uploads/virus respiratorio sincitial.jpg"
 description: El virus respiratorio sincitial es uno de los patógenos más peligrosos
   para los niños menores de dos años.
@@ -31,13 +31,13 @@ Sin embargo, **el VRS puede ser grave especialmente para bebés y adultos mayore
 
 ### Cuestiones claves
 
-· **El VRS es una enfermedad estacional.** La temporada alta para la infección se extiende desde el inicio del otoño hasta el final de la primavera.
+✅ **El VRS es una enfermedad estacional.** La temporada alta para la infección se extiende desde el inicio del otoño hasta el final de la primavera.
 
-· **Los bebés son un grupo de alto riesgo.** Entre un 5% y un 20% de estos niños afectados requiere hospitalización. Entre el 25% y el 40% desarrollan complicaciones respiratorias como la bronquiolitis o la neumonía.
+✅ **Los bebés son un grupo de alto riesgo.** Entre un 5% y un 20% de estos niños afectados requiere hospitalización. Entre el 25% y el 40% desarrollan complicaciones respiratorias como la bronquiolitis o la neumonía.
 
-· **Riesgo entre la población adulta.** Las personas mayores y los adultos con afecciones crónicas o sistemas inmunes debilitados presentan un elevado riesgo de desarrollar VRS grave.
+✅ **Riesgo entre la población adulta.** Las personas mayores y los adultos con afecciones crónicas o sistemas inmunes debilitados presentan un elevado riesgo de desarrollar VRS grave.
 
-· **Inmunidad.** Al igual que ocurre con la gripe, padecer esta enfermedad estacional no inmuniza contra el patógeno. Las personas pueden infectarse repetidamente a lo largo de su vida.
+✅ **Inmunidad.** Al igual que ocurre con la gripe, padecer esta enfermedad estacional no inmuniza contra el patógeno. Las personas pueden infectarse repetidamente a lo largo de su vida.
 
 ## Qué causa el VRS
 
@@ -55,15 +55,15 @@ Lo cierto es que los espacios abiertos muy frecuentados, como los parques, tambi
 
 En cualquier caso, ya hemos señalado que el virus respiratorio sincitial no afecta solo a los menores. Lo grupos de población que tienen un **mayor riesgo de que el VRS se vuelva grave o potencialmente mortal son:**
 
-· Bebés prematuros.
+✅ Bebés prematuros.
 
-· Niños pequeños nacidos con enfermedad cardíaca o pulmonar congénita.
+✅ Niños pequeños nacidos con enfermedad cardíaca o pulmonar congénita.
 
-· Niños con sistemas inmunes debilitados.
+✅ Niños con sistemas inmunes debilitados.
 
-· Adultos mayores que padecen enfermedades pulmonares o cardíacas, como asma, insuficiencia cardíaca congestiva o [enfermedad pulmonar obstructiva crónica (EPOC).](https://zenseiapp.com/epoc/guia-epoc/)
+✅ Adultos mayores que padecen enfermedades pulmonares o cardíacas, como asma, insuficiencia cardíaca congestiva o [enfermedad pulmonar obstructiva crónica (EPOC).](https://zenseiapp.com/epoc/guia-epoc/)
 
-· Personas con inmunodeficiencia, como receptores de trasplantes de órganos, pacientes con quimioterapia o pacientes con VIH / SIDA.
+✅ Personas con inmunodeficiencia, como receptores de trasplantes de órganos, pacientes con quimioterapia o pacientes con VIH / SIDA.
 
 ## Cuáles son los síntomas del VRS
 
@@ -91,15 +91,15 @@ Los cultivos de sangre y orina pueden ser necesarios cuando los bebés están mu
 
 **Debes llamar a tu médico si tú o tu hijo experimentáis la siguiente sintomatología:**
 
-· Problemas para respirar.
+✅ Problemas para respirar.
 
-· Falta de apetito.
+✅ Falta de apetito.
 
-· Disminución del nivel de actividad.
+✅ Disminución del nivel de actividad.
 
-· Síntomas de resfriado que se vuelven severos.
+✅ Síntomas de resfriado que se vuelven severos.
 
-· Tos superficial que continúa durante todo el día y la noche.
+✅ Tos superficial que continúa durante todo el día y la noche.
 
 ## Cómo se trata el virus respiratorio sincitial
 
@@ -113,11 +113,11 @@ En casos severos, que se dan más comúnmente en bebés menores de 6 meses y en 
 
 Es importante recordar que **el virus respiratorio sincitial es altamente contagioso.** Por lo tanto, hay algunos pasos que debes seguir para evitar su propagación. Los medios de protección más efectivos son algunos de los más simples:
 
-· **Evitar el contacto cercano con personas infectadas.**
+✅ **Evitar el contacto cercano con personas infectadas.**
 
-· **No compartir utensilios,** como vasos, botellas o juguetes que puedan haber sido contaminados con el virus. No olvides que **el virus puede vivir en una superficie durante varias horas.**
+✅ **No compartir utensilios,** como vasos, botellas o juguetes que puedan haber sido contaminados con el virus. No olvides que **el virus puede vivir en una superficie durante varias horas.**
 
-· **Lavarse bien las manos** con agua y jabón después de entrar en contacto con una persona infectada.
+✅ **Lavarse bien las manos** con agua y jabón después de entrar en contacto con una persona infectada.
 
 ## ¿Existe vacuna para el VRS?
 
