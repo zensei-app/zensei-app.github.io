@@ -7,7 +7,7 @@ date: 2020-04-06 08:00:00 +0000
 last_modified_at: 2020-04-06 08:00:00 +0000
 author: Ana
 category: dificultad respiratoria
-image: ''
+image: "/uploads/virus respiratorio sincitial.jpg"
 description: El virus respiratorio sincitial es uno de los patógenos más peligrosos
   para los niños menores de dos años.
 intro: Te contamos todo lo que debes saber sobre el **virus respiratorio sincitial**,
