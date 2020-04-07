@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-redirect_from: 
-  - "/blog/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
-  - "/blog/2018/08/01/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
-title: "\U0001F922 Cómo evitar la falta el aire"
+redirect_from:
+- "/blog/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
+- "/blog/2018/08/01/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
+title: "\U0001F922 Cómo evitar la falta de aire"
 date: 2018-08-01T08:00:00.000+00:00
-last_modified_at: 2020-02-20 10:00:00 +0000
+last_modified_at: 2020-02-20T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: "/img/photo-1531615018523-12556603349f.jpeg"
