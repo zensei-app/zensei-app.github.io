@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F3E0\U0001F4A8 Cómo purificar el aire de casa (salón o dormitorio)"
 date: 2019-05-10T06:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2020-04-08 10:00:00 +0000
 category: Alergia
 author: Ana
 image: "/uploads/IMG_20190516_194030.jpg"
@@ -16,7 +16,8 @@ intro: '"El aire enrarecido que notas en tu habitación está contaminado. <br><
   <br><br>Te explicamos cómo **purificar el aire de casa** para que respires mejor
   y te sientas tranquilo."'
 tags: purificador asma alergia rinitis casa productos
-redirect_from: /blog/purificar-aire-casa-habitacion-dormitorio/
+redirect_from: "/blog/purificar-aire-casa-habitacion-dormitorio/"
+
 ---
 ![](/uploads/IMG_20190516_194030.jpg)
 
@@ -44,25 +45,25 @@ No están todos los que son, pero hemos realizado un pequeño listado con los el
 
 #### Partículas químicas
 
-· **Tricloroetileno.** Se desprende de las tintas de las impresoras, el líquido corrector blanco, pinturas, lacas, barnices, adhesivos y decapantes.
+✅ **Tricloroetileno.** Se desprende de las tintas de las impresoras, el líquido corrector blanco, pinturas, lacas, barnices, adhesivos y decapantes.
 
-· **Formaldehido.** Aparece en bolsas de papel, papel encerado, toallas y servilletas de celulosa, melamina, aglomerado de partículas, madera contrachapada y tejidos sintéticos.
+✅ **Formaldehido.** Aparece en bolsas de papel, papel encerado, toallas y servilletas de celulosa, melamina, aglomerado de partículas, madera contrachapada y tejidos sintéticos.
 
-· **Benceno.** Utilizado para fabricar plásticos, resinas, fibras sintéticas, goma, tintes, detergentes, pesticidas e insecticidas. También aparece en el humo del tabaco, humo de escape de los coches, pegamento, pintura y cera para los muebles.
+✅ **Benceno.** Utilizado para fabricar plásticos, resinas, fibras sintéticas, goma, tintes, detergentes, pesticidas e insecticidas. También aparece en el humo del tabaco, humo de escape de los coches, pegamento, pintura y cera para los muebles.
 
-· **Xileno.** Empleado en la industria de la piel y en la fabricación de pintura y goma. Presente en el papel impreso, en los marcadores de tinta permanente, en los humos de escape y el humo del tabaco.
+✅ **Xileno.** Empleado en la industria de la piel y en la fabricación de pintura y goma. Presente en el papel impreso, en los marcadores de tinta permanente, en los humos de escape y el humo del tabaco.
 
-· **Amoniaco.** Componente de los limpia cristales, abrillantadores del suelo, sales aromáticas y fertilizantes. En la industria maderera se emplea para oscurecer la madera y en la textil para tratar materiales de algodón.
+✅ **Amoniaco.** Componente de los limpia cristales, abrillantadores del suelo, sales aromáticas y fertilizantes. En la industria maderera se emplea para oscurecer la madera y en la textil para tratar materiales de algodón.
 
 #### Otros agentes
 
-· **Polvo**. Son partículas sólidas con diámetros menores a 500 micrómetros. Es decir, partículas de materia muy pequeñas y que respiramos habitualmente. En personas con problemas respiratorios pueden provocar irritabilidad.
+✅ **Polvo**. Son partículas sólidas con diámetros menores a 500 micrómetros. Es decir, partículas de materia muy pequeñas y que respiramos habitualmente. En personas con problemas respiratorios pueden provocar irritabilidad.
 
-· **Ácaros del polvo**. Miden 0,2 y 0,5 mm y son invisibles, pero los hay a millones en las oficinas. Se llaman ácaros del polvo porque se alimentan de él. Pueden estar en suspensión y pasar a nuestras vías respiratorias.
+✅ **Ácaros del polvo**. Miden 0,2 y 0,5 mm y son invisibles, pero los hay a millones en las oficinas. Se llaman ácaros del polvo porque se alimentan de él. Pueden estar en suspensión y pasar a nuestras vías respiratorias.
 
-· **Virus**. Son agentes biológicos compuestos por cadenas de ARN o ADN que se replican en nuestro organismo e infectan a más personas. La gripe, el resfriado común o rotavirus, la bronquiolitis y otros miles de virus campan a sus anchas por las oficinas. Normalmente, suelen entrar en nuestro cuerpo a través de las vías aéreas, es decir, cuando respiramos. Suelen medir entre 20 y 400 nanómetros.
+✅ **Virus**. Son agentes biológicos compuestos por cadenas de ARN o ADN que se replican en nuestro organismo e infectan a más personas. La gripe, el resfriado común o rotavirus, la bronquiolitis y otros miles de virus campan a sus anchas por las oficinas. Normalmente, suelen entrar en nuestro cuerpo a través de las vías aéreas, es decir, cuando respiramos. Suelen medir entre 20 y 400 nanómetros.
 
-· **Pólenes**. Son los granos microscópicos que producen las plantas con semillas. Penetran en las oficinas a través de los flujos de aire o pegados en la ropa de las personas. Quedan suspendidos en el ambiente y se convierten en una pesadilla para los alérgico al polen.
+✅ **Pólenes**. Son los granos microscópicos que producen las plantas con semillas. Penetran en las oficinas a través de los flujos de aire o pegados en la ropa de las personas. Quedan suspendidos en el ambiente y se convierten en una pesadilla para los alérgico al polen.
 
 ## Consecuencias de una mala calidad de aire en casa
 
@@ -70,11 +71,11 @@ Disfrutar de las **mejores condiciones respiratorias en nuestra casa o habitaci�
 
 Este compromiso beneficiará a todos los habitantes del hogar. Gozarán de **mejor estado de salud** y padecerán menos enfermedades comunes. En este sentido, podemos echar un vistazo a algunas de las consecuencias que pueden desprenderse de una mala calidad de aire en casa o cualquier entorno cerrado.
 
-· **Pandemia de gripe**. La oficina o el colegio son los lugares perfectos para que el virus de la gripe se transmita sin límites y en un corto espacio de tiempo. El efecto más inmediato es una pequeña pandemia que afectará a un buen número de personas que acabarán sin salir de casa, contagiando al resto de la familia.
+✅ **Pandemia de gripe**. La oficina o el colegio son los lugares perfectos para que el virus de la gripe se transmita sin límites y en un corto espacio de tiempo. El efecto más inmediato es una pequeña pandemia que afectará a un buen número de personas que acabarán sin salir de casa, contagiando al resto de la familia.
 
-· **Falta de aire debido a polvos, ácaros o pólenes**. La personas con asma serán las más afectadas y recurrentemente no podrán salir de casa. De media pasan 4,5 horas a la semana encerrados en sus habitaciones por este motivo.
+✅ **Falta de aire debido a polvos, ácaros o pólenes**. La personas con asma serán las más afectadas y recurrentemente no podrán salir de casa. De media pasan 4,5 horas a la semana encerrados en sus habitaciones por este motivo.
 
-· **Alergias o reacciones alérgicas a pólenes u otro tipo de compuesto químicos**. Las personas inmunodeficientes presentan sensibilidad a los agentes del exterior, debemos ayudarlos a que el espacio donde vivan sea seguro para ellos.
+✅ **Alergias o reacciones alérgicas a pólenes u otro tipo de compuesto químicos**. Las personas inmunodeficientes presentan sensibilidad a los agentes del exterior, debemos ayudarlos a que el espacio donde vivan sea seguro para ellos.
 
 ## Consejos para purificar el aire de casa
 
@@ -106,23 +107,23 @@ El proceso mediante el que se consiguen estos resultados se denomina fotocatáli
 
 Algunos tipos de plantas resultan tan eficaces a la hora de limpiar el aire que, ciertas especies, han sido recomendadas por la NASA. Echemos un vistazo a algunos de estos vegetales que contribuirán a que respires con más calidad.
 
-· **Potus (_Epipremnum aureum_). Conocida popularmente como “poto”, es una** **planta barata y fácil de conseguir.** Además, destaca por su resistencia y no requiere de muchos cuidados. Estas características la convierten en una opción ideal para para decorar salones, despachos y pasillos.
+✅ **Potus (_Epipremnum aureum_). Conocida popularmente como “poto”, es una** **planta barata y fácil de conseguir.** Además, destaca por su resistencia y no requiere de muchos cuidados. Estas características la convierten en una opción ideal para para decorar salones, despachos y pasillos.
 
 Se adapta fácilmente a temperaturas de entre 17°C y 30°C. Solo hay que regarla cuando la tierra está seca. Es eficaz en la absorción de formaldehído, xileno y benceno.
 
-· **Espatifilo (_Spathiphyllum sp._). También se la conoce como flor de la paz, vela del viento o flor de muerto.** Sobrevive con poca luz y agua. Se desarrollan muy bien en temperaturas superiores a los 18°C, aunque hay que protegerla de las corrientes de aire.
+✅ **Espatifilo (_Spathiphyllum sp._). También se la conoce como flor de la paz, vela del viento o flor de muerto.** Sobrevive con poca luz y agua. Se desarrollan muy bien en temperaturas superiores a los 18°C, aunque hay que protegerla de las corrientes de aire.
 
 **Es una planta muy longeva y es capaz de absorber los contaminantes presentes en el aire, entre ellos el benceno y el amoniaco.**
 
-· **Palmera de bambú o palmera china (_Raphis excelsa_)**. Esta palmera originaria de Asia puede llegar a crecer hasta 3 metros de altura. Ahora se ha puesto muy de moda en espacios de diseño. Es adecuada para eliminar del aire formaldehído, xileno y amoníaco.
+✅ **Palmera de bambú o palmera china (_Raphis excelsa_)**. Esta palmera originaria de Asia puede llegar a crecer hasta 3 metros de altura. Ahora se ha puesto muy de moda en espacios de diseño. Es adecuada para eliminar del aire formaldehído, xileno y amoníaco.
 
-· **Lengua de suegra (_Sansevieria trifasciata_). También se la denomina lengua de tigre, sansevierias y espada de San Jorge.** Es una planta muy habitual en la decoración de interiores. Tiene la ventaja de poder sobrevivir de forma esporádica en condiciones climáticas más extremas, tanto con frío como con calor.
+✅ **Lengua de suegra (_Sansevieria trifasciata_). También se la denomina lengua de tigre, sansevierias y espada de San Jorge.** Es una planta muy habitual en la decoración de interiores. Tiene la ventaja de poder sobrevivir de forma esporádica en condiciones climáticas más extremas, tanto con frío como con calor.
 
 **Esta maceta tan apreciada por los interioristas puede servir de decoración a la vez que purifica el ambiente y elimina sustancias como el benceno, el xileno, el tolueno, el tricloroetileno y el formaldehído.**
 
-· **Árbol del caucho (_Ficus robusta_).** En pocos años puede crecer mucho, así que debes tener en cuenta que es una planta que necesita espacio. Es muy resistente a las enfermedades y muy eficaz a la hora de eliminar formaldehído. A sus capacidades hay que añadir que, como tiene un índice elevado de transpiración, ayuda a mantener la humedad en el ambiente.
+✅ **Árbol del caucho (_Ficus robusta_).** En pocos años puede crecer mucho, así que debes tener en cuenta que es una planta que necesita espacio. Es muy resistente a las enfermedades y muy eficaz a la hora de eliminar formaldehído. A sus capacidades hay que añadir que, como tiene un índice elevado de transpiración, ayuda a mantener la humedad en el ambiente.
 
-· **Ficus Benjamina.** El ficus es una de las plantas más eficaces para mejorar la calidad del aire en espacios interiores. El formaldehído, el tricloroetileno y el benceno son algunos de los tóxicos que absorbe y neutraliza. Pero los alérgicos, sobre todo al látex, deben tener cuidado con ella.
+✅ **Ficus Benjamina.** El ficus es una de las plantas más eficaces para mejorar la calidad del aire en espacios interiores. El formaldehído, el tricloroetileno y el benceno son algunos de los tóxicos que absorbe y neutraliza. Pero los alérgicos, sobre todo al látex, deben tener cuidado con ella.
 
 #### **La pregunta ahora es, ¿cuántas plantas poner para mantener el ambiente limpio?** Puedes seguir una regla que ha demostrado su eficacia. Utiliza una o dos plantas con un tamaño adecuado a las dimensiones de la habitación. Lo habitual es que calcules que la maceta albergue **una planta de medio metro por cada diez metros cuadrados de espacio**.
 
