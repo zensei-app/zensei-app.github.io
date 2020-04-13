@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F3E5Enfisema pulmonar y EPOC (Causas y tratamiento)"
 date: 2019-07-04T22:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2020-04-13 10:00:00 +0000
 category: Epoc
 author: Ana
 image: "/uploads/epoc y pulmones.jpg"
