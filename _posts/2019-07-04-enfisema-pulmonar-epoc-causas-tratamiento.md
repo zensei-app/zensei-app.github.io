@@ -3,16 +3,17 @@ layout: post
 toc: true
 title: "\U0001F3E5Enfisema pulmonar y EPOC (Causas y tratamiento)"
 date: 2019-07-04T22:00:00.000+00:00
-last_modified_at: 2019-08-22 10:00:00 +0000
+last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Epoc
 author: Ana
-image: '/uploads/epoc y pulmones.jpg'
+image: "/uploads/epoc y pulmones.jpg"
 description: 'En este artículo descubrirás todo lo que necesitas saber sobre el EPOC
   y su tratamiento. Causas, estudios y tratamiento. '
 intro: Se conoce como **EPOC** a la enfermedad pulmonar obstructiva crónica. Aunque
   no tiene cura, un **tratamiento** a tiempo puede mejorar la calidad de vida.
 tags: efisema pulmonar tratamiento epoc
-redirect_from: /blog/enfisema-pulmonar-y-epoc-tratamiento/
+redirect_from: "/blog/enfisema-pulmonar-y-epoc-tratamiento/"
+
 ---
 ![](/uploads/epoc y pulmones.jpg)
 
@@ -30,15 +31,15 @@ La bronquitis crónica es una inflamación a largo plazo de los bronquios. Produ
 
 El enfisema es una afección pulmonar crónica en la cual los alvéolos, sacos de aire en los pulmones, se ven degradados de distintas maneras:
 
-· Destruidos
+✅ Destruidos
 
-· Estrechados
+✅ Estrechados
 
-· Colapsados
+✅ Colapsados
 
-· Estirados
+✅ Estirados
 
-· Sobreinflados
+✅ Sobreinflados
 
 Esto puede causar una disminución de la función respiratoria y la disnea. El daño a los sacos de aire es irreversible y provocan como resultado "agujeros" permanentes en el tejido pulmonar.
 
@@ -46,11 +47,11 @@ Esto puede causar una disminución de la función respiratoria y la disnea. El d
 
 El asma es una enfermedad pulmonar inflamatoria crónica que involucra problemas respiratorios recurrentes. Las características del asma son las siguientes:
 
-· El revestimiento de las vías respiratorias se hincha e inflama.
+✅ El revestimiento de las vías respiratorias se hincha e inflama.
 
-· Los músculos que rodean las vías respiratorias se tensan.
+✅ Los músculos que rodean las vías respiratorias se tensan.
 
-· La producción de moco se incrementa provocando taponamiento.
+✅ La producción de moco se incrementa provocando taponamiento.
 
 Dependiendo de cuál ha sido el desencadenante de la patología podemos establecer el tipo de EPOC.
 
@@ -74,45 +75,45 @@ Puedes experimentar malestar en el pecho o tener un exceso de producción de esp
 
 Los primeros síntomas incluyen:
 
-· Dificultad para respirar ocasionalmente, especialmente después del ejercicio.
+✅ Dificultad para respirar ocasionalmente, especialmente después del ejercicio.
 
-· Tos leve pero recurrente.
+✅ Tos leve pero recurrente.
 
-· Necesidad de aclarar la garganta con la frecuencia, especialmente a primera hora de la mañana.
+✅ Necesidad de aclarar la garganta con la frecuencia, especialmente a primera hora de la mañana.
 
 Los síntomas pueden empeorar progresivamente y ser más difíciles de ignorar. A medida que los pulmones se dañan más, puedes experimentar:
 
-· Dificultad para respirar, incluso después de un ejercicio suave, como subir un tramo de escaleras
+✅ Dificultad para respirar, incluso después de un ejercicio suave, como subir un tramo de escaleras
 
-· Sibilancias, que es un tipo de respiración ruidosa
+✅ Sibilancias, que es un tipo de respiración ruidosa
 
-· Opresión en el pecho
+✅ Opresión en el pecho
 
-· Tos crónica, con o sin mucosidad
+✅ Tos crónica, con o sin mucosidad
 
-· Necesidad eliminar la mucosidad de los pulmones
+✅ Necesidad eliminar la mucosidad de los pulmones
 
-· Resfriados frecuentes, gripe u otras infecciones respiratorias
+✅ Resfriados frecuentes, gripe u otras infecciones respiratorias
 
-· Falta de energía
+✅ Falta de energía
 
 En etapas posteriores de la EPOC, los síntomas también pueden incluir:
 
-· Fatiga
+✅ Fatiga
 
-· Hinchazón de tobillos o piernas
+✅ Hinchazón de tobillos o piernas
 
-· Pérdida de peso
+✅ Pérdida de peso
 
 Se necesita atención médica inmediata si:
 
-· Tienes los labios azulados o grises, ya que esto indica niveles bajos de oxígeno en la sangre
+✅ Tienes los labios azulados o grises, ya que esto indica niveles bajos de oxígeno en la sangre
 
-· Tiene problemas para respirar o no puedes hablar
+✅ Tiene problemas para respirar o no puedes hablar
 
-· Te sientes desorientado, confuso o desmayado
+✅ Te sientes desorientado, confuso o desmayado
 
-· Tu corazón está acelerado
+✅ Tu corazón está acelerado
 
 Es probable que los síntomas empeoren si actualmente fumas o si estás sometido regularmente al humo pasivo.
 
@@ -132,25 +133,25 @@ Igualmente puede haber una predisposición genética a desarrollar EPOC. Se ha e
 
 No hay una prueba única para la EPOC. El diagnóstico se basa en los síntomas, un examen físico y los resultados de las pruebas diagnósticas. Cuando visites al médico, asegúrate de contar todos tus síntomas.
 
-· Eres fumador o has fumado en el pasado
+✅ Eres fumador o has fumado en el pasado
 
-· Estás expuesto en el trabajo a sustancias irritantes para los pulmones
+✅ Estás expuesto en el trabajo a sustancias irritantes para los pulmones
 
-· Eres fumador pasivo
+✅ Eres fumador pasivo
 
-· Tienes antecedentes familiares de EPOC
+✅ Tienes antecedentes familiares de EPOC
 
-· Tienes asma u otras afecciones respiratorias
+✅ Tienes asma u otras afecciones respiratorias
 
-· Toma medicamentos
+✅ Toma medicamentos
 
 Durante el examen físico, tu médico usará un estetoscopio para escuchar tus pulmones mientras respiras. Puede ordenar algunas de estas pruebas para obtener una imagen más completa:
 
-· La espirometría es una prueba no invasiva para evaluar la función pulmonar. Durante la prueba, respirarás profundamente y luego soplarás en un tubo conectado al espirómetro.
+✅ La espirometría es una prueba no invasiva para evaluar la función pulmonar. Durante la prueba, respirarás profundamente y luego soplarás en un tubo conectado al espirómetro.
 
-· Las pruebas de imagen incluyen una radiografía de tórax o una tomografía computarizada. Estas imágenes pueden proporcionar una visión detallada de tus pulmones, vasos sanguíneos y corazón.
+✅ Las pruebas de imagen incluyen una radiografía de tórax o una tomografía computarizada. Estas imágenes pueden proporcionar una visión detallada de tus pulmones, vasos sanguíneos y corazón.
 
-· Una prueba de gasometría arterial. Consiste en tomar una muestra de sangre de una arteria para medir el oxígeno en la sangre, el dióxido de carbono y otros niveles importantes.
+✅ Una prueba de gasometría arterial. Consiste en tomar una muestra de sangre de una arteria para medir el oxígeno en la sangre, el dióxido de carbono y otros niveles importantes.
 
 Estas pruebas pueden ayudar a determinar si hay EPOC o una afección diferente, como asma, una enfermedad pulmonar restrictiva o insuficiencia cardíaca.
 
@@ -174,13 +175,13 @@ Otra forma es la cirugía de reducción del volumen pulmonar, que elimina el tej
 
 **Cambios en el estilo de vida**
 
-· Ciertos cambios en el estilo de vida también pueden ayudar a aliviar los síntomas. Si fumas, deja de hacerlo. Tu médico puede recomendarte productos o servicios de apoyo.
+✅ Ciertos cambios en el estilo de vida también pueden ayudar a aliviar los síntomas. Si fumas, deja de hacerlo. Tu médico puede recomendarte productos o servicios de apoyo.
 
-· Siempre que sea posible, evita el humo de y los vapores químicos.
+✅ Siempre que sea posible, evita el humo de y los vapores químicos.
 
-· Obtén la nutrición que tu cuerpo necesita. Trabaja con tu médico o dietista para crear un plan de alimentación saludable.
+✅ Obtén la nutrición que tu cuerpo necesita. Trabaja con tu médico o dietista para crear un plan de alimentación saludable.
 
-· Hable con tu médico acerca de cuánto ejercicio es seguro para ti.
+✅ Hable con tu médico acerca de cuánto ejercicio es seguro para ti.
 
 ### Medicamentos para la EPOC
 
