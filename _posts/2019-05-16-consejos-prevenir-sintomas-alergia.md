@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F63712 Rinitis alérgica: Síntomas y remedios caseros"
+title: "\U0001F637Rinitis alérgica: Síntomas y remedios caseros"
 date: 2019-05-16T22:00:00.000+00:00
-last_modified_at: 2020-02-20 10:00:00 +0000
+last_modified_at: 2020-04-13 09:00:00 +0000
 category: Alergia
 author: Ana
 image: "/uploads/alergia polen.jpg"
@@ -13,7 +13,8 @@ intro: Estamos en plena primavera y miles de personas padecen los **síntomas de
   rinitis alergia** debido al polen. Aquí tienes información útil y algunos consejos
   para controlarlos.
 tags: remedios síntomas rinitis alergia
-redirect_from: /blog/consejos-para-prevenir-los-síntomas-de-la-alergia-en-primavera/
+redirect_from: "/blog/consejos-para-prevenir-los-síntomas-de-la-alergia-en-primavera/"
+
 ---
 España posee una tasa de alrededor de **16 millones de personas alérgicas**. Es decir, más o menos un **33 % de la población** se ve afectada por algún tipo de hipersensibilidad. Más de la mitad ven cómo el desencadenante de su sintomatología va unido a los **pólenes**. Entre abril y mayor se desatan los episodios y las crisis más agudas. Para estos pacientes resulta importante disponer de algunos **consejos para prevenir los síntomas de la rinitis alérgica primaveral o alergia al polen.**
 
@@ -55,17 +56,17 @@ Resulta muy importante para el paciente poder obtener información, en tiempo re
 
 Son muchas las personas que están convencidas de que deben empezar su tratamiento contra la alergia primaveral antes de la llegada de esta estación. Están seguros de que, de este modo, podrán reducir las molestias que la acompañan:
 
-· Tos
+✅ Tos
 
-· Picor de garganta, nariz y paladar
+✅ Picor de garganta, nariz y paladar
 
-· Conjuntivitis, picor de ojos, ojos secos
+✅ Conjuntivitis, picor de ojos, ojos secos
 
-· Congestión nasal y estornudos
+✅ Congestión nasal y estornudos
 
-· Respiración dificultosa
+✅ Respiración dificultosa
 
-· Sibilancias (pitidos)
+✅ Sibilancias (pitidos)
 
 Estas son los síntomas de la alergia más comunes en primavera. Se les conoce con el nombre de **asma polínico y los más afectados son nariz, garganta, ojos y pulmones**.
 
@@ -83,11 +84,11 @@ De todos modos, hay que tener en cuenta una regla general**. Lluvias intensas** 
 
 La búsqueda de un remedio eficaz es una lucha continua para millones de alérgicos. A pesar de los tratamientos, no todos responden de la misma manera. Pero, como norma general, existen **tres opciones para atajar los efectos de la polinosis:**
 
-· Evitar la exposición al alérgeno.
+✅ Evitar la exposición al alérgeno.
 
-· Seguir un tratamiento sintomático.
+✅ Seguir un tratamiento sintomático.
 
-· Someterse a un tratamiento inmunológico.
+✅ Someterse a un tratamiento inmunológico.
 
 Cuando llega la primavera, la mayoría de los alérgicos no se separan de su antihistamínico y su paquete de pañuelos. Sin embargo, es posible mitigar los síntomas de la alergia estacional y procurarles una temporada un poco más llevadera.
 
