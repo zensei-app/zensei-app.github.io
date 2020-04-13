@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F62A Sinusitis: ¿Es bueno tomar antibiótico?"
 date: 2019-06-20T22:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+last_modified_at: 2020-04-13 10:00:00 +0000
 category: Alergia
 author: Ana
 image: "/uploads/Sinusitis.jpg"
@@ -33,31 +33,31 @@ Los síntomas
 
 Los signos y síntomas comunes de la sinusitis crónica incluyen:
 
-· Inflamación nasal
+✅ Inflamación nasal
 
-· Secreción espesa y decolorada por la nariz
+✅ Secreción espesa y decolorada por la nariz
 
-· Drenaje por la parte posterior de la garganta (drenaje posnasal)
+✅ Drenaje por la parte posterior de la garganta (drenaje posnasal)
 
-· Obstrucción o congestión nasal, que causa dificultad para respirar por la nariz
+✅ Obstrucción o congestión nasal, que causa dificultad para respirar por la nariz
 
-· Dolor, sensibilidad e hinchazón alrededor de los ojos, mejillas, nariz o frente
+✅ Dolor, sensibilidad e hinchazón alrededor de los ojos, mejillas, nariz o frente
 
-· Reducción del sentido del olfato y del gusto
+✅ Reducción del sentido del olfato y del gusto
 
 Otros signos y síntomas:
 
-· Dolor de oído
+✅ Dolor de oído
 
-· Dolor en la mandíbula superior y en los dientes.
+✅ Dolor en la mandíbula superior y en los dientes.
 
-· Tos o carraspeo de garganta
+✅ Tos o carraspeo de garganta
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Mal aliento
+✅ Mal aliento
 
-· Fatiga
+✅ Fatiga
 
 La sinusitis crónica y la sinusitis aguda tienen signos y síntomas similares, pero la sinusitis aguda es una infección temporal de los senos, a menudo asociada con un resfriado común. Los signos y síntomas de la sinusitis crónica duran al menos 12 semanas, pero es posible que padecer varios episodios de sinusitis aguda antes de desarrollar una sinusitis crónica. La fiebre no es un signo común de sinusitis crónica, pero sí de una sinusitis aguda.
 
@@ -65,27 +65,27 @@ La sinusitis crónica y la sinusitis aguda tienen signos y síntomas similares, 
 
 Existe una serie de síntomas especiales que hacen necesario que, si aparecen, programes una cita con tu médico.
 
-· Si has tenido sinusitis varias veces y la afección no responde al tratamiento.
+✅ Si has tenido sinusitis varias veces y la afección no responde al tratamiento.
 
-· Tienes síntomas de sinusitis que duran más de 10 días.
+✅ Tienes síntomas de sinusitis que duran más de 10 días.
 
-· Tus síntomas no mejoran con tu tratamiento médico.
+✅ Tus síntomas no mejoran con tu tratamiento médico.
 
 Consulta a un especialista inmediatamente si tienes los siguientes signos o síntomas, que podrían indicar una infección grave:
 
-· Fiebre
+✅ Fiebre
 
-· Hinchazón o enrojecimiento alrededor de los ojos
+✅ Hinchazón o enrojecimiento alrededor de los ojos
 
-· Dolor de cabeza intenso
+✅ Dolor de cabeza intenso
 
-· Hinchazón de la frente
+✅ Hinchazón de la frente
 
-· Confusión
+✅ Confusión
 
-· Doble visión u otros cambios en la vista
+✅ Doble visión u otros cambios en la vista
 
-· Rigidez en el cuello
+✅ Rigidez en el cuello
 
 ## Principales causas de la sinusitis
 
@@ -105,21 +105,21 @@ Entre las causas más comunes de la sinusitis se encuentran los que enumeraremos
 
 Antes de saber si es bueno tomar antibiótico para la sinusitis, continuamos facilitando información relevantes sobre esta afección. Ahora nos toca enumerar cuáles son los factores de riesgo que aumentan la probabilidad de padecer esta dolencia.
 
-· Un tabique desviado
+✅ Un tabique desviado
 
-· Pólipos nasales
+✅ Pólipos nasales
 
-· Asma
+✅ Asma
 
-· Sensibilidad a la aspirina y a su principio activo, el ácido acetilsalicílico
+✅ Sensibilidad a la aspirina y a su principio activo, el ácido acetilsalicílico
 
-· Una infección dental
+✅ Una infección dental
 
-· Un trastorno del sistema inmunológico como el VIH / SIDA o la fibrosis quística
+✅ Un trastorno del sistema inmunológico como el VIH / SIDA o la fibrosis quística
 
-· Fiebre del heno u otra condición alérgica
+✅ Fiebre del heno u otra condición alérgica
 
-· La exposición regular a contaminantes como el humo del cigarrillo
+✅ La exposición regular a contaminantes como el humo del cigarrillo
 
 Por otro lado, no podemos dejar de hacer mención sobre ciertas complicaciones. Aunque se presentan rara vez, se deben tener en consideración, tanto en la sinusitis aguda como en la sinusitis crónica. Las más graves son las que siguen:
 
@@ -141,13 +141,13 @@ Es preciso que, ante los primeros síntomas, el pediatra valore las opciones y a
 
 La prevención, como en casi todas las patologías, puede resultar un buen método para mantener la infección sinusal lo más alejada posible. Veamos algunas acciones que sirven de gran ayuda a la hora de prevenir la sinusitis crónica.
 
-· **Evitar las infecciones respiratorias superiores.** Minimiza el contacto con personas que están resfriadas. Lávate las manos con frecuencia con agua y jabón, especialmente antes de las comidas.
+✅ **Evitar las infecciones respiratorias superiores.** Minimiza el contacto con personas que están resfriadas. Lávate las manos con frecuencia con agua y jabón, especialmente antes de las comidas.
 
-· **Gestiona tus alergias.** Trabaja con tu médico para mantener los síntomas bajo control. Evita la exposición a aquellas cosas a las que eres alérgico todo cuanto te sea posible.
+✅ **Gestiona tus alergias.** Trabaja con tu médico para mantener los síntomas bajo control. Evita la exposición a aquellas cosas a las que eres alérgico todo cuanto te sea posible.
 
-· **Evita el humo del tabaco y el aire contaminado.** El humo de los cigarrillos y los contaminantes del aire pueden irritar e inflamar los pulmones y las fosas nasales.
+✅ **Evita el humo del tabaco y el aire contaminado.** El humo de los cigarrillos y los contaminantes del aire pueden irritar e inflamar los pulmones y las fosas nasales.
 
-· **Usa un humidificador.** Si el aire de tu hogar está muy seco o usas sistemas de calefacción, que también resecan tu entorno, debes tomar medidas. Aumenta el nivel de humedad y te ayudará a prevenir la sinusitis. Asegúrate de mantener el humidificador limpio y libre de moho con una limpieza regular y completa.
+✅ **Usa un humidificador.** Si el aire de tu hogar está muy seco o usas sistemas de calefacción, que también resecan tu entorno, debes tomar medidas. Aumenta el nivel de humedad y te ayudará a prevenir la sinusitis. Asegúrate de mantener el humidificador limpio y libre de moho con una limpieza regular y completa.
 
 ## Diagnósticos y tratamientos para superar la sinusitis
 
@@ -157,27 +157,27 @@ Lo primero que hará será tocar la cara y la nariz, con ello busca signos que m
 
 Sin embargo, para casos más complejos, el médico cuenta con una serie de elementos con los que apoyarse para poder emitir un juicio clínico bien fundamentado y determinar con toda certeza si se encuentra ante un caso de sinusitis.
 
-· **Pruebas de imagen.** Las imágenes tomadas con Tomografía Computerizada o Resonancia Magnética pueden mostrar detalles de los senos nasales y de la nariz en general. De esta manera se pueden advertir circunstancias como una inflamación profunda u obstrucción física que es difícil de detectar con un endoscopio.
+✅ **Pruebas de imagen.** Las imágenes tomadas con Tomografía Computerizada o Resonancia Magnética pueden mostrar detalles de los senos nasales y de la nariz en general. De esta manera se pueden advertir circunstancias como una inflamación profunda u obstrucción física que es difícil de detectar con un endoscopio.
 
-· **Endoscopia nasal.** Un tubo delgado y flexible, de fibra óptica y con una luz, es insertado a través de la nariz. Esto le permite a tu médico ver el interior de tus senos paranasales.
+✅ **Endoscopia nasal.** Un tubo delgado y flexible, de fibra óptica y con una luz, es insertado a través de la nariz. Esto le permite a tu médico ver el interior de tus senos paranasales.
 
-· **Una prueba de alergia.** Si tu médico sospecha que las alergias pueden desencadenar tu sinusitis crónica, puede recomendar una prueba cutánea de alergia. Una prueba cutánea es segura y rápida y puede ayudar a detectar qué alérgeno es responsable de tus brotes nasales.
+✅ **Una prueba de alergia.** Si tu médico sospecha que las alergias pueden desencadenar tu sinusitis crónica, puede recomendar una prueba cutánea de alergia. Una prueba cutánea es segura y rápida y puede ayudar a detectar qué alérgeno es responsable de tus brotes nasales.
 
-· **Muestras de tu secreción nasal y sinusal.** Los cultivos son generalmente innecesarios para diagnosticar la sinusitis crónica. Sin embargo, cuando la afección no responde al tratamiento o empeora, tu médico puede tomar una muestra del interior de la nariz. Esta prueba podría determinar que los causantes son hongos o bacterias.
+✅ **Muestras de tu secreción nasal y sinusal.** Los cultivos son generalmente innecesarios para diagnosticar la sinusitis crónica. Sin embargo, cuando la afección no responde al tratamiento o empeora, tu médico puede tomar una muestra del interior de la nariz. Esta prueba podría determinar que los causantes son hongos o bacterias.
 
 Una vez que se haya dictaminado que la afección es la que se sospechaba, se tendrá que actuar con un tratamiento para la sinusitis.
 
-· **Corticosteroides nasales.** Estos aerosoles nasales ayudan a prevenir y tratar la inflamación. Los más empleados son fluticasona, triamcinolona, ​​budesonida, mometasona y beclometasona. Si los aerosoles no son lo suficientemente efectivos, tu médico podría recomendar enjuagarte con una solución salina mezclada con gotas de budesonida o usar una solución aplicada a través de vaporizadores.
+✅ **Corticosteroides nasales.** Estos aerosoles nasales ayudan a prevenir y tratar la inflamación. Los más empleados son fluticasona, triamcinolona, ​​budesonida, mometasona y beclometasona. Si los aerosoles no son lo suficientemente efectivos, tu médico podría recomendar enjuagarte con una solución salina mezclada con gotas de budesonida o usar una solución aplicada a través de vaporizadores.
 
-· **La irrigación nasal salina.** Se lleva a cabo con aerosoles o soluciones nasales, reduce el drenaje y elimina los agentes irritantes y las alergias.
+✅ **La irrigación nasal salina.** Se lleva a cabo con aerosoles o soluciones nasales, reduce el drenaje y elimina los agentes irritantes y las alergias.
 
-· **Corticosteroides orales o inyectados.** Estos medicamentos se usan para aliviar la inflamación de la sinusitis grave, especialmente si también tienes pólipos nasales. Los corticosteroides orales pueden causar efectos secundarios graves cuando se usan a largo plazo, por lo que se utilizan solo para tratar síntomas graves.
+✅ **Corticosteroides orales o inyectados.** Estos medicamentos se usan para aliviar la inflamación de la sinusitis grave, especialmente si también tienes pólipos nasales. Los corticosteroides orales pueden causar efectos secundarios graves cuando se usan a largo plazo, por lo que se utilizan solo para tratar síntomas graves.
 
-· **Tratamiento de desensibilización a la aspirina.** Si tienes reacciones a la aspirina que causan la sinusitis, se emplea otro método. Bajo supervisión médica, gradualmente se te administran dosis cada vez más altas de aspirina para aumentar tu tolerancia.
+✅ **Tratamiento de desensibilización a la aspirina.** Si tienes reacciones a la aspirina que causan la sinusitis, se emplea otro método. Bajo supervisión médica, gradualmente se te administran dosis cada vez más altas de aspirina para aumentar tu tolerancia.
 
-· **Inmunoterapia.** Si es un proceso alérgico el que contribuye a tu sinusitis, las inyecciones para alergias (inmunoterapia), ayudan a reducir la reacción del cuerpo a alérgenos específicos y podrían mejorar tu estado.
+✅ **Inmunoterapia.** Si es un proceso alérgico el que contribuye a tu sinusitis, las inyecciones para alergias (inmunoterapia), ayudan a reducir la reacción del cuerpo a alérgenos específicos y podrían mejorar tu estado.
 
-· **Cirugía endoscópica de senos nasales.** En casos resistentes al tratamiento o medicación, la cirugía endoscópica de senos nasales podría ser una opción. Para este procedimiento, el médico usa un endoscopio para explorar tus pasajes sinusales. Dependiendo de la fuente de la obstrucción, el médico puede utilizar varios instrumentos para extirpar el tejido o rasurar un pólipo que esté causando una obstrucción nasal. La ampliación de una abertura sinusal estrecha también puede ser una opción para promover el drenaje.
+✅ **Cirugía endoscópica de senos nasales.** En casos resistentes al tratamiento o medicación, la cirugía endoscópica de senos nasales podría ser una opción. Para este procedimiento, el médico usa un endoscopio para explorar tus pasajes sinusales. Dependiendo de la fuente de la obstrucción, el médico puede utilizar varios instrumentos para extirpar el tejido o rasurar un pólipo que esté causando una obstrucción nasal. La ampliación de una abertura sinusal estrecha también puede ser una opción para promover el drenaje.
 
 ### Antibióticos para sinusitis
 
