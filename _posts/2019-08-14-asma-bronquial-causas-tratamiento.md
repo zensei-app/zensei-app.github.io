@@ -23,7 +23,7 @@ Las consecuencias más inmediatas incluyen **tos persistente, respiración corta
 
 El asma bronquial puede afectar cualquier edad o género y está muy ligada a **factores ambientales y hereditarios.** Cuando se ignora, la enfermedad resulta muy virulenta y puede llegar a conducir a un desenlace fatal. Esta es la razón por la que es preciso ser consciente de la trascendencia que tiene el hecho de seguir los consejos médicos.
 
-H2Asma bronquial síntomas
+## Asma bronquial síntomas
 
 Las alergias están fuertemente relacionadas con el asma y otras enfermedades respiratorias como la [sinusitis](https://zenseiapp.com/blog/es-bueno-tomar-antibiótico-para-la-sinusitis/) crónica, las infecciones del oído medio y los pólipos nasales. Lo más interesante es lo que mostró un análisis reciente de personas con asma.
 
