@@ -51,7 +51,7 @@ En ciertos casos, incluso el **estrés mental o emocional** puede ser un desenca
 
 ![](/uploads/Inhalador.jpeg)
 
-### Desencadenantes de una crisis asmática
+## Desencadenantes de una crisis asmática
 
 Según una reciente investigación, aproximadamente 358 millones de personas en todo el mundo sufren de asma bronquial. Los síntomas del asma bronquial incluyen sibilancias, tos, opresión en el pecho y dificultad para respirar. El asmático puede experimentar un inicio repentino de estos síntomas durante la noche. Los **factores que desencadenan una reacción** de asma son:
 
@@ -79,11 +79,11 @@ Según una reciente investigación, aproximadamente 358 millones de personas en 
 
 El desarrollo del asma bronquial es un proceso multicausal, provocado por factores exógenos (factores ambientales) y también por disposiciones genéticas. Además, el curso de la enfermedad puede verse influenciado por cambios climáticos y factores mentales.
 
-### Fisiopatología
+## Fisiopatología
 
 La disposición genética y la nota exógena desencadenan tres procesos fisiopatológicos que **caracterizan el asma bronquial:**
 
-**1. Inflamación de los bronquios**
+### **1. Inflamación de los bronquios**
 
 Los alérgenos o las infecciones provocan una reacción infecciosa de la membrana mucosa bronquial. En el asma alérgica se produce una reacción inducida por IgE del tipo inmediato tras la inhalación del alérgeno.
 
@@ -91,15 +91,15 @@ Los mastocitos en la membrana mucosa se desgranulan y, por lo tanto, liberan med
 
 Como regla general, el alergeno desencadenante solo se puede identificar en la etapa temprana de la enfermedad. A lo largo de los años, la gama de alérgenos a menudo se amplía. Esto hace que resulte más difícil, o incluso imposible para el paciente, evitar los alérgenos.
 
-**2. Hiperreactividad bronquial**
+### **2. Hiperreactividad bronquial**
 
 Se puede detectar una hiperreactividad bronquial inespecífica en casi todos los asmáticos. En caso de inhalación de irritantes, la hiperreactividad se manifiesta como una constricción muy fuerte de los bronquios. Puede objetivarse mediante la prueba de metacolina.
 
-**3. Obstrucción endobronquial**
+### **3. Obstrucción endobronquial**
 
 La obstrucción endobronquial es casi el primer "producto final" clínicamente discernible de los procesos fisiopatológicos del asma bronquial. Se desarrolla como consecuencia del edema de la mucosa, el aumento de la secreción de moco (discrinismo) y los broncoespasmos.
 
-### Asma bronquial tratamiento
+## Asma bronquial tratamiento
 
 El tratamiento para el asma bronquial depende de los síntomas que muestre el asmático. Es por eso por lo que es importante consultar a un **alergólogo / inmunólogo** adecuado para un mejor diagnóstico y resultados. Es aconsejable que el asmático evite los alérgenos y alivie las vías respiratorias utilizando un inhalador para obtener resultados más rápidos y seguros.
 
