@@ -2,18 +2,19 @@
 layout: post
 toc: true
 title: "⚕️\U0001F637 Todo sobre las enfermedades pulmonares ocupacionales "
-date: 2019-09-29 22:00:00 +0000
-last_modified_at: 2019-09-29 22:00:00 +0000
+date: 2019-09-29T22:00:00.000+00:00
+last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: /uploads/enfermedades pulmonares ocupaciones.jpg
+image: "/uploads/enfermedades pulmonares ocupaciones.jpg"
 description: Las enfermedades pulmonares ocupacionales son aquellas derivadas de la
   inhalación de partículas tóxicas en suspensión relacionadas con el medio laboral.
 intro: La prevención y la protección adecuada son las mejores armas para poder afrontar
   las graves consecuencias que pueden derivarse de las **enfermedades pulmonares ocupacionales**.
   Te lo contamos todo sobre ello.
 tags: enfermedades pulmonares ocupacionales
-redirect_from: /enfermedades%20pulmonares/todo-sobre-las-enfermedades-pulmonares-ocupacionales/
+redirect_from: "/enfermedades%20pulmonares/todo-sobre-las-enfermedades-pulmonares-ocupacionales/"
+
 ---
 ![](/uploads/enfermedades pulmonares ocupaciones.jpg)
 
@@ -85,15 +86,15 @@ Determinados tipos de trabajo lo ponen en mayor riesgo de enfermedades pulmonare
 
 A continuación, se enumeran los síntomas más comunes de las enfermedades pulmonares. Sin embargo, cada persona puede experimentar los síntomas de una forma diferente. Pero la sintomatología más habitual puede incluir las siguientes manifestaciones:
 
-· Toser
+✅ Toser
 
-· Dificultad para respirar que a menudo empeora con la actividad
+✅ Dificultad para respirar que a menudo empeora con la actividad
 
-· Dolor en el pecho
+✅ Dolor en el pecho
 
-· Opresión en el pecho
+✅ Opresión en el pecho
 
-· Patrones de respiración anormales
+✅ Patrones de respiración anormales
 
 Los síntomas de enfermedades pulmonares ocupacionales pueden parecerse a los de otras afecciones u otros problemas de salud.
 
@@ -135,13 +136,13 @@ Las tomografías computarizadas muestran más detalles que las radiografías com
 
 **No existe ninguna cura para la mayoría de las enfermedades pulmonares ocupacionales**. Los tratamientos están dirigidos a:
 
-· La prevención de la exposición adicional
+✅ La prevención de la exposición adicional
 
-· La prevención de mayor cicatrización pulmonar
+✅ La prevención de mayor cicatrización pulmonar
 
-· Control de los síntomas
+✅ Control de los síntomas
 
-· Ayudarte a mantenerte activo y saludable
+✅ Ayudarte a mantenerte activo y saludable
 
 El tratamiento depende del tipo de enfermedad pulmonar. No hay manera de corregir la cicatrización pulmonar que ya ha sucedido.
 
@@ -149,15 +150,15 @@ El tratamiento depende del tipo de enfermedad pulmonar. No hay manera de corregi
 
 Las enfermedades pulmonares ocupacionales se pueden prevenir. La mejor prevención es evitar las sustancias inhaladas que causan problemas en los pulmones. Pero también existen otras medidas preventivas.
 
-· **No fumar.** Fumar puede aumentar el riesgo de enfermedad pulmonar ocupacional.
+✅ **No fumar.** Fumar puede aumentar el riesgo de enfermedad pulmonar ocupacional.
 
-· **Usa dispositivos de protección adecuados**, tales como mascarillas o respiradores, cuando te encuentres rodeado de irritantes en suspensión y polvo.
+✅ **Usa dispositivos de protección adecuados**, tales como mascarillas o respiradores, cuando te encuentres rodeado de irritantes en suspensión y polvo.
 
-· Realízate una **evaluación de tu función pulmonar** con espirometría tan a menudo como lo indique tu médico. Esto te ayudará a familiarizarte con tu función pulmonar y ver los cambios.
+✅ Realízate una **evaluación de tu función pulmonar** con espirometría tan a menudo como lo indique tu médico. Esto te ayudará a familiarizarte con tu función pulmonar y ver los cambios.
 
-· Comprende los riesgos de enfermedades pulmonares en el trabajo y **usa protección** para reducir su incidencia.
+✅ Comprende los riesgos de enfermedades pulmonares en el trabajo y **usa protección** para reducir su incidencia.
 
-· Acude a un **experto en salud ocupacional** para investigar tu entorno de trabajo a fin de determinar los riesgos de enfermedades pulmonares ocupacionales.
+✅ Acude a un **experto en salud ocupacional** para investigar tu entorno de trabajo a fin de determinar los riesgos de enfermedades pulmonares ocupacionales.
 
 ## Puntos clave sobre las enfermedades pulmonares ocupacionales
 
