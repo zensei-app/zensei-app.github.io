@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F927 Vacuna contra la gripe 2019 – 2020"
-date: 2019-09-24 22:00:00 +0000
-last_modified_at: 2019-09-24 22:00:00 +0000
+date: 2019-09-24T22:00:00.000+00:00
+last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Gripe
 image: "/uploads/Campaña vacunación gripe 2019.jpg"
@@ -14,7 +14,8 @@ intro: "¿Sabes cuándo comienza la **campaña de vacuna contra la gripe para la
   2019-2020**? Te contamos cómo esta solución es la más acertada para mantenerse alejado
   de la enfermedad."
 tags: gripe vacunas vacunación
-redirect_from: /gripe/vacuna-contra-la-gripe-2019-2020/
+redirect_from: "/gripe/vacuna-contra-la-gripe-2019-2020/"
+
 ---
 ![](/uploads/Vacuna gripe.jpg)
 
@@ -32,27 +33,27 @@ Si deseas ampliar tus conocimientos sobre esta enfermedad, te aconsejamos que le
 
 Por lo general, el virus de la gripe hace que la enfermedad evolucione de una manera muy parecida a como lo hace cualquier [resfriado con fiebre](https://www.kernpharma.com/es/blog/gripe-o-resfriado-diferencias-y-como-tratarlos), tan típicos de la época invernal. Habitualmente el estado febril, que suele remitir en pocos días, va acompañado por una serie de **síntomas.** El paciente puede manifestar algunos de ellos o, incluso, experimentar todo el cuadro clínico.
 
-· Vómitos
+✅ Vómitos
 
-· Tos
+✅ Tos
 
-· Ronquera
+✅ Ronquera
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Nariz taponada
+✅ Nariz taponada
 
-· Moqueo
+✅ Moqueo
 
-· Agotamiento
+✅ Agotamiento
 
-· Sibilancias
+✅ Sibilancias
 
-· Dolor muscular y articular
+✅ Dolor muscular y articular
 
-· Diarrea
+✅ Diarrea
 
-· Dificultad para respirar
+✅ Dificultad para respirar
 
 Esta sintomatología puede extenderse **de una a dos semanas**. No obstante, ya hemos dicho que el cuadro de fiebre puede ceder en unas pocas jornadas. Pero hay que tener mucho cuidado con los pacientes de riesgo para que la gripe **no derive en una neumonía** o cualquier otra complicación mucho más grave.
 
