@@ -2,17 +2,18 @@
 layout: post
 toc: true
 title: "\U0001F928 Qué es el asma bronquial"
-date: 2019-08-14 22:00:00 +0000
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+date: 2019-08-14T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: '/uploads/Asma bronquial.jpeg'
+image: "/uploads/Asma bronquial.jpeg"
 description: El asma bronquial es una enfermedad que provoca la inflamación de las
   vías respiratorias. ¿Sabes cómo hacerle frente?
 intro: La vida de un asmático no tiene por qué detenerse. Lo más importante es tener
   diagnosticada el **asma bronquial** y seguir los consejos médicos.
 tags: asma bronquial tratamiento
-redirect_from: '/blog/qué-es-el-asma-bronquial/'
+redirect_from: "/blog/qué-es-el-asma-bronquial/"
+
 ---
 ![](/uploads/Asma bronquial.jpeg)
 
@@ -30,15 +31,15 @@ Aquellos pacientes que se veían afectados, tanto por alergias como por asma, te
 
 Los síntomas del asma bronquial pueden variar de un individuo a otro y dependen de factores ambientales. Una persona puede mostrar un sintomatología regular de la enfermedad o síntomas periódicos que pueden aparecer en un momento determinado. Los **signos más comunes de asma** que pueden ayudar a diagnosticar la enfermedad son:
 
-· Falta de aliento o respiración corta mientras habla, ríe o corre.
+✅ Falta de aliento o respiración corta mientras habla, ríe o corre.
 
-· Dolor u opresión en el pecho.
+✅ Dolor u opresión en el pecho.
 
-· Apnea del sueño o problemas al dormir causados ​​por la disnea.
+✅ Apnea del sueño o problemas al dormir causados ​​por la disnea.
 
-· Tos o sibilancias.
+✅ Tos o sibilancias.
 
-· Resfriado y gripe por infección viral.
+✅ Resfriado y gripe por infección viral.
 
 ## Asma bronquial causas
 
@@ -54,27 +55,27 @@ En ciertos casos, incluso el **estrés mental o emocional** puede ser un desenca
 
 Según una reciente investigación, aproximadamente 358 millones de personas en todo el mundo sufren de asma bronquial. Los síntomas del asma bronquial incluyen sibilancias, tos, opresión en el pecho y dificultad para respirar. El asmático puede experimentar un inicio repentino de estos síntomas durante la noche. Los **factores que desencadenan una reacción** de asma son:
 
-· Exposición a sustancias como polen, polvo, piel de animales, arena y bacterias, etc.
+✅ Exposición a sustancias como polen, polvo, piel de animales, arena y bacterias, etc.
 
-· Infección viral como resfriado, gripe o neumonía.
+✅ Infección viral como resfriado, gripe o neumonía.
 
-· Contaminación del aire, humo de tabaco, humos de vehículos, polución, etc.
+✅ Contaminación del aire, humo de tabaco, humos de vehículos, polución, etc.
 
-· Estrés y ansiedad.
+✅ Estrés y ansiedad.
 
-· La actividad física o el ejercicio físico.
+✅ La actividad física o el ejercicio físico.
 
-· Medicamentos como aspirina, ibuprofeno, betabloqueantes, etc.
+✅ Medicamentos como aspirina, ibuprofeno, betabloqueantes, etc.
 
-· Enfermedad por reflujo ácido o reflujo gastroesofágico.
+✅ Enfermedad por reflujo ácido o reflujo gastroesofágico.
 
-· Perfumes y fragancias.
+✅ Perfumes y fragancias.
 
-· Clima, especialmente cambios extremos de temperatura.
+✅ Clima, especialmente cambios extremos de temperatura.
 
-· Aditivos alimentarios.
+✅ Aditivos alimentarios.
 
-· Obesidad.
+✅ Obesidad.
 
 El desarrollo del asma bronquial es un proceso multicausal, provocado por factores exógenos (factores ambientales) y también por disposiciones genéticas. Además, el curso de la enfermedad puede verse influenciado por cambios climáticos y factores mentales.
 
