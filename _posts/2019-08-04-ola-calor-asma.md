@@ -2,11 +2,11 @@
 layout: post
 toc: true
 title: "☀️ Ola de calor y enfermedades respiratorias"
-date: 2019-08-04 22:00:00 +0000
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+date: 2019-08-04T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: '/uploads/Ola de calor.jpg'
+image: "/uploads/Ola de calor.jpg"
 description: Ola de calor y enfermedades respiratorias son factores estrechamente
   ligados. El verano hace necesario extremar las precauciones.
 intro: Las personas con **enfermedades respiratorias y otras afecciones crónicas**,
@@ -14,7 +14,8 @@ intro: Las personas con **enfermedades respiratorias y otras afecciones crónica
   están más expuestos a sufrir los efectos de una **ola de calor**. Aprende a distinguir
   las señales de aviso.
 tags: calor enfermedades
-redirect_from: '/blog/ola-de-calor-y-enfermedades-respiratorias/'
+redirect_from: "/blog/ola-de-calor-y-enfermedades-respiratorias/"
+
 ---
 ![](/uploads/Ola de calor.jpg)
 
@@ -56,55 +57,55 @@ Es importante saber que esta circunstancia puede afectar a cualquier persona que
 
 Resulta de vital importancia comprobar si hay **signos de agotamiento por calor**. Se trata de una serie de señales que nos pueden alertar:
 
-· dolor de cabeza
+✅ Dolor de cabeza
 
-· mareos y confusión
+✅ Mareos y confusión
 
-· pérdida de apetito y malestar
+✅ Pérdida de apetito y malestar
 
-· sudoración excesiva y piel pálida y húmeda
+✅ Sudoración excesiva y piel pálida y húmeda
 
-· calambres en los brazos, piernas y estómago
+✅ Calambres en los brazos, piernas y estómago
 
-· respiración rápida o pulso disparado
+✅ Respiración rápida o pulso disparado
 
-· temperatura de 38°C o más
+✅ Temperatura de 38°C o más
 
-· tener mucha sed
+✅ Tener mucha sed
 
 Los síntomas son a menudo los mismos en adultos y niños, aunque los niños pueden volverse flojos y somnolientos. Si alguien muestra signos de agotamiento por calor, **hay que tratar de bajar su temperatura corporal lo antes posible.**
 
-· Trasladarlo a un lugar fresco
+✅ Trasladarlo a un lugar fresco
 
-· Hacer que se acueste y levante un poco los pies
+✅ Hacer que se acueste y levante un poco los pies
 
-· Procurar que tome mucha agua. Las bebidas deportivas o de rehidratación están bien.
+✅ Procurar que tome mucha agua. Las bebidas deportivas o de rehidratación están bien.
 
-· Refrescar su piel: rocía o esponja con agua fría. Las compresas frías alrededor de las axilas o el cuello también son buenas.
+✅ Refrescar su piel: rocía o esponja con agua fría. Las compresas frías alrededor de las axilas o el cuello también son buenas.
 
-· Quédate con el afectado hasta que se encuentre mejor.
+✅ Quédate con el afectado hasta que se encuentre mejor.
 
-· Comprobar que la temperatura vuelve a niveles normales antes de 30 minutos.
+✅ Comprobar que la temperatura vuelve a niveles normales antes de 30 minutos.
 
 Se requiere acción inmediata y hay que avisar a los **servicios de urgencias:**
 
-· no mejora después de 30 minutos
+✅ No mejora después de 30 minutos
 
-· se siente caliente y seco
+✅ Se siente caliente y seco
 
-· no está sudando aunque esté demasiado caliente
+✅ No está sudando aunque esté demasiado caliente
 
-· tiene una temperatura que ha aumentado a 40 °C o más
+✅ Tiene una temperatura que ha aumentado a 40 °C o más
 
-· tiene dificultad para respirar o la respiración se vuelve muy rápida
+✅ Tiene dificultad para respirar o la respiración se vuelve muy rápida
 
-· está confuso
+✅ Está confuso
 
-· sufre espasmos
+✅ Sufre espasmos
 
-· pierde el conocimiento
+✅ Pierde el conocimiento
 
-· no responde
+✅ No responde
 
 ### Cómo prevenir el agotamiento por calor y el golpe de calor
 
@@ -112,19 +113,19 @@ Existe un alto riesgo de agotamiento por calor o insolación durante las olas de
 
 Para ayudar a prevenir el agotamiento por calor o el golpe de calor:
 
-· beber muchas bebidas frías, especialmente cuando hace ejercicio
+✅ Beber muchas bebidas frías, especialmente cuando hace ejercicio
 
-· tomar baños fríos o duchas
+✅ Tomar baños fríos o duchas
 
-· usar ropa suelta de colores claros
+✅ Usar ropa suelta de colores claros
 
-· rociar agua sobre la piel o la ropa
+✅ Rociar agua sobre la piel o la ropa
 
-· evitar el sol entre las 11 a.m. y las 5 p.m.
+✅ Evitar el sol entre las 11 a.m. y las 5 p.m.
 
-· evitar el exceso de alcohol
+✅ Evitar el exceso de alcohol
 
-· evitar el ejercicio extremo
+✅ Evitar el ejercicio extremo
 
 Hay que tener en cuenta algunos signos para evitar la deshidratación. Se debe extremar la vigilancia a los niños, los ancianos y las personas con problemas crónicos de salud: diabetes, cardiopatías, enfermedades respiratorias… Este grupo de población tiene **más riesgo de agotamiento por calor o insolación.**
 
@@ -132,24 +133,24 @@ Cuando las temperaturas aumentan, es importante saber cómo **prevenir las enfer
 
 Las siguientes estrategias pueden ayudar:
 
-· permanecer en el interior durante la parte más calurosa del día
+✅ Permanecer en el interior durante la parte más calurosa del día
 
-· buscar las zonas de sombra cuando se está al aire libre
+✅ Buscar las zonas de sombra cuando se está al aire libre
 
-· beber de 2 a 4 vasos de agua adicionales cada hora mientras se permanece expuesto a altas temperaturas
+✅ Beber de 2 a 4 vasos de agua adicionales cada hora mientras se permanece expuesto a altas temperaturas
 
-· tomar descansos frecuentes al trabajar o hacer ejercicio al aire libre en días calurosos
+✅ Tomar descansos frecuentes al trabajar o hacer ejercicio al aire libre en días calurosos
 
-· usar ropa suelta y de colores claros
+✅ Usar ropa suelta y de colores claros
 
-· usar agua más fría para duchas y baños
+✅ Usar agua más fría para duchas y baños
 
-· utilizar sombreros y gorras para proteger la cabeza del sol
+✅ Utilizar sombreros y gorras para proteger la cabeza del sol
 
-· evitar las bebidas que propician la deshidratación, incluidas las que contienen cafeína o alcohol
+✅ Evitar las bebidas que propician la deshidratación, incluidas las que contienen cafeína o alcohol
 
-· usar telas transpirables, como el algodón o el lino, en lugar de mezclas sintéticas
+✅ Usar telas transpirables, como el algodón o el lino, en lugar de mezclas sintéticas
 
-· pasar parte del día en lugares con aire acondicionado, como un centro comercial, una biblioteca o una sala de cine
+✅ Pasar parte del día en lugares con aire acondicionado, como un centro comercial, una biblioteca o una sala de cine
 
 Nadie debe permanecer solo en un automóvil estacionado cuando hace mucho calor. Hacerlo podría ser especialmente peligroso para niños y personas mayores de 65 años. Por último, resulta imprescindible tomar conciencia de la peligrosa relación que se establece entre ola de calor y enfermedades respiratorias. Durante esos días se deben **extremar todas las precauciones.**
