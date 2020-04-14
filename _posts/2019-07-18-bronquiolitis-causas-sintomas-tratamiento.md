@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F637 Bronquiolitis (Causas, síntomas y tratamiento)"
-date: 2019-07-18 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+date: 2019-07-18T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/bronquiolitis.jpg"
@@ -13,7 +13,8 @@ intro: La **bronquiolitis** es una infección de los bronquiolos que suele darse
   niños menores de tres años. Analizamos todo lo que necesitas saber acerca de esta
   enfermedad (causas, síntomas y tratatamiento) con poca incidencia entre los adultos.
 tags: bronquiolitis síntomas tratamiento
-redirect_from: /blog/el-abc-de-la-bronquiolitis/
+redirect_from: "/blog/el-abc-de-la-bronquiolitis/"
+
 ---
 ![](/uploads/bronquiolitis.jpg)
 
@@ -35,43 +36,43 @@ De todas maneras, todo va a depender del grado de virulencia de la enfermedad. S
 
 Esta infección respiratoria suele presentar picos de mayor incidencia **durante los meses de invierno y el inicio de la primavera.** Como hemos adelantado, como primera apariencia podría **confundirse con un resfriado común**. Pero veamos la sintomatología más habitual:
 
-· Moqueo nasal
+✅ Moqueo nasal
 
-· Tos
+✅ Tos
 
-· Congestión de nariz
+✅ Congestión de nariz
 
-· Disminución del apetito
+✅ Disminución del apetito
 
 En principio vemos que los síntomas, efectivamente, son muy similares a los que produce un resfriado infantil. Sin embargo, la enfermedad puede avanzar. Hay que tomar medidas cuando la bronquiolitis del bebé o del niño empeora. Existen algunos **síntomas que nos pueden alertar y que requerirán de atención médica más urgente:**
 
-· Respiración acelerada (más de 60 inspiraciones por minuto)
+✅ Respiración acelerada (más de 60 inspiraciones por minuto)
 
-· Silbido agudo con las exhalaciones
+✅ Silbido agudo con las exhalaciones
 
-· Dificultad para respirar
+✅ Dificultad para respirar
 
-· Respiración con ruidos roncos
+✅ Respiración con ruidos roncos
 
-· Impedimentos para beber, tragar o chupar
+✅ Impedimentos para beber, tragar o chupar
 
-· Señales de deshidratación (boca seca, llanto sin lágrimas, menos cantidad de micciones)
+✅ Señales de deshidratación (boca seca, llanto sin lágrimas, menos cantidad de micciones)
 
-· Vómitos
+✅ Vómitos
 
-· Apariencia cansada
+✅ Apariencia cansada
 
-· Tos persistente y constante
+✅ Tos persistente y constante
 
-· Pausas de más de 15 segundo entre respiraciones (apnea)
+✅ Pausas de más de 15 segundo entre respiraciones (apnea)
 
 Es importante que el paciente reciba **atención médica de urgencia** si los síntomas se complican:
 
-· El pequeño tiene problemas graves para respirar
+✅ El pequeño tiene problemas graves para respirar
 
-· Parece confundido o apático
+✅ Parece confundido o apático
 
-· Sus labios, yemas de los dedos, orejas, lengua, punta de su nariz o el interior de sus mejillas tienen un tinte azul (cianosis)
+✅ Sus labios, yemas de los dedos, orejas, lengua, punta de su nariz o el interior de sus mejillas tienen un tinte azul (cianosis)
 
 ### Causas de la bronquiolitis en niños
 
@@ -91,21 +92,21 @@ Existen otras cuestiones que se asocian con una mayor posibilidad de que los beb
 
 Hay que prestar atención a otras cuestiones y situaciones que comportan un mayor riesgo de contraer la enfermedad en el caso de los menores de tres años:
 
-· **Neonato prematuro.** El sistema respiratorio y pulmonar de estos recién nacidos aún precisan de tratamiento y tiempo para alcanzar la madurez. Esta circunstancia provoca una mayor indefensión ante este tipo de enfermedades.
+✅ **Neonato prematuro.** El sistema respiratorio y pulmonar de estos recién nacidos aún precisan de tratamiento y tiempo para alcanzar la madurez. Esta circunstancia provoca una mayor indefensión ante este tipo de enfermedades.
 
-· **Dolencia cardíaca o pulmonar.** Sobre todo si estos padecimientos no han sido diagnosticados.
+✅ **Dolencia cardíaca o pulmonar.** Sobre todo si estos padecimientos no han sido diagnosticados.
 
-· **Sistema autoinmune deprimido.** Cuando el sistema inmunitario se encuentra débil, los lactantes y las personas en general poseen menos recursos para luchar contra las infecciones.
+✅ **Sistema autoinmune deprimido.** Cuando el sistema inmunitario se encuentra débil, los lactantes y las personas en general poseen menos recursos para luchar contra las infecciones.
 
-· **Ser fumador pasivo.** La exposición al humo del tabaco puede provocar la irritación de las vías respiratorias, sensibilizar la zona y dejarla más indefensa. Además, en este caso, también agrava la sintomatología de la bronquiolitis en adultos y bebés.
+✅ **Ser fumador pasivo.** La exposición al humo del tabaco puede provocar la irritación de las vías respiratorias, sensibilizar la zona y dejarla más indefensa. Además, en este caso, también agrava la sintomatología de la bronquiolitis en adultos y bebés.
 
-· **Lactancia artificial.** Los niños menores de dos años que han sido alimentados con leche de sustitución son más propensos a las infecciones. Hay que tener en cuenta que la lactancia materna transfiere a los bebés cualidades inmunitarias de la madre.
+✅ **Lactancia artificial.** Los niños menores de dos años que han sido alimentados con leche de sustitución son más propensos a las infecciones. Hay que tener en cuenta que la lactancia materna transfiere a los bebés cualidades inmunitarias de la madre.
 
-· **Convivir con otros infantes.** El contacto con otros niños aumenta el riesgo de contraer la bronquiolitis y cualquier otro tipo de enfermedades respiratorias que se transmiten por contagio. Es el caso de los pequeños que van a la guardería.
+✅ **Convivir con otros infantes.** El contacto con otros niños aumenta el riesgo de contraer la bronquiolitis y cualquier otro tipo de enfermedades respiratorias que se transmiten por contagio. Es el caso de los pequeños que van a la guardería.
 
-· **El hacinamiento.** Desarrollarse en un entorno hacinado conlleva falta de higiene y condiciones que propician la transmisión de enfermedades.
+✅ **El hacinamiento.** Desarrollarse en un entorno hacinado conlleva falta de higiene y condiciones que propician la transmisión de enfermedades.
 
-· **Los hermanos más mayores.** Las familias con hijos mayores de tres años que acuden al colegio o a la guardería pueden contraer la infección. A partir de ahí, serán ellos quienes introduzcan el virus en el hogar y se lo contagien al bebé.
+✅ **Los hermanos más mayores.** Las familias con hijos mayores de tres años que acuden al colegio o a la guardería pueden contraer la infección. A partir de ahí, serán ellos quienes introduzcan el virus en el hogar y se lo contagien al bebé.
 
 ## Cifras y datos sobre la bronquiolitis aguda
 
@@ -131,37 +132,37 @@ Para ello se servirá de **la anamnesis**, que irá complementada con una **expl
 
 El médico prestará especial atención al estado de hidratación del niño y comprobará el grado de dificultad para respirar. Solo en casos muy puntuales se incluirán **pruebas diagnósticas complementarias.** A continuación presentamos las actuaciones recomendadas por la Asociación Española de Pediatría, en función de las posibles evidencias.
 
-· **Rx torácico.** Reservado solo para aquellos enfermos en los que se plantean dudas sobre el diagnóstico. También se utiliza ante una clínica atípica y cuando el estado es grave o evoluciona mal.
+✅ **Rx torácico.** Reservado solo para aquellos enfermos en los que se plantean dudas sobre el diagnóstico. También se utiliza ante una clínica atípica y cuando el estado es grave o evoluciona mal.
 
-· **Pruebas virales.** Se toma una muestra de la mucosidad del paciente. La razón es poder determinar cuál es el antígeno del VRS en casos de bronquiolitis aguda que puedan precisar el aislamiento del enfermo.
+✅ **Pruebas virales.** Se toma una muestra de la mucosidad del paciente. La razón es poder determinar cuál es el antígeno del VRS en casos de bronquiolitis aguda que puedan precisar el aislamiento del enfermo.
 
-· **Analítica de sangre.** Se podrá constatar, a través del recuento de glóbulos blancos, si el sistema inmunitario del paciente está luchando contra una infección. Además, es útil para medir el nivel de oxígeno en la sangre.
+✅ **Analítica de sangre.** Se podrá constatar, a través del recuento de glóbulos blancos, si el sistema inmunitario del paciente está luchando contra una infección. Además, es útil para medir el nivel de oxígeno en la sangre.
 
 En casos en los que se presenta un cuadro más grave también puede ser necesario practicar otro tipo de actuaciones:
 
-· **Gasometría capilar.** En caso de dificultad respiratoria aguda.
+✅ **Gasometría capilar.** En caso de dificultad respiratoria aguda.
 
-· **Sedimento y/o urocultivo.** Aconsejable en los lactantes menores de tres meses. La razón es que son más proclives a desarrollar infección urinaria. Hay que descartar esta opción en bebés que presentan bronquiolitis aguda y fiebre alta.
+✅ **Sedimento y/o urocultivo.** Aconsejable en los lactantes menores de tres meses. La razón es que son más proclives a desarrollar infección urinaria. Hay que descartar esta opción en bebés que presentan bronquiolitis aguda y fiebre alta.
 
 Por otro lado, es aconsejable el planteamiento de realizar un **diagnóstico diferencial en menores de dos años con tos seca y trabajo respiratorio difícil**. Es preciso descartar posibles patologías que cursan con cuadro similar:
 
-· Crisis de asma, sobre todo en menores de seis meses y que posean historial familiar de atopia.
+✅ Crisis de asma, sobre todo en menores de seis meses y que posean historial familiar de atopia.
 
-· Tosferina.
+✅ Tosferina.
 
-· Neumonía.
+✅ Neumonía.
 
-· Presencia de un cuerpo extraño por aspiración.
+✅ Presencia de un cuerpo extraño por aspiración.
 
-· Fibrosis quística.
+✅ Fibrosis quística.
 
-· Patología cardíaca congénita.
+✅ Patología cardíaca congénita.
 
-· Inmunodeficiencias.
+✅ Inmunodeficiencias.
 
-· Problemas congénitos de pulmón.
+✅ Problemas congénitos de pulmón.
 
-· Procesos infecciosos.
+✅ Procesos infecciosos.
 
 ## Bronquiolitis tratamiento
 
