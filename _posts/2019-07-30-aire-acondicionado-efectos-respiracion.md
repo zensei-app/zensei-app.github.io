@@ -1,9 +1,10 @@
 ---
 layout: post
 toc: true
-title: "\U0001F32C️ Cómo afecta el Aire acondicionado a la salud respiratoria (asma, rinitis, epoc)"
-date: 2019-07-30 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+title: "\U0001F32C️ Cómo afecta el Aire acondicionado a la salud respiratoria (asma,
+  rinitis, epoc)"
+date: 2019-07-30T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/Aire acondicionado.jpg"
@@ -14,6 +15,7 @@ intro: El **aire acondicionado** garantiza nuestra comodidad y es una parte inte
   respiratoria?**
 tags: verano asma rinitis epoc
 redirect_from: "/blog/aire-acondicionado-y-efectos-sobre-la-salud/"
+
 ---
 ![](/uploads/Aire acondicionado.jpg)
 
@@ -25,11 +27,11 @@ Es evidente que el uso de estos aparatos resulta habitual en hogares, oficinas, 
 
 En principio no debería existir ningún inconveniente a la hora de utilizar estos aparatos. Disfrutar de sus beneficios puede estar al alcance de todos. Sin embargo, es innegable que en ocasiones **puede ser el causante de nuestro malestar**. Si el aire acondicionado es beneficioso o nocivo depende de una serie de factores.
 
-· Edad y salud de las personas expuestas
+✅ Edad y salud de las personas expuestas
 
-· Condiciones de uso del sistema de aire acondicionado, incluido el grado de enfriamiento
+✅ Condiciones de uso del sistema de aire acondicionado, incluido el grado de enfriamiento
 
-· Calidad y mantenimiento de las instalaciones
+✅ Calidad y mantenimiento de las instalaciones
 
 ## Aire acondicionado, una bendición durante una ola de calor
 
@@ -37,11 +39,11 @@ El aire acondicionado puede ser beneficioso, especialmente durante una ola de ca
 
 Por otro lado, el uso del aire acondicionado también puede **reducir cierto tipo de riesgos** y situaciones extremas.
 
-· Ola de calor y deshidratación, especialmente en personas susceptibles (bebés, ancianos, personas desnutridas, etc.)
+✅ Ola de calor y deshidratación, especialmente en personas susceptibles (bebés, ancianos, personas desnutridas, etc.)
 
-· Problemas cardiovasculares en individuos con predisposición a este tipo de padecimientos
+✅ Problemas cardiovasculares en individuos con predisposición a este tipo de padecimientos
 
-· Síntomas asociados a enfermedades respiratorias, como la enfermedad pulmonar obstructiva crónica [(EPOC)](https://zenseiapp.com/blog/que-es-el-epoc/)
+✅ Síntomas asociados a enfermedades respiratorias, como la enfermedad pulmonar obstructiva crónica [(EPOC)](https://zenseiapp.com/blog/que-es-el-epoc/)
 
 No obstante, y a pesar de sus muchas virtudes, el aire acondicionado puede tener ciertos **efectos nocivos para la salud**. Veamos [cómo afecta el aire acondicionado a la salud respiratoria.](https://lovexair.com/como-afecta-a-la-salud-respiratoria-el-aire-acondicionado/)
 
@@ -71,17 +73,17 @@ Además, la exposición prolongada al aire acondicionado puede contribuir al **e
 
 El aire acondicionado que está demasiado frío puede [**provocar o empeorar otros síntomas y problemas de salud.**](https://diariosanitario.com/del-resfriado-a-la-neumonia-peligros-del-aire-acondicionado/) Aquí hay unos ejemplos:
 
-· ojos, boca, garganta o fosas nasales secas e irritadas
+✅ Ojos, boca, garganta o fosas nasales secas e irritadas
 
-· dolores de cabeza
+✅ Dolores de cabeza
 
-· dolor de garganta
+✅ Dolor de garganta
 
-· pérdida de voz
+✅ Pérdida de voz
 
-· Enfermedad de Raynaud
+✅ Enfermedad de Raynaud
 
-· Artritis
+✅ Artritis
 
 ## El aire acondicionado y la neumonía
 
@@ -101,37 +103,37 @@ La neumonía puede perjudicar a los pulmones de dos maneras. Si la inflamación 
 
 La neumonía puede ser causada por bacterias, virus, infecciones por hongos o exposición química. A veces nunca se conoce la causa exacta de la neumonía. Los tipos más comunes de neumonía son los siguientes:
 
-· **La neumonía bacteriana**. Se desarrolla cuando las bacterias que normalmente viven sin daño en la garganta ingresan a los pulmones. Esto generalmente ocurre cuando el sistema inmunitario del cuerpo se debilita de alguna manera. También puede suceder después de una infección de las vías respiratorias superiores, como la influenza. Los pulmones están lo suficientemente dañados como para permitir que las bacterias infecten el área. La neumonía bacteriana generalmente es causada por una bacteria llamada neumococo o estreptococo pulmonar.
+✅ **La neumonía bacteriana**. Se desarrolla cuando las bacterias que normalmente viven sin daño en la garganta ingresan a los pulmones. Esto generalmente ocurre cuando el sistema inmunitario del cuerpo se debilita de alguna manera. También puede suceder después de una infección de las vías respiratorias superiores, como la influenza. Los pulmones están lo suficientemente dañados como para permitir que las bacterias infecten el área. La neumonía bacteriana generalmente es causada por una bacteria llamada neumococo o estreptococo pulmonar.
 
-· **La neumonía** [**'Enfermedad del legionario'**](https://www.mayoclinic.org/es-es/diseases-conditions/legionnaires-disease/symptoms-causes/syc-20351747)**.** Es causada por la bacteria _Legionella pneumophila._ Habita en unidades de aire acondicionado defectuosas de grandes edificios, por ejemplo, hospitales u hoteles. La bacteria puede sobrevivir en aparatos de aire acondicionado cálidos y húmedos y, si está presente, puede causar un brote de la enfermedad. El nombre proviene de una epidemia en 1976, cuando 29 miembros de la Legión Americana murieron misteriosamente después de permanecer en el mismo hotel. Sin embargo, la enfermedad suele ser leve y se trata con antibióticos.
+✅ **La neumonía** [**'Enfermedad del legionario'**](https://www.mayoclinic.org/es-es/diseases-conditions/legionnaires-disease/symptoms-causes/syc-20351747)**.** Es causada por la bacteria _Legionella pneumophila._ Habita en unidades de aire acondicionado defectuosas de grandes edificios, por ejemplo, hospitales u hoteles. La bacteria puede sobrevivir en aparatos de aire acondicionado cálidos y húmedos y, si está presente, puede causar un brote de la enfermedad. El nombre proviene de una epidemia en 1976, cuando 29 miembros de la Legión Americana murieron misteriosamente después de permanecer en el mismo hotel. Sin embargo, la enfermedad suele ser leve y se trata con antibióticos.
 
-· **La neumonía viral**. Es causada por organismos virales simples que, a menudo, son similares a los responsables del resfriado común. La neumonía viral también es una complicación común de otras enfermedades como resfriados, influenza, sarampión, herpes y varicela. La neumonía viral suele ser más leve que la neumonía bacteriana y dura un corto periodo de tiempo.
+✅ **La neumonía viral**. Es causada por organismos virales simples que, a menudo, son similares a los responsables del resfriado común. La neumonía viral también es una complicación común de otras enfermedades como resfriados, influenza, sarampión, herpes y varicela. La neumonía viral suele ser más leve que la neumonía bacteriana y dura un corto periodo de tiempo.
 
-· **La neumonía por microplasma.** Es causada por un microorganismo del mismo nombre. La neumonía por microplasma se transmite por contacto cercano con una persona infectada y es más común en adultos jóvenes. Es posible que algunas personas infectadas con este tipo de neumonía nunca experimenten síntomas. Si la persona infectada goza de buena salud, la enfermedad no es tan grave como la neumonía normal y rara vez hay complicaciones.
+✅ **La neumonía por microplasma.** Es causada por un microorganismo del mismo nombre. La neumonía por microplasma se transmite por contacto cercano con una persona infectada y es más común en adultos jóvenes. Es posible que algunas personas infectadas con este tipo de neumonía nunca experimenten síntomas. Si la persona infectada goza de buena salud, la enfermedad no es tan grave como la neumonía normal y rara vez hay complicaciones.
 
-· **La neumonía por aspiración.** Se produce cuando las bacterias ingresan a los pulmones desde la boca o el estómago durante el vómito. Este tipo suele ser más común en alcohólicos.
+✅ **La neumonía por aspiración.** Se produce cuando las bacterias ingresan a los pulmones desde la boca o el estómago durante el vómito. Este tipo suele ser más común en alcohólicos.
 
-· **La neumonía por _Pneumocystis Carinii_ (PCP).** Es causada por un microorganismo que puede vivir sin daño en los pulmones normales. La PCP a menudo se desarrolla como una infección secundaria en pacientes cuyo sistema inmunitario está debilitado por enfermedades como el cáncer y el VIH. La PCP puede ser el primer signo de enfermedad en personas con VIH.
+✅ **La neumonía por _Pneumocystis Carinii_ (PCP).** Es causada por un microorganismo que puede vivir sin daño en los pulmones normales. La PCP a menudo se desarrolla como una infección secundaria en pacientes cuyo sistema inmunitario está debilitado por enfermedades como el cáncer y el VIH. La PCP puede ser el primer signo de enfermedad en personas con VIH.
 
 ### ¿Cuáles son los síntomas de la neumonía?
 
 Los síntomas de **la neumonía bacteriana y viral son similares** y generalmente duran aproximadamente un par de semanas. Los síntomas pueden incluir cualquiera de los siguientes:
 
-· Fiebre elevada
+✅ Fiebre elevada
 
-· Sacudidas y escalofríos severos
+✅ Sacudidas y escalofríos severos
 
-· Tos que empeora con el tiempo y a menudo se acompaña de flema
+✅ Tos que empeora con el tiempo y a menudo se acompaña de flema
 
-· Dolor intenso en el pecho u opresión en el pecho
+✅ Dolor intenso en el pecho u opresión en el pecho
 
-· Falta de aliento
+✅ Falta de aliento
 
-· Pérdida de apetito
+✅ Pérdida de apetito
 
-· Cansancio y fatiga
+✅ Cansancio y fatiga
 
-· Dolores musculares generales
+✅ Dolores musculares generales
 
 Si crees que podrías tener neumonía o tos persistente, entonces debes visitar a tu médico para obtener más consejos.
 
@@ -139,17 +141,17 @@ Si crees que podrías tener neumonía o tos persistente, entonces debes visitar 
 
 Cualquiera puede contraer neumonía, incluso los jóvenes. Sin embargo, **es más común y más grave si se dan ciertas circunstancias.**
 
-· Son ancianos
+✅ Son ancianos
 
-· Le han extraído el bazo
+✅ Le han extraído el bazo
 
-· Son alcohólicos
+✅ Son alcohólicos
 
-· Sufren de asma, afecciones cardíacas, enfermedades pulmonares o diabetes
+✅ Sufren de asma, afecciones cardíacas, enfermedades pulmonares o diabetes
 
-· Son fumadores
+✅ Son fumadores
 
-· Tienen un sistema inmunitario débil, causado por una enfermedad a largo plazo como el cáncer o el VIH
+✅ Tienen un sistema inmunitario débil, causado por una enfermedad a largo plazo como el cáncer o el VIH
 
 ### ¿Cómo se diagnostica la neumonía?
 
