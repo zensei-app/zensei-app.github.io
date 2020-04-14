@@ -48,29 +48,29 @@ Las partículas en el aire de muchas fuentes, tales como fábricas, chimeneas, g
 
 **Cuanto más pequeñas sean las partículas mayor será el daño que pueden hacer a los pulmones.** Las partículas más pequeñas se inhalan de forma fácil y llegan a lo más profundo de los pulmones. Allí, las absorbe el cuerpo en lugar de que puedan expulsarse al toser. Veamos algunas de las patologías ocupacionales más habituales.
 
-#### Asbestosis
+#### **Asbestosis**
 
 Esta afección se produce cuando una persona **inhala fibras diminutas de amianto**. Con el tiempo, esto lleva a la cicatrización de los pulmones y rigidez del tejido pulmonar. A menudo se vincula con los trabajos de construcción.
 
-#### La neumoconiosis de los mineros del carbón
+#### **La neumoconiosis de los mineros del carbón**
 
 Esta dolencia también es conocida como **“enfermedad del pulmón negro”.** La afección es consecuencia de la inhalación de polvo de carbón. Produce inflamación y cicatrización de los pulmones. Puede causar daño permanente a los pulmones e insuficiencia respiratoria de por vida.
 
-#### Silicosis
+#### **Silicosis**
 
 La causa de esta afección es **la inhalación del sílice cristalino** que se encuentra en el aire. Este es un polvo que se haya en suspensión en las minas, fundiciones, operaciones de voladura e instalaciones de fabricación de piedra, arcilla y vidrio. Provoca la cicatrización de los pulmones. También puede aumentar el riesgo de otras enfermedades pulmonares.
 
-#### Bisinosis
+#### **Bisinosis**
 
 Su causa es **la inhalación de polvo derivado del procesamiento del cáñamo, lino y algodón**. También se conoce como la “enfermedad pulmonar Brown”. La afección es crónica y provoca opresión en el pecho y dificultad para respirar. Afecta a los trabajadores textiles, especialmente aquellos que trabajan con algodón sin procesar.
 
-#### Neumonitis por hipersensibilidad
+#### **Neumonitis por hipersensibilidad**
 
 Se trata de **una enfermedad pulmonar alérgica causada por una inflamación de los pulmones**. Detrás de ella se encuentra la inhalación de varias sustancias muy diferentes. Entre ellas se encuentran elementos como las esporas de los hongos, bacterias, proteínas animales o vegetales o productos químicos específicos. También puede provenir de heno mohoso, excrementos de aves y otros polvos orgánicos.
 
 La enfermedad causa la inflamación de los sacos de aire en los pulmones y genera tejido cicatricial fibroso en los pulmones y dificultad para respirar. Hay variaciones de esta enfermedad en función del trabajo. Estos incluyen el pulmón de los trabajadores del corcho, pulmón del granjero y pulmón de los trabajadores de hongos.
 
-#### Asma ocupacional
+#### **Asma ocupacional**
 
 El asma ocupacional es **consecuencia de la inhalación de polvos, gases, humos y vapores**. Provoca síntomas de asma como tos crónica y sibilancias. Esta afección se puede revertir si se detecta a tiempo. Si trabajas en operaciones de fabricación y procesamiento, agricultura, cuidado de animales, procesamiento de alimentos, industrias textiles y del algodón y operaciones de refinado, estás en mayor riesgo de contraer esta enfermedad.
 
@@ -102,31 +102,31 @@ Los síntomas de enfermedades pulmonares ocupacionales pueden parecerse a los de
 
 Las enfermedades pulmonares ocupacionales, como otras que cursan con insuficiencia respiratoria, por lo general **requieren una radiografía de tórax inicial para el diagnóstico**. Veamos los exámenes que pueden ser necesarios para determinar el tipo y gravedad de la enfermedad pulmonar.
 
-#### Radiografía de pecho
+#### **Radiografía de pecho**
 
 Una prueba que toma imágenes de tejidos, huesos y órganos internos.
 
-#### Pruebas para medir el funcionamiento de los pulmones
+#### **Pruebas para medir el funcionamiento de los pulmones**
 
 Estas pruebas ayudan a medir la capacidad de los pulmones para mover el aire hacia adentro y hacia afuera. Las pruebas se realizan, por lo general, con máquinas especiales dentro de las cuales usted respira.
 
-#### Broncoscopia
+#### **Broncoscopia**
 
 Esta prueba utiliza un tubo flexible llamado broncoscopio para ver los bronquios, las principales vías respiratorias de los pulmones. La broncoscopia ayuda a diagnosticar problemas pulmonares, detectar obstrucciones, extraer muestras de tejido y/o fluido para ayudar a retirar cuerpos extraños. La broncoscopia puede incluir una biopsia o lavado broncoalveolar.
 
-#### Biopsia de pulmón
+#### **Biopsia de pulmón**
 
 Consiste en extraer un pequeño trozo de tejido, células o líquido del pulmón para que puedan examinarse bajo un microscopio.
 
-#### Lavado broncoalveolar
+#### **Lavado broncoalveolar**
 
 Se eliminan las células del tracto respiratorio inferior para ayudar a identificar la inflamación y descartar ciertas causas.
 
-#### Análisis de sangre
+#### **Análisis de sangre**
 
 Estos análisis miden la cantidad de dióxido de carbono y oxígeno en la sangre. Otros análisis de sangre pueden usarse para buscar posibles infecciones y otros problemas.
 
-#### Tomografía computarizada (TC o TAC)
+#### **Tomografía computarizada (TC o TAC)**
 
 Una tomografía computarizada (TC) es un diagnóstico por imágenes que combina el uso de radiografías y una computadora para producir imágenes detalladas del cuerpo. Una tomografía computarizada muestra detalles de los huesos, los músculos, la grasa y los órganos.
 
