@@ -13,6 +13,7 @@ intro: El clima frío y las bajas temperaturas de los aires acondicionados afect
   negativamente a las **vías respiratorias y bronquios**. Pero ¿sabrías decir a qué
   nivel? Te lo contamos todo. ¡No te lo pierdas!
 tags: calidad-aire vías-respiratorias dificultad-respiratoria asma
+slug: aire frio bronquios
 
 ---
 ![](/uploads/Aire frío.jpg)
