@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F476 Dificultad respiratoria del recién nacido"
 date: 2019-09-26T22:00:00.000+00:00
-last_modified_at: 2019-09-26T22:00:00.000+00:00
+last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
 image: "/uploads/Síndrome de dificultad respiratoria.jpg"
