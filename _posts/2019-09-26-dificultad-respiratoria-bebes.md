@@ -2,18 +2,19 @@
 layout: post
 toc: true
 title: "\U0001F476 Dificultad respiratoria del recién nacido"
-date: 2019-09-26 22:00:00 +0000
-last_modified_at: 2019-09-26 22:00:00 +0000
+date: 2019-09-26T22:00:00.000+00:00
+last_modified_at: 2019-09-26T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: /uploads/Síndrome de dificultad respiratoria.jpg
+image: "/uploads/Síndrome de dificultad respiratoria.jpg"
 description: La Dificultad Respiratoria del Recién Nacido o Síndrome de Dificultad
   Respiratoria afecta sobre todo a neonatos prematuros o nacidos por cesárea
 intro: 'El **Síndrome de Dificultad Respiratoria o Dificultad Respiratoria del Recién
   Nacido** engloba a un grupo de afecciones donde destaca, entre otras, la Taquipnea
   Transitoria del Recién Nacido. Te hablamos de causas y procedimientos para su control. '
 tags: bebés dificultad respiratoria
-redirect_from: /salud%20respiratoria/dificultad-respiratoria-del-recién-nacido/
+redirect_from: "/salud%20respiratoria/dificultad-respiratoria-del-recién-nacido/"
+
 ---
 ![](/uploads/Síndrome de dificultad respiratoria.jpg)
 
@@ -51,29 +52,29 @@ El uso de **corticosteroides prenatales** en partos prematuros amenazados de 24 
 
 Las **causas más comunes de dificultad respiratoria** en los recién nacidos, además de la taquipnea transitoria del recién nacido (TTN), son las siguientes:
 
-· Síndrome de Dificultad Respiratoria (SDR)
+✅ Síndrome de Dificultad Respiratoria (SDR)
 
-· Síndrome de aspiración de meconio
+✅ Síndrome de aspiración de meconio
 
-· Neumonía
+✅ Neumonía
 
-· [Sepsis](https://www.healthychildren.org/Spanish/health-issues/conditions/infections/Paginas/Sepsis-in-Infants-Children.aspx)
+✅ [Sepsis](https://www.healthychildren.org/Spanish/health-issues/conditions/infections/Paginas/Sepsis-in-Infants-Children.aspx)
 
-· Neumotórax
+✅ Neumotórax
 
-· Transición tardía.
+✅ Transición tardía.
 
 Entre las **causas raras** que pueden afectar a un neonato aparecen las siguientes:
 
-· Atresia de coanas
+✅ Atresia de coanas
 
-· Hernia de diafragma
+✅ Hernia de diafragma
 
-· Fístula traqueoesofágica
+✅ Fístula traqueoesofágica
 
-· Cardiopatía congénita
+✅ Cardiopatía congénita
 
-· Trastornos neurológicos, metabólicos y hematológicos
+✅ Trastornos neurológicos, metabólicos y hematológicos
 
 En raras ocasiones, los recién nacidos con SDR desarrollan **enfermedad pulmonar crónica o displasia broncopulmonar.** Se han establecido definiciones para la gravedad de la displasia broncopulmonar.
 
@@ -97,25 +98,25 @@ Esta condición generalmente provoca una frecuencia de **respiración muy rápid
 
 **Otros nombres para la taquipnea:**
 
-· pulmón mojado en recién nacidos
+✅ Pulmón mojado en recién nacidos
 
-· líquido pulmonar fetal retenido
+✅ Líquido pulmonar fetal retenido
 
-· transición prolongada
+✅ Transición prolongada
 
 ### Cuáles son los síntomas de la TTN
 
 Los [síntomas de la taquipnea transitoria](https://www.stanfordchildrens.org/es/topic/default?id=taquipnea-transitoria-del-reci233n-nacido-90-P05529) son **diferentes para cada recién nacido**. Pero la sintomatología **más común** de esta afección incluye:
 
-· respiración rápida, lo que significa más de 60 respiraciones por minuto
+✅ Respiración rápida, lo que significa más de 60 respiraciones por minuto
 
-· respiración dificultosa, incluyendo gruñidos y gemidos
+✅ Respiración dificultosa, incluyendo gruñidos y gemidos
 
-· aleteo nasal
+✅ Aleteo nasal
 
-· piel azulada (cianosis)
+✅ Piel azulada (cianosis)
 
-· hundimiento de la caja torácica con cada respiración, son las llamadas retracciones
+✅ Hundimiento de la caja torácica con cada respiración, son las llamadas retracciones
 
 ### Cuál es la causa de la Taquipnea Transitoria del Recién Nacido
 
@@ -125,11 +126,11 @@ No siempre se conoce la causa exacta de la taquipnea transitoria en los recién 
 
 **Otros factores** que pueden contribuir al desarrollo de taquipnea transitoria incluyen:
 
-· haber nacido de una madre que tiene diabetes
+✅ Haber nacido de una madre que tiene diabetes
 
-· parto vaginal rápido
+✅ Parto vaginal rápido
 
-· sujeción retrasada del cordón
+✅ Sujeción retrasada del cordón
 
 Los **bebés varones y los nacidos con un peso al más grande** de la media también tienen más probabilidades de desarrollar esta afección.
 
@@ -141,13 +142,13 @@ El facultativo revisará **cómo fue el embarazo, el trabajo del parto y sus pos
 
 Las pruebas también pueden ser necesarias para confirmar el diagnóstico. El **estudio clínico** puede incluir:
 
-· hemograma completo (CBC) y hemocultivo para ver si el bebé padece una infección como la neumonía
+✅ Hemograma completo (CBC) y hemocultivo para ver si el bebé padece una infección como la neumonía
 
-· análisis de gases en sangre para verificar los niveles de oxígeno y dióxido de carbono en la sangre del recién nacido
+✅ Análisis de gases en sangre para verificar los niveles de oxígeno y dióxido de carbono en la sangre del recién nacido
 
-· radiografías de tórax para estudiar los pulmones en busca de causas de dificultad respiratoria
+✅ Radiografías de tórax para estudiar los pulmones en busca de causas de dificultad respiratoria
 
-· monitoreo de oximetría de pulso
+✅ Monitoreo de oximetría de pulso
 
 ### Cuál es el tratamiento para la taquipnea del bebé
 
@@ -165,13 +166,13 @@ Los síntomas de la taquipnea transitoria generalmente **se resuelven de uno a t
 
 En cuanto a la posibilidad de prevenir la Taquipnea Transitoria del Recién Nacido, lo cierto es que no hay fórmula para conseguir evitarla. Sin embargo, se puede **disminuir el riesgo** de aparición y elevar las posibilidades de dar a luz a un bebé sano.
 
-· Comer una dieta saludable durante el embarazo, que incluya muchas frutas, verduras y legumbres.
+✅ Comer una dieta saludable durante el embarazo, que incluya muchas frutas, verduras y legumbres.
 
-· Ver al médico regularmente para chequeos prenatales.
+✅ Ver al médico regularmente para chequeos prenatales.
 
-· Dejar de fumar.
+✅ Dejar de fumar.
 
-· No consumir alcohol o drogas.
+✅ No consumir alcohol o drogas.
 
 **Llevar una vida sana** es la mejor manera en que las futuras mamás pueden ayudar a sus futuros bebés a formarse de una manera cualitativa. Cuanto menos factores de riesgos se añadan al embarazo, mayores serán las opciones de llegar a un parto natural, tras un embarazo a término y con un recién nacido fuerte y sano.
 
