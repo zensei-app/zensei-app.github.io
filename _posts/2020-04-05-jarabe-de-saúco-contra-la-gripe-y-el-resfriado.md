@@ -3,9 +3,9 @@ layout: post
 toc: true
 title: 'Jarabe de Saúco contra la gripe y el resfriado '
 date: 2020-04-05 22:00:00 +0000
-last_modified_at: 2020-04-05 22:00:00 +0000
+last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
-category: gripe
+category: Gripe
 image: "/uploads/Jarabe de sauco contra la gripe.jpg"
 description: El jarabe de saúco ha sido empleado durante siglos para tratar dolencias
   como el resfriado o la gripe.
@@ -87,21 +87,21 @@ La baya del saúco **no es recomendable para su administración en niños, mujer
 
 Los extractos de saúco pueden interactuar con medicamentos diseñados para suprimir el sistema inmune, socavando su eficacia. **Entre las sustancias que interaccionan se encuentran:**
 
-· Micofenolato.
+✅ Micofenolato.
 
-· Medicamentos corticosteroides como la prednisona.
+✅ Medicamentos corticosteroides como la prednisona.
 
-· Azatioprina.
+✅ Azatioprina.
 
-· Muronobab-CD3.
+✅ Muronobab-CD3.
 
-· Tacrolimus.
+✅ Tacrolimus.
 
-· Ciclosporina.
+✅ Ciclosporina.
 
-· Basiliximab.
+✅ Basiliximab.
 
-· Daclizumab.
+✅ Daclizumab.
 
 Debido a su efecto sobre el sistema inmunitario, **se debe evitar el uso prolongado de preparados de saúco en personas con trastornos autoinmunes.** En estos casos es preciso recibir la orientación de un médico.
 
@@ -123,15 +123,15 @@ Muchas personas buscan cómo hacer su propio jarabe de saúco para la gripe. El 
 
 ### Preparación
 
-\- Mezcla 2 tazas de saúco seco con 4 tazas de agua destilada fría en una olla.
+✅ Mezcla 2 tazas de saúco seco con 4 tazas de agua destilada fría en una olla.
 
-\- Lleva el agua a ebullición, reduce el fuego y cocina sin tapar durante 30 o 40 minutos, revolviendo regularmente.
+✅ Lleva el agua a ebullición, reduce el fuego y cocina sin tapar durante 30 o 40 minutos, revolviendo regularmente.
 
-\- Retira del fuego y deja reposar durante 1 hora. Cuela la mezcla en una taza de medir grande cubierta con una gasa, reservando el líquido y desechando las bayas usadas.
+✅ Retira del fuego y deja reposar durante 1 hora. Cuela la mezcla en una taza de medir grande cubierta con una gasa, reservando el líquido y desechando las bayas usadas.
 
-\- Deja que el jarabe se enfríe, luego agrega 1 taza de miel. Vierte la mezcla en un recipiente esterilizado.
+✅ Deja que el jarabe se enfríe, luego agrega 1 taza de miel. Vierte la mezcla en un recipiente esterilizado.
 
-\- Sella y guarda en el frigorífico hasta un periodo máximo de tres meses.
+✅ Sella y guarda en el frigorífico hasta un periodo máximo de tres meses.
 
 Las bayas de saúco se conservan mejor en la nevera si no se consumen de inmediato. Es importante que al utilizar bayas frescas las compres a una fuente confiable. **Nunca es seguro consumir bayas silvestres desconocidas**, ya que no conoces los efectos potencialmente peligrosos de una fruta del campo. Si has consumido una baya desconocida y experimentas efectos secundarios adversos, asegúrate de contactar con un profesional de la salud de inmediato.
 
