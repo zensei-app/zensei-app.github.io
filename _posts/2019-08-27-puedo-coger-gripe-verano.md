@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "☀️\U0001F927 Gripe: ¿Puedo cogerla cuando hace calor?"
 date: 2019-08-27T22:00:00.000+00:00
-last_modified_at: 2019-08-27T22:00:00.000+00:00
+last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: Gripe
 image: "/uploads/Gripe en verano.jpg"
@@ -39,21 +39,21 @@ No obstante, si has estado de viaje en verano y experimentas la sintomatología 
 
 Los síntomas de la gripe son muy variados y pueden **confundirse con el de otras enfermedades**. De todos modos, resulta de gran utilidad conocer esta sintomatología:
 
-· Fiebre
+✅ Fiebre
 
-· Dolor de cuerpo
+✅ Dolor de cuerpo
 
-· Tos
+✅ Tos
 
-· Dolor de cabeza
+✅ Dolor de cabeza
 
-· Resfriado
+✅ Resfriado
 
-· Agotamiento y fatiga
+✅ Agotamiento y fatiga
 
-· Congestión
+✅ Congestión
 
-· Vómitos y diarrea (en algunas personas, especialmente en niños)
+✅ Vómitos y diarrea (en algunas personas, especialmente en niños)
 
 ### La gripe estomacal
 
@@ -71,13 +71,13 @@ Los virus causantes de esta enfermedad sobreviven mejor en climas más fríos y 
 
 Los **síntomas pseudogripales que ocurren durante el verano** probablemente sean causados ​​por otras enfermedades. Algunas patologías que presentan síntomas muy similares a la gripe incluyen:
 
-· **El resfriado común:** los síntomas incluyen dolor de garganta, tos, estornudos y congestión.
+✅ **El resfriado común:** los síntomas incluyen dolor de garganta, tos, estornudos y congestión.
 
-· Los síntomas de **la neumonía:** incluyen fiebre, dolores de cabeza, escalofríos y tos.
+✅ Los síntomas de **la neumonía:** incluyen fiebre, dolores de cabeza, escalofríos y tos.
 
-· **Gastroenteritis**: los síntomas incluyen dolores corporales, fiebre, dolores de cabeza junto con diarrea y calambres abdominales.
+✅ **Gastroenteritis**: los síntomas incluyen dolores corporales, fiebre, dolores de cabeza junto con diarrea y calambres abdominales.
 
-· **Bronquitis:** los síntomas incluyen fatiga, tos, fiebre, escalofríos y dificultad para respirar.
+✅ **Bronquitis:** los síntomas incluyen fatiga, tos, fiebre, escalofríos y dificultad para respirar.
 
 ![](/uploads/Gripe en verano 1.jpg)
 
@@ -97,23 +97,23 @@ Los enterovirus son **más comunes en los meses de verano** que los rinovirus, q
 
 La mayoría de los [resfriados de verano](https://www.kernpharma.com/es/blog/por-que-nos-resfriamos-en-verano) causan síntomas similares a los de los resfriados de invierno, que incluyen:
 
-· nariz que moquea
+✅ Nariz que moquea
 
-· tos
+✅ Tos
 
-· congestión
+✅ Congestión
 
-· dolores de cabeza
+✅ Dolores de cabeza
 
-· presión en los senos o la cabeza
+✅ Presión en los senos o la cabeza
 
-· dolor de garganta
+✅ Dolor de garganta
 
-· energía baja
+✅ Energía baja
 
-· dolores musculares
+✅ Dolores musculares
 
-· estornudos
+✅ Estornudos
 
 Muchos resfriados de invierno no causan fiebre, especialmente en adultos, pero **los virus de verano debidos a enterovirus pueden cursar con fiebre repentina**.
 
@@ -123,11 +123,11 @@ Aunque algunas personas insisten en que los resfriados de verano siempre son peo
 
 Algunos enterovirus causan otras enfermedades que puede cursar con diferentes síntomas. Pueden resultar muy molestos y requerir tratamiento médico:
 
-· **herpangina**, que causa pequeñas ampollas en la boca y la garganta, así como fiebre repentina
+✅ **Herpangina**, que causa pequeñas ampollas en la boca y la garganta, así como fiebre repentina
 
-· **enfermedad de manos, pies y boca**, que causa síntomas similares a la herpangina, excepto que las ampollas también están en las manos y los pies y una persona también puede tener síntomas similares a los de la gripe
+✅ **Enfermedad de manos, pies y boca**, que causa síntomas similares a la herpangina, excepto que las ampollas también están en las manos y los pies y una persona también puede tener síntomas similares a los de la gripe
 
-· **conjuntivitis** u “ojo de ojo”, que causa hinchazón y enrojecimiento en uno o ambos ojos
+✅ **Conjuntivitis** u “ojo de ojo”, que causa hinchazón y enrojecimiento en uno o ambos ojos
 
 En raras ocasiones, los enterovirus pueden causar enfermedades graves y potencialmente mortales, como **la meningitis y la miocarditis**.
 
@@ -135,35 +135,35 @@ En raras ocasiones, los enterovirus pueden causar enfermedades graves y potencia
 
 Puede ser difícil distinguir entre un [resfriado de verano](https://www.sanitas.es/sanitas/seguros/es/particulares/biblioteca-de-salud/prevencion-salud/resfriado-verano/index.html) y procesos alérgicos, particularmente cuando los síntomas aparecen al comienzo de la temporada de alergias. Algunas distinciones importantes incluyen:
 
-· **Fiebre:** las alergias a sustancias en el aire, como el polvo y el polen, no causan fiebre.
+✅ **Fiebre:** las alergias a sustancias en el aire, como el polvo y el polen, no causan fiebre.
 
-· **Momento de la enfermedad:** las alergias generalmente aparecen tan pronto como una persona entra en contacto con un alérgeno. Por ejemplo, una persona puede sentirse enferma apenas comienza la temporada de polen.
+✅ **Momento de la enfermedad:** las alergias generalmente aparecen tan pronto como una persona entra en contacto con un alérgeno. Por ejemplo, una persona puede sentirse enferma apenas comienza la temporada de polen.
 
-· **Duración de la enfermedad**: los resfriados, incluso los malos, suelen durar menos de 10 días, mientras que las alergias pueden durar muchas semanas.
+✅ **Duración de la enfermedad**: los resfriados, incluso los malos, suelen durar menos de 10 días, mientras que las alergias pueden durar muchas semanas.
 
-· Patrón de síntomas: las personas con alergias pueden notar que sus síntomas mejoran en interiores o cuando usan aire acondicionado o filtros de aire.
+✅ Patrón de síntomas: las personas con alergias pueden notar que sus síntomas mejoran en interiores o cuando usan aire acondicionado o filtros de aire.
 
-· **Agotamiento:** los resfriados suelen causar agotamiento y fatiga, mientras que las alergias rara vez lo hacen.
+✅ **Agotamiento:** los resfriados suelen causar agotamiento y fatiga, mientras que las alergias rara vez lo hacen.
 
-· **Dolores musculares:** las alergias pueden causar dolores de cabeza y dolor facial, pero no causan dolor muscular generalizado.
+✅ **Dolores musculares:** las alergias pueden causar dolores de cabeza y dolor facial, pero no causan dolor muscular generalizado.
 
-· **Respuesta a la medicación:** los antihistamínicos ayudan con muchas alergias, pero generalmente no ayudan con los síntomas del resfriado.
+✅ **Respuesta a la medicación:** los antihistamínicos ayudan con muchas alergias, pero generalmente no ayudan con los síntomas del resfriado.
 
 ### Tratamientos y remedios caseros
 
 Ningún medicamento puede matar los virus que causan la mayoría de los resfriados de verano. Sin embargo, una variedad de tratamientos puede ayudar con los síntomas. Estos **tratamientos** incluyen:
 
-· descongestionantes para ayudar con la tos y la congestión
+✅ Descongestionantes para ayudar con la tos y la congestión
 
-· medicinas y pastillas para la tos
+✅ Medicinas y pastillas para la tos
 
-· analgésicos e ibuprofeno
+✅ Analgésicos e ibuprofeno
 
-· frotaciones de vapor en el pecho para ayudar con la congestión
+✅ Frotaciones de vapor en el pecho para ayudar con la congestión
 
-· saunas de vapor para ayudar a aliviar la congestión
+✅ Saunas de vapor para ayudar a aliviar la congestión
 
-· un humidificador mientras estás dormido para reducir la sequedad del aire y ayudar con la tos
+✅ Un humidificador mientras estás dormido para reducir la sequedad del aire y ayudar con la tos
 
 Una persona siempre debe **consultar a un médico** antes de administrar medicamentos a bebés y niños pequeños. Además, debes evitar mezclar múltiples medicamentos a menos que un médico sugiera hacerlo.
 
