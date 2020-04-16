@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "¿Pueden empeorar los enfermos de EPOC en invierno?"
-date: 2019-12-18 23:00:00 +0000
-last_modified_at: 2019-12-18 23:00:00 +0000
+date: 2019-12-18T23:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Epoc
 image: "/uploads/Enfermos de EPOC.jpg"
@@ -40,25 +40,25 @@ Para los especialistas, aliviar estas cifras y consecuencias con respecto a la i
 
 En este estudio se tuvieron en cuenta distintos elementos que intervienen en las exacerbaciones de la EPOC en invierno:
 
-· Niveles de contaminación del aire.
+✅ Niveles de contaminación del aire.
 
-· Grado de humedad.
+✅ Grado de humedad.
 
-· Temperatura ambiente.
+✅ Temperatura ambiente.
 
-· Infecciones respiratorias de carácter viral.
+✅ Infecciones respiratorias de carácter viral.
 
 Los resultados han sido los encargados de ayudar a **definir las áreas objetivo** para la acción preventiva.
 
-· Identificación de los factores que aumentan las exacerbaciones en invierno.
+✅ Identificación de los factores que aumentan las exacerbaciones en invierno.
 
-· Biomarcadores.
+✅ Biomarcadores.
 
-· Patrones de exacerbaciones de la EPOC.
+✅ Patrones de exacerbaciones de la EPOC.
 
-· Fenotipos específicos.
+✅ Fenotipos específicos.
 
-· Intervenciones preventivas.
+✅ Intervenciones preventivas.
 
 Con estos parámetros y estos objetivos, el estudio brinda la oportunidad de **mejorar la morbilidad y la mortalidad asociadas a la EPOC en invierno.**
 
@@ -72,19 +72,19 @@ Para algunas personas, **respirar** [**aire frío**](https://zenseiapp.com/salud
 
 Se ha demostrado que las temperaturas bajo cero desencadenan brotes de EPOC. Una entrada de aire frío en los pulmones da como resultado un **estrechamiento de las vías respiratorias**. Esto puede provocar un aumento de los siguientes síntomas:
 
-· Disnea
+✅ Disnea
 
-· Sibilancias
+✅ Sibilancias
 
-· Tos
+✅ Tos
 
-· Respiración superficial
+✅ Respiración superficial
 
-· Opresión en el pecho
+✅ Opresión en el pecho
 
-· Aumento de la producción de moco
+✅ Aumento de la producción de moco
 
-· Dificultad para limpiar las vías respiratorias
+✅ Dificultad para limpiar las vías respiratorias
 
 Pero sea cual sea la causa exacta, la conclusión es que los pacientes con EPOC en invierno deben tomar precauciones adicionales. Es la única manera que tienen para evitar brotes graves. Es vital, además, que se protejan del aire frío. Pero, veamos algunas **estrategias que pueden llevar a cabo los enfermos de EPOC en invierno.**
 
