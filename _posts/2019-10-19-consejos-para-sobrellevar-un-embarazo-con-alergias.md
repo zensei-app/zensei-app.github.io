@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F930 Consejos para sobrellevar un embarazo con alergias "
-date: 2019-10-19 22:00:00 +0000
-last_modified_at: 2019-10-19 22:00:00 +0000
+date: 2019-10-19T22:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Alergia
 image: "/uploads/Embarazo con alergias.jpg"
@@ -25,15 +25,15 @@ Aproximadamente **una de cada 100 mujeres embarazadas sufre de asma durante la g
 
 Las futuras mamás con alergias estacionales pueden optar por los **tratamientos caseros** para aliviar los síntomas. Aquí tenéis algunos ejemplos:
 
-· Crear tu propio aerosol nasal salino. Lo consigues combinando 250 ml de agua tibia con 1/4 de sal. Introduce la mezcla en un atomizador casero y úsalo para irrigarte y calmarte las fosas nasales irritadas.
+✅ Crear tu propio aerosol nasal salino. Lo consigues combinando 250 ml de agua tibia con 1/4 de sal. Introduce la mezcla en un atomizador casero y úsalo para irrigarte y calmarte las fosas nasales irritadas.
 
-· Utiliza [Zensei App](https://zenseiapp.com/) para comprobar los niveles de polución y polen de tu ciudad. Si los niveles de polen se disparan, las mujeres que llevan un embarazo con alergias deben evitar pasar mucho tiempo al aire libre. Así reducen su exposición al alérgeno. Evita salir a la calle entre las 5 y las 10 a.m., pues son los momentos en que el recuento de polen suele ser más elevado.
+✅ Utiliza [Zensei App](https://zenseiapp.com/) para comprobar los niveles de polución y polen de tu ciudad. Si los niveles de polen se disparan, las mujeres que llevan un embarazo con alergias deben evitar pasar mucho tiempo al aire libre. Así reducen su exposición al alérgeno. Evita salir a la calle entre las 5 y las 10 a.m., pues son los momentos en que el recuento de polen suele ser más elevado.
 
-· Dúchate y cámbiate de ropa al volver a casa. Esto te ayudará a eliminar el polen que se haya podido acumular en el cabello y la ropa.
+✅ Dúchate y cámbiate de ropa al volver a casa. Esto te ayudará a eliminar el polen que se haya podido acumular en el cabello y la ropa.
 
-· Emplea máscaras si debes realizar actividades al aire libre como cortar el césped o practicar la jardinería.
+✅ Emplea máscaras si debes realizar actividades al aire libre como cortar el césped o practicar la jardinería.
 
-· Usa tiras nasales por las noches. Te ayudan a recolocar los conductos nasales para que estén más abiertos. Esto reduce los síntomas de alergia.
+✅ Usa tiras nasales por las noches. Te ayudan a recolocar los conductos nasales para que estén más abiertos. Esto reduce los síntomas de alergia.
 
 Siempre que puedas evitar los alérgenos que te producen síntomas de manera estacional, hazlo.
 
@@ -41,13 +41,13 @@ Siempre que puedas evitar los alérgenos que te producen síntomas de manera est
 
 La mayoría de las mujeres que llevan un embarazo con alergias pueden **tomar de forma segura sus tratamientos habituales**. Algunos de los medicamentos científicamente respaldados en su seguridad para la gestante son:
 
-· cetirizina (Zyrtec)
+✅ Cetirizina (Zyrtec)
 
-· clorfeniramina (ChlorTrimeton)
+✅ Clorfeniramina (ChlorTrimeton)
 
-· difenhidramina (Benadryl)
+✅ Difenhidramina (Benadryl)
 
-· loratadina (Claritin)
+✅ Loratadina (Claritin)
 
 Aun así, **siempre existe cierto riesgo al tomar un medicamento durante el embarazo**. Las mujeres con un embarazo con alergias deben consultar con su médico antes de tomar ninguna medicina para la alergia. Así se asegura que no sean potencialmente dañinos.
 
