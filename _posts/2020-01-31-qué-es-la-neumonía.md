@@ -271,5 +271,3 @@ Además de las vacunas, **los médicos recomiendan** a modo de prevención lo si
 ✅ Ejercitarse 5 días por semana.
 
 ✅ Mantenerse alejado del esputo o las partículas de tos de otras personas con neumonía.
-
-# 
