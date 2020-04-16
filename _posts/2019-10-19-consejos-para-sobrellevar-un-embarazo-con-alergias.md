@@ -19,7 +19,7 @@ tags: embarazo alergias asma
 
 Primero nos embarga la emoción, pero a continuación nos inunda la preocupación al tener que sobrellevar un embarazo con alergias. Las mujeres tienen muchas cosas en que pensar cuando están embarazadas. Sin embargo, lo más importante que debéis saber es que el asma y otros problemas alérgicos se encuentran entre las **enfermedades potencialmente más graves** que complican el embarazo.
 
-Aproximadamente **una de cada 100 mujeres embarazadas sufre de asma durante la gestación**. Otras muchas padecen la fiebre del heno y otro tipo de alergias. Por suerte, los alergólogos están perfectamente capacitados para ayudar a estas pacientes a controlar su asma y demás síntomas de alergia durante y después del embarazo
+Aproximadamente **una de cada 100 mujeres embarazadas sufre de asma durante la gestación**. Otras muchas padecen la fiebre del heno y otro tipo de alergias. Por suerte, los alergólogos están perfectamente capacitados para ayudar a estas pacientes a controlar su asma y demás síntomas de alergia durante y después del embarazo.
 
 ## Gestación con alergias estacionales
 
