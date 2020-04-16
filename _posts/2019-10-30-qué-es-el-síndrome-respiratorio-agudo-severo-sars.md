@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F637 Qué es el Síndrome Respiratorio Agudo Severo (SARS)"
-date: 2019-10-30 23:00:00 +0000
-last_modified_at: 2019-10-30 23:00:00 +0000
+date: 2019-10-30T23:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
 image: "/uploads/SARS.jpg"
@@ -25,89 +25,89 @@ El brote de SARS en 2002-2003 inicialmente comenzó en la provincia de Guangdong
 
 El curso clínico del SARS generalmente sigue un **patrón típico**. La etapa 1 comienza entre 2-7 días después de la incubación, dura 3-7 días y se caracteriza por lo siguiente:
 
-· Fiebre >38 ° C
+✅ Fiebre >38 ° C
 
-· Fatiga
+✅ Fatiga
 
-· Dolores de cabeza
+✅ Dolores de cabeza
 
-· Resfriado
+✅ Resfriado
 
-· Mialgias
+✅ Mialgias
 
-· Malestar
+✅ Malestar
 
-· Anorexia
+✅ Anorexia
 
 Las **características menos comunes** incluyen las siguientes:
 
-· Producción de esputo
+✅ Producción de esputo
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Rinitis
+✅ Rinitis
 
-· Náuseas y vómitos
+✅ Náuseas y vómitos
 
-· Mareo
+✅ Mareo
 
-· Diarrea
+✅ Diarrea
 
 **La etapa 2** es la fase que afecta al tracto respiratorio inferior y se caracteriza por lo siguiente:
 
-· Tos seca
+✅ Tos seca
 
-· Disnea
+✅ Disnea
 
-· Hipoxemia progresiva
+✅ Hipoxemia progresiva
 
-· Insuficiencia respiratoria que requiere ventilación mecánica en algunos casos
+✅ Insuficiencia respiratoria que requiere ventilación mecánica en algunos casos
 
 ## Diagnóstico
 
 Las **pruebas iniciales** en pacientes con sospecha de SARS incluyen lo siguiente:
 
-· Oximetría de pulso
+✅ Oximetría de pulso
 
-· Hemocultivos
+✅ Hemocultivos
 
-· Tinción de gramo de esputo y cultivo
+✅ Tinción de gramo de esputo y cultivo
 
-· Pruebas de patógenos respiratorios virales, especialmente virus de influenza A y B y virus sincitial respiratorio
+✅ Pruebas de patógenos respiratorios virales, especialmente virus de influenza A y B y virus sincitial respiratorio
 
-· La prueba de Legionella y antígeno neumocócico urinario también debe considerarse
+✅ La prueba de Legionella y antígeno neumocócico urinario también debe considerarse
 
 Los **datos del brote 2002-2003** indican que el SRAS puede estar asociado con los siguientes hallazgos de laboratorio:
 
-· Linfopenia moderada, leucopenia y trombocitopenia: las series han mostrado recuentos de glóbulos blancos (WBC) de menos de 3.5 x 10 9 / L y linfopenia de menos de aproximadamente 1 x 10 9 / L.
+✅ Linfopenia moderada, leucopenia y trombocitopenia: las series han mostrado recuentos de glóbulos blancos (WBC) de menos de 3.5 x 10 9 / L y linfopenia de menos de aproximadamente 1 x 10 9 / L.
 
-· Hiponatremia leve e hipocalemia.
+✅ Hiponatremia leve e hipocalemia.
 
-· Niveles elevados de lactato deshidrogenasa, alanina aminotransferasa y transaminasa hepática.
+✅ Niveles elevados de lactato deshidrogenasa, alanina aminotransferasa y transaminasa hepática.
 
-· Nivel elevado de creatina quinasa.
+✅ Nivel elevado de creatina quinasa.
 
 De acuerdo con las pautas de los Centros para el Control y la Prevención de Enfermedades (CDC), el diagnóstico de laboratorio de la infección por SARS-CoV se establece sobre la base de la **detección de cualquiera de los siguientes factores** con una prueba validada:
 
-· Anticuerpos séricos contra el SARS-CoV en una sola muestra de suero.
+✅ Anticuerpos séricos contra el SARS-CoV en una sola muestra de suero.
 
-· Un aumento de 4 veces o más en el título de anticuerpos contra el SARS-CoV entre muestras de suero de fase aguda y convaleciente analizadas en paralelo.
+✅ Un aumento de 4 veces o más en el título de anticuerpos contra el SARS-CoV entre muestras de suero de fase aguda y convaleciente analizadas en paralelo.
 
-· Resultado negativo de la prueba de anticuerpos contra el SARS-CoV en suero de fase aguda y resultado positivo de la prueba de anticuerpos contra el SARS-CoV en suero de fase convaleciente probado en paralelo.
+✅ Resultado negativo de la prueba de anticuerpos contra el SARS-CoV en suero de fase aguda y resultado positivo de la prueba de anticuerpos contra el SARS-CoV en suero de fase convaleciente probado en paralelo.
 
-· Aislamiento en cultivo celular de SARS-CoV a partir de una muestra clínica, con confirmación mediante una prueba validada por los CDC.
+✅ Aislamiento en cultivo celular de SARS-CoV a partir de una muestra clínica, con confirmación mediante una prueba validada por los CDC.
 
-· Detección de ARN del SARS-CoV mediante un ensayo de reacción en cadena de la polimerasa con transcriptasa inversa (RT-PCR) de dos muestras clínicas de diferentes fuentes o dos muestras clínicas recolectadas de misma fuente en 2 días diferentes.
+✅ Detección de ARN del SARS-CoV mediante un ensayo de reacción en cadena de la polimerasa con transcriptasa inversa (RT-PCR) de dos muestras clínicas de diferentes fuentes o dos muestras clínicas recolectadas de misma fuente en 2 días diferentes.
 
 Los **resultados de la radiografía de tórax** en SARS son los siguientes:
 
-· En un estudio, se encontraron anormalidades en los estudios iniciales en aproximadamente el 60% de los pacientes y se observaron en exámenes seriados en casi todos los pacientes entre 10 y 14 días después del inicio de los síntomas.
+✅ En un estudio, se encontraron anormalidades en los estudios iniciales en aproximadamente el 60% de los pacientes y se observaron en exámenes seriados en casi todos los pacientes entre 10 y 14 días después del inicio de los síntomas.
 
-· Los infiltrados intersticiales se pueden observar temprano en el curso de la enfermedad.
+✅ Los infiltrados intersticiales se pueden observar temprano en el curso de la enfermedad.
 
-· A medida que la enfermedad progresa, la opacificación generalizada afecta a grandes áreas, generalmente comenzando en los campos pulmonares inferiores.
+✅ A medida que la enfermedad progresa, la opacificación generalizada afecta a grandes áreas, generalmente comenzando en los campos pulmonares inferiores.
 
-· La exploración por tomografía computarizada de alta resolución es controvertida en la evaluación del SARS, pero puede considerarse cuando el SARS es una posibilidad clínica fuerte a pesar de las radiografías de tórax normales.
+✅ La exploración por tomografía computarizada de alta resolución es controvertida en la evaluación del SARS, pero puede considerarse cuando el SARS es una posibilidad clínica fuerte a pesar de las radiografías de tórax normales.
 
 ### Procedimiento médico del SRAS
 
@@ -115,11 +115,11 @@ No se ha desarrollado un protocolo de medicación definitivo específico para el
 
 Se pueden usar las siguientes medidas:
 
-· Aislar a los pacientes confirmados o sospechosos y proporcionar un tratamiento agresivo en un entorno hospitalario.
+✅ Aislar a los pacientes confirmados o sospechosos y proporcionar un tratamiento agresivo en un entorno hospitalario.
 
-· La ventilación mecánica y el tratamiento de cuidados críticos pueden ser necesarios durante la enfermedad.
+✅ La ventilación mecánica y el tratamiento de cuidados críticos pueden ser necesarios durante la enfermedad.
 
-· Un especialista en enfermedades infecciosas, un especialista pulmonar y / o un especialista en cuidados críticos deben dirigir al equipo de atención médica.
+✅ Un especialista en enfermedades infecciosas, un especialista pulmonar y / o un especialista en cuidados críticos deben dirigir al equipo de atención médica.
 
 ### Etiología
 
@@ -171,12 +171,12 @@ Algunos pacientes afectados pueden haber adquirido la infección por SARS-CoV de
 
 Los datos de la OMS indican que **la mortalidad por SARS es muy variable**. La tasa de mortalidad varía de menos del 1%, en pacientes menores de 24 años, a más del 50% en pacientes de 65 años o más. Ciertos **factores de riesgo**, incluidos los siguientes, se han asociado con un peor pronóstico:
 
-· Pacientes con más edad.
+✅ Pacientes con más edad.
 
-· Infección crónica por hepatitis B.
+✅ Infección crónica por hepatitis B.
 
-· Características del laboratorio: incluyendo linfopenia y leucocitosis marcadas, nivel elevado de lactato deshidrogenasa, hepatitis, alta carga viral de SARS-CoV y comorbilidades como diabetes mellitus.
+✅ Características del laboratorio: incluyendo linfopenia y leucocitosis marcadas, nivel elevado de lactato deshidrogenasa, hepatitis, alta carga viral de SARS-CoV y comorbilidades como diabetes mellitus.
 
-· Niveles elevados de proteína inducible por interferón 10 (IP-10), monocina inducida por IFN-gamma (MIG) e interleucina 8 (IL-8) durante la primera semana, así como un aumento de MIG durante la segunda semana. También se ha asociado con un mal pronóstico.
+✅ Niveles elevados de proteína inducible por interferón 10 (IP-10), monocina inducida por IFN-gamma (MIG) e interleucina 8 (IL-8) durante la primera semana, así como un aumento de MIG durante la segunda semana. También se ha asociado con un mal pronóstico.
 
 Por último, un estudio de sobrevivientes de SARS encontró que la mayoría de estos tuvieron una mejora significativa clínica, radiográfica y en sus estudios de función pulmonar. Sin embargo, **el 27.8% de los pacientes todavía exhibían radiografías anormales a los 12 meses.**
