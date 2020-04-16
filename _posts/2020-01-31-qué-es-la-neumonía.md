@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F912 Neumonía: Qué es y tipos de neumonías. "
-date: 2020-01-31 23:00:00 +0000
-last_modified_at: 2020-02-03 23:00:00 +0000
+date: 2020-01-31T23:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
 image: "/uploads/Neumonía pulmones.jpg"
@@ -14,6 +14,7 @@ intro: La **neumonía** suele estar provocada por la infección que generan hong
   Descubre todo lo que necesitas saber respecto a esta enfermedad pulmonar.
 tags: enfermedades-pulmonares neumonía infección pulmonar
 slug: neumonia infeccion pulmonar
+
 ---
 ![Radiografía pulmones con neumonía](/uploads/Neumonía pulmones.jpg "Neumonía")
 
@@ -33,17 +34,17 @@ Los síntomas de esta infección pulmonar varían según su origen, su edad y su
 
 Los **síntomas más comunes** de la neumonía incluyen:
 
-· Dolor de pecho al toser o respirar.
+✅ Dolor de pecho al toser o respirar.
 
-· Tos con mocos o flemas.
+✅ Tos con mocos o flemas.
 
-· Pérdida de apetito y fatiga.
+✅ Pérdida de apetito y fatiga.
 
-· Fiebre, sudoración y escalofríos.
+✅ Fiebre, sudoración y escalofríos.
 
-· Náuseas, vómitos y diarrea.
+✅ Náuseas, vómitos y diarrea.
 
-· Falta de aliento.
+✅ Falta de aliento.
 
 Junto con estos síntomas, los adultos mayores y las personas con sistemas inmunes débiles pueden sentirse confusos o tener alteraciones de cambios de humor. También podrían presentar una temperatura corporal inferior a la normal.
 
@@ -55,13 +56,13 @@ Los principales agentes responsables de la neumonía son **las bacterias, los vi
 
 Las causas más comunes de esta infección respiratoria incluyen los siguientes virus y bacterias:
 
-· Virus de la gripe.
+✅ Virus de la gripe.
 
-· Virus del resfriado.
+✅ Virus del resfriado.
 
-· Virus RSV (la principal causa de neumonía en bebés de 1 año o menos).
+✅ Virus RSV (la principal causa de neumonía en bebés de 1 año o menos).
 
-· Bacterias llamadas _Streptococcus pneumoniae_ y _Mycoplasma pneumoniae._
+✅ Bacterias llamadas _Streptococcus pneumoniae_ y _Mycoplasma pneumoniae._
 
 Algunos pacientes hospitalizados terminan contrayendo lo que se conoce como "**neumonía asociada al respirador**". Contraen la enfermedad al usar la máquina que les ayuda a respirar o respirador.
 
@@ -79,15 +80,15 @@ Los síntomas del resfriado tienden a aparecer lentamente. Son más propensos a 
 
 La clave de la gripe es que los síntomas suelen aparecer de pronto y son bastante fuertes. Es como si salieran de un momento para otro. Puedes sentir:
 
-· Fiebre alta (cualquier cosa por encima de 37°C).
+✅ Fiebre alta (cualquier cosa por encima de 37°C).
 
-· Dolor de cabeza.
+✅ Dolor de cabeza.
 
-· Molestias y dolores severos.
+✅ Molestias y dolores severos.
 
-· Extremo cansancio.
+✅ Extremo cansancio.
 
-· Tos seca y cortante.
+✅ Tos seca y cortante.
 
 Estos síntomas tienden a desaparecer en apenas 2 o 5 días. Aun así, es probable que la tos leve o el dolor de garganta perdure un par de semanas más.
 
@@ -99,43 +100,43 @@ Esto último sucede cuando los gérmenes causantes de los resfriados y gripe baj
 
 Con neumonía puedes tener todos los síntomas de la gripe, pero también:
 
-· Fiebre alta hasta los 40°C.
+✅ Fiebre alta hasta los 40°C.
 
-· Tos con moco verdoso, amarillo o sanguinolento.
+✅ Tos con moco verdoso, amarillo o sanguinolento.
 
-· Escalofríos y temblores.
+✅ Escalofríos y temblores.
 
-· Falta de aliento, especialmente al moverte más de lo habitual.
+✅ Falta de aliento, especialmente al moverte más de lo habitual.
 
-· Mucho cansancio.
+✅ Mucho cansancio.
 
-· Falta de apetito.
+✅ Falta de apetito.
 
-· Dolor agudo o puntual en el pecho (puede que lo sientas al toser o respirar profundamente).
+✅ Dolor agudo o puntual en el pecho (puede que lo sientas al toser o respirar profundamente).
 
-· Sudoración excesiva.
+✅ Sudoración excesiva.
 
-· Alta frecuencia cardíaca.
+✅ Alta frecuencia cardíaca.
 
-· Labios y uñas azuladas.
+✅ Labios y uñas azuladas.
 
-· Confusión, especialmente en mayores de 65 años.
+✅ Confusión, especialmente en mayores de 65 años.
 
 ## Neumonía en niños
 
 Los niños con resfriados suelen padecer, durante unos días, fiebre alta (en adultos la fiebre con resfriados no es bastante común). Si el menor padece neumonía bacteriana, sus síntomas pueden ser más sutiles. Lo más probable es que presenten el siguiente cuadro:
 
-· Respiración rápida y laboriosa y rápida (más de 45 respiraciones por minuto).
+✅ Respiración rápida y laboriosa y rápida (más de 45 respiraciones por minuto).
 
-· Fiebre.
+✅ Fiebre.
 
-· Tos.
+✅ Tos.
 
-· Sibilancias.
+✅ Sibilancias.
 
-· Piel, labios o dedos azulados.
+✅ Piel, labios o dedos azulados.
 
-· Deshidratación.
+✅ Deshidratación.
 
 Los síntomas en los bebés pueden ser un poco vagos, como irritabilidad o dificultad para alimentarse. Los niños pequeños pueden quejarse de dolor en el pecho, pudiendo vomitar después de toser.
 
@@ -157,13 +158,13 @@ Ya te lo hemos mencionado, es cuando adquieres esta enfermedad al estar hospital
 
 Es más probable que padezcas neumonía adquirida en el hospital si:
 
-· Estás empleando un respirador.
+✅ Estás empleando un respirador.
 
-· No puedes toser lo suficiente como para despejar los pulmones.
+✅ No puedes toser lo suficiente como para despejar los pulmones.
 
-· Te han realizado una traqueotomía para poder respirar.
+✅ Te han realizado una traqueotomía para poder respirar.
 
-· Tu sistema inmunitario, la defensa de tu cuerpo contra los gérmenes, es débil debido a una enfermedad o tratamiento previo.
+✅ Tu sistema inmunitario, la defensa de tu cuerpo contra los gérmenes, es débil debido a una enfermedad o tratamiento previo.
 
 ### Adquirida en la comunidad
 
@@ -179,17 +180,17 @@ Si tu sistema inmunitario está debilitado, tus posibilidades de contraer neumon
 
 Notarás síntomas como:
 
-· Tos con mucosidad.
+✅ Tos con mucosidad.
 
-· Fiebre superior a los 40°C.
+✅ Fiebre superior a los 40°C.
 
-· Respiración agitada.
+✅ Respiración agitada.
 
-· Falta de aliento.
+✅ Falta de aliento.
 
-· Dolor de pecho.
+✅ Dolor de pecho.
 
-· Fatiga.
+✅ Fatiga.
 
 **Los antibióticos funcionan contra la neumonía bacteriana.** Tu médico te realizará las pruebas pertinentes para ubicar el tipo de bacteria causante de la infección. Así podrá seleccionar el antibiótico adecuado para hacerle frente.
 
@@ -207,13 +208,13 @@ Se propaga a través de estornudos o tos. Pero lo hace lentamente. Si la contrae
 
 En este caso, el origen de la neumonía es un virus. Entre los más habituales nos encontramos con:
 
-· Los virus de la gripe A y B son las causas más comunes en adultos.
+✅ Los virus de la gripe A y B son las causas más comunes en adultos.
 
-· El virus sincitial respiratorio, o VSR, es el más habitual en bebés y niños.
+✅ El virus sincitial respiratorio, o VSR, es el más habitual en bebés y niños.
 
-· Otros incluyen [coronavirus](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/), rinovirus, virus de parainfluenza y adenovirus.
+✅ Otros incluyen [coronavirus](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/), rinovirus, virus de parainfluenza y adenovirus.
 
-· De manera más rara, el herpes simple, el sarampión y la varicela también podrían ser el origen de esta infección pulmonar.
+✅ De manera más rara, el herpes simple, el sarampión y la varicela también podrían ser el origen de esta infección pulmonar.
 
 Los virus que causan la neumonía viajan por el aire en forma de gotitas de líquido tras un estornudo o una tos. Puedes inhalar estos líquidos a través de la nariz o la boca. También puedes contraer neumonía viral después de tocar un pomo o teclado cargado de virus y luego tocarte la nariz o la boca.
 
@@ -229,50 +230,46 @@ Este tipo de infección pulmonar **puede ser causada por aspiración**. Es decir
 
 Las personas con más riesgo de padecer neumonía son:
 
-· Niños menores de 5 años y adultos mayores de 65 años.
+✅ Niños menores de 5 años y adultos mayores de 65 años.
 
-· El tabaco y el alcohol.
+✅ El tabaco y el alcohol.
 
-· Padecer afecciones subyacentes como fibrosis quística, trastorno pulmonar obstructivo crónico (EPOC), asma o afecciones que afectan los riñones, el corazón o el hígado.
+✅ Padecer afecciones subyacentes como fibrosis quística, trastorno pulmonar obstructivo crónico (EPOC), asma o afecciones que afectan los riñones, el corazón o el hígado.
 
-· Tener el sistema inmunitario debilitado debido, por ejemplo, a SIDA, VIH o cáncer.
+✅ Tener el sistema inmunitario debilitado debido, por ejemplo, a SIDA, VIH o cáncer.
 
-· La toma de medicamentos para tratar el reflujo gastroesofágico (ERGE).
+✅ La toma de medicamentos para tratar el reflujo gastroesofágico (ERGE).
 
-· Haber cursado recientemente una infección por resfriado o gripe.
+✅ Haber cursado recientemente una infección por resfriado o gripe.
 
-· Desnutrición.
+✅ Desnutrición.
 
-· Haber sido hospitalizados recientemente en una unidad de cuidados intensivos.
+✅ Haber sido hospitalizados recientemente en una unidad de cuidados intensivos.
 
-· Estar expuesto a ciertos químicos o contaminantes.
+✅ Estar expuesto a ciertos químicos o contaminantes.
 
 ## Prevención
 
 Existen **dos vacunas** diferentes para prevenir la enfermedad neumocócica, la causa bacteriana más común de neumonía. Estas cubren una amplia variedad de infecciones neumocócicas y se recomiendan para niños y adultos, dependiendo de sus condiciones de salud.
 
-· Vacuna conjugada neumocócica o [**Prevnar**](https://adult.prevnar13.com/es). Se incluye en el calendario de vacunación infantil.
+✅ Vacuna conjugada neumocócica o [**Prevnar**](https://adult.prevnar13.com/es). Se incluye en el calendario de vacunación infantil.
 
-· Vacuna antineumocócica de polisacáridos o [**Pneumovax**](https://www.vademecum.es/medicamento-pneumovax+23+sol.+iny.+monodosis+0%2C5+ml_prospecto_63828). Recomendada para niños y adultos con mayor riesgo de desarrollar infecciones neumocócicas.
+✅ Vacuna antineumocócica de polisacáridos o [**Pneumovax**](https://www.vademecum.es/medicamento-pneumovax+23+sol.+iny.+monodosis+0%2C5+ml_prospecto_63828). Recomendada para niños y adultos con mayor riesgo de desarrollar infecciones neumocócicas.
 
 Podría suceder que la vacuna no proteja completamente a los ancianos, pero reduce significativamente el riesgo de desarrollar neumonía y otras infecciones, incluidas las infecciones sanguíneas y cerebrales.
 
 Además de las vacunas, **los médicos recomiendan** a modo de prevención lo siguiente:
 
-· Lavarse las manos regularmente.
+✅ Lavarse las manos regularmente.
 
-· Cubrirse boca y nariz al toser o estornudar.
+✅ Cubrirse boca y nariz al toser o estornudar.
 
-· No fumar.
+✅ No fumar.
 
-· Llevar una dieta saludable.
+✅ Llevar una dieta saludable.
 
-· Ejercitarse 5 días por semana.
+✅ Ejercitarse 5 días por semana.
 
-· Mantenerse alejado del esputo o las partículas de tos de otras personas con neumonía.
+✅ Mantenerse alejado del esputo o las partículas de tos de otras personas con neumonía.
 
-<<<<<<< HEAD
-En general, **recuperarse de una neumonía te llevará entre una y tres semanas**. Aquellas personas con riesgo de padecer los síntomas más graves de esta enfermedad deben asegurarse de mantener al día sus vacunas.
-=======
-En general, **recuperarse de una neumonía te llevará entre una y tres semanas**. Aquellas personas con riesgo de padecer los síntomas más graves de esta enfermedad deben asegurarse de mantener al día sus vacunas.
->>>>>>> 489e18d593d221d5bb4910debee8b6fe8ca8e0a7
+# 
