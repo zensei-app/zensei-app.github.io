@@ -36,15 +36,15 @@ Después de recibir una dosis de medicamento, el paciente estará bajo control d
 
 Los **efectos secundarios más comunes** del omalizumab son:
 
-· Dolores musculares
+✅ Dolores musculares
 
-· Dolores articulares
+✅ Dolores articulares
 
-· Fatiga
+✅ Fatiga
 
-· Reacción en el lugar de inyección
+✅ Reacción en el lugar de inyección
 
-· Reacciones alérgicas severas (poco frecuentes)
+✅ Reacciones alérgicas severas (poco frecuentes)
 
 #### Mepolizumab
 
@@ -54,17 +54,17 @@ El principio activo se administra a través de una inyección debajo de la piel*
 
 Los **efectos secundarios** más comunes del mepolizumab son:
 
-· Dolores de cabeza
+✅ Dolores de cabeza
 
-· Reacción en el lugar de inyección
+✅ Reacción en el lugar de inyección
 
-· Dolor de espalda
+✅ Dolor de espalda
 
-· Debilidad
+✅ Debilidad
 
-· Fatiga
+✅ Fatiga
 
-· Reacciones alérgicas severas (poco frecuentes)
+✅ Reacciones alérgicas severas (poco frecuentes)
 
 #### Reslizumab
 
@@ -76,11 +76,11 @@ Después de recibir una dosis de medicamento, la mayoría de los centros clínic
 
 Los **efectos secundarios** más comunes del reslizumab son:
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Dolores musculares
+✅ Dolores musculares
 
-· Reacciones alérgicas severas (poco frecuentes)
+✅ Reacciones alérgicas severas (poco frecuentes)
 
 #### Benralizumab
 
@@ -92,11 +92,11 @@ Después de recibir una dosis de este medicamento, el paciente permanece bajo co
 
 Los **efectos secundarios** más comunes del Benraluzumab son:
 
-· Dolor de cabeza
+✅ Dolor de cabeza
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Reacciones alérgicas severas (poco frecuentes)
+✅ Reacciones alérgicas severas (poco frecuentes)
 
 #### Dupilumab
 
@@ -110,13 +110,13 @@ Será monitoreado durante 30 minutos después de las siguientes dos dosis. Despu
 
 Los **efectos secundarios** más comunes con Dupilumab son:
 
-· Dolor de garganta
+✅ Dolor de garganta
 
-· Reacción en el lugar de la inyección (enrojecimiento o dolor temporal)
+✅ Reacción en el lugar de la inyección (enrojecimiento o dolor temporal)
 
-· Nivel elevado de eosinófilos
+✅ Nivel elevado de eosinófilos
 
-· Reacciones alérgicas severas (poco frecuentes)
+✅ Reacciones alérgicas severas (poco frecuentes)
 
 ![](/uploads/jeringuilla.jpg)
 
@@ -156,13 +156,13 @@ Quizás, con tanta información, pueda fomentarse cierta confusión con respecto
 
 La tipología y la dosificación de los fármacos para el asma están vinculados a ciertos aspectos:
 
-· **Edad**
+✅ **Edad**
 
-· **Sintomatología**
+✅ **Sintomatología**
 
-· **Gravedad**
+✅ **Gravedad**
 
-· **Efectos secundarios**
+✅ **Efectos secundarios**
 
 El asma puede cambiar dependiendo de la estación. Por ello, es preciso un trabajo estrecho entre el médico y tú. De esta manera estarás seguro de que el especialista podrá realizar un registro de la sintomatología y efectuar un ajuste de la medicación necesaria. Ya hemos dedicado un extenso espacio para la terapia biológica para el asma severa. Veamos ahora **otros tipos de medicamentos** que existen para el asma.
 
@@ -170,23 +170,23 @@ El asma puede cambiar dependiendo de la estación. Por ello, es preciso un traba
 
 Existen muchos asmáticos que precisan la administración de fármacos de control a largo plazo. Deben tomarlos a diario, incluso cuando parecen estar asintomáticos.
 
-· **Inhaladores con corticoesteroides**
+✅ **Inhaladores con corticoesteroides**
 
 Son medicamentos de acción antiinflamatoria. Abren las vías respiratorias y se han convertido en los fármacos para controlar a largo plazo de mayor efectividad. Por ello, son los más utilizados.
 
-· **Bloqueadores de leucotrienos**
+✅ **Bloqueadores de leucotrienos**
 
 Los leucotrienos son una serie de químicos del sistema inmunitario. En ellos se encuentra el origen de la sintomatología del asma. Los bloqueadores pueden prevenir la aparición de los síntomas durante todo un día.
 
-· **Agonistas beta de acción prolongada (LABA)**
+✅ **Agonistas beta de acción prolongada (LABA)**
 
 Los LABA son broncodilatadores que ejercen una acción antiinflamatoria sobre las vías respiratorias. Su efecto se prolonga al menos durante 12 horas. Su uso es más común para la prevención de sintomatología nocturna y el control del asma de carácter moderado a grave. Suelen combinarse con un inhalador con corticoesteroides.
 
-· **Teofilina**
+✅ **Teofilina**
 
 La teofilina es una pastilla de acción broncodilatadora que se administra cada día. Es una pastilla para el tratamiento del asma leve. Proporciona una acción relajante de las vías respiratorias y reduce la inflamación de los pulmones.
 
-· **Inhaladores combinados**
+✅ **Inhaladores combinados**
 
 Se trata de una terapia en la que se utilizan inhaladores combinados. De esta forma, el paciente recibe una dosis de corticoesteroide y otra de broncodilatador.
 
@@ -196,23 +196,23 @@ Son conocidos también como **medicamentos de rescate**. Este sobrenombre se deb
 
 Estos fármacos no son de uso diario. Algunos asmáticos utilizan este tipo de inhaladores momentos antes de realizar actividad física. De este modo, consiguen una ayuda para la prevención de la falta de aire y otras manifestaciones del asma.
 
-· **Ipratropio**
+✅ **Ipratropio**
 
 Este medicamento es, en realidad, un broncodilatador de efecto breve. Normalmente es recetado a los pacientes con enfisema o bronquitis crónica. En ocasiones, el Ipratropio es usado para el tratamiento de las crisis asmáticas. También es utilizado en lugar de los agonistas beta de acción corta.
 
-· **Corticoides esteroideos por vía oral para crisis asmáticas graves**
+✅ **Corticoides esteroideos por vía oral para crisis asmáticas graves**
 
 Son administrados en casos de crisis graves de asma. Su prescripción suele realizarse para un tratamiento corto. La razón estriba en sus efectos secundarios. Pueden resultar molestos a corto plazo y de mayor gravedad si se prolonga.
 
 ### Fármacos para asmáticos afectados por alérgenos
 
-· **Vacunas contra la alergia**
+✅ **Vacunas contra la alergia**
 
-· **Antihistamínicos**
+✅ **Antihistamínicos**
 
-· **Aerosoles orales y nasales**
+✅ **Aerosoles orales y nasales**
 
-· **Aerosoles nasales con corticosteroides y cromolina**
+✅ **Aerosoles nasales con corticosteroides y cromolina**
 
 ## Cómo aprovechar todos los beneficios de los fármacos para el asma
 
