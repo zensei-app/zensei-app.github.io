@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: Guía definitiva para entender el Asma
-date: 2020-02-11 23:00:00 +0000
-last_modified_at: 2020-02-11 23:00:00 +0000
+date: 2020-02-11T23:00:00.000+00:00
+last_modified_at: 2020-02-11T23:00:00.000+00:00
 author: Cristina
 category: Asma
 image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
@@ -20,6 +20,7 @@ intro: |
   Empezamos.
 tags: asma sintomas causas definicion ataque dificultad-respiratoria
 slug: guia-asma
+
 ---
 El [asma ](https://medlineplus.gov/spanish/asthma.html)es una enfermedad que provoca que las vías respiratorias se hinchen y se estrechen.
 
@@ -34,39 +35,24 @@ El asma no tiene cura, pero cambia con el tiempo por lo que es importante llevar
 No está claro por qué algunas personas contraen asma y otras no, pero suele estar relacionado con ciertos factores conocidos como alérgenos o desencadenantes:
 
 * **El polen**: aunque la polinización se produce en primavera, existen variaciones según el clima y los tipos de plantas.
-
 * **Ácaros de polvo**: son parásitos microscópicos que viven en el polvo de las casas.
-
 * **Algunos hongos.**
-
 * **Pelo o caspa de animales:** tanto domésticos, como pueden ser los gatos, o no domésticos, como los caballos.
 
   ![](/uploads/pelo de gato.jpg)
-
 * **Algunos medicamentos:** como la aspirina, los betabloqueantes, el ibuprofeno o el naproxeno.
-
 * **Cambios en el clima:** sobre todo el frío.
-
 * **Algunos químicos** que se añaden a los alimentos y bebidas.
-
 * **Actividad física.**
-
 * **Infecciones respiratorias** por virus respiratorios o bacterias.
-
 * **Emociones fuertes:** como el estrés.
-
 * **Contaminantes del aire e irritantes:** como el humo del tabaco.
 
   ![](/uploads/contaminacion.jpg)
-
 * Tener un **pariente consanguíneo con asma.**
-
 * Tener **alguna alergia:** como la dermatitis atópica o rinitis alérgica.
-
 * Tener **sobrepeso**.
-
 * Ser **fumador** o estar expuesto al **tabaquismo pasivo**.
-
 * Estar expuesto a **productos químicos en el ámbito laboral**: como ocurre en la agricultura, la peluquería y la fabricación.
 
 ## Síntomas del asma
@@ -78,13 +64,9 @@ La frecuencia de los síntomas pueden ser poco frecuentes o sufrirlos tenerlos c
 Los principales síntomas del asma son:
 
 * **Falta de aire o dificultad para respirar**, también conocido como disnea.
-
 * **Dolor y opresión en el pecho**.
-
 * **Problemas para dormir** causados por ataques de asma nocturnos.
-
 * **Cansancio durante el día.**
-
 * Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
 ![](/uploads/mujer-enferma-que-tiene-tos-descansando-cama_23-2147953577.jpg)
@@ -92,9 +74,7 @@ Los principales síntomas del asma son:
 También es importante conocer las situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
 
 * Al hacer **ejercicio físico**, que puede verse agravado con aire frío y seco.
-
 * En algunos sitios con **vapores químicos, gases o polvos.** Suele darse en algunos lugares de trabajo.
-
 * Existen **ciertas sustancias en el aire** que pueden afectar a nuestro asma como el polen, las esporas de moho, partículas de piel o pelos y saliva de diferentes mascotas.
 
 ## Pruebas y diagnóstico del asma
@@ -116,9 +96,7 @@ Los síntomas clínicos del asma se pueden confundir con otras enfermedades tant
 Es posible que el médico haga lo siguientes:
 
 * **Examinar** la nariz, la garganta y las vías respiratorias superiores.
-
 * Usar un estetoscopio para **escuchar la respiración**. La [sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm) (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
-
 * **Examinar la piel** para detectar signos de afecciones alérgicas, como eccema y urticaria.
 
 ![](/uploads/doctor-auscultando-paciente_13339-210181.jpg)
@@ -146,7 +124,6 @@ En caso de que el asma sea desencadenado por el ejercicio es posible que el méd
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
 1. **Análisis de óxido nítrico exhalado**: en este caso el médico te pedirá que respires dentro de un tubo conectado a una máquina que mide la cantidad de óxido nítrico gaseoso que hay en el aire exhalado. El cuerpo produce este gas de forma natural pero unos niveles altos puede significar que las vías respiratorias están inflamadas, y por lo tanto, un signo de asma.
-
 2. **Pruebas de los pulmones en niños**: es muy poco frecuente realizar estas pruebas en niños menores de cinco años. Para diagnosticar asma infantil los médicos se basan en los síntomas, su historia clínica y la exploración física.
 
 ## Tratamiento del asma
@@ -158,16 +135,13 @@ Un tratamiento adecuado marca una gran diferencia a la hora de prevenir complica
 El tratamiento debe cubrir varios frentes:
 
 1. **Inflamación de la mucosa bronquial**: es la parte más importante. Se emplean dosis muy bajas de coirticoides por vía inhalatoria. Comienzan a prescribirse en pacientes que comienzan a tener síntomas varios días a la semana (asma persistente) y en aquellos en los que se producen síntomas nocturnos.
-
 2. **Broncoespasmos:** los corticoides inhalados no actúan de forma inmediata, pero cuando hacen efecto tras unos días de tratamiento, remite. Para el tratamiento inmediato se utilizan broncodilatadores que normalmente se administran por vía inhalatoria. Existen dos tipos fundamentales según la duración:
-
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
-
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
 
 ![](/uploads/primer-plano-mujer-que-usa-inhalador-asma_23-2147948420.jpg)
 
-3. En el caso de que el paciente padezca **asma alérgica**:
+1. En el caso de que el paciente padezca **asma alérgica**:
    1. Los antihistamínicos pueden ser beneficiosos.
    2. Con ciertas alergias existen tratamientos inmunológicos eficaces (vacunas) que pueden ayudar notablemente en el control de ataques de asma.
    3. Lo más eficaz en el tratamiento de las alergias asmáticas es evitar y reducir en lo posible la exposición a alérgenos.
@@ -177,7 +151,6 @@ El tratamiento debe cubrir varios frentes:
 Los fármacos para tratar el asma se clasifican en dos categorías:
 
 * **De control o mantenimiento**: deben administrarse a diario durante periodos prolongados. Se incluyen los glucocorticoides inhalados (GCI) o sistémicos, antagonistas de los receptores de los leucotrienos (ARLT), agonistas beta2 adrenérgicos de acción larga (LABA), tiotropio y anticuerpos monoclonales anti-IgE (omalizumab).
-
 * **De alivio o rescate**: se utilizan a demanda para tratar o prevenir la broncoconstricción de forma rápida y, entre ellos, se encuentran los agonistas beta2 adrenérgicos de acción corta (SABA) inhalados (de elección) y los anticolinérgicos inhalados (bromuro de ipratropio).
 
 ### Inhaladores y nebulizadores para el asma
@@ -189,11 +162,8 @@ El principal inconveniente de esta vía es la dificultad de la técnica de inhal
 Los [dispositivos](https://zenseiapp.com/asma/comprar-mejores-nebulizadores-para-asmaticos/) de inhalación disponibles en la actualidad son:
 
 * El inhalador presurizado convencional: se puede utilizar con o sin cámara espaciadora.
-
 * El sistema Modulite.
-
 * El inhalador de vapor fino (SMI) Respimat.
-
 * Inhaladores de polvo seco (DPI).
 
 ## Prevención del asma
@@ -203,25 +173,17 @@ No existe ninguna forma de prevenir el asma, pero con ayuda de tu médico se pue
 Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu calidad de vida:
 
 * **Identifica y evita los desencadenantes del asma** (lugares con polen, por ejemplo).
-
 * Elabora un **plan de acción** para el asma con tu médico y asegúrate de seguirlo.
-
 * **Toma tus medicamentos** según las indicaciones. Da igual si parece que el asma mejora, no cambies ninguna dosis ni dejes de tomar ninguna medicina sin haber hablado con tu médico.
-
 * Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque. Te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
-
 * **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
 
 ![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.jpg)
 
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
-
 * Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan.
-
 * Evitar realizar [**ejercicios intensos**](https://zenseiapp.com/asma/practicar-deporte-asma/) en épocas de polinización para evitar dificultades respiratorias que deriven en ataques de asma.
-
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
-
 * Evita **fumar** y espacios con mucho **humo**.
 
 ![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.jpg)
@@ -233,13 +195,9 @@ Cuando el asma empeora, puede llevar a complicaciones más graves.
 Algunos de los síntomas que indican que el asma está empeorando son:
 
 * Signos y síntomas que **interfieren en el sueño**, el trabajo o las actividades recreativas.
-
 * Días de ausencia al trabajo o a la escuela por **enfermedad durante los ataques de asma.**
-
 * **Estrechamiento permanente de los tubos bronquiales** (remodelación de las vías respiratorias) que afecta la forma en que puedes respirar.
-
 * Visitas a urgencias y hospitalizaciones por **ataques intensos de asma.**
-
 * **Efectos secundarios** del consumo a largo plazo de algunos medicamentos que se utilizan para estabilizar el asma grave.
 
 ![](/uploads/blur-hospital_1203-7957.jpg)
@@ -257,37 +215,25 @@ Las exacerbaciones pueden instaurarse de forma rápida (en menos de tres horas) 
 Existen diferentes clasificaciones:
 
 * En función de su origen:
-  
   * [**Asma intrínseca**](https://www.clinicasubiza.com/es-es/enfermedades/espec%C3%ADficas/broncopulmonares/asmaintr%C3%ADnseco.aspx): su origen es desconocido y es más frecuente entre los adultos. Tiene un peor pronóstico y suele durar más.
-  
   * **Asma extrínseca o alérgica**: es una reacción antígeno-anticuerpo que desencadena el proceso. Afecta principalmente a niños y adultos jóvenes. Se caracteriza por ataques reversibles y breves de broncoespasmos con silbidos y dificultad respiratoria. Se puede controlar con un tratamiento adecuado.
-
 * En función de la situación:
-  
   * **Asma** provocado por el **ejercicio físico**.
-  
   * **Asma ocupacional:** desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.
-  
   * **Asma alérgica:** causado por sustancias que se encuentran en el aire como el polen o el pelo de las mascotas.
 
 # ![](/uploads/mujeres-tienen-dolor-pecho-mientras-corren-jardin_42310-100.jpg)
 
 * En función de la frecuencia y la intensidad de los síntomas:
-  
   * **Leve**: se puede controlar mediante tratamiento farmacológico y no suele alterar la vida cotidiana de quienes la padecen.
-  
   * **Moderada**: requiere tratamientos más severos e interfiere con las actividades diarias de quienes la padecen.
-  
   * **Grave**: si no está controlada, debilita a quien la padece y puede llegar a ser mortal en aquellas personas que sufren crisis, brotes o ataques. También provocar una limitación considerable de la función pulmonar y de su calidad de vida.
 
 ## Cuándo contactar con un médico especialista en asma
 
 * **Si crees que tienes asma**. Si tienes tos o silbido al respirar que dura más de algunos días o si tienes cualquier otro síntoma o signo de asma. Tratar el asma antes de tiempo puede prevenir daño pulmonar a largo plazo y ayudar a evitar que empeore con el paso del tiempo.
-
 * Para **controlar el asma después del diagnóstico**. Si sabes que tienes asma, colabora con tu médico para controlarla. Un buen control a largo plazo ayuda a que te sientas mejor en el día a día y puede prevenir ataques de asma que ponen en riesgo tu vida.
-
 * Si **empeoran los síntomas** del asma. Si crees que los medicamentos no están aliviando los síntomas o si necesitas usar el inhalador de alivio rápido con mayor frecuencia. No intentes resolver el problema tomando más medicamentos sin antes consultar con el médico. El abuso de los medicamentos para el asma puede producir efectos secundarios y empeorar el asma.
-
 * Para **revisar tu tratamiento**. Con frecuencia, el asma cambia con el paso del tiempo. Reúnete con el médico regularmente para hablar sobre tus síntomas y hacer cualquier ajuste necesario al tratamiento.
 
 ![](/uploads/primer-plano-medico-llenando-formulario-medico-paciente_23-2148050550.jpg)
@@ -297,9 +243,7 @@ Los ataques de asma graves pueden poner en riesgo tu vida. Habla con el médico 
 Los signos de urgencia por asma comprenden:
 
 * Rápido **empeoramiento** de la falta de aire o del silbido al respirar.
-
 * **Falta de mejora**, incluso después de usar inhalador de alivio rápido, como salbutamol.
-
 * **Falta de aire** cuando haces la mínima actividad física.
 
 ## Consejos para evitar el asma
@@ -353,11 +297,8 @@ Es muy importante la actitud frente a la enfermedad que tiene el adolescente ya 
 Los factores de riesgo durante la adolescencia no son diferentes a los de un adulto, pero algunos son más frecuentes durante esta etapa:
 
 * Obesidad.
-
 * Tabaquismo.
-
 * Factores emocionales como la ansiedad o el estrés.
-
 * Otras enfermedades como la diabetes, reflujo gastroesofágico (RGE) o la depresión.
 
 Durante esta etapa es muy importante enseñarle a controlar e identificar el asma, aunque no es una tarea fácil. Todos los profesionales implicados durante el proceso (médicos, pediatras, alergólogos) deben haber recibido una formación adecuada y de calidad, además no solo hay que formar al paciente, también a la familia.
@@ -383,11 +324,8 @@ El asma es una de las enfermedades más comunes que pueden complicar un embarazo
 Sin embargo, el asma grave o mal controlada durante el embarazo puede aumentar el riesgo de diferentes problemas, entre ellos:
 
 * Presión arterial alta y signos de daños en otros sistemas de órganos, como en los riñones ([preeclampsia](https://www.mayoclinic.org/es-es/diseases-conditions/preeclampsia/symptoms-causes/syc-20355745)).
-
 * Crecimiento fetal restringido.
-
 * Nacimiento prematuro.
-
 * La necesidad de una cesárea.
 
 Las investigaciones muestran que la gravedad del asma durante el embarazo está relacionada con la gravedad del asma antes del embarazo, aunque es cierto que durante los nueve meses el asma puede empeorar, mejorar o estar inalterable. Las personas con asma grave tienen más probabilidades de que sus síntomas empeoren durante el embarazo.
@@ -449,9 +387,12 @@ El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor q
 ## Datos interesantes sobre el asma
 
 * La OMS (Organización Mundial de Salud) calcula que en la actualidad hay **236 millones de personas** con asma a nivel mundial.
-
 * El asma está **presente en todos los países**, independientemente de su grado de desarrollo. Para lograr un control eficaz es imprescindible que los medicamentos estén disponibles y sean asequibles para todo el mundo.
-
 * El asma es la **enfermedad crónicas más frecuente en los niños**, pero puede controlarse.
-
 * Los niños y adolescentes con asma pueden desarrollar **caries y gingivitis.**
+
+## Referencias
+
+_Asma_ de [Medline Plus](https://medlineplus.gov/spanish/ency/article/000141.htm)
+
+_Asma_ de [Mayo Clinic](https://www.mayoclinic.org/es-es/diseases-conditions/asthma/symptoms-causes/syc-20369653)
