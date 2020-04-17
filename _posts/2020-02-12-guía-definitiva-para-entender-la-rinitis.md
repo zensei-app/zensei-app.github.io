@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: Guía definitiva para entender la Rinitis
 date: 2020-02-12T23:00:00.000+00:00
-last_modified_at: 2020-02-13 23:00:00 +0000
+last_modified_at: 2020-04-16 22:00:00 +0000
 author: Cristina
 category: Alergia
 image: "/uploads/mujer-estornuda-pie-calle_8353-1327.jpg"
@@ -72,11 +72,7 @@ Los síntomas se presentan generalmente durante dos o más días consecutivos y 
 
 ✅**Picor** en la nariz, el paladar o la garganta.
 
-✅**Piel hinchada** debajo de los ojos.
-
 ✅**Goteo posnasal**.
-
-✅**Fatiga**.
 
 ![](/uploads/atleta-macho-cansado-tener-descanso-despues-trotar_1262-5912.jpg)
 
@@ -224,17 +220,15 @@ También es importante alimentarlo con frecuencia con leche materna.
 
 ## Rinitis alérgica en niños
 
-Uno de cada cuatro niños entre seis y siete años sufre o ha sufrido rinitis. Los niños con rinitis alérgica tienen peor calidad de vida y un menor rendimiento escolar.
+El riesgo en niños de la que rinitis sea causada por alguna alergia se incrementa cuando ya padece alguna alergia alimentaria o dermatitis atópica o si sus padres también son alérgicos.
+
+Además, la rinitis alérgica suele estar asociada con otras afecciones como asma, tos, sinusitis, otitis...
 
 Cuanto antes se diagnostique, antes se puede establecer un tratamiento preventivo y conseguir que la enfermedad no empeore.
-
-Diversos estudios han demostrado que los niños que tenían rinitis alérgica sin asma y que han recibido **vacunas antialérgicas** tienen menor riesgo de que desarrollen asma en los siguientes diez años.
 
 ![](/uploads/alergia-estacional-nino-rinitis_73944-8415.jpg)
 
 En caso de que los niños hayan pasado una mala primavera o un mal verano debido a la rinitis y conjuntivitis, se recomienda ir en otoño a pediatras alergólogos para solicitar una evaluación.
-
-El riesgo en niños de la que rinitis sea causada por alguna alergia se incrementa cuando ya padece alguna alergia alimentaria o dermatitis atópica o si sus padres también son alérgicos.
 
 ## Rinitis alérgica en adolescentes
 
@@ -285,3 +279,13 @@ Con la edad también se producen cambios anatómicos y fisiológicos en la nariz
 ✅Cada vez más personas la padecen debido a la **contaminación** atmosférica y la **temperatura ambiente**.
 
 ✅El **número de mascotas** en las casas aumenta cada vez más, lo que ha derivado en más alergias y más casos de rinitis.
+
+## Referencias
+
+_The diagnosis and management of rhinitis: an updated practice parameter_ de [The Journal of Allergy and Clinic Immunology](https://www.jacionline.org/article/S0091-6749(08)01123-8/fulltext#sec10.7.6).
+
+_Características clínicas de rinitis alérgica en niños_ de [CIMEL](https://www.redalyc.org/pdf/717/71711209.pdf).
+
+_Rinitis alérgica (fiebre del heno)_ de [Mayo Clinic](https://www.mayoclinic.org/es-es/diseases-conditions/hay-fever/symptoms-causes/syc-20373039)
+
+_Allergic rhinitis: Definition, epidemiology, pathophysiology, detection, and diagnosis_ de [The Journal of Allergy and Clinic Immunology](https://www.jacionline.org/article/S0091-6749(01)94460-4/fulltext#Classification%20of%20allergic%20rhinitis).

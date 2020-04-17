@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F6ADSanidad financiará un segundo medicamento para dejar de fumar "
 date: 2019-11-30T23:00:00.000+00:00
-last_modified_at: 2019-11-30T23:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
 image: "/uploads/Dejar de fumar 2.jpg"
@@ -71,15 +71,15 @@ Para acceder al tratamiento financiado por el Sistema Nacional de Salud, se han 
 
 Los fumadores que quieran acogerse a estas terapias **deberán reunir las siguientes condiciones:**
 
-· Estar dentro de algún programa de apoyo individual o en grupo.
+✅ Estar dentro de algún programa de apoyo individual o en grupo.
 
-· Haber intentado dejar de fumar al menos una vez en el último año.
+✅ Haber intentado dejar de fumar al menos una vez en el último año.
 
-· Presentar un una fuerte motivación.
+✅ Presentar un una fuerte motivación.
 
-· Fumar más de 10 cigarrillos diariamente.
+✅ Fumar más de 10 cigarrillos diariamente.
 
-· Presentar un alto grado de dependencia.
+✅ Presentar un alto grado de dependencia.
 
 El precio diario del tratamiento se estima en 2,19 € por paciente que utilice la Vareniclina. Con el segundo medicamento para dejar de fumar, el Bupropión, el coste por día será de 0,66 €. Con la subvención, un fumador con aporte farmacéutico del 40% **tendría que pagar 0,87 € diarios en el primer caso y 0,26 € en el segundo.**
 
@@ -109,18 +109,18 @@ Está demostrado que los efectos del tabaco **contribuyen al desarrollo de las p
 
 Sin duda, la salud es lo primero y en este sentido no cabe duda de la importancia que tiene abandonar el hábito del tabaco. Sin embargo, existen otras cuestiones que potencian el hecho de que al dejar de fumar todo son ventajas. **A la salud hay que añadir los beneficios para tu economía y la mejora del estado anímico.**
 
-· Menos probabilidades de sufrir un infarto.
+✅ Menos probabilidades de sufrir un infarto.
 
-· Descenso de la presión arterial y de los niveles de colesterol.
+✅ Descenso de la presión arterial y de los niveles de colesterol.
 
-· Incremento de la función pulmonar.
+✅ Incremento de la función pulmonar.
 
-· Mayor capacidad para afrontar la actividad física.
+✅ Mayor capacidad para afrontar la actividad física.
 
-· Menor incidencia de infección en las vías respiratorias.
+✅ Menor incidencia de infección en las vías respiratorias.
 
-· Descenso muy significativo de aparición de cáncer.
+✅ Descenso muy significativo de aparición de cáncer.
 
-· Ahorro económico…
+✅ Ahorro económico…
 
 Para terminar, es preciso volver a hacer hincapié en la oportunidad que tienen los fumadores para liberarse de su hábito. Con este segundo medicamento para dejar de fumar, el Bupropión, se amplían las opciones de soluciones farmacológicas subvencionadas por el Sistema Nacional de Salud. Esta es una ocasión para olvidar el tabaco de una vez por todas.

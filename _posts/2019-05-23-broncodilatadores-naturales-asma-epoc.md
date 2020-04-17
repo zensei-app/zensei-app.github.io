@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F927 Broncodilatadores naturales para Asma y EPOC"
 date: 2019-05-23T22:00:00.000+00:00
-last_modified_at: 2020-02-20 10:00:00 +0000
+last_modified_at: 2020-02-20T10:00:00.000+00:00
 category: Asma
 author: Ana
 image: "/uploads/Ventolin.jpg"
@@ -14,7 +14,8 @@ intro: La fitoterapia es una buena coadyuvante como **broncodilatadores naturale
   No obstante, estas soluciones con plantas no deben prevalecer sobre la terapia impuesta
   por un especialista.
 tags: broncodilatodores asma epoc inhaladores tratamiento
-redirect_from: /blog/broncodilatadores-naturales-para-controlar-la-tos-asmática-el-epoc-y-otras-dolencias-bronquiales/
+redirect_from: "/blog/broncodilatadores-naturales-para-controlar-la-tos-asmática-el-epoc-y-otras-dolencias-bronquiales/"
+
 ---
 Los pacientes de enfermedades relacionadas con **la tos asmática, el EPOC u otras dolencias bronquiales** deben a menudo, son mayor o menor persistencia, convivir con los [broncodilatadores](https://es.wikipedia.org/wiki/Broncodilatador) químicos. De este modo alivian las crisis y permiten que sus bronquios se “abran” de manera que se facilite la respiración. Pero **¿existen broncodilatadores naturales?**
 
@@ -56,37 +57,37 @@ Estos medicamentos se presentan en cuatro formatos: **inhaladores (los más cono
 
 Estos medicamentos inciden en los receptores B2-adrenérgicos en el músculo liso bronquial. Expresado de otro modo, los receptores B2 bronquiales son activados con noradrenalina y, en ese momento, pueden estimular e inducir la broncodilatación. Se dividen en tres grupo, dependiendo de cuánto dura su efecto.
 
-· **Acción corta.** Los más populares son el salbutamol y la terbutalina. Son empleados en crisis asmáticas agudas. Surte efecto en 5 minutos y el efecto se prolonga entre 4 y 6 horas.
+✅ **Acción corta.** Los más populares son el salbutamol y la terbutalina. Son empleados en crisis asmáticas agudas. Surte efecto en 5 minutos y el efecto se prolonga entre 4 y 6 horas.
 
-· **Acción prolongada.** Los más conocidos son el formoterol y el salmeterol. Son utilizados para el control y la prevención sintomática del asma nocturna. Su arranque es lento y precisa de entre 20 minutos y media hora para que comiencen sus efectos, aunque estos se prolongan de 8 a 12 horas.
+✅ **Acción prolongada.** Los más conocidos son el formoterol y el salmeterol. Son utilizados para el control y la prevención sintomática del asma nocturna. Su arranque es lento y precisa de entre 20 minutos y media hora para que comiencen sus efectos, aunque estos se prolongan de 8 a 12 horas.
 
-· **Duración ultra larga.** Son los llamados ultra-LABA. Duran 24 horas y, de este modo, son administrados en una sola toma al día.
+✅ **Duración ultra larga.** Son los llamados ultra-LABA. Duran 24 horas y, de este modo, son administrados en una sola toma al día.
 
 ### Efectos secundarios de los broncodilatadores
 
 Estos fármacos suelen conllevar bastantes efectos secundarios. Esta es una de las razones para que muchos pacientes intenten encontrar [el broncodilatador natural más potente](https://www.respiracionnormal.org/co2-broncodilatadores-natural/). De todos modos, veamos cuáles son esos **efectos indeseados:**
 
-\- Temblores
+✅ Temblores
 
-\- Taquicardia
+✅ Taquicardia
 
-\- Descenso de la cantidad de potasio en sangre
+✅ Descenso de la cantidad de potasio en sangre
 
-\- Prolongación del intervalo QT del miocardio ventricular
+✅ Prolongación del intervalo QT del miocardio ventricular
 
 Además, estos medicamentos **no deben ser prescritos**, o debe hacerse bajo un estricto control médico, en caso de padecer alguna de las siguientes dolencias:
 
-\- Problemas de próstata
+✅ Problemas de próstata
 
-\- Glaucoma
+✅ Glaucoma
 
-\- Hipertiroidismo
+✅ Hipertiroidismo
 
-\- Cardiopatías
+✅ Cardiopatías
 
-\- Diabetes
+✅ Diabetes
 
-\- Enfermedades hepáticas
+✅ Enfermedades hepáticas
 
 ## Remedios caseros que funcionan como broncodilatadores naturales
 

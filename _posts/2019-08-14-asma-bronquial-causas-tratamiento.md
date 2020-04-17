@@ -2,17 +2,18 @@
 layout: post
 toc: true
 title: "\U0001F928 Qué es el asma bronquial"
-date: 2019-08-14 22:00:00 +0000
-last_modified_at: 2019-08-22T10:00:00.000+00:00
+date: 2019-08-14T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: '/uploads/Asma bronquial.jpeg'
+image: "/uploads/Asma bronquial.jpeg"
 description: El asma bronquial es una enfermedad que provoca la inflamación de las
   vías respiratorias. ¿Sabes cómo hacerle frente?
 intro: La vida de un asmático no tiene por qué detenerse. Lo más importante es tener
   diagnosticada el **asma bronquial** y seguir los consejos médicos.
 tags: asma bronquial tratamiento
-redirect_from: '/blog/qué-es-el-asma-bronquial/'
+redirect_from: "/blog/qué-es-el-asma-bronquial/"
+
 ---
 ![](/uploads/Asma bronquial.jpeg)
 
@@ -22,7 +23,7 @@ Las consecuencias más inmediatas incluyen **tos persistente, respiración corta
 
 El asma bronquial puede afectar cualquier edad o género y está muy ligada a **factores ambientales y hereditarios.** Cuando se ignora, la enfermedad resulta muy virulenta y puede llegar a conducir a un desenlace fatal. Esta es la razón por la que es preciso ser consciente de la trascendencia que tiene el hecho de seguir los consejos médicos.
 
-H2Asma bronquial síntomas
+## Asma bronquial síntomas
 
 Las alergias están fuertemente relacionadas con el asma y otras enfermedades respiratorias como la [sinusitis](https://zenseiapp.com/blog/es-bueno-tomar-antibiótico-para-la-sinusitis/) crónica, las infecciones del oído medio y los pólipos nasales. Lo más interesante es lo que mostró un análisis reciente de personas con asma.
 
@@ -30,15 +31,15 @@ Aquellos pacientes que se veían afectados, tanto por alergias como por asma, te
 
 Los síntomas del asma bronquial pueden variar de un individuo a otro y dependen de factores ambientales. Una persona puede mostrar un sintomatología regular de la enfermedad o síntomas periódicos que pueden aparecer en un momento determinado. Los **signos más comunes de asma** que pueden ayudar a diagnosticar la enfermedad son:
 
-· Falta de aliento o respiración corta mientras habla, ríe o corre.
+✅ Falta de aliento o respiración corta mientras habla, ríe o corre.
 
-· Dolor u opresión en el pecho.
+✅ Dolor u opresión en el pecho.
 
-· Apnea del sueño o problemas al dormir causados ​​por la disnea.
+✅ Apnea del sueño o problemas al dormir causados ​​por la disnea.
 
-· Tos o sibilancias.
+✅ Tos o sibilancias.
 
-· Resfriado y gripe por infección viral.
+✅ Resfriado y gripe por infección viral.
 
 ## Asma bronquial causas
 
@@ -50,39 +51,39 @@ En ciertos casos, incluso el **estrés mental o emocional** puede ser un desenca
 
 ![](/uploads/Inhalador.jpeg)
 
-### Desencadenantes de una crisis asmática
+## Desencadenantes de una crisis asmática
 
 Según una reciente investigación, aproximadamente 358 millones de personas en todo el mundo sufren de asma bronquial. Los síntomas del asma bronquial incluyen sibilancias, tos, opresión en el pecho y dificultad para respirar. El asmático puede experimentar un inicio repentino de estos síntomas durante la noche. Los **factores que desencadenan una reacción** de asma son:
 
-· Exposición a sustancias como polen, polvo, piel de animales, arena y bacterias, etc.
+✅ Exposición a sustancias como polen, polvo, piel de animales, arena y bacterias, etc.
 
-· Infección viral como resfriado, gripe o neumonía.
+✅ Infección viral como resfriado, gripe o neumonía.
 
-· Contaminación del aire, humo de tabaco, humos de vehículos, polución, etc.
+✅ Contaminación del aire, humo de tabaco, humos de vehículos, polución, etc.
 
-· Estrés y ansiedad.
+✅ Estrés y ansiedad.
 
-· La actividad física o el ejercicio físico.
+✅ La actividad física o el ejercicio físico.
 
-· Medicamentos como aspirina, ibuprofeno, betabloqueantes, etc.
+✅ Medicamentos como aspirina, ibuprofeno, betabloqueantes, etc.
 
-· Enfermedad por reflujo ácido o reflujo gastroesofágico.
+✅ Enfermedad por reflujo ácido o reflujo gastroesofágico.
 
-· Perfumes y fragancias.
+✅ Perfumes y fragancias.
 
-· Clima, especialmente cambios extremos de temperatura.
+✅ Clima, especialmente cambios extremos de temperatura.
 
-· Aditivos alimentarios.
+✅ Aditivos alimentarios.
 
-· Obesidad.
+✅ Obesidad.
 
 El desarrollo del asma bronquial es un proceso multicausal, provocado por factores exógenos (factores ambientales) y también por disposiciones genéticas. Además, el curso de la enfermedad puede verse influenciado por cambios climáticos y factores mentales.
 
-### Fisiopatología
+## Fisiopatología
 
 La disposición genética y la nota exógena desencadenan tres procesos fisiopatológicos que **caracterizan el asma bronquial:**
 
-**1. Inflamación de los bronquios**
+### **1. Inflamación de los bronquios**
 
 Los alérgenos o las infecciones provocan una reacción infecciosa de la membrana mucosa bronquial. En el asma alérgica se produce una reacción inducida por IgE del tipo inmediato tras la inhalación del alérgeno.
 
@@ -90,15 +91,15 @@ Los mastocitos en la membrana mucosa se desgranulan y, por lo tanto, liberan med
 
 Como regla general, el alergeno desencadenante solo se puede identificar en la etapa temprana de la enfermedad. A lo largo de los años, la gama de alérgenos a menudo se amplía. Esto hace que resulte más difícil, o incluso imposible para el paciente, evitar los alérgenos.
 
-**2. Hiperreactividad bronquial**
+### **2. Hiperreactividad bronquial**
 
 Se puede detectar una hiperreactividad bronquial inespecífica en casi todos los asmáticos. En caso de inhalación de irritantes, la hiperreactividad se manifiesta como una constricción muy fuerte de los bronquios. Puede objetivarse mediante la prueba de metacolina.
 
-**3. Obstrucción endobronquial**
+### **3. Obstrucción endobronquial**
 
 La obstrucción endobronquial es casi el primer "producto final" clínicamente discernible de los procesos fisiopatológicos del asma bronquial. Se desarrolla como consecuencia del edema de la mucosa, el aumento de la secreción de moco (discrinismo) y los broncoespasmos.
 
-### Asma bronquial tratamiento
+## Asma bronquial tratamiento
 
 El tratamiento para el asma bronquial depende de los síntomas que muestre el asmático. Es por eso por lo que es importante consultar a un **alergólogo / inmunólogo** adecuado para un mejor diagnóstico y resultados. Es aconsejable que el asmático evite los alérgenos y alivie las vías respiratorias utilizando un inhalador para obtener resultados más rápidos y seguros.
 

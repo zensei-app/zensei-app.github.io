@@ -1,12 +1,12 @@
 ---
 layout: post
-redirect_from: 
-  - "/blog/puedo-practicar-deporte-si-tengo-asma/"
-  - "/blog/2019/12/30/puedo-practicar-deporte-si-tengo-asma/"
+redirect_from:
+- "/blog/puedo-practicar-deporte-si-tengo-asma/"
+- "/blog/2019/12/30/puedo-practicar-deporte-si-tengo-asma/"
 toc: true
 title: "\U0001F3C3‍♂️ ¿Puedo practicar deporte si tengo asma?"
-date: 2019-12-30 09:00:00 +0000
-last_modified_at: 2019-12-30 11:00:00 +0000
+date: 2019-12-30T09:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: "/img/photo-1530143311094-34d807799e8f.jpeg"
@@ -69,13 +69,13 @@ Si tu asma te impide realizar las actividades que amas, no estás solo. La activ
 
 Sin embargo, puede que te resulte útil saber **que aumentar tu ritmo cardíaco en realidad puede mejorar tus síntomas de asma.**
 
-· Aumentar su ritmo cardíaco regularmente incrementa tu potencia pulmonar, eleva la resistencia y reduce la disnea.
+✅ Aumentar su ritmo cardíaco regularmente incrementa tu potencia pulmonar, eleva la resistencia y reduce la disnea.
 
-· Apoya tu sistema inmunológico y ayuda a combatir los resfriados y los virus, un desencadenante importante para más del 80% de las personas con asma.
+✅ Apoya tu sistema inmunológico y ayuda a combatir los resfriados y los virus, un desencadenante importante para más del 80% de las personas con asma.
 
-· La actividad te ayuda a mantener un peso saludable y, a su vez, reduce el riesgo de una crisis asmática.
+✅ La actividad te ayuda a mantener un peso saludable y, a su vez, reduce el riesgo de una crisis asmática.
 
-· Liberas sustancias químicas que hacen que tu cerebro se sienta bien. Los estudios muestran que, si está estresado o deprimido, tienes un mayor riesgo de padecer síntomas de asma.
+✅ Liberas sustancias químicas que hacen que tu cerebro se sienta bien. Los estudios muestran que, si está estresado o deprimido, tienes un mayor riesgo de padecer síntomas de asma.
 
 ## ¿Cómo puedo practicar deporte con asma grave?
 
@@ -89,13 +89,13 @@ Pero si te han diagnosticado [asma grave](https://www.healthychildren.org/spanis
 
 Es cierto que hay muchas razones por las cuales las personas con asma severa **pueden no ser activas en ciertas ocasiones:**
 
-· Tienen un mal día con síntomas graves de asma.
+✅ Tienen un mal día con síntomas graves de asma.
 
-· Están en un periodo de inactividad para que su especialista en asma encuentre la combinación correcta de medicamentos.
+✅ Están en un periodo de inactividad para que su especialista en asma encuentre la combinación correcta de medicamentos.
 
-· Recientemente han sufrido un ataque de asma.
+✅ Recientemente han sufrido un ataque de asma.
 
-· Uno de sus desencadenantes ha desatado los síntomas: por ejemplo, tienen un resfriado o el recuento de polen es alto.
+✅ Uno de sus desencadenantes ha desatado los síntomas: por ejemplo, tienen un resfriado o el recuento de polen es alto.
 
 El ejercicio es un desencadenante común de los síntomas de asma. Muchas personas con asma pueden experimentar dificultad para respirar, tos, sibilancias u opresión en el pecho durante o después del ejercicio.
 

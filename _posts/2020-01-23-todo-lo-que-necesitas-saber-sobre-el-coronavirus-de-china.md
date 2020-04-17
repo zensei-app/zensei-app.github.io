@@ -3,8 +3,8 @@ layout: post
 toc: true
 title: "\U0001F1E8\U0001F1F3\U0001F637 Todo lo que necesitas saber sobre el coronavirus
   de China"
-date: 2020-01-23 23:00:00 +0000
-last_modified_at: 2020-01-23 23:00:00 +0000
+date: 2020-01-23T23:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Gripe
 image: "/uploads/china con mascarilla.jpeg"
@@ -14,7 +14,6 @@ intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus d
   La celebración del Año Nuevo Lunar moviliza a millones de personas del país asiático
   y supone elevar el nivel de riesgo.
 tags: sars síndrome-respiratorio-agudo-severo coronavirus china
-
 
 ---
 ![SARS](/uploads/china con mascarilla.jpeg "Coronavirus de China")
@@ -75,11 +74,11 @@ También reportaron casos de segunda generación fuera de Wuhan, así como algun
 
 Los asesores del CDC han advertido que esta información no es suficiente. Según su juicio técnico, aún **faltan datos muy específicos sobre la propagación del coronavirus de Wuhan**:
 
-· De más de 600 casos, ¿cuántos contrajeron el virus al manipular animales en el mercado donde surgió el virus y cuántos lo contrajeron de personas que habían estado en el mercado?
+✅ De más de 600 casos, ¿cuántos contrajeron el virus al manipular animales en el mercado donde surgió el virus y cuántos lo contrajeron de personas que habían estado en el mercado?
 
-· Entre los que nunca fueron al mercado, ¿son familiares de las personas que se infectaron en ese lugar público o colegas que se sientan uno al lado del otro en el trabajo? ¿O tal vez no conocen a nadie que esté enfermo y no está claro dónde lo atraparon?
+✅ Entre los que nunca fueron al mercado, ¿son familiares de las personas que se infectaron en ese lugar público o colegas que se sientan uno al lado del otro en el trabajo? ¿O tal vez no conocen a nadie que esté enfermo y no está claro dónde lo atraparon?
 
-· Mirando esa cadena de infección, ¿las personas están propagando la enfermedad antes de tener síntomas, mientras tienen síntomas o después de haberse recuperado?
+✅ Mirando esa cadena de infección, ¿las personas están propagando la enfermedad antes de tener síntomas, mientras tienen síntomas o después de haberse recuperado?
 
 Las respuestas a esas preguntas ayudarían a los funcionarios a decidir cuánto tiempo aislar a los pacientes enfermos y quién necesita ser puesto en cuarentena para ver si desarrollan síntomas.
 

@@ -2,18 +2,19 @@
 layout: post
 toc: true
 title: "⚕️\U0001F637 Todo sobre las enfermedades pulmonares ocupacionales "
-date: 2019-09-29 22:00:00 +0000
-last_modified_at: 2019-09-29 22:00:00 +0000
+date: 2019-09-29T22:00:00.000+00:00
+last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: /uploads/enfermedades pulmonares ocupaciones.jpg
+image: "/uploads/enfermedades pulmonares ocupaciones.jpg"
 description: Las enfermedades pulmonares ocupacionales son aquellas derivadas de la
   inhalación de partículas tóxicas en suspensión relacionadas con el medio laboral.
 intro: La prevención y la protección adecuada son las mejores armas para poder afrontar
   las graves consecuencias que pueden derivarse de las **enfermedades pulmonares ocupacionales**.
   Te lo contamos todo sobre ello.
 tags: enfermedades pulmonares ocupacionales
-redirect_from: /enfermedades%20pulmonares/todo-sobre-las-enfermedades-pulmonares-ocupacionales/
+redirect_from: "/enfermedades%20pulmonares/todo-sobre-las-enfermedades-pulmonares-ocupacionales/"
+
 ---
 ![](/uploads/enfermedades pulmonares ocupaciones.jpg)
 
@@ -47,29 +48,29 @@ Las partículas en el aire de muchas fuentes, tales como fábricas, chimeneas, g
 
 **Cuanto más pequeñas sean las partículas mayor será el daño que pueden hacer a los pulmones.** Las partículas más pequeñas se inhalan de forma fácil y llegan a lo más profundo de los pulmones. Allí, las absorbe el cuerpo en lugar de que puedan expulsarse al toser. Veamos algunas de las patologías ocupacionales más habituales.
 
-#### Asbestosis
+#### **Asbestosis**
 
 Esta afección se produce cuando una persona **inhala fibras diminutas de amianto**. Con el tiempo, esto lleva a la cicatrización de los pulmones y rigidez del tejido pulmonar. A menudo se vincula con los trabajos de construcción.
 
-#### La neumoconiosis de los mineros del carbón
+#### **La neumoconiosis de los mineros del carbón**
 
 Esta dolencia también es conocida como **“enfermedad del pulmón negro”.** La afección es consecuencia de la inhalación de polvo de carbón. Produce inflamación y cicatrización de los pulmones. Puede causar daño permanente a los pulmones e insuficiencia respiratoria de por vida.
 
-#### Silicosis
+#### **Silicosis**
 
 La causa de esta afección es **la inhalación del sílice cristalino** que se encuentra en el aire. Este es un polvo que se haya en suspensión en las minas, fundiciones, operaciones de voladura e instalaciones de fabricación de piedra, arcilla y vidrio. Provoca la cicatrización de los pulmones. También puede aumentar el riesgo de otras enfermedades pulmonares.
 
-#### Bisinosis
+#### **Bisinosis**
 
 Su causa es **la inhalación de polvo derivado del procesamiento del cáñamo, lino y algodón**. También se conoce como la “enfermedad pulmonar Brown”. La afección es crónica y provoca opresión en el pecho y dificultad para respirar. Afecta a los trabajadores textiles, especialmente aquellos que trabajan con algodón sin procesar.
 
-#### Neumonitis por hipersensibilidad
+#### **Neumonitis por hipersensibilidad**
 
 Se trata de **una enfermedad pulmonar alérgica causada por una inflamación de los pulmones**. Detrás de ella se encuentra la inhalación de varias sustancias muy diferentes. Entre ellas se encuentran elementos como las esporas de los hongos, bacterias, proteínas animales o vegetales o productos químicos específicos. También puede provenir de heno mohoso, excrementos de aves y otros polvos orgánicos.
 
 La enfermedad causa la inflamación de los sacos de aire en los pulmones y genera tejido cicatricial fibroso en los pulmones y dificultad para respirar. Hay variaciones de esta enfermedad en función del trabajo. Estos incluyen el pulmón de los trabajadores del corcho, pulmón del granjero y pulmón de los trabajadores de hongos.
 
-#### Asma ocupacional
+#### **Asma ocupacional**
 
 El asma ocupacional es **consecuencia de la inhalación de polvos, gases, humos y vapores**. Provoca síntomas de asma como tos crónica y sibilancias. Esta afección se puede revertir si se detecta a tiempo. Si trabajas en operaciones de fabricación y procesamiento, agricultura, cuidado de animales, procesamiento de alimentos, industrias textiles y del algodón y operaciones de refinado, estás en mayor riesgo de contraer esta enfermedad.
 
@@ -85,15 +86,15 @@ Determinados tipos de trabajo lo ponen en mayor riesgo de enfermedades pulmonare
 
 A continuación, se enumeran los síntomas más comunes de las enfermedades pulmonares. Sin embargo, cada persona puede experimentar los síntomas de una forma diferente. Pero la sintomatología más habitual puede incluir las siguientes manifestaciones:
 
-· Toser
+✅ Toser
 
-· Dificultad para respirar que a menudo empeora con la actividad
+✅ Dificultad para respirar que a menudo empeora con la actividad
 
-· Dolor en el pecho
+✅ Dolor en el pecho
 
-· Opresión en el pecho
+✅ Opresión en el pecho
 
-· Patrones de respiración anormales
+✅ Patrones de respiración anormales
 
 Los síntomas de enfermedades pulmonares ocupacionales pueden parecerse a los de otras afecciones u otros problemas de salud.
 
@@ -101,31 +102,31 @@ Los síntomas de enfermedades pulmonares ocupacionales pueden parecerse a los de
 
 Las enfermedades pulmonares ocupacionales, como otras que cursan con insuficiencia respiratoria, por lo general **requieren una radiografía de tórax inicial para el diagnóstico**. Veamos los exámenes que pueden ser necesarios para determinar el tipo y gravedad de la enfermedad pulmonar.
 
-#### Radiografía de pecho
+#### **Radiografía de pecho**
 
 Una prueba que toma imágenes de tejidos, huesos y órganos internos.
 
-#### Pruebas para medir el funcionamiento de los pulmones
+#### **Pruebas para medir el funcionamiento de los pulmones**
 
 Estas pruebas ayudan a medir la capacidad de los pulmones para mover el aire hacia adentro y hacia afuera. Las pruebas se realizan, por lo general, con máquinas especiales dentro de las cuales usted respira.
 
-#### Broncoscopia
+#### **Broncoscopia**
 
 Esta prueba utiliza un tubo flexible llamado broncoscopio para ver los bronquios, las principales vías respiratorias de los pulmones. La broncoscopia ayuda a diagnosticar problemas pulmonares, detectar obstrucciones, extraer muestras de tejido y/o fluido para ayudar a retirar cuerpos extraños. La broncoscopia puede incluir una biopsia o lavado broncoalveolar.
 
-#### Biopsia de pulmón
+#### **Biopsia de pulmón**
 
 Consiste en extraer un pequeño trozo de tejido, células o líquido del pulmón para que puedan examinarse bajo un microscopio.
 
-#### Lavado broncoalveolar
+#### **Lavado broncoalveolar**
 
 Se eliminan las células del tracto respiratorio inferior para ayudar a identificar la inflamación y descartar ciertas causas.
 
-#### Análisis de sangre
+#### **Análisis de sangre**
 
 Estos análisis miden la cantidad de dióxido de carbono y oxígeno en la sangre. Otros análisis de sangre pueden usarse para buscar posibles infecciones y otros problemas.
 
-#### Tomografía computarizada (TC o TAC)
+#### **Tomografía computarizada (TC o TAC)**
 
 Una tomografía computarizada (TC) es un diagnóstico por imágenes que combina el uso de radiografías y una computadora para producir imágenes detalladas del cuerpo. Una tomografía computarizada muestra detalles de los huesos, los músculos, la grasa y los órganos.
 
@@ -135,13 +136,13 @@ Las tomografías computarizadas muestran más detalles que las radiografías com
 
 **No existe ninguna cura para la mayoría de las enfermedades pulmonares ocupacionales**. Los tratamientos están dirigidos a:
 
-· La prevención de la exposición adicional
+✅ La prevención de la exposición adicional
 
-· La prevención de mayor cicatrización pulmonar
+✅ La prevención de mayor cicatrización pulmonar
 
-· Control de los síntomas
+✅ Control de los síntomas
 
-· Ayudarte a mantenerte activo y saludable
+✅ Ayudarte a mantenerte activo y saludable
 
 El tratamiento depende del tipo de enfermedad pulmonar. No hay manera de corregir la cicatrización pulmonar que ya ha sucedido.
 
@@ -149,15 +150,15 @@ El tratamiento depende del tipo de enfermedad pulmonar. No hay manera de corregi
 
 Las enfermedades pulmonares ocupacionales se pueden prevenir. La mejor prevención es evitar las sustancias inhaladas que causan problemas en los pulmones. Pero también existen otras medidas preventivas.
 
-· **No fumar.** Fumar puede aumentar el riesgo de enfermedad pulmonar ocupacional.
+✅ **No fumar.** Fumar puede aumentar el riesgo de enfermedad pulmonar ocupacional.
 
-· **Usa dispositivos de protección adecuados**, tales como mascarillas o respiradores, cuando te encuentres rodeado de irritantes en suspensión y polvo.
+✅ **Usa dispositivos de protección adecuados**, tales como mascarillas o respiradores, cuando te encuentres rodeado de irritantes en suspensión y polvo.
 
-· Realízate una **evaluación de tu función pulmonar** con espirometría tan a menudo como lo indique tu médico. Esto te ayudará a familiarizarte con tu función pulmonar y ver los cambios.
+✅ Realízate una **evaluación de tu función pulmonar** con espirometría tan a menudo como lo indique tu médico. Esto te ayudará a familiarizarte con tu función pulmonar y ver los cambios.
 
-· Comprende los riesgos de enfermedades pulmonares en el trabajo y **usa protección** para reducir su incidencia.
+✅ Comprende los riesgos de enfermedades pulmonares en el trabajo y **usa protección** para reducir su incidencia.
 
-· Acude a un **experto en salud ocupacional** para investigar tu entorno de trabajo a fin de determinar los riesgos de enfermedades pulmonares ocupacionales.
+✅ Acude a un **experto en salud ocupacional** para investigar tu entorno de trabajo a fin de determinar los riesgos de enfermedades pulmonares ocupacionales.
 
 ## Puntos clave sobre las enfermedades pulmonares ocupacionales
 

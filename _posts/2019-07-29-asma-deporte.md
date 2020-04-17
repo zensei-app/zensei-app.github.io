@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F6B4⚕️ Asma y deporte"
-date: 2019-07-29 22:00:00 +0000
-last_modified_at: 2019-08-22 10:00:00 +0000
+date: 2019-07-29T22:00:00.000+00:00
+last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
 image: "/uploads/Asma y deporte.jpg"
@@ -13,7 +13,8 @@ intro: La actividad física es fundamental para la buena calidad de vida de las 
   Los asmáticos deben extremar sus controles médicos y elegir qué ejercicio practicar
   y dónde hacerlo. **Asma y deporte** pueden compaginarse con cierta facilidad.
 tags: asma deporte
-redirect_from: /blog/asma-y-deporte/
+redirect_from: "/blog/asma-y-deporte/"
+
 ---
 ![](/uploads/Asma y deporte.jpg)
 
@@ -31,13 +32,13 @@ Entre los diferentes tipos de asma el AIE ocupa un lugar predominante como una r
 
 El asma inducida por el ejercicio hace referencia a la **obstrucción de las vías respiratorias provocada por el ejercicio.** Esta obstrucción, aguda pero reversible, hace difícil el tránsito del aire. Las consecuencias se traducen en una serie de síntomas:
 
-· Opresión en el pecho
+✅ Opresión en el pecho
 
-· Dificultad para respirar
+✅ Dificultad para respirar
 
-· Golpes de tos
+✅ Golpes de tos
 
-· Pitidos (sibilancias)
+✅ Pitidos (sibilancias)
 
 ### Comportamiento posterior a la crisis inmediata
 
@@ -103,17 +104,17 @@ Asma y deporte pueden coexistir en la vida diaria. Lo cierto es que la mayoría 
 
 Por lo tanto, el deporte y el asma no están reñidos. Ahora bien, los asmáticos deben tener en cuenta algunas cuestiones importantes y seguir ciertos consejos.
 
-· **Deportes más aconsejables.** La natación es una de las prácticas deportivas más aconsejadas, gracias a las condiciones medioambientales en las que se desarrolla; las actividades recreativas, sin afán de competición y llevadas a cabo a un ritmo adecuado, por puro placer y esparcimiento; los deportes de equipo, que facilitan los momentos de relajación; todos los que no exigen un gran esfuerzo físico.
+✅ **Deportes más aconsejables.** La natación es una de las prácticas deportivas más aconsejadas, gracias a las condiciones medioambientales en las que se desarrolla; las actividades recreativas, sin afán de competición y llevadas a cabo a un ritmo adecuado, por puro placer y esparcimiento; los deportes de equipo, que facilitan los momentos de relajación; todos los que no exigen un gran esfuerzo físico.
 
-· **Cuidado con los desencadenantes.** Hay que ser muy prudentes con las actividades deportivas que obligan a realizar un esfuerzo físico de intensidad y, además, durante un periodo prolongado. Las carreras de fondo o los runners que se ejercitan al aire libre resultan un buen ejemplo. El aire frío de la época invernal o la concentración de polen en primavera pueden resultar fulminantes para un asmático que sufra una crisis grave.
+✅ **Cuidado con los desencadenantes.** Hay que ser muy prudentes con las actividades deportivas que obligan a realizar un esfuerzo físico de intensidad y, además, durante un periodo prolongado. Las carreras de fondo o los runners que se ejercitan al aire libre resultan un buen ejemplo. El aire frío de la época invernal o la concentración de polen en primavera pueden resultar fulminantes para un asmático que sufra una crisis grave.
 
-· **Ojo con los más pequeños.** Evidentemente, es responsabilidad de los progenitores el reconocimiento previo del niño con problemas respiratorios. Los padres deben, además, facilitar a los educadores un informe detallado sobre la enfermedad del pequeño. En el escrito, realizado por su médico, se debe recoger cómo deben actuar los educadores y qué recomendaciones seguir para incorporar el deporte a la vida del niño de una manera segura.
+✅ **Ojo con los más pequeños.** Evidentemente, es responsabilidad de los progenitores el reconocimiento previo del niño con problemas respiratorios. Los padres deben, además, facilitar a los educadores un informe detallado sobre la enfermedad del pequeño. En el escrito, realizado por su médico, se debe recoger cómo deben actuar los educadores y qué recomendaciones seguir para incorporar el deporte a la vida del niño de una manera segura.
 
-· **Educación Física.** El asmático debe realizar sus clases de Educación Física con total normalidad. Eso sí, hay que estar atento a los indicadores de una crisis de asma: tos, sibilancias, respiración dificultosa…) Ante estas manifestaciones deberá parar su ejercitación de manera temporal. Cuando la salud respiratoria sea recuperada, el asmático podrá volver al ejercicio de manera gradual y progresiva. Deberá evitar la actividad extenuante y tendrá que interrumpirla ante la aparición de cualquier indicio.
+✅ **Educación Física.** El asmático debe realizar sus clases de Educación Física con total normalidad. Eso sí, hay que estar atento a los indicadores de una crisis de asma: tos, sibilancias, respiración dificultosa…) Ante estas manifestaciones deberá parar su ejercitación de manera temporal. Cuando la salud respiratoria sea recuperada, el asmático podrá volver al ejercicio de manera gradual y progresiva. Deberá evitar la actividad extenuante y tendrá que interrumpirla ante la aparición de cualquier indicio.
 
-· **Prudencia.** No se debe practicar ningún deporte mientras se tengan síntomas. También hay que abstenerse durante el periodo en que se padezca alguna infección respiratoria que pueda agravar el asma. Igualmente, es preciso evitar la realización de actividad física en ambientes desencadenantes: presencia de alérgenos, humo, polución…)
+✅ **Prudencia.** No se debe practicar ningún deporte mientras se tengan síntomas. También hay que abstenerse durante el periodo en que se padezca alguna infección respiratoria que pueda agravar el asma. Igualmente, es preciso evitar la realización de actividad física en ambientes desencadenantes: presencia de alérgenos, humo, polución…)
 
-· **Tener a mano la medicación.** El deportista asmático debe llevar siempre encima su medicación. De este modo, podrá actuar rápidamente en caso de que aparezcan los primeros síntomas.
+✅ **Tener a mano la medicación.** El deportista asmático debe llevar siempre encima su medicación. De este modo, podrá actuar rápidamente en caso de que aparezcan los primeros síntomas.
 
 Como ya hemos analizado, es importante saber que **asma y deporte no están reñidos**. Solo es preciso **elegir bien la actividad física** que se va a realizar, el lugar y cumplir con cierto procedimiento para que el asma inducida por el ejercicio permanezca lo más alejada posible.
 

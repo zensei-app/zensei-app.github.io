@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "\U0001F32B️\U0001F92F Cómo afecta la contaminación del aire al sistema respiratorio "
-date: 2019-10-22 22:00:00 +0000
-last_modified_at: 2019-10-22 22:00:00 +0000
+date: 2019-10-22T22:00:00.000+00:00
+last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
 image: "/uploads/Contaminación.jpg"
@@ -45,13 +45,13 @@ La fricción de los frenos y los neumáticos en la carretera también producen p
 
 Evidentemente, estamos expuestos a otras fuentes de polución que pueden afectar a nuestro sistema respiratorio. Veamos algunos ejemplos de **factores que alteran la calidad del aire** que respiramos:
 
-· Quemar combustible en casas para calentar o cocinar.
+✅ Quemar combustible en casas para calentar o cocinar.
 
-· Emisiones de la generación de energía.
+✅ Emisiones de la generación de energía.
 
-· Procesos industriales.
+✅ Procesos industriales.
 
-· Agricultura.
+✅ Agricultura.
 
 Los eventos que incluyen **hogueras y exhibiciones de fuegos artificiales**, como la Noche de las Hogueras y Las Fallas, pueden provocar aumentos temporales de la contaminación por partículas. **Las velas y el incienso** también son fuentes de humo y partículas.
 
@@ -67,13 +67,13 @@ La contaminación del aire **también puede provenir de fuentes naturales** y de
 
 Daremos un repaso a la **tipología de la polución**. Esta viene determinada por los contaminantes más abundantes y dañinos:
 
-· Materia particulada
+✅ Materia particulada
 
-· Dióxido de nitrógeno
+✅ Dióxido de nitrógeno
 
-· Ozono
+✅ Ozono
 
-· Dióxido de azufre
+✅ Dióxido de azufre
 
 ### Partículas en suspensión o Materia Particulada
 

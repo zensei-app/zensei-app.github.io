@@ -2,16 +2,17 @@
 layout: post
 toc: true
 title: "\U0001F927\U0001F62A ¿Qué es: alergia o resfriado? "
-date: 2019-09-26 22:00:00 +0000
-last_modified_at: 2019-09-26 22:00:00 +0000
+date: 2019-09-26T22:00:00.000+00:00
+last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Alergia
-image: /uploads/Alergia o resfriado.jpg
+image: "/uploads/Alergia o resfriado.jpg"
 description: "¿Alergia o resfriado? Te mostramos las claves para desentrañar qué te
   ocurre. Hay síntomas que te ayudarán a descubrir la diferencia."
 intro: Muchos pacientes se preguntan si tienen **alergia o resfriado**. La manera
   de diferenciarlos puede ser analizando los síntomas que no comparten ambas patologías.
 tags: alergia resfriado
+
 ---
 ![](/uploads/Alergia o resfriado.jpg)
 
@@ -23,23 +24,23 @@ Es importante que conozcas las **diferencias entre las alergias y los resfriados
 
 Un catarro, también conocido como "resfriado común", es una **afección causada por un virus**. Existen muchos tipos diferentes de virus que pueden ser responsables de los resfriados. Si bien los síntomas y la gravedad pueden variar, los resfriados generalmente **comparten ciertas características básicas**. Veamos algunas de ellas.
 
-· Los resfriados se transmiten a través de **gotitas infectadas de virus** que una persona enferma arroja cuando tose o estornuda.
+✅ Los resfriados se transmiten a través de **gotitas infectadas de virus** que una persona enferma arroja cuando tose o estornuda.
 
-· Además de toser y estornudar, los síntomas del resfriado pueden incluir **dolor de garganta, goteo y congestión nasal.**
+✅ Además de toser y estornudar, los síntomas del resfriado pueden incluir **dolor de garganta, goteo y congestión nasal.**
 
-· Los resfriados más severos también pueden causar **dolores de cabeza, fiebres y dolores corporales.**
+✅ Los resfriados más severos también pueden causar **dolores de cabeza, fiebres y dolores corporales.**
 
-· La recuperación de un resfriado suele ser rápida. La duración promedia de la enfermedad está **entre los 7 y los 10 días**.
+✅ La recuperación de un resfriado suele ser rápida. La duración promedia de la enfermedad está **entre los 7 y los 10 días**.
 
-· Si los síntomas duran más de una o dos semanas, el virus puede haber contribuido a desarrollar una infección más grave: **infección sinusal, neumonía o bronquitis**.
+✅ Si los síntomas duran más de una o dos semanas, el virus puede haber contribuido a desarrollar una infección más grave: **infección sinusal, neumonía o bronquitis**.
 
-· Las personas con alergias pueden ser **más propensas a contraer resfriados**.
+✅ Las personas con alergias pueden ser **más propensas a contraer resfriados**.
 
-· Los refriados pueden cogerse **en cualquier época del año**, incluso en verano.
+✅ Los refriados pueden cogerse **en cualquier época del año**, incluso en verano.
 
-· Los médicos y especialistas en el control y prevención de enfermedades estiman que un adulto sano contrae de media **de dos a tres resfriados por año**.
+✅ Los médicos y especialistas en el control y prevención de enfermedades estiman que un adulto sano contrae de media **de dos a tres resfriados por año**.
 
-· Los niños pequeños pueden tener aún más resfriados debido a un **sistema inmunológico menos maduro.**
+✅ Los niños pequeños pueden tener aún más resfriados debido a un **sistema inmunológico menos maduro.**
 
 ## ¿Qué son las alergias?
 
@@ -47,31 +48,31 @@ Las alergias ocurren cuando el sistema inmunitario tiene una **reacción adversa
 
 Por supuesto que se establecen [diferencias entre alergia o resfriado](https://www.normon.es/articulo-blog/como-diferenciar-una-alergia-de-un-resfriado). Sin embargo, las alergias y los resfriados comparten algunos **síntomas comunes:**
 
-· estornudos
+✅ Estornudos
 
-· tos
+✅ Tos
 
-· dolor de garganta
+✅ Dolor de garganta
 
-· goteo nasal
+✅ Goteo nasal
 
-· congestión nasal
+✅ Congestión nasal
 
-· ojos llorosos
+✅ Ojos llorosos
 
 Las alergias también pueden causar **erupciones y picazón en los ojos**. El resfriado común generalmente no. Pero, solo en Estados Unidos, cada año experimentan una reacción alérgica más de 50 millones de personas.
 
 Los alérgenos estacionales como **los árboles, el césped y el polen** son desencadenantes comunes, pero también puedes ser alérgico a ciertas **sustancias durante todo el año**. Otros desencadenantes de alergia pueden ser:
 
-· ácaros del polvo
+✅ Ácaros del polvo
 
-· caspa de animales
+✅ Caspa de animales
 
-· saliva de mascotas
+✅ Saliva de mascotas
 
-· moho
+✅ Moho
 
-· alimentos (frutos secos, leche, huevo… etc.)
+✅ Alimentos (frutos secos, leche, huevo… etc.)
 
 ## Resfriados versus alergias: cómo notar la diferencia
 
@@ -79,21 +80,21 @@ Dado que los resfriados y las alergias comparten muchos síntomas puede resultar
 
 Los **resfriados** son más propensos a causar:
 
-· fatiga
+✅ Fatiga
 
-· achaques
+✅ Achaques
 
-· dolor de garganta
+✅ Dolor de garganta
 
-· fiebre
+✅ Fiebre
 
 Las **alergias** tienen más probabilidades de causar:
 
-· picor de ojos
+✅ Picor de ojos
 
-· jadeo
+✅ Jadeo
 
-· erupciones cutáneas, como eccema o urticaria
+✅ Erupciones cutáneas, como eccema o urticaria
 
 ### El 'saludo alérgico': alergias en niños
 
@@ -131,27 +132,27 @@ Tu cuerpo eliminará el virus del resfriado con el tiempo. Dado que **los antibi
 
 Los **remedios para el resfriado** incluyen:
 
-· jarabes para la tos
+✅ Jarabes para la tos
 
-· aerosoles nasales descongestionantes
+✅ Aerosoles nasales descongestionantes
 
-· analgésicos, como ibuprofeno o paracetamol
+✅ Analgésicos, como ibuprofeno o paracetamol
 
 Los jarabes para la tos no se recomiendan para niños menores de 4 años, mientras que los aerosoles nasales no se recomiendan para niños menores de 6 años. De todos modos, pregunta a tu médico o farmacéutico antes de tomar cualquier medicamento.
 
 No uses medicamentos para el resfriado durante un largo período de tiempo. Usarlos por períodos prolongados puede causar efectos secundarios como la **congestión de rebote**. También puedes probar **tratamientos caseros** para aliviar un resfriado:
 
-· beber mucho líquido (agua, zumos y té de hierbas)
+✅ Beber mucho líquido (agua, zumos y té de hierbas)
 
-· evita la cafeína
+✅ Evita la cafeína
 
-· usa suero salino para descongestionar la nariz
+✅ Usa suero salino para descongestionar la nariz
 
-· toma vahos
+✅ Toma vahos
 
-· haz gárgaras con agua salada
+✅ Haz gárgaras con agua salada
 
-· usa un humidificador
+✅ Usa un humidificador
 
 ## Tratamiento de las alergias
 

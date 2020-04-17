@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F3D6️ EPOC: 5 Consejos para disfrutar de las vacaciones"
 date: 2019-08-30T22:00:00.000+00:00
-last_modified_at: 2019-08-30T22:00:00.000+00:00
+last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: EPOC
 image: "/uploads/Vacaciones con EPOC.jpg"
@@ -27,11 +27,11 @@ Las cifras no van a cambiar. Las previsiones, lejos de augurar una mejoría, son
 
 Si bien la población podría disminuir considerablemente el riesgo de padecer la enfermedad evitando el consumo de tabaco, **otras causas** resultan más difíciles de controlar:
 
-· Polución
+✅ Polución
 
-· Profesiones con agentes contaminantes
+✅ Profesiones con agentes contaminantes
 
-· Procesos asmáticos no contralados o muy graves
+✅ Procesos asmáticos no controlados o muy graves
 
 Además, la mejora de las condiciones del día a día y el **aumento de la esperanza de vida** no hacen más que anticipar que la población española, al igual que la mundial, se verá cada vez más envejecida.
 
@@ -43,15 +43,15 @@ No se puede dilatar la toma de decisiones para paliar los efectos de las enferme
 
 Ante estas perspectivas, los médicos están volcados en conseguir imponer una serie de pautas que puedan ayudar a **que los enfermos de EPOC gocen de una mejor calidad de vida**. Para ello, resulta fundamental perseguir unos fines muy claros:
 
-· Concienciar de los **peligros del tabaco**, promover campañas contra el tabaquismo y llevar a cabo programas para dejar de fumar.
+✅ Concienciar de los **peligros del tabaco**, promover campañas contra el tabaquismo y llevar a cabo programas para dejar de fumar.
 
-· Dar a conocer la enfermedad y conseguir realizar **diagnósticos tempranos**.
+✅ Dar a conocer la enfermedad y conseguir realizar **diagnósticos tempranos**.
 
-· Sensibilizar a los pacientes de [enfermedades respiratorias](https://zenseiapp.com/salud%20respiratoria/zensei-app-enfermedades-respiratorias/) y asmáticos para que mantengan sus **afecciones bien controladas**, con la ayuda de sus especialistas.
+✅ Sensibilizar a los pacientes de [enfermedades respiratorias](https://zenseiapp.com/salud%20respiratoria/zensei-app-enfermedades-respiratorias/) y asmáticos para que mantengan sus **afecciones bien controladas**, con la ayuda de sus especialistas.
 
-· Colaborar con gobiernos y administraciones para tomar **medidas que mejoren la calidad del aire** y disminuyan los niveles de contaminación.
+✅ Colaborar con gobiernos y administraciones para tomar **medidas que mejoren la calidad del aire** y disminuyan los niveles de contaminación.
 
-· **Normalizar la vida de los enfermos de EPOC**, en línea con lo estipulado por la [European Lung Foundation y la European Respiratory Society.](https://www.europeanlung.org/assets/files/es/publications/well-with-copd-es.pdf)
+✅ **Normalizar la vida de los enfermos de EPOC**, en línea con lo estipulado por la [European Lung Foundation y la European Respiratory Society.](https://www.europeanlung.org/assets/files/es/publications/well-with-copd-es.pdf)
 
 ## Cómo llevar una vida normal con EPOC
 
@@ -75,11 +75,11 @@ Viajar con esta enfermedad es posible, siempre que se sigan unas pautas que gara
 
 Antes de ponerse en marcha se debe poner el máximo cuidado a la hora de elegir el destino para unas vacaciones con EPOC. Es preciso evitar factores de riesgo y uno de ellos es, sin duda, la altitud. En este sentido, se deben tener en cuenta varios factores:
 
-· **Los traslados aéreos.** Es importante que, en situaciones en los que la enfermedad está muy avanzada, se evite [volar en avión](https://www.in-pacient.es/question/puedo-viajar-en-avion-con-epoc/). Si ello no es posible o el paciente que ha programado sus vacaciones con EPOC está en una fase temprana, es preciso que se lo comunique a su médico especialista, así como al personal de la compañía aérea con la que vaya a realizar su desplazamiento. Probablemente le aconsejen ir conectado a una fuente de oxígeno supletoria durante todo el viaje.
+✅ **Los traslados aéreos.** Es importante que, en situaciones en los que la enfermedad está muy avanzada, se evite [volar en avión](https://www.in-pacient.es/question/puedo-viajar-en-avion-con-epoc/). Si ello no es posible o el paciente que ha programado sus vacaciones con EPOC está en una fase temprana, es preciso que se lo comunique a su médico especialista, así como al personal de la compañía aérea con la que vaya a realizar su desplazamiento. Probablemente le aconsejen ir conectado a una fuente de oxígeno supletoria durante todo el viaje.
 
-· **Localizaciones a gran altura.** Los pacientes deben tomar muchas precauciones a la hora de diseñar sus vacaciones con EPOC. Los destinos a más de 1000 metros de altura sobre el nivel del mar no son adecuados para ellos. La razón es que, a partir de esa altura, la presión atmosférica es más elevada y la cantidad de oxígeno se reduce considerablemente. Este factor les mermará aún más su capacidad respiratoria al disponer de menos concentración de oxígeno.
+✅ **Localizaciones a gran altura.** Los pacientes deben tomar muchas precauciones a la hora de diseñar sus vacaciones con EPOC. Los destinos a más de 1000 metros de altura sobre el nivel del mar no son adecuados para ellos. La razón es que, a partir de esa altura, la presión atmosférica es más elevada y la cantidad de oxígeno se reduce considerablemente. Este factor les mermará aún más su capacidad respiratoria al disponer de menos concentración de oxígeno.
 
-· **Temperaturas moderadas.** Es importante que los afectados por patologías respiratorias opten por elegir pasar su periodo vacacional en lugares con temperaturas suaves. Los climas extremos, tanto por calor como por frío, aumentan el riesgo de complicaciones respiratorias.
+✅ **Temperaturas moderadas.** Es importante que los afectados por patologías respiratorias opten por elegir pasar su periodo vacacional en lugares con temperaturas suaves. Los climas extremos, tanto por calor como por frío, aumentan el riesgo de complicaciones respiratorias.
 
 ### 2. Tener previsto un plan de actuación
 
