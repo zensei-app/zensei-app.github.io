@@ -284,8 +284,8 @@ Con la edad también se producen cambios anatómicos y fisiológicos en la nariz
 
 _The diagnosis and management of rhinitis: an updated practice parameter_ de [The Journal of Allergy and Clinic Immunology](https://www.jacionline.org/article/S0091-6749(08)01123-8/fulltext#sec10.7.6).
 
-_Características clínicas de rinitis alérgica en niños_ de [CIMEL](https://www.redalyc.org/pdf/717/71711209.pdf). 
+_Características clínicas de rinitis alérgica en niños_ de [CIMEL](https://www.redalyc.org/pdf/717/71711209.pdf).
 
 _Rinitis alérgica (fiebre del heno)_ de [Mayo Clinic](https://www.mayoclinic.org/es-es/diseases-conditions/hay-fever/symptoms-causes/syc-20373039)
 
-_Allergic rhinitis: Definition, epidemiology, pathophysiology, detection, and diagnosis_ de [The Journal of Allergy and Clinic Immunology](https://www.jacionline.org/article/S0091-6749(01)94460-4/fulltext#Classification%20of%20allergic%20rhinitis). 
+_Allergic rhinitis: Definition, epidemiology, pathophysiology, detection, and diagnosis_ de [The Journal of Allergy and Clinic Immunology](https://www.jacionline.org/article/S0091-6749(01)94460-4/fulltext#Classification%20of%20allergic%20rhinitis).
