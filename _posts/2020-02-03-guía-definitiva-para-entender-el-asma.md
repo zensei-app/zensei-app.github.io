@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: Guía definitiva para entender el Asma
 date: 2020-02-11T23:00:00.000+00:00
-last_modified_at: 2020-02-11T23:00:00.000+00:00
+last_modified_at: 2020-04-19 22:00:00 +0000
 author: Cristina
 category: Asma
 image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
