@@ -11,7 +11,11 @@ description: Sentir dolor en el pecho al toser no tiene por qué ir asociado a u
   dolencia grave. Pero si la situación persiste se debe consultar al médico urgentemente.
 intro: Existen muchas causas que pueden provocar **dolor en el pecho al toser**. De
   todos modos, no todas se revisten de gravedad. Te mostramos algunas causas.
-tags: dolor pecho tos
+tags:
+- dolor pecho tos
+- pitos
+- dolor torácico
+- presión pecho
 redirect_from: "/blog/causas-dolor-pecho-toser/"
 
 ---
@@ -130,6 +134,8 @@ La gripe es una **enfermedad respiratoria contagiosa** que causa los siguientes 
 La enfermedad pulmonar obstructiva crónica [(EPOC)](https://zenseiapp.com/epoc/guia-epoc/) es un término general para describir las dolencias pulmonares crónicas y progresivas. Incluye enfisema, bronquitis crónica y asma refractaria. **El síntoma principal de la EPOC es la disnea.**
 
 Fumar y la exposición prolongada al aire deficiente puede causar esta enfermedad. La inflamación en los pulmones aumenta la producción de moco, causando **tos crónica y opresión en el pecho.**
+
+![](/uploads/dolor en el pecho.jpg)
 
 ### 6. Asma
 
