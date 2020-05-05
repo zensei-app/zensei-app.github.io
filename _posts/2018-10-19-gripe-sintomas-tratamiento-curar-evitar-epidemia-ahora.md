@@ -21,7 +21,11 @@ intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br
   evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre
   todo, quieres prevenirla, al final del artículo tendrás un regalo que te será realmente
   útil...'
-tags: gripe síntomas tratamiento remedios
+tags:
+- gripe
+- síntomas gripe
+- tratamiento gripe
+- remedios gripe
 
 ---
 ![gripe 2019-2020](/uploads/Epidemia de la gripe 2019-2020.jpg "Epidemia gripe 2019-2020")
