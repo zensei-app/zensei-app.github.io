@@ -1,15 +1,15 @@
 ---
 layout: post
-redirect_from: 
-  - "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
-  - "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
+redirect_from:
+- "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
+- "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Gripe: Epidemia 2019-2020, síntomas y previsión"
+title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 "
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2020-02-20 11:00:00 +0000
+last_modified_at: 2020-05-05 10:00:00 +0000
 category: Gripe
-author: David
-image: "/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg"
+author: David - Ana
+image: "/uploads/Epidemia de la gripe 2019-2020.jpg"
 description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La
   mejor parte? Puedes seguir la gripe en tiempo real y saber cuales son los síntomas
   de la epidemia de gripe en España (2019-2020). En resumen: si quieres evitar o tienes
@@ -24,438 +24,279 @@ intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br
 tags: gripe síntomas tratamiento remedios
 
 ---
-<br>
-![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
-<br>
+![gripe 2019-2020](/uploads/Epidemia de la gripe 2019-2020.jpg "Epidemia gripe 2019-2020")
 
-## **Vigilancia de la gripe 2019-2020**
+**Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2019-2020.**
 
-La epidemia de la gripe ya ha llegado a su cumbre. Está en fase de descenso. Así que todo empieza a volver a la normalidad.
+## 2019-2020: la temporada en que la gripe pasó desapercibida
 
-Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
+La pandemia, que ha afectado a todos los continentes, ha traído consigo una sucesión de brutales consecuencias. **El desolador escenario pandémico ha obligado a los gobiernos a decretar la** [**cuarentena por coronavirus.**](https://zenseiapp.com/gripe/cuarentena-casa-aislamiento-coronavirus/) El confinamiento se ha entendido como la única manera de luchar contra una enfermedad de la que nada se conocía y que ha presentado una elevadísima tasa de contagio y un terrible índice de mortalidad.
 
-Actualizamos la previsión todos los jueves de cada semana a las 16:00 horas.
+Estas circunstancias se han visto agravadas en determinados tramos de la población**. El ensañamiento de la** [**COVID-19 con la tercera edad**](https://zenseiapp.com/gripe/coronavirus-personas-mayores/) **y con enfermos crónicos ha sido feroz.** Todas estas circunstancias han hecho que durante la temporada 2019-2020 la gripe nos haya parecido que pasaba desapercibida.
 
-## **¿Cómo seguir la epidemia de la gripe ahora en tiempo real?**
+Sin embargo, a la par que se ha producido ese escenario dantesco, la gripe ha hecho su aparición. Como cada temporada, **2019-2020 ha vivido las consecuencias de la epidemia de gripe.**
 
-Mira.
+De hecho, las especiales circunstancias de esta ocasión incluso han obligado a que los especialistas tuvieran que dar **indicaciones para que la población supiera** [**cómo diferenciar el coronavirus de la gripe.**](https://zenseiapp.com/gripe/coronavirus-gripe-diferencia/)
 
-Hemos desarrollado este observatorio de la Gripe en España.
+**Ambas enfermedades respiratorias, de carácter contagioso, han convivido en la campaña 2019-2020.** En muchas ocasiones, los enfermos de gripe han sido tratados como sospechosos de portar el coronavirus. En otras situaciones, desgraciadamente, afectados por la COVID-19 fueron tratados como contagiados por gripe.
 
-Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológicos oficiales y búsquedas en Google.
+**Las consecuencias, sobre todo en el segundo de los casos, han sido fatales.** La virulencia del coronavirus y su capacidad para desencadenar gravísimas complicaciones, han disparado la tasa de mortalidad. El fatal desenlace ha llegado a muchos enfermos que, ante una patología completamente desconocida, eran tratados en un primer momento como si tuvieran una gripe agravada.
 
-Con estos datos, más datos de clima hemos entrenado un inteligencia artificial que predice el impacto de la epidemia de la gripe en España y se actualiza semanalmente.
+## Cómo ha sido la gripe en 2019-2020
 
-### **¿Cuál es el riesgo de coger la gripe esta semana?**
+Aunque haya pasado desapercibida en su enfoque mediático, lo cierto es que **la gripe en 2019-2020 ha sido declarada epidemia.** Ello se debe al hecho de que, esta temporada, la enfermedad **ha afectado a un elevado porcentaje de la población.**
 
-<p>El riesgo de contraer la gripe esta semana es <b><span id="risk1"></span></b>.</p><p> Se estima una incidencia de la gripe de <b><span id="today1"></span></b> casos por cada 100.000 habitantes para esta semana y <b><span id="tomorrow1"></span></b> casos para la semana que viene, suponiendo <b><span id="growth"></span></b> relativo del <b><span id="pct"></span>%</b>.</p>
+Frente a la gripe no se debe bajar la guardia. Esta patología de carácter estacional puede acarrear **fatales consecuencias a pacientes de riesgo: niños, embarazadas, ancianos y enfermos crónicos.**
 
-### **Observatorio de la Epidemia de la Gripe en España 2019-2020**
+Por esta razón, hemos intentado configurar para ti **la guía más completa sobre la epidemia de la gripe en España.** Te vamos a contar qué es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2019-2020) y su incidencia.  
+ En resumen, si quieres evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre todo, quieres prevenirla, **al final del artículo tendrás un regalo que te será realmente útil…**
 
-Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de la gripe ahora. Actualizado semanalmente.
+## Vigilancia de la gripe 2019-2020
 
-<div>
-<div class="center">
-<div class="section group">
-<div class="col span_1_of_3">
-<p id="risk" style="font-size:50px; font-weight: bold;"></p>
-<p style="color:lightgrey; font-weight:lighter;">Riesgo de coger la Gripe</p>
-</div>
-<div class="col span_1_of_3">
-<p id="today" style="font-size:50px; font-weight: bold;"></p>
-<p style="color:lightgrey; font-weight:lighter;">Casos esta semana</p>
-</div>
-<div class="col span_1_of_3">
-<p id="tomorrow" style="font-size:50px; font-weight: bold;"></p>
-<p style="color:lightgrey; font-weight:lighter;">Próxima semana</p>
-</div>
-</div>
-<br>
-<nav class="segmented-button">
-<input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
-<label for="timeserie" class="first">Predicción</label>
-<input type="radio" name="seg-1" value="seasons" id="seasons">
-<label for="seasons">Temporadas</label>
-<input type="radio" name="seg-1" value="locations" id="locations">
-<label for="locations" class="last">Comunidades</label>
-</nav>
-<br>
-</div>
-<div class="full-width">
-<div class="center" id="chart">
-<svg></svg>
-<br>
-<div class="center">
-<p>← Desliza para hacer zoom →</p>
-</div>
-</div>
-<div class="center" id="barchart">
-<svg></svg>
-</div>
-<p id="source">Fuentes de datos epidemiológicos del <a href="http://vgripe.isciii.es/inicio.do">Sistema de Vigilancia de la Gripe en España</a>, <a href="https://trends.google.com/trends/explore?geo=ES&q=gripe">Google Trends Spain</a> y elaboración propia de Zensei.</p>
-</div>
-</div>
+Durante este año, la epidemia de la gripe **se ha alargado más de lo habitual** y le ha costado tocar techo. Afortunadamente, una vez conseguida la fase de descenso, todo vuelve a la normalidad.
 
-¿Quiéres tener las predicciones de la gripe para tu ciudad en tu móvil?
+Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. La gripe ha venido acompañada de los siguientes síntomas: **fiebre, dolor muscular y de cabeza, y debilidad generalizada.**
 
-Prueba nuestra App Diario de Salud Respiratoria.
+## ¿Cómo seguir la epidemia de la gripe ahora en tiempo real?
 
-👉 [DESCARGAR ZENSEI](https://zenseiapp.com)
+Hemos desarrollado este [**observatorio de la Gripe en España. **](http://vgripe.isciii.es/inicio.do)Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológicos oficiales y búsquedas en Google. Esta información se completa con referencias climáticas.
 
-## **¿Qué es la gripe?**
+Todas estas reseñas son gestionadas **a través de Inteligencia Artificial.** El resultado es la **predicción del impacto de la epidemia de la gripe en España.** Esta información se actualiza semanalmente durante todo el año. Puedes ver en un mapa incluso las zonas afectadas, el grado de difusión y el nivel de incidencia.
 
-La [gripe es un virus](https://es.wikipedia.org/wiki/Gripe).
+De todas formas, si deseas tener las predicciones de la gripe para tu ciudad en tu móvil, la mejor opción es que te **descargues nuestra App Diario de Salud Respiratoria**. Con [Zensei App](https://zenseiapp.com/) tendrás toda la información en tu bolsillo.
 
-Bien.
+## ¿Qué es la gripe?
 
-Y es una enfermedad infecciosa, aguda y contagiosa, causada por el virus de la influenza, que ataca al aparato respiratorio y produce fiebre, dolor de cabeza y una sensación de malestar general.
+[Qué es la gripe](https://www.who.int/topics/influenza/es/). **La gripe es un virus.** También es el nombre que se le da a la enfermedad que desencadena. Se trata de una **patología de carácter infeccioso, aguda y contagiosa, causada por el virus de la influenza.** La dolencia ataca al aparato respiratorio y produce fiebre, dolor de cabeza y una sensación de malestar general.
 
-Mira.
+**La gripe puede llegar a resultar muy grave, incluso mortal.** El riesgo se incrementa entre ancianos, recién nacidos y personas con ciertas enfermedades crónicas, como asma, EPOC, bronquitis crónica o alergia respiratoria.
 
-La gripe puede ser muy grave, incluso mortal, entre ancianos, recién nacidos y personas con ciertas enfermedades crónicas como [asma](/blog/como-aprender-a-controlar-el-asma/), epoc, bronquitis crónica o [alergia respiratoria](/blog/cuales-sintomas-alergia-polen/).
+### ¿Sabías que…?
 
-¿Sabías que...?
+La palabra gripe tiene origen en la palabra francesa _grippe_. Esta, a su vez, procede del suizo-alemán _grupi_, que significa acurrucarse. Por su parte, el nombre del virus _influenza_ procede del italiano.
 
-La palabra gripe tiene origen en la palabra francesa **grippe** (procedente del suizo-alemán grupi, que significa acurrucarse), mientras que el nombre del virus influenza procede del italiano.
+**En los seres humanos la enfermedad puede afectar a las vías respiratorias.** Esto es, nariz, garganta, bronquios e, infrecuentemente, pulmones. Sin embargo, **también puede dañar el corazón, el cerebro o los músculos.**
 
-En los seres humanos puede afectar a las vías respiratorias.
+**La influenza se transmite por el aire** e ingresa al organismo por la nariz o la boca. Los individuos infectados **la contagian a través de gotas en suspensión o en superficies** cotidianas. Estas partículas están cargadas de virus procedentes de mocos o saliva. **Las gotas son expelidas con la tos o los estornudos, a veces basta sólo con hablar.**
 
-Esto es, nariz, garganta, bronquios e infrecuentemente pulmones, sin embargo, también puede afectar al corazón, el cerebro o los músculos.
+La gripe se propaga mundialmente en patrones estacionales, ya sea como **epidemias o pandemias que suelen infectar entorno al 20% de la población.** Cada año la gripe se presenta en **otoño e invierno** en zonas templadas.
 
-La influenza se transmite por el aire e ingresa al organismo por la nariz o la boca.
+## ¿Por qué la gripe ocurre en invierno?
 
-Transmitiéndose por los individuos infectados a través de gotas en suspensión o en superficies cotidianas, cargadas de virus procedentes de mocos o saliva.
+Según estudios científicos, **el virus de la gripe es más estable a bajas temperaturas y baja humedad relativa.** En concreto, el mejor caldo de cultivo se encuentra con una temperatura media de 5°C y una humedad relativa del 20% al 35%.
 
-Bien.
+Estas condiciones ambientales hacen que su membrana exterior no se derrita por el calor y la mucosa de nuestras fosas nasales esté bajo mínimos debido a la sequedad del ambiente. **Pero veamos los síntomas que puede provocar el virus de la gripe.**
 
-Las gotas son emitidas con la tos o los estornudos o sólo al hablar.
+## Síntomas y signos de la gripe
 
-La gripe se propaga mundialmente en patrones estacionales.
+### ¿Cuáles son los síntomas de la gripe?
 
-Ya sea como epidemias o pandemias que suelen infectar entorno al 20% de la población.
+Esta enfermedad respiratoria de carácter vírico puede manifestarse a través de una **multitud de síntomas característicos.** Esto no quiere decir que todos los pacientes experimenten toda la sintomatología. Para algunos, la enfermedad cursa de forma leve. Otros, en cambio, manifiestan síntomas moderados o severos. **Los más habituales son:**
 
-Cada año la gripe se presenta en otoño e invierno en zonas templadas.
+**1. Dolor articular.** Se presentan de más a menos y afectan a rodillas, codos y hombros.
 
-Veamos ahora los síntomas y signos para identificar la gripe.
+**2. Dolor muscular.** Frecuentemente en la parte lumbar y en brazos y piernas.
 
-## **¿Por qué la gripe ocurre en invierno?**
+**3. Dolor de garganta.** Más intenso al tragar y acompañado de sensación de sequedad.
 
-Según estudios científicos el virus de la gripe es más estable a bajas temperaturas y baja humedad relativa.
+**4. Tos seca o no productiva.** Una tos molesta sin mocos.
 
-Temperatura media de 5ºC y una humedad relativa del 20% al 35%.
+**5. Congestión nasal.**
 
-Estas condiciones ambientales hacen que su membrana exterior no se derrita por el calor y la mucosa de nuestras fosas nasales esté bajo mínimos debido a la sequedad del ambiente.
+**6. Estornudos.** A través de ellos, el virus puede infectar a más huéspedes.
 
-Veamos los síntomas que puede provocar el virus de la gripe.
+**7. Mocos transparentes en la nariz.**
 
-## **Síntomas y signos de la gripe**
+**8. Fiebre con escalofríos.** Es alta, de 38 °C a 41 °C y dura entre uno y siete días. Habitualmente el periodo febril no sobrepasa los tres días.
 
-### **¿Cuáles son los síntomas de la gripe?**
+**9. Dolor de cabeza sin palpitaciones.**
 
-Mira.
+**10. Dolor de ojos.** Muy característico sobre todo al mirar a uno y otro lado.
 
-Estos son los principales síntomas de la gripe:
+**11. Lagrimeo de ojos.**
 
- 1. **Dolor articular** (de más a menos en rodillas, codos y hombros), y
- 2. **Dolor muscular** en la parte lumbar y en brazo y piernas.
- 3. **Dolor de garganta al tragar** con sensación de sequedad.
- 4. **Tos seca** o no productiva (sin mocos).
- 5. **Congestión nasal**, estarás hablando como si te taparas la nariz.
- 6. **Estornudos**, el virus sabe que así puede infectar a más húespedes.
- 7. **Mocos transparentes** en la nariz.
- 8. **Fiebre con escalofríos**. Es alta (38 °C llegando a 41 °C) y dura entre uno y siete días, siendo 3 lo habitual.
- 9. **Dolor de cabeza** sin palpitaciones.
-10. **Dolor de ojos** (muy caracaterístico si te duelen los ojos al mirar a un lado.)
-11. **Lagrimeo de ojos**
-12. **Falta de aire** o Disnea habitual en personas con asma, bronquitis, EPOC o alérgicos.
-13. **Expulsión de mocos** o Expectoración pero solamente al final del periodo de fiebre (al final de la convalecencia).
-14. **Dolor de tripa** o abdominal (habitual en niños con infección por virus del tipo B)
+**12. Falta de aire o disnea.** Más habitual en personas con asma, bronquitis, alergias o EPOC.
 
-Ahora veamos los signos de la gripe.
+**13. Expulsión de mocos o expectoración.** Pero solamente al final del periodo de fiebre; es decir, al final de la convalecencia.
 
-### **¿Cuáles son los signos de la gripe?**
+**14. Dolor de tripa o abdominal.** Más habitual en niños con infección por virus del tipo B.
 
-Bien.
+### ¿Cuáles son los signos de la gripe?
 
 Los principales signos de la gripe son:
 
-1. **Irritación ocular**
-2. **Congestión nasal**
-3. **Enrojecimiento de la piel, especialmente en la cara.**
-4. **Ojos vidriosos**
-5. **Cansancio**
-6. **Malestar general**
+**1. Irritación ocular.**
 
-Vale, y el resfriado ¿se parece?
+**2. Congestión nasal.**
 
-Veámoslo.
+**3. Enrojecimiento de la piel, especialmente en la cara.**
 
-### **¿Cómo diferenciar entre gripe o resfriado?**
+**4. Ojos vidriosos.**
 
-El resfriado, también conocido como resfrío común, catarro o constipado, es una enfermedad infecciosa viral frecuente que solo ataque el aparato respiratorio superior (nariz y garganta)
+**5. Cansancio.**
 
-Es causado principalmente por el [rinovirus](https://es.wikipedia.org/wiki/Rhinovirus), es otro virus.
+**6. Malestar general.**
 
-El virus al igual que la gripe se contagia a través del contacto con una persona infectada o la inhalación de sus gotitas de saliva o mocos por un estornudo.
+Los síntomas de la gripe este año coinciden con los habituales en cada periodo estacional. No obstante, se ha observado que los pacientes han podido sentirlos de una manera más acusada.
 
-Los síntomas aparecen entre uno y dos días posterior al contacto.
+Teniendo en cuenta todo lo descrito, es frecuente que muchas personas no sepan diferenciar una gripe de un resfriado. Pero son dos dolencias distintas.
 
-Los síntomas incluyen generalmente dolor de garganta, rinitis, rinorrea y malestar general.
+![gripe 19-20](/uploads/Epidemia de la gripe 2019-2020 1.jpg "Epidemia gripe 19-20")
 
-Alcanzan su mayor intensidad entre el primer y tercer día de evolución y tienen una duración de siete a diez días, aunque ocasionalmente pueden persistir hasta por tres semanas. La fiebre se presenta con mayor frecuencia en niños.
+## ¿Cómo diferenciar entre gripe o resfriado?
 
-Por lo tanto, la diferencia es:
+El resfriado, también conocido como resfrío común, catarro o constipado, **es una enfermedad infecciosa viral frecuente que solo ataca al aparato respiratorio superior** (nariz y garganta). Es causado principalmente por otro patógeno llamado rinovirus.
 
-1. El **resfriado común** solo tiene síntomas en nariz y garganta. **Aparato respiratorio superior.**
-2. La **gripe** tiene síntomas en todo el cuerpo y ataca a **todo el aparato respiratorio.**
+El virus, al igual que el de la gripe, se contagia a través del contacto con una persona infectada o la inhalación de sus gotitas de saliva o mocos por un estornudo. **Los síntomas aparecen entre uno y dos días posterior al contacto.** Los síntomas incluyen generalmente **dolor de garganta, rinitis, rinorrea y malestar general.**
 
-## **¿Cuánto dura la gripe?**
+La sintomatología alcanza su mayor intensidad entre el primer y tercer día de evolución y **tiene una duración de siete a diez días**. Ocasionalmente pueden persistir hasta por tres semanas. La fiebre se presenta con mayor frecuencia en niños.
 
-Normalmente **los síntomas duran de una a dos semanas.**
+**Por lo tanto, la diferencia entre gripe y resfriado estriba en que:**
 
-La mayoría de los adultos cogen la gripe el día antes de tener síntomas.
+· El resfriado común solo cursa con síntomas en nariz y garganta. Aparato respiratorio superior.
 
-Estas personas siguen contagiando durante cinco a siete días después de tener síntomas.
+· Los síntomas de la gripe afectan a todo el cuerpo y ataca a todo el aparato respiratorio.
 
-En cambio, los niños y personas con sistemas inmunológicos débiles incluso pueden contagiar un tiempo más largo.
+## ¿Cuánto dura la gripe?
 
-Bien.
+Gripe cuánto dura. Es la eterna cuestión. Normalmente los síntomas se extienden **de una a dos semanas.** La mayoría de los adultos cogen la gripe el día antes de presentar síntomas. **Estas personas siguen contagiando de cinco a siete días después de experimentar la sintomatología.** En el caso de los niños y las personas con sistemas inmunológicos débiles el periodo de contagio puede ser más largo.
 
-La gripe suele pasar espontáneamente.
+Estos son los datos más comunes acerca de cuánto dura la gripe. **Esta enfermedad respiratoria** **suele pasar espontáneamente.** No obstante, en algunos casos, puede provocar complicaciones capaces de derivar en desenlaces fatales. Estas consecuencias críticas son especialmente predominantes en niños pequeños, embarazadas, adultos mayores o personas con un estado inmunitario débil. Ahora veamos como curar la gripe.
 
-Pero en algunos casos puede provocar complicaciones que pueden ser fatales, especialmente en niños pequeños, embarazadas, adultos mayores o personas con un estado inmunitario débil.
+## ¿Cómo tratar y curar la gripe?
 
-Ahora veamos como curar la gripe.
+Ya hemos podido comprobar que el virus de la influenza es, a menudo, confundido por la población con un resfriado común. Sin embargo, son enfermedades muy diferentes que requieren ser tratadas de maneras distintas. Por ello, resulta importante que determinemos **qué tienes que hacer para tratar la gripe.**
 
-## **¿Cómo tratar y curar la gripe?**
+### Gripe tratamiento
 
-Que tienes que hacer para tratar la gripe:
+**1. Adoptar hábitos de higiene básicos**. Resulta fundamental que desarrolles unas pautas habituales de higiene. El COVID-19 ha concienciado a la población sobre la importancia de las [medidas higiénicas contra el coronavirus](https://www.actasanitaria.com/como-debes-prepararte-para-el-coronavirus/). En el caso de la gripe, la mayoría de esas normas son igualmente válidas. Una de las más relevantes es la del lavado frecuente de manos con agua y jabón. De todos modos, es útil saber que los jabones antibacterianos no sirven contra los virus. Realmente es la acción lavarse las manos la que elimina las partículas víricas.
 
-1. **Adoptar hábitos de higiene básicos**, como el lavado frecuente de manos o protegerte con el codo al estornudar, para no propagar el virus.
-2. **Beber mucho líquido**, la fiebre puede causar deshidratación.
-3. **Estar en reposo**, ya que la gripe va ser como si te pegaran una paliza.
-4. **Aliviar los síntomas** con medicamentos para la gripe (antigripales) o remedios caseros.
+**2. Obstaculizar la tos.** Toser es una de las vías prioritarias para la propagación del virus. Para paliar esta circunstancia y evitar contagiar a otras personas, debes protegerte con la parte interior del codo al estornudar o con un pañuelo desechable, que debes tirar después del uso.
 
-### **Recomendaciones para la gripe**
+**3. Evitar salir a la calle.** Si sospechas que has contraído la gripe, procura no salir de casa para impedir su propagación.
 
-Comer alimentos sanos y preferentemente tibios ayuda a estimular la salivación, y permite aliviar la tos y el dolor de garganta.
+**4. Adecuada hidratación.** Algunos síntomas de la gripe, como la fiebre, pueden potenciar la deshidratación. Para evitarlo es recomendable que se beba mucho líquido.
 
-Es muy común la pérdida de apetito, que está asociada a la pérdida del paladar y del olfato cuando nos duele la garganta y sufrimos con la congestión nasal.
+**5. Incrementar el descanso.** Estar en reposo ayudará al convaleciente a aliviar el cansancio y el malestar general que genera la enfermedad.
 
-Pero ¡ni pensar en dejar de comer!
+**6. Paliar los síntomas.** Para aliviar la sintomatología es recomendable el uso de medicamentos antigripales. También se puede recurrir a remedios caseros que reconforten al paciente.
 
-El cuerpo necesita todos los nutrientes que conseguimos a través de la comida, y es lo que nos va ayudar en la recuperación.
+**7. No administrar antibióticos.** Los antibióticos son completamente ineficaces ante el virus de la gripe. Es importante que no se tomen estos medicamentos cuando no son imprescindibles, pues nuestro organismo acaba desarrollando resistencia a ellos.
 
-Hidratarse también es fundamental. Agua, té, sopa… No deje de ingerir mucho líquido.
+**8. Evita contacto social con personas contagiadas.**
 
-Consume vitamina C: las investigaciones demuestran que tomar regularmente ácido ascórbico refuerza el sistema inmunológico y puede aplacar la intensidad de una infección viral.
+**9. Evita tocarte la cara y los ojos.**
 
-Descanso es una de las palabras fundamentales cuando tenemos gripe.
+**10. Usa mascarilla.** [Utiliza una mascarilla](https://zenseiapp.com/alergia/mejor-mascarilla-asma-alergia-precio/) en época de epidemia, tengas o no el virus. Es la manera más eficaz de protegerte y también de no contagiar a otras personas. La experiencia que nos ha aportado la COVID-19 nos ha permitido normalizar el hecho de salir a la calle con mascarilla. Otros estados tienen este acto muy interiorizado. En algunos países como Japón, las personas resfriadas se colocan máscaras de cirujano como cortesía hacia los demás.
 
-Dormir adecuadamente y el tiempo suficiente ayuda a que el cuerpo recupere su energía y que se sienta mejor.
+**11. Higieniza el ambiente de tu hogar.** Limpia el aire de casa con un purificador de aire. Eliminará partículas de virus en suspensión.
 
-Estar en un cuarto oscuro y sin mucho ruido, por ejemplo, beneficia el reposo, el relajo y ayuda a aliviar el dolor en la cabeza y en el cuerpo.
+**12. Desinfecta superficies.** Limpia diariamente las superficies de mayor uso, pomos de puertas, mesas y encimeras. Emplea un producto desinfectante de uso doméstico.
 
-No hay nada mejor que nuestra cama o el sofá con una mantita.
+**13. La vacuna como mejor preventivo.** Vacúnate contra la gripe de forma anual. Si eres una persona de riesgo o tienes una vida social muy intensa tienes mayor probabilidad de contagio. Acude a tu cita con la [campaña de vacunación](https://www.actasanitaria.com/sanidad-recomienda-vacunacion-frente-a-la-gripe/) al inicio del periodo estacional.
 
-Prepara calditos calentitos, te van a saber a gloria y ten bien cerca un paquete de pañuelos.
+### Recomendaciones para la gripe
 
-### **Medicamentos para la gripe (antigripales)**
+Además de las pautas que deben seguirse durante el tratamiento de la gripe, conviene adoptar una serie de recomendaciones. De esta manera, podremos ayudar al organismo a una mejor recuperación.
 
-**Medicamentos antiinflamatórios**
-Son esenciales para disminuir la inflamación de la garganta. Ibuprofeno, Ácido Tolfenámico o Diclofenac suelen utilizarse.
+· **Comer alimentos sanos y preferentemente tibios.** Así se ayuda a estimular la salivación y se consigue aliviar la tos y el dolor de garganta.
 
-**Medicamentos analgésicos**
-En este caso no reducen la inflamación pero si disminuyen el dolor de garganta y de los oídos como el Paracetamol, Ácido acetil salicílico o Mepiramina.
+· **No dejar de comer.** Es muy común la pérdida de apetito, que está asociada a la pérdida del paladar y del olfato cuando nos duele la garganta y sufrimos con la congestión nasal. Sin embargo, aun en caso de inapetencia, resulta esencial una buena alimentación. El cuerpo necesita todos los nutrientes que conseguimos a través de la comida y es lo que nos va a ayudar en la recuperación.
 
-**Medicamentos antipiréticos**
-Estos medicamentos sirve para reducir la fibre. El ácido acetilsalicílico (ASS) (también conocido por un nombre comercial: Aspirina), el paracetamol (también Acetaminofén), el ibuprofeno y el metamizol (también Dipirona).
+· **Beber asiduamente.** Hidratarse también es fundamental. Agua, té, sopa… No dejes de ingerir mucho líquido.
 
-Suelen ser medicamentos que tratan la fiebre de una forma sintomática, sin actuar sobre su causa.
+· **Consume vitamina C.** Las investigaciones demuestran que tomar regularmente ácido ascórbico refuerza el sistema inmunológico y puede aplacar la intensidad de una infección viral.
 
-**Medicamentos antialérgicos**
-Para disminuir los síntomas de alergia como Benalet, Terfenadina o Desloratadina;
+· **Descansar.** Dormir adecuadamente y el tiempo suficiente ayuda a que el cuerpo recupere su energía y se sienta mejor.
 
-**Medicamentos antitusivos**
-Para tratar la tos seca como Bisolsek, Zyplo o Cetirizina;
+· **Comodidad.** Estar en una estancia en penumbra y sin mucho ruido beneficia el reposo e induce a la relajación. De esta forma, se contribuye a aliviar el dolor de cabeza y el malestar general.
 
-​**Medicamentos expectorantes**
-Para ayudar a liberar las secreciones como Bisolvon, Mucosolvan o Vick 44 E.
+### Medicamentos para la gripe
 
-**Medicamentos antigripales**
-Puedes encontrar en la farmacia antigripales con distintas composiciones.
+Entre las medidas adoptadas en un tratamiento contra la gripe, los **medicamentos antigripales** ocupan un lugar especial. Gracias a ellos conseguiremos que la sintomatología no resulte tan severa.
 
-Con paracetamol: FRENADOL, BISOLGRIP, COULDINA, ILVICO, TERMALGIN, GRIPAVICKS…
+\- **Medicamentos antinflamatorios.** Son esenciales para disminuir la inflamación de la garganta. Ibuprofeno, ácido tolfenámico o diclofenaco son los más utilizados.
 
-Con ácido acetilsalicílico: ASPIRINA COMPLEX, COULDINA, DESENFRIOL…
+\- **Medicamentos analgésicos.** En este caso no reducen la inflamación pero si disminuyen el dolor de garganta y de los oídos, como el paracetamol, el ácido acetil salicílico o la mepiramina.
 
-Antigripales más descongestivos: FRENADOL DESCONGESTIVO, BISOLFREN, GRIPOSTAD…
+\- **Medicamentos antipiréticos.** Estas medicinas sirven para reducir la fiebre. Los más generalizados son el ácido acetilsalicílico (ASS) (también conocido por un nombre comercial: Aspirina), el paracetamol (también Acetaminofén), el ibuprofeno y el metamizol (también Dipirona). Suelen ser medicamentos que tratan la fiebre de una forma sintomática, sin actuar sobre su causa.
 
-**Prohibido tomar antibióticos**, no hacen nada contra los virus.
+\- **Medicamentos antialérgicos**. Para disminuir los síntomas de alergia, como Benalet, Terfenadina o Desloratadina.
 
-## **¿Cómo evitar y prevenir la gripe?**
+\- **Medicamentos antitusivos.** Para tratar la tos seca, como Bisolsek, Zyplo o Cetirizina.
 
-La mejor manera de evitar la gripe es tener unos buenos hábitos de prevención.
+\- **Medicamentos expectorantes.** Para ayudar a liberar las secreciones, como Bisolvon, Mucosolvan o Vick 44 E.
 
-Aquí te hemos hecho una lista para que intentes hacerlos cada día.
+\- **Medicamentos antigripales.** Puedes encontrar en la farmacia antigripales con distintas composiciones:
 
-### **Hábitos para prevenir la gripe**
+1\. **Con paracetamol.** Frenadol, Bisolgrip, Couldina, Ilvico, Termalgín, Gripavicks…
 
-Mira.
+2\. **Con ácido acetilsalicílico.** Aspirina Complex, Couldina, Desenfriol…
 
-Estos son los mejores hábitos para evitar la gripe:
+3\. **Antigripales descongestivos.** Frenadol descongestivo, Bisolfren, Gripostad…
 
-1. **Evita contacto social** con personas contagiadas.
-2. **Lávate meticulosa y regularmente las manos**.
+Recordamos que está completamente **desaconsejado el uso de antibióticos**, ya que no hacen nada contra los virus de la gripe. Por otro lado, **es importante que conozcas los niveles de virus respiratorios y otros agentes que pueden dañar tu sistema respiratorio.**
 
-Los jabones antibaterianos no sirven encontra de los virus, es la acción lavarse las manos la que elimina las partículas víricas.
+Nuestra [**App Zensei**](https://zenseiapp.com/) está diseñada justo para que puedas tener **un diario de salud respiratoria** que te permite guardar síntomas y medicación. Además, te damos a conocer todos los riesgos de salud respiratoria en tu zona.
 
-1. **Evita tocarte la cara** y los ojos.
-2. **Utiliza una mascarilla en época de epidemia**, tengas o no el virus.
+#### Una curiosidad.
 
-En algunos países como Japón las personas resfriadas se colocan máscaras de cirujano como cortesía hacia los demás.
+En un reciente estudio en _Science_ se ha demostrado que el impacto de la epidemia de la gripe está correlacionado con la densidad poblacional y la humedad del clima. Esto significa que **los picos de contagio son mayores e intensos en ciudades pequeñas**, dependientes más del clima. En las grandes ciudades el periodo de contagio es menos intenso, pero se alargan durante un mayor tiempo.
 
-<div class="section-cta">
-<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla para que evites la gripe con los Japos</bold></a>.
-</div>
+Si vives en una ciudad pequeña estate alerta cuando hace frío y tus vecinos están cayendo enfermos. Si resides en una gran ciudad has de tener más cuidado. La incidencia no depende tanto del tiempo, si no de la exposición a grandes masas de personas (transporte público, lugares muy concurridos, manifestaciones públicas, grandes eventos, etc.)
 
-1. **Limpia el aire de casa** con un purificador de aire. Eliminará partículas de virus en suspensión.
+## Vacunación de la gripe
 
-<div class="section-cta">
-<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
-</div>
+**Existen** [**vacunas**](https://zenseiapp.com/gripe/vacuna-gripe/) **y antivirales para la profilaxis y el tratamiento** de las infecciones por el virus de la gripe. Las vacunas están formuladas a partir de virus inactivados o viriones atenuados de la gripe humana H1N1 y H3N2, así como los de los virus de la influenza B.
 
-1. **Cúbrete la boca a la hora de estornudar o toser** con el codo.
-2. **Desinfecta diariamente las superficies de mayor uso**, pomos de puertas, mesas y encimeras.
-3. **Vacúnate ante la gripe** de forma anual. Si eres una persona de riesgo y si eres una persona muy extrovertida tienes mayor probabilidad de contagio.
-4. **Conoce los niveles de virus respiratorios** y otros agentes que pueden dañar tu sistema respiratorio.
+### ¿Cuándo hay que vacunarse?
 
-Nuestra [app Zensei](https://zenseiapp.com) está diseñada justo para que puedas tener un diario de salud respiratoria que te permite guarda síntomas respiratorios y medicación, y damos a conocer todos los riesgos de salud respiratoria en tu zona.
+Normalmente, la campaña de **la vacunación de la gripe suele empezar en el mes de Octubre.** Infórmate en tu Centro de Salud u Hospital de referencia.
 
-Basta de vendernos.
+**Es mejor vacunarse por la mañana,** según un estudio de la Universidad de Birmingham (Reino Unido). El resultado de la investigación determinó que es mejor vacunarse por la mañana, pues el sistema inmune responde mejor a la vacuna y la protección es mayor.
 
-Porque no sabemos si realmente te interesa nuestra app.
+### ¿Quién se tiene que vacunar?
 
-Es solo para personas que quieren cuidar de su salud respiratoria.
+La vacunación antigripal está ampliamente recomendada para **grupos de alto riesgo.** Son aquellos en los que las complicaciones de la gripe pueden ser graves:
 
-Una curiosidad.
+· **Mayores de 60 años.**
 
-En un [reciente estudio en Science](http://science.sciencemag.org/content/362/6410/75.full) ha demostrado el impacto de la epidemia de la gripe correlaciona con la densidad poblacional y la húmedad del clima.
+· **Menores de 5 años.**
 
-esto significa que las los picos de contagio son mayores e intensos en ciudades pequeñas, dependientes más del clima, y en la grandes ciudades el periodo de contagio es menos intenso pero se alargan durante un mayor tiempo.
+· **Inmunodeprimidos** (diabetes, sida, trasplantados, etc.).
 
-Si vives en un ciudad pequeña estate alerta cuando hace frío y tus vecinos están cayendo enfermos.
+· **Pacientes de enfermedades respiratorias** (asma, epoc, enfisema, bronquitis, etc) o **cardiacas** (infarto de miocardio, valvulopatías, insuficiencia, etc).
 
-Y si vives en una gran ciudad tienes que tener más cuidado porque no depende tanto del tiempo, si no de la exposición a grandes masas de personas (transporte público, congregaciones de personas, etc.)
+### Estoy embarazada y tengo gripe
 
-### **Vacunación de la gripe**
+**Las embarazadas deben ponerse la vacuna**, en cualquier momento del embarazo. Ellas son consideradas población de riesgo y la inyección **también protege al feto.** No obstante, es posible que contraigas la enfermedad.
 
-Existen vacunas y antivirales para la profilaxis y el tratamiento de las infecciones por el virus de la gripe.
+Lo cierto es que las mujeres tienen su **sistema inmune más deprimido durante el embarazo.** Este hecho contribuye a que estén **más expuestas a las infecciones**. Es el caso de la gripe. La sintomatología de la enfermedad puede sumarse al malestar que puede estar ocasionando tu estado.
 
-Las vacunas están formuladas a partir de virus inactivados o viriones atenuados de la gripe humana H1N1 y H3N2, así como los de los virus de la influenza B.
+Sin embargo, **el uso de medicamentos en embarazadas es muy limitado** y siempre bajo estrecha vigilancia médica. Si deseas sentirte mejor en mitad de una gripe durante tu embarazo, **te recomendamos que leas nuestro artículo** [**“Embarazada: Remedios para evitar la gripe”**](https://zenseiapp.com/gripe/gripe-embarazada/)**.** Te será de mucha utilidad.
 
-**¿Cuando hay que vacunarse?**
+#### ¿Dónde puedes vacunarte de la gripe?
 
-Normalmente, la campaña de la vacunación de la gripe suele empezar en el mes de Octubre.
+En los centros de salud te aconsejarán acerca de sus horarios y planes de vacunación.
 
-Infórmate en tu Centro de Salud u Hospital de referencia.
+## Gripe niños 2019
 
-Es mejor vacunarse por la mañana, según un estudio de la Universidad de Birmingham (Reino Unido).
+**La epidemia de gripe 2019-2020 se ha cebado con la población infantil.** Las aulas de los colegios se han visto despobladas. Al mismo tiempo, los pediatras veían cómo sus consultas se llenaban de críos enfermos de gripe. Lo cierto es que no ha sido un espejismo. Los datos oficiales estiman que durante esta temporada **se ha incrementado en un 20% el número de casos de gripe infantil.**
 
-El resultado del estudio determino que es mejor vacunarse por la mañana, pues el sistema inmune responde mejor a la vacuna y la protección es mayor.
+Sin embargo, los síntomas que han experimentado los niños afectados no han sido muy graves. Eso sí, los especialistas han constatado que algunos de ellos se dilataban más en el tiempo. Es el caso de los cuadros febriles, que aunque no han solido sobrepasar los 37°C, si que se han prolongado hasta la semana. Es un factor raro, puesto que la fiebre en los niños griposos suele tener una duración de 3 o 4 días.
 
-La fecha de comienzo de la campaña de vacunación, habitualmente, suele empezar en Octubre cuando comienza el virus a circular.
+Como ves, hemos intentado condensar toda la información práctica que te pueda resultar útil a la hora de afrontar la gripe. Sigue las pautas y consejos que te damos y procura tomar medidas para no contagiarte y no contagiar.
 
-**¿Quién se tiene que vacunar?**
+_Referencias:_
 
-La vacunación antigripal está ampliamente recomendada para grupos de alto riesgo.
+[_Gripe. Organización Mundial de la Salud (OMS)._](https://www.who.int/topics/influenza/es/)
 
-Son aquellos en los que las complicaciones de la gripe pueden ser graves:
+[_No vacunar contra la gripe aumenta las tasas de infección, hospitalización y muerte. Acta Sanitaria._](https://www.actasanitaria.com/no-vacunar-contra-la-gripe-aumenta-las-tasas-de-infeccion-hospitalizacion-y-muerte/)
 
-1. **Mayores de 60** años
-2. **Menores de 5** años
-3. **Inmunodeprimidos** (diabetes, sida, trasplantados, etc.).
-4. **Enfermos respiratorias** (asma, epoc, enfisema, bronquitis, etc) o **cardiacas** (infarto de miocardio, valvulopatías, insuficiencia, etc).
+[_El riesgo de hospitalización por gripe en niños con asma puede ser hasta cuatro veces mayor. Sociedad Española de Inmunología Clínica, Alergología y Asma Pediátrica (SEICAP)._](http://www.seicap.es/es/el-riesgo-de-hospitalizaci%C3%B3n-por-gripe-en-ni%C3%B1os-con-asma-puede-ser-hasta-cuatro-veces-mayor_79621)
 
-**¿Dónde puedes vacunarte de la gripe?**
+[_El Ministerio de Sanidad recuerda que los antibióticos no son eficaces contra virus como la gripe en una campaña con el lema “Antibióticos: tómatelos en serio”. Ministerio de Sanidad. Gobierno de España._](https://www.mscbs.gob.es/gabinete/notasPrensa.do?id=4235)
 
-En los centros de salud te aconsejarán de sus horarios y planes de vacunación.
+[_La gripe es un importante problema de salud y la vacunación es la manera más efectiva de prevenirla. Ministerio de Sanidad. Gobierno de España._](https://www.mscbs.gob.es/gabinete/notasPrensa.do?id=4703)
 
-## **¿Cómo seguir la epidemia de gripe?**
-
-Mira.
-
-Antes de nada, te vamos explicar como se mide la epidemia de la gripe en España y donde puedes ver esos datos oficiales de cada temporada de la gripe.
-
-### **¿Cómo se mide la incidencia de la gripe en España?**
-
-Existe en cada comunidad autónoma una **Red de Médicos Centinela**, que es un sistema de vigilancia epidemiológica, que tiene como objetivo principal la obtención de recabar casos positivos de gripe.
-
-Su ámbito de trabajo es la Atención Primaria, y en ella colaboran Médicos de Familia y Pediatras de forma voluntaria.
-
-<br>
-![Sistema de vigilancia de la gripe](/img/gripe_isciii.png){: .center-image }
-<br>
-
-Estos datos son enviados a laboratorios para ser verificados biológicamente y reportados a las comunidades autónomas, que posteriormente envían al [Instituto Carlos III de Salud](http://www.isciii.es/) y reportan semanalmente desde su [Sistema de Vigilancia de la Gripe](http://vgripe.isciii.es/inicio.do) los datos de la evolución de la epidemia de la gripe.
-
-Puntualizar que **las comunidades reportan los datos con una semana de retraso** y el **Sistema de Vigilancia de la gripe con dos semanas retraso.**
-
-### **¿Donde puedo acceder a los informes de la gripe?**
-
-Cada comunidad autónoma pose una portal dedicado a vigilancia de la enfermedad y el Sistema Nacional de Vigilancia de la Gripe se encarga de llevar un control a nivel nacional.
-
-Mira.
-
-Aquí tienes un ejemplo de un informe semanal de la gripe de la Comunidad de Madrid.
-<br>
-![Informe semanal de la gripe madrid](/img/madrid_gripe.png){: .center-image }
-<br>
-
-Vale, muy bien.
-
-Pero cómo puedes consultar la evolución de la gripe semanalmente de forma más sencilla.
-
-Con nuestro Sistema de vigilancia de la Gripe para España que hemos desarrollado para ti.
-
-## **Conclusiones sobre la gripe**
-
-El virus de la gripe es contagioso y puede hacerte pasar unos días horribles con un gripazo.
-
-Solo tienes que ser paciente, quedarte en casa descansando y seguir los hábitos que te recomendamos para prevenir la gripe.
-
-Y ten encuenta donde vives y cuanta exposición a otras personas tienes que pueden contagiar el virus.
-
-Hemos intentado ayudarte a evitar y curar la gripe de forma fácil y sencilla.
-
-Bien.
-
-No sabemos si eres una persona que realmente se preocupa por caer enfermo.
-
-Pero una buena prevención em pieza protegiendo a nuestro circulo social.
-
-Por eso.
-
-**📣 Si te parece útil esta guía, por favor, compártela.**
-
-<div class="center">
-<ul class="social-btns">
-<li><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={% if page.title %}{{ page.title | uri_escape }}{% else %}{{ site.title | uri_escape }}{% endif %}" data-url="{% if page.title %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% endif %}" data-size="large">Tweet</a></li>
-<li><div class="fb-share-button" data-href="{% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog {% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog{% endif %}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse">Compartir</a></div></li>
-<li id="whatsappButton"><a class="whatsapp-share-button" href="whatsapp://send?text=Echa un vistazo a esto:{% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=cta_blog {% else %}{{ site.url | escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=cta_blog{% endif %}"><img src="/assets/img/whatsapp.svg" alt="Whatsapp">Whatsappear</a></li>
-</ul>
-</div>
-
-Así de fácil.
-
-Tu decides.
-
-Compartiéndola podras protegerte a ti, tu familia y amigos contra la gripe.
-
-Así ellos también podrán saber como evitar la gripe.
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
-<script type="text/javascript" src="/assets/js/gripe.js"></script>
+[_La gestión de riesgos ante una pandemia de gripe. Organización Mundial de la Salud. OMS._](https://apps.who.int/iris/bitstream/handle/10665/272829/WHO-WHE-IHM-GIP-2017.1-spa.pdf)
