@@ -5,14 +5,14 @@ title: Guía sobre COVID-19 y embarazo
 date: 2020-05-05 22:00:00 +0000
 last_modified_at: 2020-05-05 22:00:00 +0000
 author: Ana
-category: gripe
+category: Gripe
 image: "/uploads/Covid19 y embarazo.jpg"
 description: Las mujeres embarazadas han sido incluidas en el grupo de pacientes de
   riesgo frente al coronavirus. Descubre la relación entre Covid-19 y embarazo.
 intro: La mayoría de las mujeres gestantes positivas en COVID-19 suelen ser asintomáticas.
   Descubre todo lo que necesitas saber sobre la **Covid-19 y el embarazo**.
-tags: covid-19, embarazo, gripe, virus, pandemia,
-slug: covid19-embarazo
+tags: covid-19 embarazo gripe virus pandemia
+slug: covid19 embarazo
 
 ---
 ![Mujer embarazada](/uploads/Covid19 y embarazo.jpg "Covid-19 y embarazo")
@@ -57,21 +57,21 @@ Es importante enfatizar que, a nivel mundial, **en todos los casos reportados de
 
 Lo más importante es **seguir la orientación de las autoridades sanitarias.** Para las mujeres embarazadas y el resto de las personas que convivan con ella, esto incluye:
 
-· Lavado regular de manos.
+✅ Lavado regular de manos.
 
-· Uso de pañuelos de papel para tapar la tos o el estornudo. Desecharlo tras la utilización y lavarse las manos.
+✅ Uso de pañuelos de papel para tapar la tos o el estornudo. Desecharlo tras la utilización y lavarse las manos.
 
-· Evitar el contacto con alguien que muestre síntomas de coronavirus. Estos síntomas incluyen alta temperatura y/o tos nueva y continua.
+✅ Evitar el contacto con alguien que muestre síntomas de coronavirus. Estos síntomas incluyen alta temperatura y/o tos nueva y continua.
 
-· Evitar el uso no esencial del transporte público cuando sea posible.
+✅ Evitar el uso no esencial del transporte público cuando sea posible.
 
-· Trabajar desde casa siempre que sea posible.
+✅ Trabajar desde casa siempre que sea posible.
 
-· Evite las reuniones grandes y pequeñas en espacios públicos.
+✅ Evite las reuniones grandes y pequeñas en espacios públicos.
 
-· Evite reuniones con amigos y familiares que no convivan en la misma casa.
+✅ Evite reuniones con amigos y familiares que no convivan en la misma casa.
 
-· Usar los servicios telefónicos o en línea para comunicarse con el médico de cabecera u otros servicios esenciales.
+✅ Usar los servicios telefónicos o en línea para comunicarse con el médico de cabecera u otros servicios esenciales.
 
 ![pie de bebé](/uploads/Covid19 y embarazo 1.jpg "Embarazo y Covid-19")
 
@@ -97,13 +97,13 @@ Entendemos que la pandemia de coronavirus inevitablemente provocará una mayor c
 
 **Específicamente, es probable que esta ansiedad gire en torno a:**
 
-· El virus en sí.
+✅ El virus en sí.
 
-· El impacto del aislamiento social, que se traduce en un menor apoyo de familiares y amigos.
+✅ El impacto del aislamiento social, que se traduce en un menor apoyo de familiares y amigos.
 
-· La falta de ingresos económicos.
+✅ La falta de ingresos económicos.
 
-· Los cambios de citas de presenciales a telefónicas.
+✅ Los cambios de citas de presenciales a telefónicas.
 
 El aislamiento, el duelo, las dificultades financieras, la inseguridad y la imposibilidad de acceder a los sistemas de apoyo son factores de riesgo ampliamente reconocidos para las enfermedades mentales. La epidemia de coronavirus también aumenta el riesgo de violencia doméstica.
 
