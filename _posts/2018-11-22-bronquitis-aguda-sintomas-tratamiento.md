@@ -6,7 +6,7 @@ redirect_from:
 - "/blog/bronquitis-aguda-sintomas-tratamiento/"
 - "/blog/2018/11/22/bronquitis-aguda-sintomas-tratamiento/"
 toc: true
-title: "\U0001F47E\U0001F912 Guía sobre la bronquitis"
+title: "\U0001F47E\U0001F912 Guía definitiva sobre la bronquitis"
 date: 2018-11-22 08:00:00 +0000
 last_modified_at: 2020-05-11 09:00:00 +0000
 category: Salud Respiratoria
