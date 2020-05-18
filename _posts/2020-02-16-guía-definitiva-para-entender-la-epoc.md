@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: Guía definitiva para entender la EPOC
 date: 2020-02-16T23:00:00.000+00:00
-last_modified_at: 2020-02-17 23:00:00 +0000
+last_modified_at: 2020-04-19 22:00:00 +0000
 author: Cristina
 category: Epoc
 image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
@@ -355,3 +355,9 @@ Existe una relación entre la EPOC y una probabilidad doblemente mayor de presen
 ✅ La población más afectada son hombres blancos de 40 años.
 
 ✅ Cada vez más mujeres padecen EPOC y se cree que es debido a que cada vez hay más mujeres que fuman.
+
+## Referencias
+
+_Enfermedad Pulmonar Obstructiva Crónica (EPOC)_ de la [OMS](https://www.mayoclinic.org/es-es/diseases-conditions/copd/symptoms-causes/syc-20353679)
+
+_Enfermedad Pulmonar Obstructiva Crónica (EPOC)_ de [Mayo Clinic](https://www.mayoclinic.org/es-es/diseases-conditions/copd/symptoms-causes/syc-20353679)
