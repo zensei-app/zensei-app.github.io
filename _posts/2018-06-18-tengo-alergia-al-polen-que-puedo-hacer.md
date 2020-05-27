@@ -1,18 +1,20 @@
 ---
 layout: post
-redirect_from: 
-  - '/blog/tengo-alergia-al-polen-que-puedo-hacer/'
-  - '/blog/2018/06/17/tengo-alergia-al-polen-que-puedo-hacer/'
-title:  "🌼🌷 Alergía al polen: Remedios para evitar sus síntomas"
-date:   2018-06-17 10:00:00 +0200
-last_modified_at: 2020-02-20 10:00:00 +0000
+redirect_from:
+- "/blog/tengo-alergia-al-polen-que-puedo-hacer/"
+- "/blog/2018/06/17/tengo-alergia-al-polen-que-puedo-hacer/"
+title: "\U0001F33C\U0001F337 Alergia al polen: Remedios para evitar sus síntomas"
+date: 2018-06-17T08:00:00.000+00:00
+last_modified_at: 2020-02-20T10:00:00.000+00:00
 author: Zensei Team
 category: Alergia
-image: /img/19389787_10213834807130019_102773456_n.jpg
-description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos...
+image: "/img/19389787_10213834807130019_102773456_n.jpg"
+description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges
+  otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal
+  y estornudos...
 tags: alergia polen remedios síntomas
----
 
+---
 Es el cuarto [ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo) que tienes esta mañana y mientras coges otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal y estornudos  🤧😷 – estarán relacionados con el cambio de estación. Si desarrollas estos mismos síntomas cada año en la misma fecha, lo más probable es que estés sufriendo de una alergia.
  
 De acuerdo con la Organización mundial de la salud, más de 400 millones de personas son alérgicas al polen y esta cifra aumenta cada año. De acuerdo con el Informe de Provisión de Pólenes de 2017 del Seaic, las enfermedades alérgicas relacionadas con el polen afectan a un 30 % de la población española – 16 millones de personas.
@@ -64,4 +66,3 @@ En Zensei, nos preocupamos por todos aquéllos factores que puedan afectar a tu 
 <br>
 
 **[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita y te alerta de todas los factores que pueden provocarte síntomas respiratorios como el polen, la contaminación, virus respiratorios, clima, etc. Lee nuestro artículo sobre [apps para alérgicos](https://zenseiapp.com/blog/apps-para-alergicos/).
-
