@@ -2,6 +2,7 @@
 layout: post
 toc: true
 redirect_from:
+- https://zenseiapp.com/salud%20respiratoria/causas-dolor-pecho-toser/
 - "/blog/sibilancias-pitidos-respiratorios/"
 - "/blog/2018/05/08/sibilancias-pitidos-respiratorios/"
 title: 'Pitidos al respirar: causas y cómo evitarlos'
@@ -23,11 +24,11 @@ intro: Se denomina **[sibilancia](https://medlineplus.gov/spanish/ency/article/0
 tags: asma síntomas pitidos
 
 ---
- ![Asma Zensei app sibilancias](/img/5458857332_d404800a08_b.jpg)
+![Asma Zensei app sibilancias](/img/5458857332_d404800a08_b.jpg)
 
-**Se denomina** [**sibilancia**](https://medlineplus.gov/spanish/ency/article/003070.htm) **y hace referencia a esos conocidos pitidos al respirar.** Las sibilancias también son llamadas chillido en el pecho, silbido de pecho o sonido en el pecho. Su nombre proviene precisamente del tipo de ruido que emite el paciente, parecido al de un silbido. **Ocurre cuando las vías respiratorias se estrechan** y el aire pasa por un conducto mucho más estrecho.  
-   
- En realidad, **los** **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan **más audibles mientras exhalamos el aire.** No obstante, en casos severos, se puede escuchar durante la inhalación.
+**Se denomina** [**sibilancia**](https://medlineplus.gov/spanish/ency/article/003070.htm) **y hace referencia a esos conocidos pitidos al respirar.** Las sibilancias también son llamadas chillido en el pecho, silbido de pecho o sonido en el pecho. Su nombre proviene precisamente del tipo de ruido que emite el paciente, parecido al de un silbido. **Ocurre cuando las vías respiratorias se estrechan** y el aire pasa por un conducto mucho más estrecho.
+
+En realidad, **los** **conductos que se cierran son los bronquios y los bronquiolos**, por lo que resulta más difícil que el aire llegue hasta nuestros pulmones. Los pitidos al respirar resultan **más audibles mientras exhalamos el aire.** No obstante, en casos severos, se puede escuchar durante la inhalación.
 
 **Las sibilancias pueden ser un síntoma de un problema respiratorio grave** que requiera diagnóstico y tratamiento.
 
@@ -61,35 +62,35 @@ Los chillidos en el pecho a menudo son causados por **inflamación en la gargant
 
 Las sibilancias están más asociadas con el asma. Sin embargo, también puede ser un síntoma de **otros problemas respiratorios, infecciones y afecciones asociadas** que incluyen:
 
-· Alergias.
+✅ Alergias.
 
-· Anafilaxia.
+✅ Anafilaxia.
 
-· Hinchazón en las vías respiratorias.
+✅ Hinchazón en las vías respiratorias.
 
-· Respirar un objeto extraño.
+✅ Respirar un objeto extraño.
 
-· Bronquitis.
+✅ Bronquitis.
 
-· Neumonía.
+✅ Neumonía.
 
-· Infección del tracto respiratorio.
+✅ Infección del tracto respiratorio.
 
-· Enfermedad Pulmonar Obstructiva Crónica (EPOC).
+✅ Enfermedad Pulmonar Obstructiva Crónica (EPOC).
 
-· [ERGE](https://gi.org/patients/recursos-en-espanol/erge/).
+✅ [ERGE](https://gi.org/patients/recursos-en-espanol/erge/).
 
-· Apnea del sueño.
+✅ Apnea del sueño.
 
 **Las causas más graves de sibilancias inspiratorias y espiratorias incluyen:**
 
-· Epiglotitis, una afección en la que los tejidos que rodean las tráqueas están inflamados
+✅ Epiglotitis, una afección en la que los tejidos que rodean las tráqueas están inflamados
 
-· Fibrosis quística.
+✅ Fibrosis quística.
 
-· Cáncer de pulmón.
+✅ Cáncer de pulmón.
 
-· Insuficiencia cardiaca.
+✅ Insuficiencia cardiaca.
 
 Si comienzas a experimentar mareos, dolor en el pecho o dificultad para respirar, junto con tu sonido en el pecho, debes llamar inmediatamente a los servicios de urgencias.
 
@@ -109,13 +110,13 @@ Los síntomas comunes de alergia incluyen congestión nasal, secreción nasal, p
 
 Si los facultativos sospechan que tienes alergias, tu médico puede pedirte que lleves un diario detallado de los alimentos que comes, los síntomas y los posibles desencadenantes de la reacción alérgica. Si las pruebas de diagnóstico sugieren que tienes asma, **tu médico clasificará su gravedad utilizando una escala basada en síntomas:**
 
-· **Intermitente leve:** experimentas síntomas leves de asma no más de dos días a la semana y tienes síntomas nocturnos no más de dos noches al mes.
+✅ **Intermitente leve:** experimentas síntomas leves de asma no más de dos días a la semana y tienes síntomas nocturnos no más de dos noches al mes.
 
-· **Leve persistente:** experimentas síntomas de asma más de dos veces por semana, pero no diariamente, y tienes síntomas nocturnos de tres a cuatro veces al mes.
+✅ **Leve persistente:** experimentas síntomas de asma más de dos veces por semana, pero no diariamente, y tienes síntomas nocturnos de tres a cuatro veces al mes.
 
-· **Moderado persistente:** experimentas síntomas de asma diariamente y más de una noche a la semana, pero no todas las noches.
+✅ **Moderado persistente:** experimentas síntomas de asma diariamente y más de una noche a la semana, pero no todas las noches.
 
-· **Persistente grave:** experimentas síntomas de asma durante toda la jornada la mayoría de los días y casi todas las noches.
+✅ **Persistente grave:** experimentas síntomas de asma durante toda la jornada la mayoría de los días y casi todas las noches.
 
 Los planes de tratamiento para las alergias y el asma varían. Al abordar el sonido en el pecho como síntoma de alergias o asma, **se puede minimizar con medicamentos o con el uso de un inhalador.** Además, es conveniente que [acondiciones tu casa contra el asma o las alergias.](https://www.mayoclinic.org/es-es/diseases-conditions/allergies/in-depth/allergy/art-20049365)
 
@@ -209,9 +210,9 @@ Los broncodilatadores son medicamentos que ayudan a relajar los pulmones y evita
 
 Los broncodilatadores vienen en dos formas:
 
-· **Broncodilatadores de acción corta**. A veces conocidos como inhaladores de rescate, pueden detener un ataque de asma o EPOC.
+✅ **Broncodilatadores de acción corta**. A veces conocidos como inhaladores de rescate, pueden detener un ataque de asma o EPOC.
 
-· **Broncodilatadores de acción prolongada**. Esta variedad ayuda a relajar las vías respiratorias a largo plazo, reduciendo la frecuencia y la gravedad de los episodios de sibilancias.
+✅ **Broncodilatadores de acción prolongada**. Esta variedad ayuda a relajar las vías respiratorias a largo plazo, reduciendo la frecuencia y la gravedad de los episodios de sibilancias.
 
 #### 10. Otros medicamentos
 
