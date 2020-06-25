@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
   
-  {% include head.html %}
+  {% include commons/head.html %}
 
   <body>
 
-  {% include sticky-cta.html %}
-  {% include blog-header.html %}
+  {% include commons/sticky-cta.html %}
+  {% include commons/blog-header.html %}
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
@@ -14,8 +14,8 @@
     </div>
   </main>
 
-  {% include footer.html %}
-  {% include lazyload.html %}
+  {% include commons/footer.html %}
+  {% include commons/lazyload.html %}
   <!-- Search script - Must appear after template -->
   <script src="/assets/js/search.js"></script>
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

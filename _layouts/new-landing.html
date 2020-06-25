@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
+  
+  {% include commons/head.html %}
+
+  <body>
+
+  
+  {{ content }}
+    
+
+  {% include new-landing/footer.html %}
+
+  </body>
+
+</html>

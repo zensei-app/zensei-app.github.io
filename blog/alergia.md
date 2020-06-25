@@ -5,7 +5,7 @@ permalink: /alergia/
 title: Diario de síntomas para Alérgicos
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas de la alergia.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar la alergia respiratoria (rinitis alérgica). Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarla.
-image: '/img/photo-1444930694458-01babf71870c.jpeg'
+image: "/img/photo-1444930694458-01babf71870c.jpeg"
 category: Alergia
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00
@@ -19,9 +19,9 @@ Bien.
 
 Si eso te interesa, genial. Si no te interesa, pues puedes volver a buscar en Google un tratamiento milagroso.
 
-Por cierto, si quieres descargarte nuestra app para controlar tu alergia, es aquí: 
+Por cierto, si quieres descargarte nuestra app para controlar tu alergia, es aquí:
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 Mira.
 
@@ -33,7 +33,7 @@ Pues imagínate poder adelantarte a ellos y saber que los causa exactamente.
 
 Así podrás tomarte la medicación antes de que te pegue el bofetón y no estar todo el día adormilada.
 
-La solución, nada mágica. 
+La solución, nada mágica.
 
 Nuestro diario de salud respiratoria te permitirá llevar un control diario de tus síntomas sin esfuerzo y asociarlos con tu entorno (contaminación o pólenes),
 hábitos y medicación.
@@ -52,13 +52,13 @@ Del resto nos encargamos nosotros.
 
 Analizaremos tus datos de salud, los asociaremos con otros datos de entorno, hábitos y medicación para descubrir exactamente cuales son los desencandenantes de tus síntomas.
 
-Vale. 
+Vale.
 
 Si quieres evitar los síntomas de la rinitis alérgica.
 
 Descárgate nuestra app diario aquí.
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 ## **Artículos sobre la alergia respiratoria en nuestro blog**
 
@@ -84,7 +84,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la aler
         </h2>
         <p>
           <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
+          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include commons/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
         </p>
         <p itemprop="description">
           {{ post.description | escape }}

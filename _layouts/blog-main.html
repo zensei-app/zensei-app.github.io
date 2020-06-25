@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
   
-  {% include head.html %}
+  {% include commons/head.html %}
 
   <body>
 
-  {% include sticky-cta.html %}
+  {% include commons/sticky-cta.html %}
 
   <div class="hero-header" style="
     background-image: url('{{ page.image }}'); 
@@ -40,8 +40,8 @@
     </div>
   </main>
 
-  {% include footer.html %}
-  {% include lazyload.html %}
+  {% include commons/footer.html %}
+  {% include commons/lazyload.html %}
   </body>
 
 </html>

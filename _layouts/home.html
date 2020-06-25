@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
+  
+  {% include commons/head.html %}
+
+  <body>
+    
+    {% include home/slide0.html %} 
+    {% include home/footer-landing.html %} 
+    {% include home/nav-header.html %}
+
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+
+    {% include home/footer.html %}
+
+    <script src="/assets/js/fixed-on-scroll-header.js"></script>
+
+
+  </body>
+
+</html>

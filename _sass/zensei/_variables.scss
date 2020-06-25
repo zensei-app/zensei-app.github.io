@@ -1,28 +1,64 @@
 $v-unit: 40px;
 
+$radius: 8px;
 
-$brand-font: 'Palanquin Dark', sans-serif;
-$sans-serif-font: 'Source Sans Pro', sans-serif;
-$serif-font: 'Bitter', serif;
+$mobile-bp: 600px;
+$tablet-bp: 900px;
 
+$margin-horizontal: 70px;
+//mobile 24px
+
+$brand-font: "Palanquin Dark", sans-serif;
+$sans-serif-font: "Source Sans Pro", sans-serif;
+$serif-font: "Bitter", serif;
 
 $weight-bold: 600;
 $weight-bolder: 700;
 $weight-normal: 400;
 
-
-$black: #363E40;
-$grey: #7A97BA;
-$grey-light: #DADFE5;
+$black: #363e40;
+$grey: #7a97ba;
+$grey-light: #dadfe5;
 $grey-lightest: #ebeff4;
-$pink: #F58888;
-$yellow: #EFD56C;
+$pink: #f58888;
+$yellow: #efd56c;
 // $blue: #50A1FF;
-$blue: #1D86FF;
+$blue: #1d86ff;
 $link: $blue;
-$green: #50FFBD;
+$green: #50ffbd;
 
-$radius: 8px;
+//COLORS ZENSEI STYLE-GUIDE
+//https://docs.google.com/document/d/1I5Qx-p4nYzLvh-XK9H_GkcWVQelPm2rJl-4P2DNZK1c/edit?pli=1#
+$brand: #ff7f7f;
+$brandLight: #ff7ccc;
+// $yellow: #ffcf4c;
+$yellowLight: #fff2b3;
+$cyan: #0abbcc;
+$cyanLight: #c2f2f2;
+$mediterranean: #274e6a;
+$mediterraneanLight: #33658a;
+$orange: #f2994a;
+// $pink: #ef8172;
+$green: #219653;
+$greenLight: #6fca5c;
+// $blue: #2f80ed;
+$blueLight: #cee8d9;
+$red: #e80f50;
+$redLight: #ffdfe8;
+// $black: #000000;
+$fuel: #383838;
+$asphalt: #333333;
+$balticSea: #4f4f4f;
+$steel: #828282;
+$silver: #9ea0a4;
+$concrete: #e5e5e5;
+$cloud: #ebebeb;
+$ice: #f2f2f2;
+$white: #ffffff;
 
-$mobile-bp: 600px;
-$tablet-bp: 900px;
+$primary: $white;
+$accent: $red;
+$alternative: $mediterranean;
+$text: #757575;
+$background-primary: $white;
+$background-secondary: #f0f0f0;

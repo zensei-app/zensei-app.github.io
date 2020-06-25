@@ -3,39 +3,50 @@ layout: blog-main
 permalink: /blog/
 title: Respira mejor con nuestros consejos de salud respiratoria
 description: Recibe los consejos de salud respiratoria validados por nuestro equipo médico
-image: '/img/photo-1444930694458-01babf71870c.jpeg'
+image: "/img/photo-1444930694458-01babf71870c.jpeg"
 ---
 
-<br>
+<br />
 
 <div class="home">
-  <br>
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <p>
-          <a href="/{{ post.category | replace: ' ' , '-'  | downcase  }}">
-            <code class="highligher-rouge"><nobr>{{ post.category | escape  }}</nobr></code>&nbsp;
-          </a>
-        </p>
-        <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
-            <h2>
-              <a itemprop="url" href="{{ post.url | relative_url }}">
-                <span class="post-title" itemprop="name headline">{{ post.title | escape }}</span>
-              </a>
-            </h2>
-            <p>
-              <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">⏳ Actualizado el {% include locale-dates.html date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year }}</time>
-            </p>
-            <p itemprop="description">
-              {{ post.description | escape }}
-              <a href="{{ post.url | relative_url }}">
-                Leer Más
-              </a>
-            </p>
-        </li>
-      {% endfor %}
-    </ul>
+  <br />
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <p>
+      <a href="/{{ post.category | replace: ' ' , '-'  | downcase  }}">
+        <code class="highligher-rouge"
+          ><nobr>{{ post.category | escape }}</nobr></code
+        >&nbsp;
+      </a>
+    </p>
+    <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+      <h2>
+        <a itemprop="url" href="{{ post.url | relative_url }}">
+          <span class="post-title" itemprop="name headline"
+            >{{ post.title | escape }}</span
+          >
+        </a>
+      </h2>
+      <p>
+        <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
+        <time
+          class="post-meta"
+          datetime="{{ post.date | date_to_xmlschema }}"
+          itemprop="datePublished"
+          >⏳ Actualizado el {% include commons/locale-dates.html
+          date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year
+          }}</time
+        >
+      </p>
+      <p itemprop="description">
+        {{ post.description | escape }}
+        <a href="{{ post.url | relative_url }}">
+          Leer Más
+        </a>
+      </p>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
 
-{% include tags-cloud.html %}
+{% include blog/tags-cloud.html %}

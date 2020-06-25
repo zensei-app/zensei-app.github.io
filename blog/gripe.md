@@ -3,16 +3,18 @@ layout: landing-app
 redirect_from: /app-gripe/
 permalink: /gripe/
 title: Diario de Salud para evitar los virus
-description: Lleva un control de tu salud respiratoria y evita los horribles síntomas
+description:
+  Lleva un control de tu salud respiratoria y evita los horribles síntomas
   de la gripe.
-intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe.
+intro:
+  Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe.
   Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
 image: "/img/photo-1422433555807-2559a27433bd.jpeg"
 category: Gripe
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00
-
 ---
+
 ## **En Zensei te ayudamos a controlar tu salud respiratoria con la app diario que hemos diseñado conjúntamente con médicos**
 
 Ahora, no esperes una solución mágica, porque esto es para seres humanos que quieren prevenir los síntomas de la gripe, no para hipocondriacos que están deseando cogerla gripe para no ir a trabajar.
@@ -21,9 +23,9 @@ Bien.
 
 Si eso te interesa, genial. Si no te interesa, pues puedes volver a buscar en Google un tratamiento milagroso.
 
-Por cierto, si quieres descargarte nuestra app para prevenir la gripe, es aquí: 
+Por cierto, si quieres descargarte nuestra app para prevenir la gripe, es aquí:
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 Mira.
 
@@ -35,7 +37,7 @@ Pues imagínate poder adelantarte a ellos y saber que los causa exactamente.
 
 Así podrás tomarte medidas para evitar el virus de la gripe y otros virus respiratorios.
 
-La solución, nada mágica. 
+La solución, nada mágica.
 
 Nuestro diario de salud respiratoria te permitirá llevar un control diario de tus síntomas sin esfuerzo y asociarlos con tu entorno (contaminación, pólenes, virus respiratorios, clima), hábitos y medicación.
 
@@ -53,13 +55,13 @@ Del resto nos encargamos nosotros.
 
 Analizaremos tus datos de salud, los asociaremos con otros datos de entorno, hábitos y medicación para descubrir exactamente cuales son los desencandenantes de tus síntomas respiratorios.
 
-Vale. 
+Vale.
 
 Si quieres evitar los síntomas de la gripe.
 
 Descárgate nuestra app diario aquí.
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 ## **Artículos sobre la Gripe en nuestro blog**
 
@@ -85,7 +87,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la grip
         </h2>
         <p>
           <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
+          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include commons/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
         </p>
         <p itemprop="description">
           {{ post.description | escape }}

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}">
 
-  {% include head.html %}
+  {% include commons/head.html %}
 
   <body>
     
-    {% include landing-header.html %}
+    {% include city/landing-header.html %}
 
       <div class="container center">
         <div id="factor-card" class="center factor-card shake">
@@ -48,7 +48,7 @@
 
     <script async type="text/javascript" src="/assets/js/factor-widget.js"></script>
 
-    {% include footer.html %}
+    {% include commons/footer.html %}
 
    
   </body>

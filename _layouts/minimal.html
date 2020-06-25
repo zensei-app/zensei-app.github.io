@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
   
-  {% include head.html %}
+  {% include commons/head.html %}
 
   <body>
 
@@ -9,7 +9,7 @@
   {{ content }}
     
 
-  {% include footer.html %}
+  {% include commons/footer.html %}
 
   </body>
 
