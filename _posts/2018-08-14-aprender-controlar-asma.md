@@ -7,8 +7,8 @@ redirect_from:
 - "/blog/2018/08/14/como-aprender-a-controlar-el-asma/"
 title: "\U0001F32C️ Cómo controlar el asma sin inhalador (y evita visitas a urgencias)"
 date: 2018-08-14T08:00:00.000+00:00
-last_modified_at: 2019-08-22T10:00:00.000+00:00
-author: David Martín-Corral
+last_modified_at: 2020-07-02 10:00:00 +0000
+author: David Martín-Corral-Ana
 category: Asma
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas
   de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que
