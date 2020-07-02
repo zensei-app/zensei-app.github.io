@@ -5,17 +5,17 @@
 
   <body>
     
-    {% include home/slide0.html %} 
-    {% include home/footer-landing.html %} 
-    {% include home/nav-header.html %}
+    {% include home/landing.html %} 
 
-    <main class="page-content" aria-label="Content">
+    <main aria-label="Content">
+      {% include home/nav-header.html %}
+
       {{ content }}
     </main>
 
     {% include home/footer.html %}
 
-    <script src="/assets/js/fixed-on-scroll-header.js"></script>
+    <script src="/assets/js/home.js"></script>
 
 
   </body>

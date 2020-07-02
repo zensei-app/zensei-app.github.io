@@ -29,6 +29,8 @@ image: /assets/img/map-symptoms.png
           <li>
             <a
               class="twitter-share-button"
+              target="_blank"
+              rel="noopener noreferrer"
               href="https://twitter.com/intent/tweet?text={% if page.title %}{{ page.title | uri_escape }}{% else %}{{ site.title | uri_escape }}{% endif %}"
               data-url="{% if page.title %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=twitter&utm_campaign=cta_blog{% endif %}"
               data-size="large"
@@ -38,7 +40,9 @@ image: /assets/img/map-symptoms.png
           <li>
             <div
               class="fb-share-button"
-              data-href="{% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog {% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog{% endif %}"
+              data-target="_blank"
+              rel="noopener noreferrer"
+              href="{% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog {% else %}{{ site.url | escape }}?utm_source=blog&utm_medium=facebook&utm_campaign=cta_blog{% endif %}"
               data-layout="button_count"
               data-size="large"
               data-mobile-iframe="true"
@@ -46,6 +50,8 @@ image: /assets/img/map-symptoms.png
               <a
                 class="fb-xfbml-parse-ignore"
                 target="_blank"
+                target="_blank"
+                rel="noopener noreferrer"
                 href="https://www.facebook.com/sharer/sharer.php?src=sdkpreparse"
                 >Compartir</a
               >
@@ -54,6 +60,8 @@ image: /assets/img/map-symptoms.png
           <li id="whatsappButton">
             <a
               class="whatsapp-share-button"
+              target="_blank"
+              rel="noopener noreferrer"
               href="whatsapp://send?text={% if page.url %}https://zenseiapp.com{{ page.url | uri_escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=map {% else %}{{ site.url | escape }}?utm_source=blog%26utm_medium=whatsapp%26utm_campaign=map{% endif %}"
               ><img
                 src="/assets/img/whatsapp.svg"

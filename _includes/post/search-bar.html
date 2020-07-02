@@ -1,30 +1,63 @@
 <form method="GET" action="/search" data-search-form>
-  <input type="search" name="q" id="q" placeholder="Busca tus síntomas respiratorios..." data-search-input />
+  <input
+    type="search"
+    name="q"
+    id="q"
+    placeholder="Busca tus síntomas respiratorios..."
+    data-search-input
+  />
   <input type="submit" value="Buscar" />
 </form>
 
 <!-- Search results placeholder -->
 <p data-search-found>
-  <br>
-  <span data-search-found-count></span> resultados encontrados para &ldquo;<span data-search-found-term></span>&rdquo;
+  <br />
+  <span data-search-found-count></span> resultados encontrados para &ldquo;<span
+    data-search-found-term
+  ></span
+  >&rdquo;
 </p>
 <div data-search-found class="center section-cta">
-  <br>
+  <br />
   <h2 class="post-title">
     <strong>Consigue respirar mejor sin esfuerzo</strong>
   </h2>
-  <p>Descárgate nuestra app diario para personas que necesitan controlar su salud respiratoria</p>
-  <div >
-    <a class="install-button" title="¿Eres usuario de Android? Aquí puedes descargártela" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href="https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es">
-      <img style="display: inline" src="/assets/img/google-play-badge.png" height="80">
+  <p>
+    Descárgate nuestra app diario para personas que necesitan controlar su salud
+    respiratoria
+  </p>
+  <div>
+    <a
+      class="install-button"
+      title="¿Eres usuario de Android? Aquí puedes descargártela"
+      onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es"
+    >
+      <img
+        style="display: inline;"
+        src="/assets/img/google-play-badge.png"
+        height="80"
+      />
     </a>
-    <a class="install-button" title="¿Eres usuario de iPhone? Aquí puedes descargártela" onclick="ga('send', 'event', 'buttons', 'click', 'cta');" href="https://apps.apple.com/es/app/zensei-app-diario-de-asma/id1364876863" >
-      <img style="display: inline" src="/assets/img/iphone-badge.svg" height="55">
+    <a
+      class="install-button"
+      title="¿Eres usuario de iPhone? Aquí puedes descargártela"
+      onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://apps.apple.com/es/app/zensei-app-diario-de-asma/id1364876863"
+    >
+      <img
+        style="display: inline;"
+        src="/assets/img/iphone-badge.svg"
+        height="55"
+      />
     </a>
   </div>
 </div>
 <div data-search-results></div>
-
 
 <!-- Search result template -->
 <script type="text/x-template" id="search-result">
@@ -32,18 +65,15 @@
   <br>
   <div>
     <h2>
-      <a itemprop="url" href="##Url##">
+      <a itemprop="url" target="_blank" rel="noopener noreferrer" href="##Url##">
         <span class="post-title" itemprop="name headline">##Title##</span>
       </a>
     </h2>
     <p itemprop="description">
       ##Description##
-      <a href="##Url##">
+      <a target="_blank" rel="noopener noreferrer" href="##Url##">
         Leer Más
       </a>
     </p>
   </div>
 </script>
-
-  
-  

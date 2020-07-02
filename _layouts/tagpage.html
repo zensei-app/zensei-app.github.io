@@ -10,6 +10,8 @@ search_omit: true
     {% for post in site.tags[page.tag] %}
     <p>
       <a
+        target="_blank"
+        rel="noopener noreferrer"
         href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}"
         class="shake"
       >
@@ -20,7 +22,12 @@ search_omit: true
     </p>
     <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
       <h2>
-        <a itemprop="url" href="{{ post.url | relative_url }}">
+        <a
+          itemprop="url"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{ post.url | relative_url }}"
+        >
           <span class="post-title" itemprop="name headline"
             >{{ post.title | escape }}</span
           >
@@ -39,7 +46,11 @@ search_omit: true
       </p>
       <p itemprop="description">
         {{ post.description | escape }}
-        <a href="{{ post.url | relative_url }}">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{ post.url | relative_url }}"
+        >
           Leer Más
         </a>
       </p>

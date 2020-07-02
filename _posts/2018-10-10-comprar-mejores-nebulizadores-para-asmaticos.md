@@ -1,6 +1,6 @@
 ---
 layout: post
-redirect_from: 
+redirect_from:
   - "/blog/comprar-mejores-nebulizadores-para-asmaticos/"
   - "/blog/2018/10/10/comprar-mejores-nebulizadores-para-asmaticos/"
 toc: true
@@ -11,18 +11,20 @@ category: Asma
 author: David
 tags: productos asma alergia rinitis casa
 image: "/img/photo-1537035448858-6d703dbc320f.jpeg"
-description: "¿Quieres comprar un nebulizador, pero no sabes bien cuál comprar? Aquí
+description:
+  "¿Quieres comprar un nebulizador, pero no sabes bien cuál comprar? Aquí
   vas a aprender en que te tienes que fijar para elegir uno. Elige el mejor y ahórrate
   las idas al hospital de madrugada."
-intro: "¿Quieres comprar un nebulizador, pero no sabes bien cual comprar?<br><br>Hoy
+intro:
+  "¿Quieres comprar un nebulizador, pero no sabes bien cual comprar?<br><br>Hoy
   vas a aprender en que te tienes que fijar para elegir uno.<br><br>Y cual es el mejor
   nebulizador para niños o adultos.<br><br>Un nebulizador es vital para enfermos con
   asma.<br><br>Mira.<br><br>Yo tengo uno y me ha ahorrado muchas noche en vela.<br><br>Y
   si estás leyendo seguro que sabes de lo que hablo.<br><br>Seguro que tu médico te
   ha dicho que compres uno.<br><br>Pero te vamos ayudar a la hora de comprar uno,
   así de fácil.<br><br>Empezamos."
-
 ---
+
 ## **¿Quieres respirar mejor por las noches?**
 
 Si es que sí.
@@ -33,15 +35,15 @@ Primero.
 
 ## **¿Qué es un nebulizador?**
 
-Un [nebulizador](https://es.wikipedia.org/wiki/Nebulizador) es un aparato médico que administra vapor y/o medicación a la vía aérea. 
+Un [nebulizador](https://es.wikipedia.org/wiki/Nebulizador) es un aparato médico que administra vapor y/o medicación a la vía aérea.
 
 Normalmente sirven para nebulizar broncodilatadores, como el salbutamol.
 
-Y se usa mucho en el caso de los niños pequeños y personas con asma por prescripción médica. 
+Y se usa mucho en el caso de los niños pequeños y personas con asma por prescripción médica.
 
 ## **¿Cómo funciona un nebulizador?**
 
-Un nebulizador cambia la medicación de un líquido a una neblina para que se pueda inhalar más fácilmente en los pulmones. 
+Un nebulizador cambia la medicación de un líquido a una neblina para que se pueda inhalar más fácilmente en los pulmones.
 
 Los nebulizadores son particularmente efectivos en la administración de medicamentos por vía aérea.
 
@@ -49,7 +51,7 @@ Pacientes con asma ya sean bebés y niños pequeños o cualquier persona que ten
 
 También se utilizan para administrar una dosis grande de un medicamento inhalado.
 
-La terapia nebulizada a menudo se llama "tratamiento respiratorio". 
+La terapia nebulizada a menudo se llama "tratamiento respiratorio".
 
 Y una variedad de medicamentos, tanto para el alivio inmediato como para el mantenimiento de los síntomas del asma, están disponibles para su uso con un nebulizador.
 
@@ -63,11 +65,11 @@ Si tienes un diagnóstico de asma, seguro que tu médico te ha recetado un nebul
 
 ¿A quién se le puede dar medicamento a través de un nebulizador?
 
-A cualquier persona se le puede dar medicamento a través de un nebulizador. 
+A cualquier persona se le puede dar medicamento a través de un nebulizador.
 
 Normalmente, suelen padecer asma.
 
-Para bebés y niños pequeños, se pueden usar mascarillas de diferentes tamaños. 
+Para bebés y niños pequeños, se pueden usar mascarillas de diferentes tamaños.
 
 Para niños mayores y adultos, se puede usar una mascarilla o una boquilla.
 
@@ -77,7 +79,7 @@ Un ataque de asma en casa, en una ambulancia o en urgencias normalmente los medi
 
 Bien.
 
-El tipo de medicamento dependerá de sus síntomas. 
+El tipo de medicamento dependerá de sus síntomas.
 
 Probablemente será una dosis alta de medicamento de alivio rápido para abrir las vías respiratorias, como el salbutamol, bromuro de ipratropio o sulfato de magnesio.
 
@@ -97,7 +99,7 @@ Estos serían las cosas que tienes que fijarte.
 
 **Portatil o de sobremsa.** Cúanto pesa. Tiene bolsa. En muchos casos estamos de un lado para otro y por las noches necesitamos aplicar el tratamiento respiratorio. Este donde estes. Por eso es vital que sea ligero y puedas transportalo.
 
-Ruido. Que decir. No quiero estar escuchando un ruido constante por eso tenemos que ver como ruidoso es el nebulizador. 
+Ruido. Que decir. No quiero estar escuchando un ruido constante por eso tenemos que ver como ruidoso es el nebulizador.
 
 ## **¿Cuál es el mejor nebulizador?**
 
@@ -166,9 +168,9 @@ Es perfecto si quieres ahorrate visitas a urgencias de madrugada.
 
 **Ruido:** Algo ruidoso
 
-El Omron CompAIR NE-C28P está diseñado para hacer un uso intensivo. 
+El Omron CompAIR NE-C28P está diseñado para hacer un uso intensivo.
 
-Es ideal para el tratamiento de las enfermedades como el asma, la EPOC, la fibrosis quística o el enfisema pulmonar. 
+Es ideal para el tratamiento de las enfermedades como el asma, la EPOC, la fibrosis quística o el enfisema pulmonar.
 
 Lo puedes utilizar para nebulizar agua destilada o algún medicamento cuando estás con tos, mocos, falta de aire, [pitidos al respirar](/blog/sibilancias-pitidos-respiratorios), etc.
 
@@ -209,13 +211,13 @@ Si estás acostumbrado en casa a usar uno que hace ruido que no puedes escuchar 
 
 tienes para 10-15 minutos de inhalación.
 
-Este inhalador/nebulizador está pensado fundamentalmente para llevarlo de viaje. 
+Este inhalador/nebulizador está pensado fundamentalmente para llevarlo de viaje.
 
 Pequeño tamaño y muy transportable.
 
 Se trata de un dispositivo muy interesante para cuando tenemos alguna enfermedad de las vías respiratorias, ya sea un simple catarro, faringitis, laringitis, bronquiolitis, etc… y por supuesto asma.
 
-Viene con los distintos accesorios para que sea útil para toda la familia. 
+Viene con los distintos accesorios para que sea útil para toda la familia.
 
 Puedes utilizarlo para una faringitis solamente con suero fisiológico y es ideal, te descongestiona toda la zona.
 
@@ -234,7 +236,7 @@ No trae adpatador para conectarlo a la corriente.
 
 ## **¿Merece la pena comprar un nebulizador?**
 
-Depende de ti. 
+Depende de ti.
 
 Nosotros no lo sabemos.
 
@@ -252,11 +254,11 @@ Si las recomendaciones que te hemos hecho no te convencen.
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a una completa
-<a target="_blank" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=nebulizadores&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=0bb5d9c616d2d1479709080046169a42">lista de nebulizadores</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=nebulizadores&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=0bb5d9c616d2d1479709080046169a42">lista de nebulizadores</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 A lo mejor también es recomendable que tengas en casa un purificador de aire, para eliminar los agentes que hacen que tengas síntomas respiratorios.
 
 <div class="section-cta">
-<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>

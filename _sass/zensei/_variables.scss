@@ -5,8 +5,11 @@ $radius: 8px;
 $mobile-bp: 600px;
 $tablet-bp: 900px;
 
-$margin-horizontal: 70px;
-//mobile 24px
+$margin-horiz-desktop: 6vw;
+$margin-horiz-mobile: 5.8vw;
+$big-screen-bp: 1280px;
+$max-width-content: $big-screen-bp - 2 * 70px;
+// $big-screen-margin: (100vw - $max-width-content) %2;
 
 $brand-font: "Palanquin Dark", sans-serif;
 $sans-serif-font: "Source Sans Pro", sans-serif;

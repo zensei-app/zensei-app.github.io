@@ -26,13 +26,13 @@ tags: asma tratamiento remedios
 ![Zensei app diario de salud respiratoria](/img/Salud_17103_Silbidos.jpg){: .center-image }
 <br>
 
-### **Te ponemos fácil cuidar de tu asma**  
+### **Te ponemos fácil cuidar de tu asma**
 
-**El asma es una enfermedad crónica respiratoria** que requiere un tratamiento de control continuado, esto significa que para poder tener un buen control del asma, hay que llevar el tratamiento a rajatabla, como lo harías con los antibióticos. 
+**El asma es una enfermedad crónica respiratoria** que requiere un tratamiento de control continuado, esto significa que para poder tener un buen control del asma, hay que llevar el tratamiento a rajatabla, como lo harías con los antibióticos.
 
 En cambio, muchas personas por olvido, porque se encuentran mejor, porque creen que se han curado o porque no diferencian entre [medicación de control](https://medlineplus.gov/spanish/ency/patientinstructions/000005.htm) y de [rescate](https://medlineplus.gov/spanish/ency/patientinstructions/000008.htm), dejan de tomarse su medicación de control y esto hace que vuelvan a recaer.
 
-Según estudios científicos esto significa que **más de un 50 por ciento de las personas no han sido enseñadas a evitar sus desencadenantes**, los factores que te provocan que te encuentres mal. 
+Según estudios científicos esto significa que **más de un 50 por ciento de las personas no han sido enseñadas a evitar sus desencadenantes**, los factores que te provocan que te encuentres mal.
 
 Y **[el 70 por ciento de los pacientes asmáticos no han sido enseñados correctamente a llevar un control adecuado del asma](https://www.separ.es/sites/default/files/SEPAR_costes_asma_mal_control.pdf)** y hacer un seguimiento preventivo.
 
@@ -40,7 +40,7 @@ Y **[el 70 por ciento de los pacientes asmáticos no han sido enseñados correct
 
 ### **Cuida de tu salud respiratoria sin esfuerzo**
 
-Simplemente conociendo que el asma es una enfermedad crónica y que necesita tratamiento continuo aunque no tenga molestias. Podrás mejorar tu calidad de vida. 
+Simplemente conociendo que el asma es una enfermedad crónica y que necesita tratamiento continuo aunque no tenga molestias. Podrás mejorar tu calidad de vida.
 
 Para ello **necesitas reconocer los síntomas del asma, usar correctamente los inhaladores de control y de rescate, identificar y evitar en lo posible los desencadenantes, monitorizar los síntomas y el flujo espiratorio máximo** (PEF), reconocer los signos y síntomas de agravamiento del asma, que te hacen que no tengas el asma bajo control.
 
@@ -50,13 +50,13 @@ Conocer y evitar en tiempo real los desencadenantes de entorno de tus crisis res
 
 Asociar de forma automática síntomas, medicación, y desencadenantes de entorno y de comportamiento como estado de ánimo, actividad física, hábitos o lugar en el que estabas.
 
-Todo esto **te permitirá actuar ante un deterioro de tu enfermedad para prevenir futuras crisis respiratorias** y que no vuelvas a sentirte fatal por no poder respirar. 
+Todo esto **te permitirá actuar ante un deterioro de tu enfermedad para prevenir futuras crisis respiratorias** y que no vuelvas a sentirte fatal por no poder respirar.
 
 ### **¿Falta de aire?¿Presión en el pecho?¿Pitidos al respirar?¿Tos? Conoce porque tienes estos síntomas respiratorios.**
 
-Ahora mismo, la App Diario de Salud Respiratoria de Zensei es el único **Asistente de Salud para pacientes de Asma**, contextual e inteligente. 
+Ahora mismo, la App Diario de Salud Respiratoria de Zensei es el único **Asistente de Salud para pacientes de Asma**, contextual e inteligente.
 
-Contextual, porque conoce todo sobre tí cuando, como y donde estabas cuando tuvistes síntomas respiratorios. 
+Contextual, porque conoce todo sobre tí cuando, como y donde estabas cuando tuvistes síntomas respiratorios.
 
 E Inteligente, porque utiliza esos datos para explicar y predecir futuros síntomas respiratorios.
 
@@ -64,7 +64,7 @@ Zensei ha sido **diseñado conjuntamente con alergólogos y neumólogos** para s
 
 ### **Conoce y controla sin esfuerzo tu salud respiratoria**
 
-**Es horrible tener asma.** El estar todo el día enganchado al inhalador, tosiendo, no pudiendo respirar por la falta de aire, sentir una presión en el pecho cuando te pones nervioso o haces ejercicio y no poder llevar una vida normal como el resto de personas, la verdad que no ayudan a hacerte sentirte mejor contigo mismo. 
+**Es horrible tener asma.** El estar todo el día enganchado al inhalador, tosiendo, no pudiendo respirar por la falta de aire, sentir una presión en el pecho cuando te pones nervioso o haces ejercicio y no poder llevar una vida normal como el resto de personas, la verdad que no ayudan a hacerte sentirte mejor contigo mismo.
 
 Además **el asma no tiene cura**, ya que es una enfermedad crónica.
 
@@ -72,7 +72,7 @@ Pero llevando unos correctos hábitos de salud respiratoria, la mayoría de los 
 
 Justo esto es lo que te permite la App Diario de Salud Respiratoria para asmáticos de Zensei, a llevar de forma sencilla unos hábitos correctos de cuidados personalizados de tu asma.
 
-Solo necesitas descargarte la app para llevar sin esfuerzo un diario de síntomas, medicación y desencadenantes, **no te llevará más de 30 segundos diarios.** 
+Solo necesitas descargarte la app para llevar sin esfuerzo un diario de síntomas, medicación y desencadenantes, **no te llevará más de 30 segundos diarios.**
 
 Además nuestra app está diseñada para sacar el máximo de los datos de tu diario para ayudarte a llevar un control de tu salud respiratoria.
 
@@ -94,13 +94,13 @@ Todo esto tan solo descargando una app para el control de tu asma. Zensei es la 
 
 ### **No vuelvas a sentir esa sensación horrible de falta de aire**
 
-**Imagínate que puedes combatir y protegerte contra el asma solo utilizando una app de móvil.** Podrías mejorar tu calidad de vida, teniendo menos días con síntomas respiratorios, utilizando menos el inhalador de rescate y yendo menos a consulta para tratar tu asma. 
+**Imagínate que puedes combatir y protegerte contra el asma solo utilizando una app de móvil.** Podrías mejorar tu calidad de vida, teniendo menos días con síntomas respiratorios, utilizando menos el inhalador de rescate y yendo menos a consulta para tratar tu asma.
 
 Pues sí, has imaginado bien, **podrás tener tu asma bajo control**, y aunque tengas asma podrás cantar, correr, comer helado, dar un paseo, dar un paseo, estar con tu familiares y amigos, y vivir una vida plena como todo el mundo.
 
-El Diario de Salud Respiratoria de Zensei ha sido diseñado y desarrollado por Carlos y David, cofundadores de Zensei, son dos ingenieros que quieren ayudar a millones de personas a cuidar su salud respiratoria. 
+El Diario de Salud Respiratoria de Zensei ha sido diseñado y desarrollado por Carlos y David, cofundadores de Zensei, son dos ingenieros que quieren ayudar a millones de personas a cuidar su salud respiratoria.
 
-Han trabajado previamente en el sector de la salud, en Doctor24 y Sanitas, y además tienen  experiencia previa en el desarrollo y diseño de productos de datos. 
+Han trabajado previamente en el sector de la salud, en Doctor24 y Sanitas, y además tienen experiencia previa en el desarrollo y diseño de productos de datos.
 
 Además, se han apoyado para el diseño del diario de síntomas respiratorios en prestigiosos alergólogos y neumólogos de Madrid para que la app sea realmente útil para tí.
 
@@ -126,7 +126,7 @@ La próxima vez que vayas al médico, **tendrás toda la información necesaria 
 
 # 📈 **Analítica de datos del diario de salud**
 
-Con tus propios datos de salud podrás hacer asociaciones de forma automática entre tus síntomas del asma y desencadenantes, aprender sobre tu enfermedad, reconocer que situaciones y condiciones de entorno son peores para tí. 
+Con tus propios datos de salud podrás hacer asociaciones de forma automática entre tus síntomas del asma y desencadenantes, aprender sobre tu enfermedad, reconocer que situaciones y condiciones de entorno son peores para tí.
 
 He imaginate poder responder todas las preguntas sobre tu enfermedad que te haga tu médico cuando vayas a consulta.
 
@@ -142,7 +142,7 @@ Y así podrás **sentirte tranquilo al ver que puedes tener bajo control y comba
 
 # 🛍️ **Tienda de productos y servicios respiratorios**
 
-Accede a las recomendaciones de nuestros médicos asesores sobre productos de cuidados respiratorios, como purificadores, mascarillas anti polución, etc., necesarios para cuidar de tu salud respiratoria adecuadamente. 
+Accede a las recomendaciones de nuestros médicos asesores sobre productos de cuidados respiratorios, como purificadores, mascarillas anti polución, etc., necesarios para cuidar de tu salud respiratoria adecuadamente.
 
 Además también te ponemos fácil concertar una cita con un neumólogo, alergólogo o fisioterapeuta respiratoria para que no pierdas el tiempo.
 
@@ -160,25 +160,25 @@ Así podrás sentir que **no eres solo tú quien sufre asma**, podrás ver que h
 
 ### **Utilizamos los últimos avances en inteligencia artificial para controlar el asma**
 
-Estamos trabajando conjuntamente con Hospitales y Universidades para validar médicamente la App Diario de Salud Respiratoria, esto no significa que no puedas empezar a utilizar ya Zensei y cuidar de tu salud. 
+Estamos trabajando conjuntamente con Hospitales y Universidades para validar médicamente la App Diario de Salud Respiratoria, esto no significa que no puedas empezar a utilizar ya Zensei y cuidar de tu salud.
 
-Todo lo contrario, **únete a las 5.000 personas como tú que ya utilizan Zensei** para cuidar de su asma, ellos son los que están construyendo un mejor producto con sugerencias y comentarios, para que millones de personas puedan cuidar de su salud respiratoria el día de mañana. 
+Todo lo contrario, **únete a las 5.000 personas como tú que ya utilizan Zensei** para cuidar de su asma, ellos son los que están construyendo un mejor producto con sugerencias y comentarios, para que millones de personas puedan cuidar de su salud respiratoria el día de mañana.
 
 Tu también **puedes aportar tu granito de arena para hacer de Zensei un producto realmente útil**.
 
 ### **Qué es lo que dicen los usuarios que utilizan ya Zensei**
 
-🤗 *“Es absolutamente increíble es muy detallada, es sencillamente genial, Gracias.”* 
+🤗 _“Es absolutamente increíble es muy detallada, es sencillamente genial, Gracias.”_
 por Julio Martínez Moro
 
-🤗 *“Gran aplicación que hace la vida más fácil. Además muy atentos y amables.”* 
+🤗 _“Gran aplicación que hace la vida más fácil. Además muy atentos y amables.”_
 por Antonio Miguel Herrero
 
-🤗 *“Realmente útil y al llevar un tiempo siguiéndolo, veo los avances y el trabajo detrás”* por usuario anónimo.
+🤗 _“Realmente útil y al llevar un tiempo siguiéndolo, veo los avances y el trabajo detrás”_ por usuario anónimo.
 
-🤗 *“Es una aplicación muy completa y permite conocer los factores del medio que pueden influir en la salud de manera actualizada”* por usuario anónimo.
+🤗 _“Es una aplicación muy completa y permite conocer los factores del medio que pueden influir en la salud de manera actualizada”_ por usuario anónimo.
 
-🤗 *“Porque es genial para seguir un control de mis crisis”* por usuario anónimo.
+🤗 _“Porque es genial para seguir un control de mis crisis”_ por usuario anónimo.
 
 ### **Descárgate la App Diario de Salud Respiratoria para llevar un control de tu asma sin esfuerzo**
 
@@ -220,9 +220,9 @@ Donde tendrás de forma GRATUITA al:
 
 📡 Almacenamiento ilimitado de datos y sincronización multidispositivo
 
-🌬️ Ejercicios respiratorios 
+🌬️ Ejercicios respiratorios
 
-📝 Informe de salud respiratoria para tu médico 
+📝 Informe de salud respiratoria para tu médico
 
 🔮 Tu modelo propio de predicción de síntomas respiratorios del asma
 
@@ -235,7 +235,7 @@ Si ves que Zensei no se adapta a tus necesidades, **tienes la garantía de que v
 <br>
 
 <div style="text-align:center">
-	<a class="main-cta-top main-cta--blog" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Quiero cuidar mi asma</a>
+	<a class="main-cta-top main-cta--blog" target="_blank" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Quiero cuidar mi asma</a>
 </div>
 <br>
 
@@ -245,9 +245,9 @@ Si no empiezas a utilizar hoy el Diario de Salud Respiratoria **no podrás tener
 
 El **asma es una enfermedad crónica que requiere unos cuidados tediosos y diarios**, pero con una App Diario de Salud Respiratoria como Zensei podrás tener en tiempo real alertas sobre tus desencadenantes, recolectar tus propios datos de salud, saber qué factores de riesgo hacen que tengas síntomas del asma, como presión en el pecho, falta de aire, pitidos al respirar y tos.
 
-**Descárgate Zensei ahora** y si eres unos de los primeros 10.000 usuarios de Zensei, podrás disfrutar de un **año GRATIS de nuestro Zensei Premium**, con un **valor total anual de 35.88€**, donde podrás tener almacenamiento limitado de datos en tu diario, sincronizar con múltiples dispositivos. Recuerda que ya hay más de 5.000 personas en la lista, date prisa que la oferta se acabará en unas semanas. 
+**Descárgate Zensei ahora** y si eres unos de los primeros 10.000 usuarios de Zensei, podrás disfrutar de un **año GRATIS de nuestro Zensei Premium**, con un **valor total anual de 35.88€**, donde podrás tener almacenamiento limitado de datos en tu diario, sincronizar con múltiples dispositivos. Recuerda que ya hay más de 5.000 personas en la lista, date prisa que la oferta se acabará en unas semanas.
 
-Y si nos envías un email a **[hola@zenseiapp.com](mailto:hola@zenseiapp.com?Subject=Grupo de WhatsApp para Asmáticos)**, te invitaremos a nuestro grupo de **WhatsApp privado**. Tenemos conversaciones muy interesantes sobre como cuidar y controlar el asma. 
+Y si nos envías un email a **[hola@zenseiapp.com](mailto:hola@zenseiapp.com?Subject=Grupo de WhatsApp para Asmáticos)**, te invitaremos a nuestro grupo de **WhatsApp privado**. Tenemos conversaciones muy interesantes sobre como cuidar y controlar el asma.
 
 Y si la App Diario de Salud Respiratoria de Zensei no cumple tus expectativas, nos pondremos a trabajar contigo para entender tus necesidades y hacer de Zensei tu compañero invisible para cuidar de tu Asma.
 
@@ -257,9 +257,6 @@ Imagina poder **disfrutar de tu vida como una persona normal**. Con Zensei puede
 
 <br>
 <div style="text-align:center">
-	<a class="main-cta-top main-cta--blog" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Si Quiero controlar mi asma</a>
+	<a class="main-cta-top main-cta--blog" target="_blank" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Si Quiero controlar mi asma</a>
 </div>
 <br>
-
-
-

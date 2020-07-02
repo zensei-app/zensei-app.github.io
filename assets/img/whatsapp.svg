@@ -11,7 +11,7 @@
             <g id="icon">
                 <g id="Clipped" transform="translate(0.167125, 0.220522)">
                     <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
+                        <use xlink:target="_blank" rel="noopener noreferrer" href="#path-1"></use>
                     </mask>
                     <g id="SVGID_20_"></g>
                     <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" x="0.0274753161" y="0.0297705091" width="17.5287503" height="17.5998839"></rect>

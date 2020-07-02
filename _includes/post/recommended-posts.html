@@ -2,7 +2,12 @@
   {% assign posts = site.posts | sample:3 %} {% for post in posts %}
   <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
     <h2>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
+      <a
+        itemprop="url"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{ post.url | relative_url }}"
+      >
         <span class="post-title" itemprop="name headline"
           >{{ post.title }}</span
         >
@@ -20,7 +25,11 @@
     </p>
     <p itemprop="description">
       {{ post.description | escape }}
-      <a href="{{ post.url | relative_url }}">
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{ post.url | relative_url }}"
+      >
         Leer Más
       </a>
     </p>

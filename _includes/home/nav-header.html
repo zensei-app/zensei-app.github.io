@@ -1,17 +1,22 @@
-<header class="header"  id="storytelling">
-  <div class="header-container ">
-    <a href="{{ "/" | relative_url }}"><div class="logo-alternative">zensei</div></a>
-    <div class="flex">
-      <nav >
-        <a href="/blog/">Blog</a>
-        <a href="/sobre-nosotros/">Contacto</a>
-      </nav>
+<header class="header" id="storytelling">
+  <div class="header-container  home--header">
+    <div class="home--header__hamburguer">
+      <i class="fas fa-bars"></i>
+    </div>
+
+    <a target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"><div class="logo-alternative">zensei</div></a>
+   
+   <div style="display: flex; align-items: center;">
+      <!-- <nav class="home--header__nav">
+        <a class="yuju" target="_blank" rel="noopener noreferrer" href="/blog/">Blog</a>
+        <a class="yuju" target="_blank" rel="noopener noreferrer" href="/sobre-nosotros/">Contacto</a>
+      </nav> -->
       <a
-      style="margin-left: 2rem;"
+      style="margin-left: 2rem; margin-bottom: 0;"
       class="action-btn"
-      href="/home/"
+      target="_blank" rel="noopener noreferrer" href="/home/"
       onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
-      >Descarga la app</a>
+      ><span class="fas fa-download"></span> Descargar app</a>
     </div>
   </div>
 </header>

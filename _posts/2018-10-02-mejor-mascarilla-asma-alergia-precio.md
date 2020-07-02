@@ -1,6 +1,6 @@
 ---
 layout: post
-redirect_from: 
+redirect_from:
   - "/blog/mejor-mascarilla-asma-alergia-precio/"
   - "/blog/mejor-mascarillas-asma-alergia-precio/"
   - "/blog/2018/10/02/mejor-mascarilla-asma-alergia-precio/"
@@ -11,17 +11,19 @@ last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
 image: "/img/photo-1526705645973-c3f37d960d3f.jpeg"
-description: En este artículo te vamos ayudar a elegir la mejor mascarilla antipolución
+description:
+  En este artículo te vamos ayudar a elegir la mejor mascarilla antipolución
   para asmáticos y alérgicos.
-intro: La polución es un GRAN problema ahora mismo en las ciudades.<br><br>Y lo único
+intro:
+  La polución es un GRAN problema ahora mismo en las ciudades.<br><br>Y lo único
   que está haciendo es empeorar.<br><br>Se estima que aumente al 50% de la población
   el número de personas con alguna alergia para 2025.<br><br>Y la contaminación tiene
   mucho que ver.<br><br>Provocando crisis asmáticas.<br><br>¿Te cuesta respirar cuando
   vas por la calle andando, en bici o en moto?<br><br>Bien.<br><br>Eso es exactamente
   lo que vas a aprender en esta guía.
 tags: productos asma alergia rinitis calle
-
 ---
+
 ## **¿Por qué utilizar una mascarilla antipolución si tienes asma o alergia respiratoria?**
 
 A lo mejor te lo ha recomendado tu médico o no.
@@ -42,7 +44,7 @@ Ojos llorosos y mucosidad suele ser una de los principales síntomas. Ya que el 
 
 **Ácaros del polvo**
 
-El polvo de casa genera es algo se debe evitar, ya que contienen ácaros que pueden entrar en nuestras vías aéres y hacer nos pasar un mal trago. 
+El polvo de casa genera es algo se debe evitar, ya que contienen ácaros que pueden entrar en nuestras vías aéres y hacer nos pasar un mal trago.
 
 Un buen hábito de limpieza es indispensable.
 
@@ -52,7 +54,7 @@ Ya sean PM2.5 y PM10, estas son partículas los suficientemente finas que pueden
 
 **Contaminación**
 
-NO2, CO, SO2 y O3, y otros compuesto volátiles son generados por el tráfico rodado, emisiones de industrias químicas. 
+NO2, CO, SO2 y O3, y otros compuesto volátiles son generados por el tráfico rodado, emisiones de industrias químicas.
 
 Son compuestos orgánicos que son irritantes a nuestros pulmones y pueden producir además de problemas respiratorios, como tos, irritación de garganta o falta de aire, pueden producir incluso dolor de cabeza o irritación de ojos.
 
@@ -78,9 +80,9 @@ Unas filtrarán solo un tipo de alérgenos más pesados y otras son capaces de f
 
 ### **Protección FFP1**
 
-Es la que menos protección ofrece. 
+Es la que menos protección ofrece.
 
-Recomendadas solo para situaciones donde el aire puede afectar al desarrollo de condiciones de salud, irritar las vías respiratorios o causar olores desagradables. 
+Recomendadas solo para situaciones donde el aire puede afectar al desarrollo de condiciones de salud, irritar las vías respiratorios o causar olores desagradables.
 
 Y no protege del polvo y micro fibras.
 
@@ -98,7 +100,7 @@ Protección media.
 
 El filtro suele ser tela de carbón activo.
 
-Recomendable para el polvo, humo y aerosoles, que pueden irritar el sistema respiratorio a corto plazo y pueden afectar al tejido pulmonar a largo plazo. 
+Recomendable para el polvo, humo y aerosoles, que pueden irritar el sistema respiratorio a corto plazo y pueden afectar al tejido pulmonar a largo plazo.
 
 El filtro suele ser tipo HEPA y tela de carbón activo.
 
@@ -110,7 +112,7 @@ Protección alta.
 
 Recomendable contra el polvo, humo y aerosoles nocivos, e incluso contra virus, bacterias, esporas de hongos oncogénicos y radiactivas.
 
-Esta protección es la que tienes que llevar para protegerte de verdad. 
+Esta protección es la que tienes que llevar para protegerte de verdad.
 
 Como si tuvieras que luchar con el ébola.
 
@@ -152,7 +154,7 @@ Vamos a ello.
 
 **Tallas:** Tienes dos tamaños, grande y mediano.
 
-Hacen su función, lo único que al principio huele un poco a neopreno pero cuando lo usas un par de veces el olor desaparece. 
+Hacen su función, lo único que al principio huele un poco a neopreno pero cuando lo usas un par de veces el olor desaparece.
 
 Puede apretar un poco la cara.
 
@@ -187,9 +189,9 @@ Si vas en bici o en moto y tienes asma, esta es tu mascarilla.
 
 Tiene válvulas para regular el volumen de aire .
 
-Una pega las gomas son poco débiles, deberían ser un poco mas fuertes para un mejor ajuste. 
+Una pega las gomas son poco débiles, deberían ser un poco mas fuertes para un mejor ajuste.
 
-Pero protegen y son de buena calidad. 
+Pero protegen y son de buena calidad.
 
 Son las mascarillas que llevan en China para la contaminación o para un ataque biológico.
 
@@ -234,7 +236,7 @@ Si sufres lo tuyo con la alergia y lo estrenas veras lo contento que estarás.
 
 No volverás a estornudar y no cabrás en sí de alergría.
 
-Se ajusta perfectamente a la nariz y ni molesta ni la agranda. 
+Se ajusta perfectamente a la nariz y ni molesta ni la agranda.
 
 <br>
 <div class="container-narrow center">
@@ -260,12 +262,12 @@ Utiliza una mascarilla o filtro nasal, lo vas a notar.
 Y si en casa te parece un poco ridículo llevar una mascarilla, deberías comprate un purificador de aires.
 
 <div class="section-cta">
-<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ## **Conclusiones**
 
-La contaminación atmosférica y otros alérgenos hace necesario protegerse para respirar mejor. 
+La contaminación atmosférica y otros alérgenos hace necesario protegerse para respirar mejor.
 
 Evitar el asma, la alergia y sus horribles síntomas.
 
@@ -281,5 +283,5 @@ Y si alguna de las mascarillas no te convence.
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a una completa
-<a target="_blank" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=mascarillas antipolución&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=9e3bb5ae257b640c1fa025d0499d907b">Lista de mascarillas antipolución</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=mascarillas antipolución&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=9e3bb5ae257b640c1fa025d0499d907b">Lista de mascarillas antipolución</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>

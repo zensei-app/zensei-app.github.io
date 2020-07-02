@@ -1,22 +1,19 @@
 # Jekyll config file
 # https://jekyllrb.com/docs/configuration/
 
-
 # Global configuration
 timezone: Europe/Madrid
 #safe: true  # Cannot change
-
 
 # Build Command Options
 #lsi: false  # Cannot change
 #incremental: false  # Cannot change
 
-
 # Site settings
 title: 😷 Blog de Salud Respiratoria de Zensei.
 description: >
- En este blog escribimos sobre asma, epoc, rinitis alérgica y bronquitis.
-baseurl: "" 
+  En este blog escribimos sobre asma, epoc, rinitis alérgica y bronquitis.
+baseurl: ""
 url: "https://zenseiapp.com"
 
 permalink: /:categories/:title/
@@ -43,10 +40,10 @@ plugins:
   - jekyll-compress-images
   - pagemaster
   - jekyll-redirect-from
-  - jekyll-target-blank
+  # - jekyll-target-blank
 
 compress_images:
-  images_path: 
+  images_path:
     - "assets/img/*.{gif,png,jpg,jpeg,svg}"
     - "img/*.{gif,png,jpg,jpeg,svg}"
 
@@ -58,7 +55,7 @@ lazy_load_image:
     - ".ignore-lazy-image-load"
     - "/*[@class='ignore-lazy-image-load']"
   additional_attrs: # [optional] if you want to add attributes, please add key value
-    "data-size": auto 
+    "data-size": auto
 
 sass:
   style: compressed
@@ -66,10 +63,6 @@ sass:
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
-
-target-blank:
-  noopener: false
-  rel: noopener
 
 # Default settings by Github
 github: [metadata]

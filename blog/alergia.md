@@ -73,12 +73,12 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la aler
         <span>
           {% for tag in post.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+            <a target="_blank" rel="noopener noreferrer" href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
           {% endfor %}
         </span>
         <br>
         <h2>
-          <a itemprop="url" href="{{ post.url | relative_url }}">
+          <a itemprop="url" target="_blank" rel="noopener noreferrer" href="{{ post.url | relative_url }}">
             <span class="post-title" itemprop="name headline">{{ post.title | escape }}</span>
           </a>
         </h2>
@@ -88,7 +88,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la aler
         </p>
         <p itemprop="description">
           {{ post.description | escape }}
-          <a href="{{ post.url | relative_url }}">
+          <a target="_blank" rel="noopener noreferrer" href="{{ post.url | relative_url }}">
             Leer Más
           </a>
         </p>

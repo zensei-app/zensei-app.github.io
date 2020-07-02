@@ -60,26 +60,64 @@
     content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"
   />
 
-  <link rel="shortcut icon" href="/assets/favicon.ico" />
-  <link rel="apple-touch-icon" href="/assets/icon.png" />
-  <link rel="icon" href="/assets/icon.png" />
-
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
-  <link rel="alternate" href="{{ page.url | absolute_url }}" hreflang="es" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape
-  }}" href="{{ "/feed.xml" | relative_url }}">
-
-  <meta
-    name="ahrefs-site-verification"
-    content="100b2bd9bf5e87cf142e16b6ec3ba883d0224d8294cb998240177a1df6691d2d"
+  <link
+    rel="shortcut icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/icon.png"
+  />
+  <link
+    rel="icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/icon.png"
   />
 
   <link
+    rel="canonical"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="{{ page.url | absolute_url }}"
+  />
+  <link
+    rel="alternate"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="{{ page.url | absolute_url }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    hreflang="es"
+  />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape
+  }}" target="_blank" rel="noopener noreferrer" href="{{ "/feed.xml" |
+  relative_url }}"> <meta name="atarget="_blank" rel="noopener noreferrer"
+  hrefs-site-verification"
+  content="100b2bd9bf5e87cf142e16b6ec3ba883d0224d8294cb998240177a1df6691d2d" />
+
+  <link
     rel="stylesheet"
+    target="_blank"
+    rel="noopener noreferrer"
     href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css"
   />
-  <link rel="stylesheet" href="assets/css/map.css" />
-  <link rel="stylesheet" href="assets/main.css" />
+  <link
+    rel="stylesheet"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="assets/css/map.css"
+  />
+  <link
+    rel="stylesheet"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="assets/main.css"
+  />
 
   {% if site.tags != "" %} {% include commons/collecttags.html %} {% endif %} {%
   if jekyll.environment == 'production' and site.google_analytics %} {% include

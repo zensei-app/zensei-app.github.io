@@ -2,7 +2,7 @@ var stripe = Stripe('pk_test_SajYpTJpTfwAef74coi1p9kK');
 
 function getUrlVars() {
   var vars = {};
-  var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+  var parts = window.location.target="_blank" rel="noopener noreferrer" href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
       vars[key] = value;
   });
   return vars;
@@ -10,7 +10,7 @@ function getUrlVars() {
 
 function getUrlParam(parameter, defaultvalue){
   var urlparameter = defaultvalue;
-  if(window.location.href.indexOf(parameter) > -1){
+  if(window.location.target="_blank" rel="noopener noreferrer" href.indexOf(parameter) > -1){
       urlparameter = getUrlVars()[parameter];
       }
   console.log(urlparameter);

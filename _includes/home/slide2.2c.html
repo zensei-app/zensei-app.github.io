@@ -1,21 +1,7 @@
-<div class="container-image-left">
-  <div
-    class="half-width bckg-img--half-width"
-    style="
-      background-image: url(/assets/illustrations/shape3.png);
-      background-position: right;
-    "
-  >
-    <img
-      style="width: 50%;"
-      src="/assets/img/phone-alerts.png"
-      alt="Zensei: Diario de salud respiratoria."
-    />
-  </div>
-
-  <div class="half-width" style="margin-top: 40px;">
+<div class="home--slide2__container-img-left">
+  <div class="home--slide2__container-text" style="margin-top: 40px;">
     <h1 class="title-medium">
-      <strong>Consejos personalizados para que cuides de tu respiración</strong>
+    Consejos personalizados para que cuides de tu respiración
     </h1>
     <p class="paragraph">
       Recibe consejos y remedios totalmente personalizados
@@ -24,9 +10,23 @@
     </p>
     <a
       class="secondary-btn home--button"
-      href="{{ "/" | relative_url }}"
+      target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
       onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
-      >¡Yo también quiero! ></a
+      >¡Yo también quiero! <span class="fa fa-chevron-right" aria-hidden="true"></span></a
     >
+  </div>
+
+  <div
+  class="home--slide2__phone-bckg-left"
+  style="
+    background-image: url(/assets/illustrations/shape3.png);
+    background-position: right;
+  "
+  >
+    <img
+    class="home--slide2__phone-img"
+    src="/assets/img/phone-alerts.png"
+    alt="Vista favoritos de la app Zensei."
+    />
   </div>
 </div>

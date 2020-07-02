@@ -1,243 +1,384 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es" itemscope itemtype="http://schema.org/WebSite">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-<title>🤧 Zensei: Alertas hiperlocales de salud vía API.</title>
+    <title>🤧 Zensei: Alertas hiperlocales de salud vía API.</title>
 
-<meta name="description" content="Contáctanos para conseguir datos de salud pública vía API">
-<meta name="author" content="Zensei">
+    <meta
+      name="description"
+      content="Contáctanos para conseguir datos de salud pública vía API"
+    />
+    <meta name="author" content="Zensei" />
 
-<!-- Mobile viewport optimization h5bp.com/ad -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- allows zoom -->
-<meta name="theme-color" content="#f58888" />
-<!-- <meta name="apple-itunes-app" content="app-id=myAppStoreID"> -->
-<meta name="google-play-app" content="app-id=com.zenseiapp.galenvs">
+    <!-- Mobile viewport optimization h5bp.com/ad -->
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- allows zoom -->
+    <meta name="theme-color" content="#f58888" />
+    <!-- <meta name="apple-itunes-app" content="app-id=myAppStoreID"> -->
+    <meta name="google-play-app" content="app-id=com.zenseiapp.galenvs" />
 
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on" />
 
-<!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
-<meta http-equiv="cleartype" content="on">
+    <link
+      rel="shortcut icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/favicon.ico"
+    />
+    <link
+      rel="apple-touch-icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/icon.png"
+    />
+    <link
+      rel="icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/icon.png"
+    />
 
+    <link
+      rel="stylesheet"
+      type="text/css"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/main.css"
+    />
+    <!-- <link rel="stylesheet" target="_blank" rel="noopener noreferrer" href="https://grids.graaf.space/1170/12/16.css">-->
+    <!-- Bootstrap Grid -->
 
-<link rel="shortcut icon" href="/assets/favicon.ico" />
-<link rel="apple-touch-icon" href="/assets/icon.png"/>
-<link rel="icon" href="/assets/icon.png"/>
+    <!-- For Facebook -->
+    <meta
+      property="og:title"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://zenseiapp.com/assets/zensei.png"
+    />
+    <meta property="og:url" content="https://zenseiapp.com" />
+    <meta property="fb:app_id" content="1853764804894431" />
+    <meta property="og:site_name" content="Zensei" />
+    <meta
+      property="og:description"
+      content="Contáctanos para conseguir datos de salud pública via API"
+    />
 
-<link rel="stylesheet" type="text/css" href="/assets/main.css" />
-<!-- <link rel="stylesheet" href="https://grids.graaf.space/1170/12/16.css">--> <!-- Bootstrap Grid -->
+    <!-- for Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta
+      name="twitter:title"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta
+      name="twitter:description"
+      content="Contáctanos para conseguir datos de salud pública via API"
+    />
+    <meta
+      name="twitter:image"
+      content="https://zenseiapp.com/assets/zensei.png"
+    />
 
+    <!-- For Google+ -->
+    <meta itemprop="name" content="Zensei" />
+    <meta
+      itemprop="description"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta itemprop="image" content="https://zenseiapp.com/assets/zensei.png" />
 
-<!-- For Facebook -->
-<meta property="og:title" content="🤧 Zensei: Alertas hiperlocales de salud vía API."/>
-<meta property="og:type" content="website"/>
-<meta property="og:image" content="https://zenseiapp.com/assets/zensei.png"/>
-<meta property="og:url" content="https://zenseiapp.com"/>
-<meta property="fb:app_id" content="1853764804894431" />
-<meta property="og:site_name" content="Zensei"/>
-<meta property="og:description" content="Contáctanos para conseguir datos de salud pública via API"/>
-
-<!-- for Twitter -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="🤧 Zensei: Alertas hiperlocales de salud vía API." />
-<meta name="twitter:description" content="Contáctanos para conseguir datos de salud pública via API" />
-<meta name="twitter:image" content="https://zenseiapp.com/assets/zensei.png" />
-
-<!-- For Google+ -->
-<meta itemprop="name" content="Zensei">
-<meta itemprop="description" content="🤧 Zensei: Alertas hiperlocales de salud vía API.">
-<meta itemprop="image" content="https://zenseiapp.com/assets/zensei.png">
-
-<!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<style>.async-hide { opacity: 0 !important} </style>
-<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentElement,'async-hide','dataLayer',4000,
-{'GTM-M3ZZKBZ':true});</script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-96842689-1', 'auto');
-  ga('require', 'GTM-M3ZZKBZ');
-  ga('send', 'pageview');
-  
-</script>
-
-</head>
-
-<body>
-<div class="container center">
-  <a href="https://zenseiapp.com"><div class="logo-alternative">zensei</div></a>
-</div>
-<br>
-<br>
-<div class="container-narrow">
-  <ul class="heading">
-    <li>
-      <strong>La plataforma que cuida de los pacientes respiratorios</strong>
-      <a class="main-cta-no-action main-cta--home-no-action" href="mailto:hola@zenseiapp.com?subject=Servicios de predicción de datos"  target="_blank">¿Trabajamos juntos?</a>
-    </li>
-  </ul>
-</div>
-
-<br>
-<br>
-
-<div class="container-narrow center">
-  <p>Como te podemos ayudar</p>
-  <br>
-  <br>
-</div>
-<div class="container">
-  <ul class="factors">
-    <li>
-      <!-- <img alt="" src="img/flu.svg"> -->
-      <div class="factor__icon">🤒</div>
-      <strong>Alertas hiperlocales de salud (API)</strong>
-      <p>Accede a nuestros datos de alertas de salud pública, crea productos de salud digital totalmente contextuales y con los últimos avances en epidemiología digital.</p>
-    </li>
-
-    <li>
-      <!-- <img alt="" src="img/pollution.svg"> -->
-      <div class="factor__icon">💰</div>
-      <strong>Reduce los gastos de salud respiratoria</strong>
-      <p>Nuestra app contextual e inteligente ayuda a mejorar la calidad de vida de los pacientes respiratorios. Mutuas y aseguradora de salud también se pueden beneficiar.</p>
-    </li>
-
-    <li>
-      <!-- <img alt="" src="img/kid.svg"> -->
-      <div class="factor__icon">🔍</div>
-      <strong>Estudios observacionales siteless</strong>
-      <p>Accede a datos poblacionales en tiempo real para realizar estudios observacionales basados en real world evidences. También te ayudamos a construir modelos predictivos.</p>
-    </li>
-  </ul>
-</div>
-
-
-<div class="padding-vertical bg-grey bg-waves">
-  <div class="container-narrow center">
-    <h1 style="font-size: 24px; line-height: 1;"><strong>Somos expertos en salud digital respiratoria</strong></h1>
-    <h2>Contamos con experiencia en aseguradoras de salud, startups de salud digital y la academia.</h2>
-    <br>
-    <a class="main-cta-no-action main-cta--home-no-action" href="mailto:hola@zenseiapp.com?subject=Servicios de predicción de datos"  target="_blank">¿Trabajamos juntos?</a>
-  </div>
-</div>
-
-<div class="main-footer">
-  <div class="container">
-    <a class="contact-link" href="mailto:hola@zenseiapp.com">hola@zenseiapp.com</a>
-    <ul class="legal-menu">
-      <li><a href="/politica-cookies.html">Política de cookies</a></li>
-      <li><a href="/politica-privacidad.html">Política de privacidad</a></li>
-      <li><a href="/feed.xml">RSS</a></li>
-      <li><a href="/corporate/">Empresas</a></li>
-      <li><a href="/blog/">Blog</a></li>
-    </ul>
-  </div>
-</div>
-
-<!-- jQuery 2.x does not support Internet Explorer 6, 7, or 8 -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-<script>
-  $(function(){
-
-    setTimeout(function(){
-      $('.card1').slideDown('fast');
-    }, 5000);
-
-    setTimeout(function(){
-      $('.card2').slideDown('fast');
-    }, 10000);
-
-    setTimeout(function(){
-      $('.card3').slideDown('fast');
-    }, 15000);
-
-    setTimeout(function(){
-      $('.card4').slideDown('fast');
-    }, 20000);
-
-    setTimeout(function(){
-      $('.card5').slideDown('fast');
-    }, 25000);
-
-    setTimeout(function(){
-      $('.card6').slideDown('fast');
-    }, 30000);
-
-    setTimeout(function(){
-      $('.card7').slideDown('fast');
-    }, 35000);
-
-    setTimeout(function(){
-      $('.phone__notification--hidden2').slideDown('fast');
-    }, 15000);
-
-    $('#cityMsg a').click(function(e) {
-      e.preventDefault();
-      $('#cityMsg').hide();
-      $('#mc_embed_signup').show();
-    });
-
-  });
-</script>
-
-<script>
-  function equalheight(container){
-
-    var currentTallest = 0,
-         currentRowStart = 0,
-         rowDivs = new Array(),
-         $el,
-         topPosition = 0;
-     $(container).each(function() {
-
-       $el = $(this);
-       $($el).height('auto')
-       topPostion = $el.position().top;
-
-       if (currentRowStart != topPostion) {
-         for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
-           rowDivs[currentDiv].height(currentTallest);
-         }
-         rowDivs.length = 0; // empty the array
-         currentRowStart = topPostion;
-         currentTallest = $el.height();
-         rowDivs.push($el);
-       } else {
-         rowDivs.push($el);
-         currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+      .async-hide {
+        opacity: 0 !important;
       }
-       for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
-         rowDivs[currentDiv].height(currentTallest);
-       }
-    });
-  }
+    </style>
+    <script>
+      (function (a, s, y, n, c, h, i, d, e) {
+        s.className += " " + y;
+        h.start = 1 * new Date();
+        h.end = i = function () {
+          s.className = s.className.replace(RegExp(" ?" + y), "");
+        };
+        (a[n] = a[n] || []).hide = h;
+        setTimeout(function () {
+          i();
+          h.end = null;
+        }, c);
+        h.timeout = c;
+      })(window, document.documentElement, "async-hide", "dataLayer", 4000, {
+        "GTM-M3ZZKBZ": true,
+      });
+    </script>
 
-  $(window).on('load', function() {
-    equalheight('.factors li');
-  });
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://www.google-analytics.com/analytics.js",
+        "ga"
+      );
 
-  $(window).resize(function(){
-    equalheight('.factors li');
-  });
-</script>
+      ga("create", "UA-96842689-1", "auto");
+      ga("require", "GTM-M3ZZKBZ");
+      ga("send", "pageview");
+    </script>
+  </head>
 
-<div id="fb-root"></div>
-<script type="text/javascript" src="/assets/js/app.js"></script>
+  <body>
+    <div class="container center">
+      <a target="_blank" rel="noopener noreferrer" href="https://zenseiapp.com"
+        ><div class="logo-alternative">zensei</div></a
+      >
+    </div>
+    <br />
+    <br />
+    <div class="container-narrow">
+      <ul class="heading">
+        <li>
+          <strong
+            >La plataforma que cuida de los pacientes respiratorios</strong
+          >
+          <a
+            class="main-cta-no-action main-cta--home-no-action"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="mailto:hola@zenseiapp.com?subject=Servicios de predicción de datos"
+            target="_blank"
+            >¿Trabajamos juntos?</a
+          >
+        </li>
+      </ul>
+    </div>
 
-</body>
+    <br />
+    <br />
+
+    <div class="container-narrow center">
+      <p>Como te podemos ayudar</p>
+      <br />
+      <br />
+    </div>
+    <div class="container">
+      <ul class="factors">
+        <li>
+          <!-- <img alt="" src="img/flu.svg"> -->
+          <div class="factor__icon">🤒</div>
+          <strong>Alertas hiperlocales de salud (API)</strong>
+          <p>
+            Accede a nuestros datos de alertas de salud pública, crea productos
+            de salud digital totalmente contextuales y con los últimos avances
+            en epidemiología digital.
+          </p>
+        </li>
+
+        <li>
+          <!-- <img alt="" src="img/pollution.svg"> -->
+          <div class="factor__icon">💰</div>
+          <strong>Reduce los gastos de salud respiratoria</strong>
+          <p>
+            Nuestra app contextual e inteligente ayuda a mejorar la calidad de
+            vida de los pacientes respiratorios. Mutuas y aseguradora de salud
+            también se pueden beneficiar.
+          </p>
+        </li>
+
+        <li>
+          <!-- <img alt="" src="img/kid.svg"> -->
+          <div class="factor__icon">🔍</div>
+          <strong>Estudios observacionales siteless</strong>
+          <p>
+            Accede a datos poblacionales en tiempo real para realizar estudios
+            observacionales basados en real world evidences. También te ayudamos
+            a construir modelos predictivos.
+          </p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="padding-vertical bg-grey bg-waves">
+      <div class="container-narrow center">
+        <h1 style="font-size: 24px; line-height: 1;">
+          <strong>Somos expertos en salud digital respiratoria</strong>
+        </h1>
+        <h2>
+          Contamos con experiencia en aseguradoras de salud, startups de salud
+          digital y la academia.
+        </h2>
+        <br />
+        <a
+          class="main-cta-no-action main-cta--home-no-action"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="mailto:hola@zenseiapp.com?subject=Servicios de predicción de datos"
+          target="_blank"
+          >¿Trabajamos juntos?</a
+        >
+      </div>
+    </div>
+
+    <div class="main-footer">
+      <div class="container">
+        <a
+          class="contact-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="mailto:hola@zenseiapp.com"
+          >hola@zenseiapp.com</a
+        >
+        <ul class="legal-menu">
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/politica-cookies.html"
+              >Política de cookies</a
+            >
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="/politica-privacidad.html"
+              >Política de privacidad</a
+            >
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="/feed.xml"
+              >RSS</a
+            >
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="/corporate/"
+              >Empresas</a
+            >
+          </li>
+          <li>
+            <a target="_blank" rel="noopener noreferrer" href="/blog/">Blog</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- jQuery 2.x does not support Internet Explorer 6, 7, or 8 -->
+    <script
+      type="text/javascript"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
+    ></script>
+
+    <script>
+      $(function () {
+        setTimeout(function () {
+          $(".card1").slideDown("fast");
+        }, 5000);
+
+        setTimeout(function () {
+          $(".card2").slideDown("fast");
+        }, 10000);
+
+        setTimeout(function () {
+          $(".card3").slideDown("fast");
+        }, 15000);
+
+        setTimeout(function () {
+          $(".card4").slideDown("fast");
+        }, 20000);
+
+        setTimeout(function () {
+          $(".card5").slideDown("fast");
+        }, 25000);
+
+        setTimeout(function () {
+          $(".card6").slideDown("fast");
+        }, 30000);
+
+        setTimeout(function () {
+          $(".card7").slideDown("fast");
+        }, 35000);
+
+        setTimeout(function () {
+          $(".phone__notification--hidden2").slideDown("fast");
+        }, 15000);
+
+        $("#cityMsg a").click(function (e) {
+          e.preventDefault();
+          $("#cityMsg").hide();
+          $("#mc_embed_signup").show();
+        });
+      });
+    </script>
+
+    <script>
+      function equalheight(container) {
+        var currentTallest = 0,
+          currentRowStart = 0,
+          rowDivs = new Array(),
+          $el,
+          topPosition = 0;
+        $(container).each(function () {
+          $el = $(this);
+          $($el).height("auto");
+          topPostion = $el.position().top;
+
+          if (currentRowStart != topPostion) {
+            for (currentDiv = 0; currentDiv < rowDivs.length; currentDiv++) {
+              rowDivs[currentDiv].height(currentTallest);
+            }
+            rowDivs.length = 0; // empty the array
+            currentRowStart = topPostion;
+            currentTallest = $el.height();
+            rowDivs.push($el);
+          } else {
+            rowDivs.push($el);
+            currentTallest =
+              currentTallest < $el.height() ? $el.height() : currentTallest;
+          }
+          for (currentDiv = 0; currentDiv < rowDivs.length; currentDiv++) {
+            rowDivs[currentDiv].height(currentTallest);
+          }
+        });
+      }
+
+      $(window).on("load", function () {
+        equalheight(".factors li");
+      });
+
+      $(window).resize(function () {
+        equalheight(".factors li");
+      });
+    </script>
+
+    <div id="fb-root"></div>
+    <script type="text/javascript" src="/assets/js/app.js"></script>
+  </body>
 </html>
 
 <!-- /nonessential stylesheets -->
-<link href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700" rel="stylesheet">
+<link
+  target="_blank"
+  rel="noopener noreferrer"
+  href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700"
+  rel="stylesheet"
+/>

@@ -1,9 +1,9 @@
 ---
 layout: post
-redirect_from: 
-- /blog/productos-respirar-mejor-asma-alergia-bronquitis/
-- /blog/2019/02/05/productos-respirar-mejor-asma-alergia-bronquitis/
-title:  "🤗 Productos para Respirar Mejor"
+redirect_from:
+  - /blog/productos-respirar-mejor-asma-alergia-bronquitis/
+  - /blog/2019/02/05/productos-respirar-mejor-asma-alergia-bronquitis/
+title: "🤗 Productos para Respirar Mejor"
 date: 2019-02-05 10:00:00 +0200
 last_modified_at: 2020-02-20 10:00:00 +0000
 category: Salud Respiratoria
@@ -14,7 +14,7 @@ intro: "Este artículo te va ayudar a **encontrar todo lo que necesitas para res
 tags: purificador asma alergia rinitis productos
 ---
 
-Bien. 
+Bien.
 
 Hemos seleccionado múltiples productos y servicios que pueden **ayudarte a cuidar de tu salud respiratoria**.
 
@@ -43,7 +43,7 @@ Solo tienes que **seleccionar en el buscador** que hemos hecho para que te sea m
 	<ul class="factors">
 	{% for item in site.data.market %}
 	   <li class="{{ item.type }}">
-		   <a href="{{ item.link }}">
+		   <a target="_blank" rel="noopener noreferrer" href="{{ item.link }}">
 		   		<img src="{{ item.image }}" alt="" />
 		   		<br>
 		   		<br>
