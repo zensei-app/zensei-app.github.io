@@ -3,62 +3,31 @@
     La ciencia detrás de Zensei
   </h1>
   <p class="paragraph center">
-    Nuestra tecnología está construida sobre los hombros de gigantes. Somos
-    expertos en
-    <br />
-    salud respiratoria, datos, epidemiología y diseño de experiencias de salud.
-  </p>
+    <span>Nuestra tecnología está construida sobre los hombros de gigantes. Somos
+    expertos en </span>
+    <span>salud respiratoria, datos, epidemiología y diseño de experiencias de salud.</span>
+    </p>
 </div>
 
-<div class="home--carousel-section" style="margin-top: 60px;">
-  <div class="flex-center" style="width: 70px;">
-    <img
-    style="height: 46px;"
-      src="/assets/img/chevron-left.svg"
-      alt="Flecha ir izquierda"
-    />
-  </div>
+<div class="bckg-img--full-width home--carousel-bckg">
+  <div class="container-main">
+
+  <ul class="home--carousel-section carousel-responsive" style="margin-top: 60px;">
+    {% assign posts = site.posts %}
+    {% for item in posts limit:6 %}
   
-  <div class="home--carousel-container" >
-    <div class="home--carousel-article-card">
-      <h5 class="home--carousel-article-card__title">Artículo Título</h5>
-      <a
-      class="secondary-btn home--carousel-article-card__btn"
-      target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
-      onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
-      >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
-    >
-    </div>
-
-    <div class="home--carousel-provisional">
-      <div class="home--carousel-article-card">
-        <h5 class="home--carousel-article-card__title">Artículo Título</h5>
+      <li class="home--carousel-article-card">
+        <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
         <a
         class="secondary-btn home--carousel-article-card__btn"
         target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
         onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
         >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
       >
-      </div>
-    </div>
-    <div class="home--carousel-provisional">
-      <div class="home--carousel-article-card">
-        <h5 class="home--carousel-article-card__title">Artículo Título</h5>
-        <a
-        class="secondary-btn home--carousel-article-card__btn"
-        target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
-        onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
-        >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
-      >
-      </div>
-    </div>
-  </div>
-
-  <div class="flex-center" style="width: 70px; color: #e80f50;">
-    <img
-    style="height: 46px;"
-      src="/assets/img/chevron-right.svg"
-      alt="Flecha ir derecha"
-    />
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 </div>
+
+

@@ -110,7 +110,7 @@ strong {
   line-height: 2.5rem;
   font-weight: bold;
   letter-spacing: 0.015625rem;
-  margin-bottom: 3.75rem;
+  margin-bottom: 1.75rem;
   @media screen and (max-width: $tablet-bp) {
     font-size: 1.375rem;
     line-height: 1.5625rem;
@@ -118,12 +118,34 @@ strong {
   }
 }
 
-.paragraph {
-  font-size: 1.625rem;
-  line-height: 2.1875rem;
+.title-small {
+  font-size: 1.5625rem;
+  line-height: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 48px 0 20px 0;
+  color: $mediterranean;
   @media screen and (max-width: $tablet-bp) {
     font-size: 1.0625rem;
     line-height: 1.5625rem;
+    text-align: left;
+    margin: 20px 0;
+  }
+}
+
+.paragraph {
+  font-size: 1.625rem;
+  line-height: 2.1875rem;
+  & > span {
+    display: inline-block;
+  }
+  @media screen and (max-width: $tablet-bp) {
+    font-size: 1.0625rem;
+    line-height: 1.5625rem;
+    text-align: left;
+    & > span {
+      display: inline;
+    }
   }
 }
 
@@ -179,18 +201,150 @@ strong {
 
 %home-card {
   height: 196px;
+  margin: 0 10px;
   width: 297px;
   padding: 32px 25px;
   border-radius: 15px;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   background-color: $white;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   @media screen and (max-width: $tablet-bp) {
-    height: 189px;
-    width: 269px;
+    height: 47.25vw;
+    width: 67.23vw;
     padding: 20px 12px;
+  }
+}
+
+%carousel-arrow::before {
+  display: flex;
+  justify-content: center;
+  background-repeat: no-repeat;
+  height: 46px;
+  width: 70px;
+  content: "";
+  background-size: contain;
+  background-position: -15px -11px;
+}
+
+.carousel-responsive {
+  //lateral arrows
+  & .slick-prev {
+    left: -30px;
+    @media screen and (max-width: $tablet-bp) {
+      left: 0.8vw;
+    }
+    &::before {
+      @extend %carousel-arrow::before;
+      background-image: url(/assets/img/chevron-left.svg);
+    }
+  }
+  & .slick-next {
+    right: -30px;
+    @media screen and (max-width: $tablet-bp) {
+      right: 0.8vw;
+    }
+    &::before {
+      @extend %carousel-arrow::before;
+      background-image: url(/assets/img/chevron-right.svg);
+    }
+  }
+
+  //dots bottom
+  & .slick-dots {
+    bottom: -50px;
+    @media screen and (min-width: $tablet-bp) {
+      display: none !important;
+    }
+    & li {
+      margin: 0 1.5vw;
+      @media screen and (max-width: $tablet-bp) {
+        margin: 0 2.5vw;
+      }
+      & button {
+        padding: 0;
+      }
+      & button::before {
+        content: "";
+        opacity: 1;
+        width: 10px;
+        height: 10px;
+        border: solid 2px $accent;
+        border-radius: 50%;
+        position: absolute;
+        top: -50%;
+        left: calc(50% - 5px);
+        position: absolute;
+        left: calc(50% - 6.5px);
+        top: calc(50% - 2.5px);
+      }
+      &.slick-active {
+        background-color: #ffffff;
+        border-radius: 50%;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        width: 30px;
+        height: 30px;
+
+        & button::before {
+          background-color: $accent;
+          width: 10px;
+          height: 10px;
+          border-radius: 50%;
+          position: absolute;
+          left: calc(50% - 7.5px);
+          top: calc(50% - 7.5px);
+        }
+      }
+    }
+  }
+
+  //card
+  & .slick-list {
+    padding: 20px 10px;
+    @media screen and (max-width: $tablet-bp) {
+      max-width: 280px;
+      max-height: 200px;
+      margin: 0 auto;
+    }
+  }
+  // & .slick-track {
+  //   width: 100% !important;
+  //   height: 160px;
+  // }
+  //FIX: no se sobreescribe display: block por flex
+  & .slick-initialized .slick-slide {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-around;
+    @extend %home-card;
+    padding: 24px 18px;
+    margin: 0 10px;
+    @media screen and (max-width: $tablet-bp) {
+      padding: 12px;
+    }
+    &__content {
+      font-style: italic;
+      font-weight: 500;
+      font-size: 1.25rem;
+      line-height: 1.4375rem;
+      color: $balticSea;
+      @media screen and (max-width: $tablet-bp) {
+        font-size: 16px;
+        line-height: 18--px;
+      }
+    }
+    &__author {
+      margin: 0;
+      font-weight: 300;
+      font-size: 1.0625rem;
+      line-height: 1.125rem;
+      color: #000000;
+      @media screen and (max-width: $tablet-bp) {
+        font-size: 14px;
+        line-height: 23px;
+      }
+    }
   }
 }
 
@@ -216,10 +370,6 @@ strong {
     display: flex;
     width: 100%;
     li {
-      img {
-      }
-      strong {
-      }
       p {
         width: 100%;
         font-size: 1.625rem;
@@ -228,8 +378,29 @@ strong {
     }
   }
 
+  &--check-list {
+    &__container {
+      display: flex;
+      flex-flow: row wrap;
+      margin-left: 0;
+      overflow: hidden;
+      margin-right: -5vw;
+      & li {
+        width: 33.3333%; //3 columns
+        padding-top: 14px;
+        @media screen and (max-width: $tablet-bp) {
+          width: 50%; //3 columns
+          padding-top: 9px;
+        }
+        & i {
+          color: $pink;
+        }
+      }
+    }
+  }
+
   &--carousel {
-    &-provisional {
+    &__hidden-in-mobile {
       @media screen and (max-width: $tablet-bp) {
         display: none;
       }
@@ -241,11 +412,18 @@ strong {
       @media screen and (max-width: $tablet-bp) {
         background-size: 235vw;
         height: 62.5vw;
+        margin-top: -9vh;
+      }
+      & > div {
+        transform: translate(0px, 110px);
+        @media screen and (max-width: $tablet-bp) {
+          transform: translate(0px, 9px);
+        }
       }
     }
     &-section {
       height: 100%;
-      max-width: $big-screen-bp;
+      max-width: $max-width-content;
       display: flex;
       align-items: center;
       margin: 0 auto;
@@ -255,11 +433,28 @@ strong {
       display: flex;
       justify-content: space-around;
     }
+    &-container-wo-arrow {
+      @extend .home--carousel-container;
+      margin: 0 auto;
+      @media screen and (max-width: $tablet-bp) {
+        flex-direction: column;
+      }
+    }
+
+    &-arrow {
+      display: flex;
+      justify-content: center;
+      width: 70px;
+      & > img {
+        height: 46px;
+      }
+    }
     &-opinion-card {
       @extend %home-card;
       padding: 24px 18px;
       @media screen and (max-width: $tablet-bp) {
         padding: 12px;
+        margin-left: 17px;
       }
       &__content {
         font-style: italic;
@@ -267,9 +462,11 @@ strong {
         font-size: 1.25rem;
         line-height: 1.4375rem;
         color: $balticSea;
+        height: 80%;
+        overflow: auto;
         @media screen and (max-width: $tablet-bp) {
           font-size: 16px;
-          line-height: 18--px;
+          line-height: 18px;
         }
       }
       &__author {
@@ -292,6 +489,7 @@ strong {
         font-size: 1rem;
         line-height: 1.125rem;
         color: $asphalt;
+        height: 76%;
         @media screen and (max-width: $tablet-bp) {
           font-size: 14px;
           line-height: 23px;
@@ -305,6 +503,16 @@ strong {
           font-size: 13px;
           line-height: 16px;
         }
+      }
+    }
+    &-article-card-wo-arrow {
+      @extend .home--carousel-article-card;
+      background-size: cover;
+      background-repeat: no-repeat;
+      @media screen and (max-width: $tablet-bp) {
+        margin: 10px auto;
+        width: 88.4vw;
+        height: 131px;
       }
     }
   }
@@ -393,9 +601,9 @@ strong {
   }
 
   &--header {
-    @media screen and (max-width: $tablet-bp) {
-      & .yuju,
-      a > .logo-alternative {
+    &__nav,
+    > a {
+      @media screen and (max-width: $tablet-bp) {
         display: none;
       }
     }
@@ -410,10 +618,10 @@ strong {
     &__bckg-img {
       background-image: url(/assets/illustrations/woman_wandering.png);
       background-size: 100vw auto;
-      height: 50vw;
+      height: 54vw;
       @media screen and (max-width: $tablet-bp) {
         background-size: 180vw auto;
-        height: 137vw;
+        height: 152vw;
         background-position-x: -61.4vw;
         background-position-y: top;
         margin-top: -3.1vw;
@@ -469,7 +677,8 @@ strong {
       }
 
       &-img {
-        width: 50%;
+        width: 55%;
+        height: auto;
         @media screen and (max-width: $tablet-bp) {
           width: 70%;
         }
@@ -503,6 +712,30 @@ strong {
     }
   }
 
+  &--slide4 {
+    &__title {
+      margin-top: 85px;
+      margin-bottom: 30px;
+    }
+    &__list1-closed {
+      height: 150px; //3 x 50px por línea
+      @media screen and (max-width: $tablet-bp) {
+        height: 140px; //4 x 35px por línea
+      }
+    }
+    &__btn {
+      display: flex;
+      justify-content: flex-end;
+      & button {
+        margin: 10px 0;
+        border-width: 0;
+        @media screen and (max-width: $tablet-bp) {
+          margin: 0;
+        }
+      }
+    }
+  }
+
   &--slide5 {
     &__container {
       margin-top: 4.4vw;
@@ -523,17 +756,18 @@ strong {
       }
     }
     &__text2 {
-      margin-bottom: 4.7vw;
+      margin-bottom: -0.3vw;
       @media screen and (max-width: $tablet-bp) {
+        margin-bottom: 4.7vw;
         transform: translate(0px, 63.75vw);
       }
     }
     &__img2 {
-      width: 70vw;
+      width: 65vw;
       margin: 0 9vw;
       @media screen and (max-width: $tablet-bp) {
         width: 90%;
-        transform: translate(0px, -61.75vw);
+        transform: translate(0px, -67.75vw);
       }
     }
   }
@@ -542,11 +776,11 @@ strong {
     &__bckg {
       background-image: url(/assets/illustrations/woman&Macario.png);
       background-size: 1300px;
-      height: 850px;
+      height: 100.75vh;
       @media screen and (max-width: $tablet-bp) {
         background-size: 600px;
-        height: 526px;
-        background-position-x: -48.4vw;
+        height: 78.31vh;
+        background-position: -48vw 17vh;
       }
     }
     &__container {
@@ -559,6 +793,7 @@ strong {
       justify-content: space-around;
       @media screen and (max-width: $tablet-bp) {
         flex-direction: column;
+        transform: translate(0px, 31.25vh);
       }
     }
     &__item {
@@ -578,10 +813,17 @@ strong {
       margin-top: 160px;
       @media screen and (max-width: $tablet-bp) {
         margin-top: 15vh;
+        margin-bottom: 10vh;
       }
     }
     &__title {
       margin-bottom: 40px;
+    }
+    &__articles {
+      margin-top: 60px;
+      @media screen and (max-width: $tablet-bp) {
+        margin-top: 3vh;
+      }
     }
   }
 
@@ -626,7 +868,7 @@ strong {
         font-size: 3.125rem;
         color: $white;
         @media screen and (max-width: $tablet-bp) {
-          font-size: 1.875rem;
+          font-size: 1.675rem;
         }
       }
     }
@@ -724,6 +966,7 @@ strong {
   padding: 0;
   @media screen and (max-width: $tablet-bp) {
     height: 56px;
+    width: 100vw;
   }
 }
 
@@ -818,6 +1061,8 @@ body.fixed .header {
   z-index: 1;
   @media screen and (max-width: $tablet-bp) {
     padding: 0 24px;
+    height: 56px;
+    width: 100vw;
   }
 }
 
@@ -854,6 +1099,7 @@ body.fixed .header .header-container nav a {
 @media all and (max-width: 600px) {
   .header {
     height: 56px;
+    width: 100vw;
   }
 
   .header .header-container .logo {

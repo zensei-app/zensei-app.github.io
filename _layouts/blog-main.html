@@ -6,19 +6,18 @@
   <body>
 
   {% include commons/sticky-cta.html %}
+  {% include commons/nav-header.html %}
 
   <div class="hero-header" style="
     background-image: url('{{ page.image }}'); 
     background-repeat: no-repeat;
     background-size: cover;">  
-    <div class="wrapper">
-      <a target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"><div class="logo">zensei</div></a>
-      <a class="blog-header__logo" target="_blank" rel="noopener noreferrer" href="{{ "/blog/" | relative_url }}">Blog</a>
-    </div>
     <div class="container-narrow center" id="fade-in">
-      <h1 style="font-size:42px"><strong>{{ page.title | escape }}</strong></h1>
       <br>
-      <h2>
+      <br>
+      <h1 style="font-size:42px; font-weight: bold; color: #FFFFFF;">{{ page.title | escape }}</h1>
+      <br>
+      <h2 style="color: #FFFFFF;">
         {{ page.description | escape }}
       </h2>
       <form id="mc-embedded-subscribe-form" class="validate" action="https://zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=77df32060b" method="post" name="mc-embedded-subscribe-form" target="_blank">

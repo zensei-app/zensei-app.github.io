@@ -1,63 +1,75 @@
-<div class="main-footer">
-  <div class="container">
-    <a
-      class="contact-link"
-      target="_blank"
-      rel="noopener noreferrer"
-      href="mailto:hola@zenseiapp.com"
-      >hola@zenseiapp.com</a
-    >
-    <ul class="legal-menu">
-      <li>
+<div style="margin-top: -15vh;">
+  <div class="bckg-img--full-width home--footer__wave">
+    <div class="home--footer__wave-content">
+      <h1 class="home--footer__wave-title center" >¿Quieres respirar mejor?</h1>
+      <div class="center">
         <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="/politica-cookies.html"
-          >Política de cookies</a
+        class="action-btn home--button center"
+        target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
+        onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+        ><span class="fas fa-download"></span> Descargar app</a
         >
-      </li>
-      <li>
+        <br />
         <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="/politica-privacidad.html"
-          >Política de privacidad</a
+        class="secondary-btn home--button center"
+        target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
+        onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+        >Contáctanos <span class="fa fa-chevron-right" aria-hidden="true"></span></a
         >
-      </li>
-      <li>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="/salud-digital-respiratoria/"
-          >Empresas</a
-        >
-      </li>
-      <li>
-        <a target="_blank" rel="noopener noreferrer" href="/blog/">Blog</a>
-      </li>
-      <li>
-        <a target="_blank" rel="noopener noreferrer" href="/sobre-nosotros/"
-          >Sobre nosotros</a
-        >
-      </li>
-    </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="home--footer__nav">
+      <a class="home--footer__logo" target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}">
+        <div class="logo-alternative">zensei</div>
+      </a>
+      <div class="home--footer__nav-container">
+        <div >
+          <h4 class="home--footer__nav-label">Más información</h4>
+          <nav class="flex-column">
+            <a target="_blank" rel="noopener noreferrer" href="/blog/">Contacto</a>
+            <a target="_blank" rel="noopener noreferrer" href="/sobre-nosotros/">Prensa</a>
+          </nav>
+
+          <h4 class="home--footer__nav-label">Legal</h4>
+          <nav class="flex-column">
+            <a target="_blank" rel="noopener noreferrer" href="/blog/">Condiciones generales</a>
+            <a target="_blank" rel="noopener noreferrer" href="/sobre-nosotros/">Política de privacidad</a>
+          </nav>
+        </div>
+        <div>
+          <h4 class="home--footer__nav-label">Síguenos en</h4>
+          <nav class="flex">
+            <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/zensei_app">   
+              <img
+                style="width: 43px; margin-right: 23px;"
+                src="/assets/img/twitter.svg"
+                alt="Twitter"
+              />
+          </a>
+            <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/zensei-app/">        
+              <img
+                style="width: 43px;"
+                src="/assets/img/linkedin.svg"
+                alt="Twitter"
+              />
+            </a>
+          </nav>
+        </div>
+      </div>
   </div>
 </div>
 
-<link rel="stylesheet" target="_blank" rel="noopener noreferrer" href="{{
-"/assets/main.css" | relative_url }}">
+<link rel="stylesheet" target="_blank" rel="noopener noreferrer" href="{{ "/assets/main.css" | relative_url }}">
 <link
   rel="stylesheet"
-  target="_blank"
-  rel="noopener noreferrer"
-  href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
+  target="_blank" rel="noopener noreferrer" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css"
   integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9"
   crossorigin="anonymous"
 />
 <link
-  target="_blank"
-  rel="noopener noreferrer"
-  href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700"
+  target="_blank" rel="noopener noreferrer" href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700"
   rel="stylesheet"
 />
 
@@ -65,3 +77,6 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <script async type="text/javascript" src="/assets/js/app.js"></script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
