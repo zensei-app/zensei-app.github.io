@@ -24,13 +24,20 @@ web de ZENSEI TECHNOLOGIES S.L..
 
 ## 1. DATOS IDENTIFICATIVOS
 
-Nombre de dominio: zenseiapp.com\
-Nombre comercial: ZENSEI TECHNOLOGIES S.L.\
-Denominación social: ZENSEI TECHNOLOGIES S.L.\
-NIF: B-88249909\
-Domicilio social: C/ Orense 32 5 3 , 28020 MADRID (MADRID)\
-Teléfono: +34 919 030 147\
-e-mail: hola\@zenseiapp.com\
+Nombre de dominio: zenseiapp.com
+
+Nombre comercial: ZENSEI TECHNOLOGIES S.L.
+
+Denominación social: ZENSEI TECHNOLOGIES S.L.
+
+NIF: B-88249909
+
+Domicilio social: C/ Orense 32 5 3 , 28020 MADRID (MADRID)
+
+Teléfono: +34 919 030 147
+
+e-mail: hola\@zenseiapp.com
+
 Inscrita en el Registro (Mercantil / Público): tomo 38296, folio 60, hoja M-681372, inscripción 1ª
 
 
@@ -70,7 +77,7 @@ patrocinio o recomendación por parte del mismo.
 Para realizar cualquier tipo de observación respecto a posibles
 incumplimientos de los derechos de propiedad intelectual o industrial,
 así como sobre cualquiera de los contenidos del sitio web, puede hacerlo
-a través del correo electrónico hola\@zenseiapp.com.
+a través del correo electrónico hola@zenseiapp.com.
 
 ## 3. EXENCIÓN DE RESPONSABILIDADES
 

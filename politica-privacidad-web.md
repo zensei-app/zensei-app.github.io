@@ -12,10 +12,13 @@ que realizamos.
 El responsable del tratamiento de los datos es **ZENSEI TECHNOLOGIES,
 S.L.** cuyos datos de contacto son los siguientes:
 
-NIF: B-88249909\
-Domicilio social: C/ Orense 32 5 3 , 28020 MADRID (MADRID)\
-Teléfono: +34 919 030 147\
-e-mail: hola\@zenseiapp.com.
+NIF: B-88249909
+
+Domicilio social: C/ Orense 32 5 3 , 28020 MADRID (MADRID)
+
+Teléfono: +34 919 030 147
+
+e-mail: hola@zenseiapp.com.
 
 ZENSEI ha designado un Delegado de Protección de Datos con quien puede
 contactar en la dirección dpo@zenseiapp.com.
