@@ -60,8 +60,6 @@ $(document).ready(function () {
     }
   });
 
-  $("a").attr("target", "_blank");
-
   // End social
 
   // Begin Mixpanel
@@ -317,7 +315,6 @@ function post_to_url(path, params, method) {
 
   form.setAttribute("method", method);
   form.setAttribute("action", path);
-  form.setAttribute("target", "_blank");
 
   for (var key in params) {
     var hiddenField = document.createElement("input");
