@@ -1,6 +1,5 @@
 # zensei-app.github.io
 
-
 ## Setup
 
 1. Install bundler `gem install bundler`

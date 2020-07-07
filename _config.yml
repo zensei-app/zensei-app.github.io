@@ -21,6 +21,8 @@ permalink: /:categories/:title/
 # Theme settings
 theme: minima
 
+app_link: https://wgji.app.link/fIu9tK3PMO
+
 github_username: zensei-app
 twitter_username: zensei_app
 disqus:
@@ -40,7 +42,6 @@ plugins:
   - jekyll-compress-images
   - pagemaster
   - jekyll-redirect-from
-  # - jekyll-target-blank
 
 compress_images:
   images_path:

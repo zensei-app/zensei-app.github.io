@@ -1,39 +1,25 @@
-<ul class="post-list">
-  {% assign posts = site.posts | sample:3 %} {% for post in posts %}
-  <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
-    <h2>
-      <a
-        itemprop="url"
-        target="_blank"
-        rel="noopener noreferrer"
-        href="{{ post.url | relative_url }}"
+<ul class="home--carousel-section home--slide7__articles" >
+  <div class="home--carousel-container-wo-arrow" >
+    {% assign posts = site.posts %}
+    {% for item in posts limit:3 %}  
+      <li class="home--carousel-article-card-wo-arrow" style="background-image: ;" data-echo="{{ item.image }}">
+        <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
+        <a
+        class="secondary-btn home--carousel-article-card__btn"
+        target="_blank" rel="noopener noreferrer" href="{{ item.url }}"
+        onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+        >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
       >
-        <span class="post-title" itemprop="name headline"
-          >{{ post.title }}</span
-        >
-      </a>
-    </h2>
-    <p>
-      <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-      <time
-        class="post-meta"
-        datetime="{{ post.date | date_to_xmlschema }}"
-        itemprop="datePublished"
-        >{% include commons/locale-dates.html date=post.last_modified_at %}{{
-        day }} de {{ month }} de {{ year }}</time
-      >
-    </p>
-    <p itemprop="description">
-      {{ post.description | escape }}
-      <a
-        target="_blank"
-        rel="noopener noreferrer"
-        href="{{ post.url | relative_url }}"
-      >
-        Leer Más
-      </a>
-    </p>
-    <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
-  </li>
-  {% endfor %}
+      </li>
+      {% endfor %}
+</div>
 </ul>
+<div style="display: flex; justify-content: flex-end;">
+<a
+class="secondary-btn home--button"
+target="_blank" rel="noopener noreferrer" href="{{ "/blog/" | relative_url }}"
+onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+>Ver todos <span class="fa fa-chevron-right" aria-hidden="true"></span></a
+>
+</div>
+</div>
