@@ -1,4 +1,4 @@
-<form method="GET" action="/search" data-search-form>
+<form class="search-bar--form" method="GET" action="/search" data-search-form>
   <input
     type="search"
     name="q"
@@ -6,7 +6,12 @@
     placeholder="Busca tus síntomas respiratorios..."
     data-search-input
   />
-  <input type="submit" value="Buscar" />
+  <input
+    style="-webkit-appearance: none; -moz-appearance: none; appearance: none;"
+    class="action-btn"
+    type="submit"
+    value="Buscar"
+  />
 </form>
 
 <!-- Search results placeholder -->

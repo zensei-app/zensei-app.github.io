@@ -1,5 +1,5 @@
-<div class="container-main home--slide7__container">
-  <h1 class="title-medium center home--slide7__title">
+<div class="container-main recommended-posts__container">
+  <h1 class="title-big recommended-posts__title">
       Últimos artículos en nuestro blog de salud
       <br />
       respiratoria
@@ -10,18 +10,22 @@
     Rinitis alérgica, Gripe, Covid, Fibrosis quística y muchas más.
   </p>
 
-<ul class="home--carousel-section home--slide7__articles" >
+<ul class="home--carousel-section recommended-posts__articles" >
     <div class="home--carousel-container-wo-arrow" >
       {% assign posts = site.posts %}
       {% for item in posts limit:3 %}  
-        <li class="home--carousel-article-card-wo-arrow" style="background-image: ;" data-echo="{{ item.image }}">
-          <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
+        <li class="home--carousel-article-card-with-bckg">
+   <div>
+        <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
           <a
           class="secondary-btn home--carousel-article-card__btn"
           target="_blank" rel="noopener noreferrer" href="{{ item.url }}"
           onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
           >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
         >
+      </div>
+      <img src="{{item.image}}" alt="{{item.title}}" />
+
         </li>
         {% endfor %}
   </div>
@@ -35,4 +39,3 @@
   >
   </div>
 </div>
-

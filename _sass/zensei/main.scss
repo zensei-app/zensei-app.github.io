@@ -65,6 +65,22 @@ svg.sparkline {
   }
 }
 
+.zensei-logo {
+  @extend .containing-block;
+  display: inline-block;
+  background-size: cover;
+  height: 42px;
+  width: 70px;
+  background-image: url(/assets/zensei-pink.png);
+  &-header {
+    @extend .zensei-logo;
+    @media screen and (max-width: $tablet-bp) {
+      width: 49px;
+      height: 29.4px;
+    }
+  }
+}
+
 .logo {
   @extend .containing-block;
   display: inline-block;
@@ -968,12 +984,10 @@ body.fixed .header-fixed .header-limiter nav {
 
   .header-fixed .header-limiter .logo {
     float: none;
-    margin-top: 20px;
   }
 
   .header-fixed .header-limiter nav {
     line-height: 1;
-    margin-top: 20px;
   }
 
   .header-fixed .header-limiter nav a {

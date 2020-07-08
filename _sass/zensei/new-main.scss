@@ -36,6 +36,12 @@ strong {
 
 %container {
   display: flex;
+  @media screen and (max-width: $tablet-bp) {
+    flex-direction: column;
+    margin: 0;
+    margin-bottom: -10vh;
+  }
+
   & > a {
     color: $primary;
   }
@@ -81,11 +87,9 @@ strong {
 
 %bckg-img--half-width {
   background-repeat: no-repeat;
-  background-size: 700px;
   display: flex;
   justify-content: center;
   @media screen and (max-width: $tablet-bp) {
-    background-size: 140%;
     background-position-x: 20px;
   }
 }
@@ -93,6 +97,7 @@ strong {
 //Typography
 
 .title-big {
+  text-align: center;
   font-size: 2.625rem;
   line-height: 3.125rem;
   font-weight: bold;
@@ -106,12 +111,14 @@ strong {
 }
 
 .title-medium {
+  text-align: center;
   font-size: 2.375rem;
   line-height: 2.5rem;
   font-weight: bold;
   letter-spacing: 0.015625rem;
   margin-bottom: 1.75rem;
   @media screen and (max-width: $tablet-bp) {
+    text-align: left;
     font-size: 1.375rem;
     line-height: 1.5625rem;
     margin-bottom: 20px;
@@ -152,6 +159,7 @@ strong {
 //Components
 
 %btn {
+  cursor: pointer;
   margin-bottom: 0.5rem;
   display: inline-block;
   height: 48px;
@@ -170,7 +178,8 @@ strong {
     line-height: 2.25rem;
   }
 }
-.action-btn {
+.action-btn,
+input[type="submit"] {
   @extend %btn;
   background: $accent;
   color: $primary !important;
@@ -409,13 +418,14 @@ strong {
       background-image: url(/assets/illustrations/big-shape1.png);
       background-size: 132.8vw;
       height: 34.4vw;
+      margin-bottom: 16vh;
       @media screen and (max-width: $tablet-bp) {
         background-size: 235vw;
         height: 62.5vw;
         margin-top: -9vh;
       }
       & > div {
-        transform: translate(0px, 110px);
+        transform: translate(0px, 8.2vw);
         @media screen and (max-width: $tablet-bp) {
           transform: translate(0px, 9px);
         }
@@ -505,14 +515,40 @@ strong {
         }
       }
     }
-    &-article-card-wo-arrow {
+    &-article-card-with-bckg {
       @extend .home--carousel-article-card;
-      background-size: cover;
-      background-repeat: no-repeat;
+      padding: 0;
+      overflow: hidden;
       @media screen and (max-width: $tablet-bp) {
         margin: 10px auto;
         width: 88.4vw;
         height: 131px;
+      }
+
+      & img {
+        opacity: 0.3;
+        transform: translate(0px, -131px);
+        @media screen and (min-width: $tablet-bp) {
+          min-width: 100%;
+          transform: translate(0px, -196px);
+          min-height: 100%;
+        }
+      }
+      & h5 {
+        font-weight: 700;
+      }
+      & div {
+        height: 196px;
+        width: 297px;
+        padding: 32px 25px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        @media screen and (max-width: $tablet-bp) {
+          width: 88.4vw;
+          height: 131px;
+          padding: 20px 12px;
+        }
       }
     }
   }
@@ -600,17 +636,9 @@ strong {
     }
   }
 
-  &--header {
-    &__nav,
-    > a {
-      @media screen and (max-width: $tablet-bp) {
-        display: none;
-      }
-    }
-    @media screen and (min-width: $tablet-bp) {
-      &__hamburguer {
-        display: none;
-      }
+  &--header__nav a {
+    @media screen and (max-width: $tablet-bp) {
+      font-size: 0.9375rem;
     }
   }
 
@@ -639,55 +667,65 @@ strong {
   &--slide2 {
     &__container-img-right {
       @extend %container;
-      margin: 20px 0 40px $margin-horiz-desktop;
+      margin: 2.5vh 0 5vh $margin-horiz-desktop;
       @media screen and (max-width: $tablet-bp) {
-        height: 111vh;
-        flex-direction: column;
-        margin: 0;
-        margin-bottom: -10vh;
+        margin: 10vh $margin-horiz-mobile;
+        height: 96vh;
       }
     }
     &__container-img-left {
       @extend %container;
       flex-direction: row-reverse;
-      margin: 30px $margin-horiz-desktop 130px 0;
+      margin: 3.75vh $margin-horiz-desktop 16.25vh 0;
       @media screen and (max-width: $tablet-bp) {
         flex-direction: column;
-        margin: 0;
-        margin-bottom: -10vh;
+        margin: 0 $margin-horiz-mobile 5vh $margin-horiz-mobile;
       }
     }
-    &__container-text {
-      @media screen and (max-width: $tablet-bp) {
-        padding: 5vh $margin-horiz-mobile;
-      }
-    }
+    // &__container-text {
+    //   @media screen and (max-width: $tablet-bp) {
+    //     padding: 5vh $margin-horiz-mobile;
+    //   }
+    // }
 
     &__phone {
-      &-bckg-right {
+      &-bckg1 {
         @extend %bckg-img--half-width;
-        background-position: left;
+        background-position-x: 49px;
+        background-size: auto 407px;
+        background-image: url(/assets/illustrations/shape1.png);
+        @media screen and (max-width: $tablet-bp) {
+          background-size: auto 251px;
+          transform: translateY(-13.6vh);
+          background-position: 8px;
+        }
       }
       &-bckg-left {
         @extend %bckg-img--half-width;
-        background-position: right;
+        background-position-x: 41px;
+        background-size: auto 468px;
         @media screen and (max-width: $tablet-bp) {
-          transform: translate(0px, -5.7vh);
+          background-position-x: 0;
+          background-position: right;
+          background-size: auto 292px;
+          transform: translate(0px, 2.7vh);
+        }
+        &-small {
+          @extend .home--slide2__phone-bckg-left;
+          background-size: auto 410px;
+          @media screen and (max-width: $tablet-bp) {
+            background-size: auto 243px;
+          }
         }
       }
 
       &-img {
-        width: 55%;
-        height: auto;
+        width: 240px;
+        height: 464px;
         @media screen and (max-width: $tablet-bp) {
-          width: 70%;
+          width: 152px;
+          height: 288px;
         }
-      }
-    }
-    &__img-1 {
-      background-image: url(/assets/illustrations/shape1.png);
-      @media screen and (max-width: $tablet-bp) {
-        transform: translateY(-25.6vh);
       }
     }
     &__cta-btn {
@@ -705,6 +743,7 @@ strong {
       margin-top: 14vw;
       @media screen and (max-width: $tablet-bp) {
         margin-top: 15vh;
+        margin-bottom: 13vh;
       }
     }
     &__title {
@@ -738,10 +777,16 @@ strong {
 
   &--slide5 {
     &__container {
-      margin-top: 4.4vw;
+      margin-top: 7.4vh;
+      @media screen and (max-width: $tablet-bp) {
+        margin-bottom: 4.4vh;
+      }
     }
     &__title {
-      margin-bottom: 3.1vw;
+      margin-bottom: 4.1vh;
+      @media screen and (max-width: $tablet-bp) {
+        margin-bottom: 2.1vh;
+      }
     }
     &__text1 {
       margin-bottom: 4.7vw;
@@ -756,18 +801,18 @@ strong {
       }
     }
     &__text2 {
-      margin-bottom: -0.3vw;
+      margin-bottom: 1.7vh;
       @media screen and (max-width: $tablet-bp) {
-        margin-bottom: 4.7vw;
-        transform: translate(0px, 63.75vw);
+        margin-bottom: 3.7vh;
+        transform: translate(0px, 39.75vh);
       }
     }
     &__img2 {
-      width: 65vw;
-      margin: 0 9vw;
+      height: 55vh;
+      margin: 0 auto;
       @media screen and (max-width: $tablet-bp) {
-        width: 90%;
-        transform: translate(0px, -67.75vw);
+        height: 39vh;
+        transform: translate(0px, -40.75vh);
       }
     }
   }
@@ -775,8 +820,8 @@ strong {
   &--slide6 {
     &__bckg {
       background-image: url(/assets/illustrations/woman&Macario.png);
-      background-size: 1300px;
-      height: 100.75vh;
+      background-size: 1430px;
+      height: 850px;
       @media screen and (max-width: $tablet-bp) {
         background-size: 600px;
         height: 78.31vh;
@@ -886,7 +931,7 @@ strong {
       padding: $margin-horiz-desktop;
       background-color: $mediterranean;
       @media screen and (max-width: $tablet-bp) {
-        padding: 16vw;
+        padding: 16vw $margin-horiz-mobile 11vw $margin-horiz-mobile;
       }
       &-container {
         display: flex;
@@ -907,17 +952,35 @@ strong {
         line-height: 1.5625rem;
         text-transform: uppercase;
         color: $white;
+        @media screen and (max-width: $tablet-bp) {
+          font-size: 1.0625rem;
+          margin-top: 30px;
+        }
       }
       & a,
       a:visited,
       a:hover,
-      a.selected {
+      a.selected,
+      li {
         margin-top: 20px;
         text-decoration: none;
-        font-size: 1rem;
         font-size: 1.5625rem;
         line-height: 1.5625rem;
+        font-weight: normal;
         color: $white;
+        @media screen and (max-width: $tablet-bp) {
+          margin-top: 10px;
+          font-size: 1rem;
+        }
+      }
+      & a:hover {
+        color: darken($white, 20%);
+      }
+      & ul {
+        margin-left: 0;
+        & li {
+          font-weight: 300;
+        }
       }
     }
   }
@@ -948,6 +1011,39 @@ strong {
   .home--item {
     li {
       width: 50%;
+    }
+  }
+}
+
+.search-bar--form {
+  display: flex;
+
+  @media screen and (max-width: $tablet-bp) {
+    flex-direction: column;
+    & input[type="search"] {
+      width: 100%;
+    }
+  }
+}
+
+.recommended-posts {
+  &__container {
+    margin-top: 10vh;
+    @media screen and (max-width: $tablet-bp) {
+      margin-top: 3vh;
+      margin-bottom: 10vh;
+    }
+  }
+  &__title {
+    margin-bottom: 5vh;
+    @media screen and (max-width: $tablet-bp) {
+      margin-bottom: 6.25vh;
+    }
+  }
+  &__articles {
+    margin-top: 7.5vh;
+    @media screen and (max-width: $tablet-bp) {
+      margin-top: 3vh;
     }
   }
 }
@@ -1028,6 +1124,9 @@ strong {
   color: $balticSea;
   font-size: 1rem;
   // font-family: "Palanquin Dark", sans-serif;
+  @media screen and (max-width: $tablet-bp) {
+    font-size: 0.9375rem;
+  }
 }
 
 .header .header-container nav a:visited {
@@ -1100,19 +1199,23 @@ body.fixed .header .header-container nav a {
   .header {
     height: 56px;
     width: 100vw;
+    & .action-btn,
+    input[type="submit"] {
+      font-size: 0.7rem;
+    }
   }
 
   .header .header-container .logo {
     float: none;
-    margin-top: 20px;
   }
 
   .header .header-container nav {
     line-height: 1;
-    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: -20px;
   }
 
   .header .header-container nav a {
-    font-size: 1.2rem;
+    font-size: 0.9375rem;
   }
 }
