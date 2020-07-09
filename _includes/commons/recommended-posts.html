@@ -1,8 +1,8 @@
 <div class="container-main recommended-posts__container">
   <h1 class="title-big recommended-posts__title">
-      Últimos artículos en nuestro blog de salud
+      Últimos artículos en nuestro blog 
       <br />
-      respiratoria
+      de salud respiratoria
   </h1>
   <p class="paragraph center">
     Escribimos sobre todo tipo de enfermedades respiratorias: Asma, EPOC,
@@ -15,17 +15,18 @@
       {% assign posts = site.posts %}
       {% for item in posts limit:3 %}  
         <li class="home--carousel-article-card-with-bckg">
-   <div>
-        <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
-          <a
-          class="secondary-btn home--carousel-article-card__btn"
-          target="_blank" rel="noopener noreferrer" href="{{ item.url }}"
-          onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
-          >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
-        >
-      </div>
-      <img src="{{item.image}}" alt="{{item.title}}" />
-
+          <div>
+            <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
+              <a
+                class="secondary-btn home--carousel-article-card__btn"
+                style="z-index: 100"
+                target="_blank" rel="noopener noreferrer" href="{{ item.url }}"
+                onclick="ga('send', 'event', 'buttons', 'click', 'cta');">
+                Leer más 
+                <span class="fa fa-chevron-right" aria-hidden="true"></span>
+            </a>
+          </div>
+          <img src="{{item.image}}" alt="{{item.title}}" />
         </li>
         {% endfor %}
   </div>
