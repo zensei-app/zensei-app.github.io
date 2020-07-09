@@ -1,0 +1,116 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="theme-color" content="#f58888" />
+
+  {% if page.robots %}
+  <meta name="robots" content="{{page.robots}}" />
+  {% endif %}
+
+  <title>
+    ▷ {% if page.title %}{{ page.title | escape }} | Zensei {% else %}{{
+    site.title | escape }}{% endif %}
+  </title>
+  <meta
+    name="description"
+    content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}"
+  />
+
+  <!-- Mobile banners -->
+  <meta name="google-play-app" content="app-id=com.zenseiapp.medicaljournal" />
+
+  <!-- For Facebook -->
+  <meta
+    property="og:title"
+    content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+  />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"
+  />
+  <meta
+    property="og:url"
+    content="{% if page.url %}{{ page.url | absolute_url }}{% else %}https://zenseiapp.com{% endif %}"
+  />
+  <meta property="fb:app_id" content="1853764804894431" />
+  <meta
+    property="og:site_name"
+    content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+  />
+  <meta
+    property="og:description"
+    content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}"
+  />
+
+  <!-- for Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta
+    name="twitter:title"
+    content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+  />
+  <meta
+    name="twitter:description"
+    content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}"
+  />
+  <meta
+    name="twitter:image"
+    content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://zenseiapp.com/assets/zensei.png{% endif %}"
+  />
+
+  <link
+    rel="shortcut icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/icon.png"
+  />
+  <link
+    rel="icon"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="/assets/icon.png"
+  />
+
+  <link
+    rel="canonical"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="{{ page.url | absolute_url }}"
+  />
+  <link
+    rel="alternate"
+    target="_blank"
+    rel="noopener noreferrer"
+    href="{{ page.url | absolute_url }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    hreflang="es"
+  />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape
+  }}" target="_blank" rel="noopener noreferrer" href="{{ "/feed.xml" |
+  relative_url }}"> <meta name="atarget="_blank" rel="noopener noreferrer"
+  hrefs-site-verification"
+  content="100b2bd9bf5e87cf142e16b6ec3ba883d0224d8294cb998240177a1df6691d2d" />
+  {% if site.tags != "" %} {% include commons/collecttags.html %} {% endif %} {%
+  if jekyll.environment == 'production' and site.google_analytics %} {% include
+  commons/google-analytics.html %} {% endif %}
+
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
+  />
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"
+  />
+</head>

@@ -1,52 +1,59 @@
-
-
 /* apply a natural box layout model to all elements */
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
 /* this way images (and the other fixed-width elements) never display larger than their containers */
-img,embed,object,video,iframe{
-  max-width:100%;
+img,
+embed,
+object,
+video,
+iframe {
+  max-width: 100%;
 }
 
-
-html, html a {
-    -webkit-font-smoothing: antialiased;
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+html,
+html a {
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
 }
-
 
 body {
   font: 400 16px/1.2em $sans-serif-font !important;
-  color: #363E40;
-  background: #FFFFFF;
+  color: $text;
+  background: $background-primary;
 }
 
-
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: 100%;
   font-weight: normal;
   margin: 0;
 }
 
-h2{
+h2 {
   font-size: 1.2rem;
   font-weight: $weight-bold;
   line-height: 1.2;
 }
 
-ul{
+ul {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-
-a{
+a {
   text-decoration: none;
   color: $link;
 }
 
-strong{
+strong {
   font-weight: $weight-bolder;
 }
-

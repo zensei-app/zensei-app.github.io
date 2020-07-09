@@ -1,12 +1,12 @@
 ---
 layout: post
 toc: true
-redirect_from: 
-  - '/blog/cuales-sintomas-alergia-polen/'
-  - '/blog/2018/04/25/cuales-sintomas-alergia-polen/'
-title:  "🌼🤧 Alergia al polen: Síntomas y remedios"
+redirect_from:
+  - "/blog/cuales-sintomas-alergia-polen/"
+  - "/blog/2018/04/25/cuales-sintomas-alergia-polen/"
+title: "🌼🤧 Alergia al polen: Síntomas y remedios"
 last_modified_at: 2020-02-20 10:00:00 +0000
-date:   2018-04-25 10:00:00 +0200
+date: 2018-04-25 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: /img/sun-flower-1643794_1280.jpg
@@ -15,7 +15,7 @@ intro: "Si no paras de estornudas, ojos llorosos y no paras de moquear. Seguro q
 tags: síntomas alergia polen
 ---
 
-Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes: el polen. Miles de personas sienten que pasan por el peor momento del año. 
+Con la primavera, muchos de los alérgicos empeoran. La causa más generalizada es la intolerancia a uno de los alérgenos más comunes: el polen. Miles de personas sienten que pasan por el peor momento del año.
 
 <br>
 ![Alergia al polen Zensei app](/img/sun-flower-1643794_1280.jpg){: .center-image }
@@ -33,8 +33,7 @@ El [polen](https://es.wikipedia.org/wiki/Polen), producido por las plantas, es u
 
 La reacción alérgica llega como un “error” del sistema inmunológico. El organismo detecta el alérgeno. El sistema inmunológico hace todo lo posible por neutralizar el “ataque” exterior. Para ello comienza a liberar sustancias para expulsarlo. Entre ellas está la **histamina**, causante del picor de ojos, el lagrimeo, los mocos y los estornudos.
 
-*En España, las plantas que producen más brotes de alergia son las gramíneas, las cupresáceas y platanus.* Las enormes extensiones de plantación y que cada grano tiene su época de floración, hace que su rango de acción se extienda durante meses.
-
+_En España, las plantas que producen más brotes de alergia son las gramíneas, las cupresáceas y platanus._ Las enormes extensiones de plantación y que cada grano tiene su época de floración, hace que su rango de acción se extienda durante meses.
 
 Existen otras plantas y árboles que provocan reacciones alérgicas en nuestro país. La parietaria, el abedul y el aligustre son algunos de ellos. Pero, sin duda, **el árbol que más alérgicos provoca es el olivo**.
 
@@ -74,10 +73,10 @@ Básicamente, tienes que evitar la exposición al polen, sobre todo en primavera
 
 BONUS. [Cómo parar de estornudar haciéndote cosquillas...](/blog/como-detener-un-ataque-de-estornudos/)
 
-Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico. 
+Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico.
 
 <div class="section-cta">
-<a href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
 </div>
 
 Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.

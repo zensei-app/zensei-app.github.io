@@ -1,92 +1,175 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es" itemscope itemtype="http://schema.org/WebSite">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-<title>🤧 Zensei: Alertas hiperlocales de salud vía API.</title>
+    <title>🤧 Zensei: Alertas hiperlocales de salud vía API.</title>
 
-<meta name="description" content="Contáctanos para conseguir datos de salud pública vía API">
-<meta name="author" content="Zensei">
+    <meta
+      name="description"
+      content="Contáctanos para conseguir datos de salud pública vía API"
+    />
+    <meta name="author" content="Zensei" />
 
-<!-- Mobile viewport optimization h5bp.com/ad -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- allows zoom -->
-<meta name="theme-color" content="#f58888" />
-<!-- <meta name="apple-itunes-app" content="app-id=myAppStoreID"> -->
-<meta name="google-play-app" content="app-id=com.zenseiapp.galenvs">
+    <!-- Mobile viewport optimization h5bp.com/ad -->
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- allows zoom -->
+    <meta name="theme-color" content="#f58888" />
+    <!-- <meta name="apple-itunes-app" content="app-id=myAppStoreID"> -->
+    <meta name="google-play-app" content="app-id=com.zenseiapp.galenvs" />
 
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on" />
 
-<!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
-<meta http-equiv="cleartype" content="on">
+    <link
+      rel="shortcut icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/favicon.ico"
+    />
+    <link
+      rel="apple-touch-icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/icon.png"
+    />
+    <link
+      rel="icon"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/icon.png"
+    />
 
+    <link
+      rel="stylesheet"
+      type="text/css"
+      target="_blank"
+      rel="noopener noreferrer"
+      href="/assets/main.css"
+    />
+    <!-- <link rel="stylesheet" target="_blank" rel="noopener noreferrer" href="https://grids.graaf.space/1170/12/16.css">-->
+    <!-- Bootstrap Grid -->
 
-<link rel="shortcut icon" href="/assets/favicon.ico" />
-<link rel="apple-touch-icon" href="/assets/icon.png"/>
-<link rel="icon" href="/assets/icon.png"/>
+    <!-- For Facebook -->
+    <meta
+      property="og:title"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="https://zenseiapp.com/assets/zensei.png"
+    />
+    <meta property="og:url" content="https://zenseiapp.com" />
+    <meta property="fb:app_id" content="1853764804894431" />
+    <meta property="og:site_name" content="Zensei" />
+    <meta
+      property="og:description"
+      content="Contáctanos para conseguir datos de salud pública via API"
+    />
 
-<link rel="stylesheet" type="text/css" href="/assets/main.css" />
-<!-- <link rel="stylesheet" href="https://grids.graaf.space/1170/12/16.css">--> <!-- Bootstrap Grid -->
+    <!-- for Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta
+      name="twitter:title"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta
+      name="twitter:description"
+      content="Contáctanos para conseguir datos de salud pública via API"
+    />
+    <meta
+      name="twitter:image"
+      content="https://zenseiapp.com/assets/zensei.png"
+    />
 
+    <!-- For Google+ -->
+    <meta itemprop="name" content="Zensei" />
+    <meta
+      itemprop="description"
+      content="🤧 Zensei: Alertas hiperlocales de salud vía API."
+    />
+    <meta itemprop="image" content="https://zenseiapp.com/assets/zensei.png" />
 
-<!-- For Facebook -->
-<meta property="og:title" content="🤧 Zensei: Alertas hiperlocales de salud vía API."/>
-<meta property="og:type" content="website"/>
-<meta property="og:image" content="https://zenseiapp.com/assets/zensei.png"/>
-<meta property="og:url" content="https://zenseiapp.com"/>
-<meta property="fb:app_id" content="1853764804894431" />
-<meta property="og:site_name" content="Zensei"/>
-<meta property="og:description" content="Contáctanos para conseguir datos de salud pública via API"/>
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+      .async-hide {
+        opacity: 0 !important;
+      }
+    </style>
+    <script>
+      (function (a, s, y, n, c, h, i, d, e) {
+        s.className += " " + y;
+        h.start = 1 * new Date();
+        h.end = i = function () {
+          s.className = s.className.replace(RegExp(" ?" + y), "");
+        };
+        (a[n] = a[n] || []).hide = h;
+        setTimeout(function () {
+          i();
+          h.end = null;
+        }, c);
+        h.timeout = c;
+      })(window, document.documentElement, "async-hide", "dataLayer", 4000, {
+        "GTM-M3ZZKBZ": true,
+      });
+    </script>
 
-<!-- for Twitter -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="🤧 Zensei: Alertas hiperlocales de salud vía API." />
-<meta name="twitter:description" content="Contáctanos para conseguir datos de salud pública via API" />
-<meta name="twitter:image" content="https://zenseiapp.com/assets/zensei.png" />
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "https://www.google-analytics.com/analytics.js",
+        "ga"
+      );
 
-<!-- For Google+ -->
-<meta itemprop="name" content="Zensei">
-<meta itemprop="description" content="🤧 Zensei: Alertas hiperlocales de salud vía API.">
-<meta itemprop="image" content="https://zenseiapp.com/assets/zensei.png">
+      ga("create", "UA-96842689-1", "auto");
+      ga("require", "GTM-M3ZZKBZ");
+      ga("send", "pageview");
+    </script>
+  </head>
 
-<!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<style>.async-hide { opacity: 0 !important} </style>
-<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentElement,'async-hide','dataLayer',4000,
-{'GTM-M3ZZKBZ':true});</script>
+  <body>
+    <div class="container center">
+      <a target="_blank" rel="noopener noreferrer" href="https://zenseiapp.com"
+        ><div class="logo-alternative">zensei</div></a
+      >
+    </div>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <a
+      class="main-cta-top shake"
+      style="text-decoration: none; color: white;"
+      onclick="buy();"
+      >COMPRAR</a
+    >
 
-  ga('create', 'UA-96842689-1', 'auto');
-  ga('require', 'GTM-M3ZZKBZ');
-  ga('send', 'pageview');
-  
-</script>
-
-</head>
-
-<body>
-<div class="container center">
-  <a href="https://zenseiapp.com"><div class="logo-alternative">zensei</div></a>
-</div>
-
-<a class="main-cta-top shake" style="text-decoration:none; color: white"
-      onclick="buy();">COMPRAR</a>
-
-<script src="https://js.stripe.com/v3/"></script>
-<script type="text/javascript" src="/assets/js/checkout.js"></script>
-
-</body>
+    <script src="https://js.stripe.com/v3/"></script>
+    <script type="text/javascript" src="/assets/js/checkout.js"></script>
+  </body>
 </html>
 
 <!-- /nonessential stylesheets -->
-<link href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700" rel="stylesheet">
+<link
+  target="_blank"
+  rel="noopener noreferrer"
+  href="https://fonts.googleapis.com/css?family=Palanquin+Dark%7CSource+Sans+Pro:400,600,700"
+  rel="stylesheet"
+/>

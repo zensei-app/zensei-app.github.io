@@ -1,6 +1,6 @@
 ---
 layout: post
-redirect_from: 
+redirect_from:
   - "/blog/productos-hipoalergenicos-alergia-asma/"
   - "/blog/2018/10/15/productos-hipoalergenicos-alergia-asma/"
 toc: true
@@ -10,30 +10,32 @@ last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
 image: "/img/photo-1506664453913-f326aa81f54d.jpeg"
-description: Si quieres ver una lista de productos hipoalergénicos en un solo lugar,
+description:
+  Si quieres ver una lista de productos hipoalergénicos en un solo lugar,
   entonces te encantará esta guía (actualizada). Si el médico te los ha recomendado.
   Aquí podrás saber cuales necesitas.
-intro: Si quieres ver una lista de **productos hipoalergénicos** en un solo lugar,
+intro:
+  Si quieres ver una lista de **productos hipoalergénicos** en un solo lugar,
   entonces te encantará esta guía (actualizada).<br><br>Seguro que el médico te ha
   recomendado que utilices productos hipoalergénicos.<br><br>Bien.<br><br>Aquí puedes
   saber que es todo lo que necesitas.<br><br>Puedes filtrar a través de la lista para
   encontrar el mejor producto hipoalergénico para ti y tu familia.
 tags: productos asma alergia rinitis casa
-
 ---
+
 ## **Qué significa hipoalergénico**
 
-[Hipoalergénico, o hipoalérgico, según wikipedia](https://es.wikipedia.org/wiki/Hipoalerg%C3%A9nico). 
+[Hipoalergénico, o hipoalérgico, según wikipedia](https://es.wikipedia.org/wiki/Hipoalerg%C3%A9nico).
 
 Es la característica dada por algún material o producto que ayuda a disminuir el riesgo de síntomas alérgico so una reacción alérgica debido al uso del producto.
 
 Bien.
- 
+
 ## **Qué son lo productos hipoalergénicos**
 
 Los productos hipoalergénicos están especificamente diseñados para mejorar la calidad de vida de personas con problemas respiratorios y alérgicos.
 
-Existen productos que evitan la acumulación de alérgenos como ácaros, polvo, polenes, bacterias o moho, que pueden provocar distintos síntomas y reacciones. 
+Existen productos que evitan la acumulación de alérgenos como ácaros, polvo, polenes, bacterias o moho, que pueden provocar distintos síntomas y reacciones.
 
 Normalmente, son ropa de cama y baño.
 
@@ -45,7 +47,7 @@ Veamos los productos hipoalergénicos necesarios para tener un casa hipoalergén
 
 ## **Lista de Productos Hipoalergénicos para casa**
 
-Existen múltiples productos hipoalergénicos para tener una casa libre de alérgenos. 
+Existen múltiples productos hipoalergénicos para tener una casa libre de alérgenos.
 
 Solo tienes que adquirir cada uno de los que te recomendamos.
 
@@ -59,19 +61,19 @@ Estas fundas son básicas para protegernos de moho, ácaros y polvo. Además pro
 
 En que te tienes que fijar a la hora de comprar una funda de colchón hipoalergénica:
 
-Que la tela no contega ninguna substancia nociva. Ningún rastro de Vinilo o PVC. 
+Que la tela no contega ninguna substancia nociva. Ningún rastro de Vinilo o PVC.
 
-Que sean 100% waterproof en la parte superior contra la transpiración, la orina, los líquidos o las manchas. 
+Que sean 100% waterproof en la parte superior contra la transpiración, la orina, los líquidos o las manchas.
 
 Conserva fácilmente limpio tu colchón.
 
-Que sean nuy transpirable con una membrana de poliuretano que permita bloquear eficazmente los fluidos dejando pasar el aire. 
+Que sean nuy transpirable con una membrana de poliuretano que permita bloquear eficazmente los fluidos dejando pasar el aire.
 
 Esto permitirá que permanezca fresco y deje respirar tu colchón durante el sueño.
 
 Que tenga una barrera eficaz para limitar las alergias y bloquear eficazmente los alérgenos comunes como los ácaros, las bacterias, el polvo, el polen o el moho.
 
-Tienen que ser suaves y cómodos con una parte 100% algodón para una suavidad óptima. 
+Tienen que ser suaves y cómodos con una parte 100% algodón para una suavidad óptima.
 
 Que sean fáciles de poner y quitar, para eso necesitan una banda elástica.
 
@@ -99,7 +101,7 @@ Puedes encontrar edredones hipoalergénicos en todos los tamaños.
 
 En el caso del protector de un edredón o una almuhada es aconsejable que este hecho de 100 % algodón transpirable.
 
-Esto le confiere protección contra los alérgenos. 
+Esto le confiere protección contra los alérgenos.
 
 Evita las alternativa las fundas de edredones de tipo vinilo, impermeables y no transpirables, que pueden dar calor, ser ruidosas e incómodas.
 
@@ -165,14 +167,14 @@ Un purificador de aire te permitirá todas las partículas en suspensión como p
 Si tienes dificultades por la noche para respirar, un purificador de aire te permitirá volver a descansar.
 
 <div class="section-cta">
-<a href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ## **Consejos para tener una casa hipoalergénica**
 
 ### **La casa hipoalergénica**
 
-La mejor **habitación** para los asmáticos y alérgicos deberá ser **seca y soleada**. 
+La mejor **habitación** para los asmáticos y alérgicos deberá ser **seca y soleada**.
 
 El **suelo será de parquet o linóleo**. Fácil de limpiar y no utilices alfombras.
 
@@ -230,7 +232,7 @@ Es decisión tuya.
 
 Nosotros solo te ayudamos.
 
-En Zensei somos expertos en salud respiratoria. 
+En Zensei somos expertos en salud respiratoria.
 
 Por eso además de recomendarte productos hipoalergénicos, también hemos desarrollado una app que si tienes problemas de alergia o asma seguro que nunca te has imaginado.
 

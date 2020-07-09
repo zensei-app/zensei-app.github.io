@@ -1,0 +1,32 @@
+<div class="container-main" style="margin-top: 100px;">
+  <h1 class="title-medium home--slide7__title">
+    La ciencia detrás de Zensei
+  </h1>
+  <p class="paragraph center">
+    <span>Nuestra tecnología está construida sobre los hombros de gigantes. Somos
+    expertos en </span>
+    <span>salud respiratoria, datos, epidemiología y diseño de experiencias de salud.</span>
+    </p>
+</div>
+
+<div class="bckg-img--full-width home--carousel-bckg">
+  <div class="container-main">
+
+  <ul class="home--carousel-section carousel-responsive" style="margin-top: 60px;">
+    {% assign posts = site.posts %}
+    {% for item in posts limit:6 %}
+  
+      <li class="home--carousel-article-card">
+        <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
+        <a
+        class="secondary-btn home--carousel-article-card__btn"
+        target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}"
+        >Leer más <span class="fa fa-chevron-right" aria-hidden="true"></span></a
+      >
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+

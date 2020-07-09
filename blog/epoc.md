@@ -19,9 +19,9 @@ Bien.
 
 Si eso te interesa, genial. Si no te interesa, pues puedes volver a buscar en Google un tratamiento milagroso.
 
-Por cierto, si quieres descargarte nuestra app para controlar tu EPOC, es aquí: 
+Por cierto, si quieres descargarte nuestra app para controlar tu EPOC, es aquí:
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 Mira.
 
@@ -33,7 +33,7 @@ Pues imagínate poder adelantarte a ellos y saber que los causa exactamente.
 
 Así podrás tomarte tu inhalador de rescate cuando realmente lo necesitas.
 
-La solución, nada mágica. 
+La solución, nada mágica.
 
 Nuestro diario de salud respiratoria te permitirá llevar un control diario de tus síntomas sin esfuerzo y asociarlos con tu entorno (contaminación o pólenes),
 hábitos y medicación.
@@ -54,13 +54,13 @@ Del resto nos encargamos nosotros.
 
 Analizaremos tus datos de salud, los asociaremos con otros datos de entorno, hábitos y medicación para descubrir exactamente cuales son los desencandenantes de tus síntomas.
 
-Vale. 
+Vale.
 
 Si quieres evitar la falta de aire y respirar mejor.
 
 Descárgate nuestra app diario aquí.
 
-{% include app-cta-landing.html %}
+{% include commons/app-cta-landing.html %}
 
 ## **Artículos sobre el EPOCen nuestro blog**
 
@@ -76,21 +76,21 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre el EPOC
         <span>
           {% for tag in post.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+            <a target="_blank" rel="noopener noreferrer" href="/tag/{{ tag_name }}"><code class="highligher-rouge shake"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
           {% endfor %}
         </span>
         <h2>
-          <a itemprop="url" href="{{ post.url | relative_url }}">
+          <a itemprop="url" target="_blank" rel="noopener noreferrer" href="{{ post.url | relative_url }}">
             <span class="post-title" itemprop="name headline">{{ post.title | escape }}</span>
           </a>
         </h2>
         <p>
           <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
+          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include commons/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
         </p>
         <p itemprop="description">
           {{ post.description | escape }}
-          <a href="{{ post.url | relative_url }}">
+          <a target="_blank" rel="noopener noreferrer" href="{{ post.url | relative_url }}">
             Leer Más
           </a>
         </p>

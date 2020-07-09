@@ -2,25 +2,32 @@
 layout: post
 toc: true
 redirect_from:
+<<<<<<< HEAD
 - "/blog/como-detener-un-ataque-de-estornudos/"
 - "/blog/2018/06/11/como-detener-un-ataque-de-estornudos/"
+=======
+  - "/blog/como-detener-un-ataque-de-estornudos/"
+  - "/blog/2018/06/11/como-detener-un-ataque-de-estornudos/"
+>>>>>>> new-landing
 title: "\U0001F927 Estornudos: 3 Remedios para detenerlos"
 date: 2018-06-11T08:00:00.000+00:00
 last_modified_at: 2020-02-20T10:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: "/img/13397331035_dd80d2f94d_b.jpg"
-description: Si te acaba de dar un ataque de estornudos y no dejas de estornudar.
+description:
+  Si te acaba de dar un ataque de estornudos y no dejas de estornudar.
   En este artículo te enseñamos como dejar de estornudar con varios trucos y uno super
   secreto que nadie sabe.
-intro: "¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas
+intro:
+  "¿Te acaba de dar un ataque de estornudos? ¿No paras de estornudar? Pocas cosas
   hay tan molestas como un **[ataque de estornudos](https://es.wikipedia.org/wiki/Estornudo)**.
   <br/><br/> A veces empiezan y no paran, incluso acabas con un dolor de cabeza y
   sientes que los ojos se van a salir de la cara. <br/><br/> La nariz pica y empieza
   a gotear."
 tags: alergia polen remedios
-
 ---
+
 **¿Cómo detener un ataque de estornudos?**
 
 Es lo que te estarás preguntando verdad.
@@ -51,7 +58,11 @@ A pesar de que sea una consecuencia lógica para **liberar las vías respiratori
 
 Ya hemos visto que el estornudo es un **acto reflejo** mediante el cual el sistema respiratorio reacciona **ante la presencia de virus o alérgenos.**
 
+<<<<<<< HEAD
 En ocasiones se presentan de forma muy seguida y si no conseguimos detener el ataque de estornudos, podemos acabar con **una inflamación de la mucosa nasal y desencadenar una rinitis, sinusitis o** [**crisis asmática**](https://zenseiapp.com/asma/como-prevenir-ataque-asma/)**.**
+=======
+En ocasiones se presentan de forma muy seguida y si no conseguimos detener el ataque de estornudos, podemos acabar con **una inflamación de la mucosa nasal y desencadenar una rinitis, sinusitis o [crisis asmática](https://zenseiapp.com/asma/como-prevenir-ataque-asma/).**
+>>>>>>> new-landing
 
 Veamos algunos consejos para parar un ataque de estornudos.
 
@@ -68,7 +79,7 @@ Así podrás respiraras un aire más limpio y evitar los ataques de estornudos e
 Solo tienes que instalarlo en su habitación.
 
 <div class="section-cta">
-<a href="/alergia/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ### **😷 Mascarilla antipolución**
@@ -80,12 +91,19 @@ Las mascarillas pueden ayudarte a evitar la polución, polvo, ácaros, polenes e
 Muchos causantes de los ataques de estornudos.
 
 <div class="section-cta">
-<a href="/alergia/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a href="/alergia/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
+<a target="_blank" rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
 </div>
 
 ### **👃 Trucos caseros para dejar de estornudos**
 
 Existen varias formas para cortar el estornudo.
+<<<<<<< HEAD
+=======
+
+1. **Taparse la nariz con la punta de los dedos y estirar un poco,** mientras se masajea suavemente.
+
+2. **Presionar con los dedos el labio superior.**
+>>>>>>> new-landing
 
 1. **Taparse la nariz con la punta de los dedos y estirar un poco,** mientras se masajea suavemente.
 2. **Presionar con los dedos el labio superior.**
@@ -97,6 +115,7 @@ De todos modos, si notas que los estornudos no te dejan en paz y persisten con e
 Por cierto, ¿qué truco utilizas tú para dejar de estornudar?
 
 También puedes utilizar la tecnología para descubrir que es lo que te provoca los estornudos.
+<<<<<<< HEAD
 
 [**📱Prueba la app de Zensei**](https://zenseiapp.com), es gratuita, **te alerta de los factores que pueden afectar a tu respiración y te ayudará a evitar los estornudos**.
 
@@ -117,3 +136,7 @@ _Referencias:_
 [_El estornudo. Revisión de su etiología y su fisiopatología. Neurologia.com_](https://www.neurologia.com/articulo/2004653)
 
 [_Cómo ayudar a dejar de estornudar. 5 consejos principales. Vicks_](https://vicks.com/es-us/tratos/como-dejar-de-estornudar/como-ayudar-a-dejar-de-estornudar-5-consejos-principales)
+=======
+
+**[📱Prueba la app de Zensei](https://zenseiapp.com)**, es gratuita, **te alerta de los factores que pueden afectar a tu respiración y te ayudará a evitar los estornudos**.
+>>>>>>> new-landing

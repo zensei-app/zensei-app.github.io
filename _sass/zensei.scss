@@ -1,15 +1,6 @@
 @charset "utf-8";
 
 // Import partials.
-@import
-  "zensei/_normalize",
-  "zensei/_variables",
-  "zensei/_mixins",
-  "zensei/_base",
-  "zensei/_utilities",
-  "zensei/_scaffolding",
-  "zensei/main",
-  "zensei/blog",
-  "zensei/gripe",
-  "zensei/mailchimp"
-;
+@import "zensei/_normalize", "zensei/_variables", "zensei/_mixins",
+  "zensei/_base", "zensei/_utilities", "zensei/_scaffolding", "zensei/main",
+  "zensei/new-main", "zensei/blog", "zensei/gripe", "zensei/mailchimp";

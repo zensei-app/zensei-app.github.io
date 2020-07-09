@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}"{% if page.layout == "blog" %} itemscope itemtype="http://schema.org/Blog"{% endif %}>
+  
+  {% include commons/head.html %}
+
+  <body>
+    
+    {% include home/landing.html %} 
+
+    <main aria-label="Content">
+      {% include commons/nav-header.html %}
+      {{ content }}
+    </main>
+
+    {% include commons/footer.html %}
+
+    <script src="/assets/js/home.js"></script>
+
+
+  </body>
+
+</html>
