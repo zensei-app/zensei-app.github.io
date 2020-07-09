@@ -2,13 +2,8 @@
 layout: post
 toc: true
 redirect_from:
-<<<<<<< HEAD
-- "/blog/como-detener-un-ataque-de-estornudos/"
-- "/blog/2018/06/11/como-detener-un-ataque-de-estornudos/"
-=======
   - "/blog/como-detener-un-ataque-de-estornudos/"
   - "/blog/2018/06/11/como-detener-un-ataque-de-estornudos/"
->>>>>>> new-landing
 title: "\U0001F927 Estornudos: 3 Remedios para detenerlos"
 date: 2018-06-11T08:00:00.000+00:00
 last_modified_at: 2020-02-20T10:00:00.000+00:00
