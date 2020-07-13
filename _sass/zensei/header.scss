@@ -108,6 +108,53 @@
   opacity: 1;
 }
 
+/* Fixed version of the header */
+
+body.fixed .header {
+  background-color: $white;
+  padding: 20px 60px;
+  height: 86px;
+  color: $balticSea;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  @media screen and (max-width: $tablet-bp) {
+    padding: 0 24px;
+    height: 56px;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+  }
+}
+
+body.fixed .header .header-container {
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body.fixed .header-placeholder {
+  display: block;
+}
+
+body.fixed .header .header-container h1 {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+body.fixed .header .header-container nav {
+  line-height: 30px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+
+body.fixed .header .header-container nav a {
+  padding: 10px;
+}
 
 /* Making the header responsive */
 

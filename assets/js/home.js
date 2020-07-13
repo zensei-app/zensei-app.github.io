@@ -2,9 +2,11 @@ $(window).scroll(function () {
   const scrollTop = $(window).scrollTop();
   const PERCENTAGE_CONTENT_LANDING = 0.86;
   if (scrollTop >= PERCENTAGE_CONTENT_LANDING * window.innerHeight) {
+    $("body").addClass("fixed");
     $("#press").addClass("invisible");
     $("header").removeClass("invisible");
   } else {
+    $("body").removeClass("fixed");
     $("#press").removeClass("invisible");
     $("header").addClass("invisible");
   }
