@@ -1,21 +1,40 @@
-<header class="header" id="storytelling">
-  <div class="header-container ">
 
-    <a target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}">
+<header class="header" id="nav-header">
+  <div class="header-container">
+
+    <a href="{{ "/" | relative_url }}">
       <div class="zensei-logo-header"></div>
     </a>
    
-   <div style="display: flex; align-items: center;">
-      <nav class="home--header__nav">
+   <div class="header-content">
+    <div class="only-for-desktop">
+      <nav >
         <a target="_blank" rel="noopener noreferrer" href="/salud-digital-respiratoria/">Empresas</a>
         <a target="_blank" rel="noopener noreferrer" href="/blog/">Blog</a>
       </nav>
+    </div>
+
       <a
       style="margin-left: 2rem; margin-bottom: 0;"
       class="action-btn"
       target="_blank" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO"
       onclick="ga('send', 'event', 'buttons', 'click', 'cta-header');"
       >Descargar app</a>
+      <div class="only-for-mobile">
+        <span id="menu-ctn" >
+          <li class="menu-bars"></li>
+        </span>
+      </div>
     </div>
   </div>
+  <ul id="menu-cnt">
+    <li class="menu-item">
+      <a target="_blank" rel="noopener noreferrer" href="/salud-digital-respiratoria/">Empresas</a>
+    </li>
+    <hr/>
+    <li class="menu-item">
+      <a target="_blank" rel="noopener noreferrer" href="/blog/">Blog</a>
+    </li>
+  </ul>
+
 </header>

@@ -2,11 +2,9 @@ $(window).scroll(function () {
   const scrollTop = $(window).scrollTop();
   const PERCENTAGE_CONTENT_LANDING = 0.86;
   if (scrollTop >= PERCENTAGE_CONTENT_LANDING * window.innerHeight) {
-    $("body").addClass("fixed");
     $("#press").addClass("invisible");
     $("header").removeClass("invisible");
   } else {
-    $("body").removeClass("fixed");
     $("#press").removeClass("invisible");
     $("header").addClass("invisible");
   }
@@ -21,16 +19,25 @@ $(window).scroll(function () {
   });
 });
 
+$(document).scroll(function () {
+  var y = $(this).scrollTop();
+  if (y > 2000) {
+    $(".nav-header").slideDown();
+  } else {
+    $(".nav-header").slideUp();
+  }
+});
+
 $(document).ready(function () {
-  $("#go-to-storytelling").click(function () {
-    const storytellingOffset = $("#storytelling").offset().top;
-    $("body,html").animate(
-      {
-        scrollTop: storytellingOffset,
-      },
-      2000
-    );
-  });
+  // $("#go-to-storytelling").click(function () {
+  //   const storytellingOffset = $("header").offset().top;
+  //   $("body,html").animate(
+  //     {
+  //       scrollTop: storytellingOffset,
+  //     },
+  //     2000
+  //   );
+  // });
 
   //https://kenwheeler.github.io/slick/
   $(".carousel-responsive").slick({
