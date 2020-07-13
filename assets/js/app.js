@@ -53,7 +53,7 @@ $(document).ready(function () {
 
   $(document).scroll(function () {
     var y = $(this).scrollTop();
-    if (y > 1600) {
+    if (y > 2000) {
       $(".top-banner").slideDown();
     } else {
       $(".top-banner").slideUp();

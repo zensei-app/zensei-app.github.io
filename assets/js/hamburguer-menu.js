@@ -3,10 +3,7 @@ $(() => {
     bars = $(".menu-bars"),
     items = $(".menu-item"),
     content = $("#menu-cnt");
-<<<<<<< HEAD
-=======
   body = $(".nav-header--main");
->>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
 
   let firstClick = true,
     menuClosed = true;
@@ -21,8 +18,6 @@ $(() => {
 
     menuClosed = !menuClosed;
     content.toggleClass("dropped");
-<<<<<<< HEAD
-=======
 
     if (!menuClosed) {
       body.addClass("window-overlay");
@@ -30,7 +25,6 @@ $(() => {
       body.removeClass("window-overlay");
     }
 
->>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
     event.stopPropagation();
   };
 
