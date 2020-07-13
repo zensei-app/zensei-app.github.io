@@ -32,6 +32,17 @@ strong {
   }
 }
 
+.only-for-desktop {
+  @media screen and (max-width: $tablet-bp) {
+    display: none;
+  }
+}
+.only-for-mobile {
+  @media screen and (min-width: $tablet-bp) {
+    display: none;
+  }
+}
+
 // View containers
 
 %container {
@@ -596,6 +607,7 @@ input[type="submit"] {
       background-repeat: no-repeat;
       background-position: center;
       @media screen and (max-width: $tablet-bp) {
+        height: 50%;
         margin-top: 9.4vh;
         background-size: 75%;
         background-position: top;
@@ -633,12 +645,6 @@ input[type="submit"] {
           }
         }
       }
-    }
-  }
-
-  &--header__nav a {
-    @media screen and (max-width: $tablet-bp) {
-      font-size: 0.9375rem;
     }
   }
 
@@ -1045,177 +1051,5 @@ input[type="submit"] {
     @media screen and (max-width: $tablet-bp) {
       margin-top: 3vh;
     }
-  }
-}
-
-/* Header */
-
-.header {
-  background-color: $white;
-  height: 86px;
-  color: $balticSea;
-  top: -100px;
-  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
-  -webkit-transition: top 0.3s;
-  transition: top 0.3s;
-  width: 100%;
-  padding: 0;
-  @media screen and (max-width: $tablet-bp) {
-    height: 56px;
-    width: 100vw;
-  }
-}
-
-.header-container {
-  max-width: $max-width-content;
-  margin: 0 auto;
-  @media screen and (max-width: $big-screen-bp) {
-    margin: 0 $margin-horiz-desktop;
-  }
-  @media screen and (max-width: $tablet-bp) {
-    margin: 0 $margin-horiz-mobile;
-  }
-}
-
-.header .header-container {
-  height: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-/*	The header placeholder. It is displayed when the header is fixed to the top of the
-	browser window, in order to prevent the content of the page from jumping up. */
-
-.header-placeholder {
-  height: 80px;
-  display: none;
-}
-
-/* Logo */
-
-.header .header-container h1 {
-  float: left;
-  font: normal 28px Cookie, Arial, Helvetica, sans-serif;
-  line-height: 40px;
-  margin: 0;
-}
-
-.header .header-container h1 span {
-  color: $balticSea;
-}
-
-.header-container .logo {
-  float: left;
-  margin: 0.5rem 0;
-}
-
-/* The navigation links */
-
-.header .header-container nav {
-  line-height: 40px;
-  float: right;
-}
-
-.header .header-container nav a {
-  display: inline-block;
-  padding: 0 5px;
-  text-decoration: none;
-  color: $balticSea;
-  font-size: 1rem;
-  // font-family: "Palanquin Dark", sans-serif;
-  @media screen and (max-width: $tablet-bp) {
-    font-size: 0.9375rem;
-  }
-}
-
-.header .header-container nav a:visited {
-  display: inline-block;
-  padding: 0 5px;
-  text-decoration: none;
-  color: $balticSea;
-}
-
-.header .header-container nav a:hover {
-  opacity: 1;
-}
-
-.header .header-container nav a.selected {
-  color: $balticSea;
-  pointer-events: none;
-  opacity: 1;
-}
-
-/* Fixed version of the header */
-
-body.fixed .header {
-  background-color: $white;
-  padding: 20px 60px;
-  height: 86px;
-  color: $balticSea;
-  position: fixed;
-  width: 100%;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  @media screen and (max-width: $tablet-bp) {
-    padding: 0 24px;
-    height: 56px;
-    width: 100vw;
-  }
-}
-
-body.fixed .header .header-container {
-  height: 100%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-body.fixed .header-placeholder {
-  display: block;
-}
-
-body.fixed .header .header-container h1 {
-  font-size: 24px;
-  line-height: 30px;
-}
-
-body.fixed .header .header-container nav {
-  line-height: 30px;
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-}
-
-body.fixed .header .header-container nav a {
-  padding: 10px;
-}
-
-/* Making the header responsive */
-
-@media all and (max-width: 600px) {
-  .header {
-    height: 56px;
-    width: 100vw;
-    & .action-btn,
-    input[type="submit"] {
-      font-size: 0.7rem;
-    }
-  }
-
-  .header .header-container .logo {
-    float: none;
-  }
-
-  .header .header-container nav {
-    line-height: 1;
-    margin-left: 20px;
-    margin-right: -20px;
-  }
-
-  .header .header-container nav a {
-    font-size: 0.9375rem;
   }
 }
