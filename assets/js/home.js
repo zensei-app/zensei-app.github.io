@@ -21,16 +21,27 @@ $(window).scroll(function () {
   });
 });
 
+$(document).scroll(function () {
+  const PERCENTAGE_CONTENT_LANDING = 0.86;
+
+  var y = $(this).scrollTop();
+  if (y >= PERCENTAGE_CONTENT_LANDING * window.innerHeight) {
+    $("#nav-header").slideDown();
+  } else {
+    $("#nav-header").slideUp();
+  }
+});
+
 $(document).ready(function () {
-  $("#go-to-storytelling").click(function () {
-    const storytellingOffset = $("#storytelling").offset().top;
-    $("body,html").animate(
-      {
-        scrollTop: storytellingOffset,
-      },
-      2000
-    );
-  });
+  // $("#go-to-storytelling").click(function () {
+  //   const storytellingOffset = $("header").offset().top;
+  //   $("body,html").animate(
+  //     {
+  //       scrollTop: storytellingOffset,
+  //     },
+  //     2000
+  //   );
+  // });
 
   //https://kenwheeler.github.io/slick/
   $(".carousel-responsive").slick({
