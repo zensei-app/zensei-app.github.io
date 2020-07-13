@@ -21,9 +21,24 @@ $(window).scroll(function () {
   });
 });
 
+$(document).scroll(function () {
+  const PERCENTAGE_CONTENT_LANDING = 0.86;
+
+  var y = $(this).scrollTop();
+  if (y >= PERCENTAGE_CONTENT_LANDING * window.innerHeight) {
+    $("#nav-header").slideDown();
+  } else {
+    $("#nav-header").slideUp();
+  }
+});
+
 $(document).ready(function () {
   // $("#go-to-storytelling").click(function () {
+<<<<<<< HEAD
   //   const storytellingOffset = $("#storytelling").offset().top;
+=======
+  //   const storytellingOffset = $("header").offset().top;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
   //   $("body,html").animate(
   //     {
   //       scrollTop: storytellingOffset,

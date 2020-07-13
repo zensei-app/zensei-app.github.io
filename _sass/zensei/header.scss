@@ -10,6 +10,10 @@
   transition: top 0.3s;
   width: 100%;
   padding: 0;
+<<<<<<< HEAD
+=======
+  z-index: 2;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
   @media screen and (max-width: $tablet-bp) {
     height: 56px;
     width: 100vw;
@@ -116,7 +120,11 @@ body.fixed .header {
   width: 100%;
   top: 0;
   left: 0;
+<<<<<<< HEAD
   z-index: 1;
+=======
+  z-index: 2;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
   @media screen and (max-width: $tablet-bp) {
     padding: 0 24px;
     height: 56px;
@@ -193,13 +201,17 @@ header *,
 header *::before,
 header *::after {
   box-sizing: border-box;
+<<<<<<< HEAD
   //   color: $asphalt;
+=======
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
   transition: 0.3s all;
   cursor: default;
 }
 header ul {
   margin: 0;
 }
+<<<<<<< HEAD
 // header {
 //   & a,
 //   a:visited {
@@ -208,6 +220,8 @@ header ul {
 //     padding: 15px 0;
 //   }
 // }
+=======
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
 
 #menu-ctn {
   position: relative;
@@ -221,6 +235,7 @@ a {
 }
 #menu-cnt {
   opacity: 0;
+<<<<<<< HEAD
   //   transform: translate(16px, -10px) scale(0.7);
   background: $text;
   padding: 20px;
@@ -228,6 +243,16 @@ a {
   visibility: none;
   display: inline-block;
   width: 60vw;
+=======
+  background: $white;
+  padding: 20px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+  visibility: none;
+  display: inline-block;
+  width: 100vw;
+  position: relative;
+  left: -24px;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
 }
 
 /* ELEMENT PROPERTIES */
@@ -253,7 +278,11 @@ a.item-link {
 
   & a,
   a:visited {
+<<<<<<< HEAD
     color: $white;
+=======
+    color: $text;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
     font-size: 1.0625rem;
   }
   & a:hover {
@@ -267,18 +296,26 @@ a.soc-link {
   width: 100%;
   text-decoration: none;
 }
+<<<<<<< HEAD
 // a.soc-link:nth-of-type(1) {
 //   margin-top: 12px;
 // }
 hr {
   border: 0.5px solid var(--coal);
+=======
+hr {
+  border: 0.3px solid #4f4f4f;
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
 }
 .crossed {
   background: $white;
 }
 .dropped {
   opacity: 1 !important;
+<<<<<<< HEAD
   //   transform: translate(16px, -10px) !important;
+=======
+>>>>>>> b90bf7979480824f6674dc4682a6a869fa9f1450
   visibility: visible !important;
   position: inherit;
   left: 40vw;

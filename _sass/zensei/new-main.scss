@@ -19,6 +19,19 @@ strong {
   display: none;
 }
 
+.window-overlay {
+  background-color: rgba(0, 0, 0, 0.64);
+  opacity: 0.6;
+  transition: 0.3s ease-in-out;
+  overflow: auto;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+
 .flex {
   display: flex;
 
