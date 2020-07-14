@@ -183,6 +183,12 @@ body.fixed .header .header-container nav a {
   }
 }
 
+.header .action-btn {
+  @media screen and (max-width: $tablet-bp) {
+    padding: 0 20px;
+  }
+}
+
 /*HAMBURGUER-MENU*/
 
 /* VARIABLES */
@@ -222,8 +228,8 @@ a {
   visibility: none;
   display: inline-block;
   width: 100vw;
-  position: relative;
-  left: -24px;
+  position: absolute;
+  left: 0;
 }
 
 /* ELEMENT PROPERTIES */
