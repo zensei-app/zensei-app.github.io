@@ -1,21 +1,23 @@
 ---
 layout: post
 toc: true
-title: 'Guía sobre la COVID-19 y el coronavirus '
+title: "Guía sobre la COVID-19 y el coronavirus "
 date: 2020-07-12 22:00:00 +0000
 last_modified_at: 2020-07-12 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: ''
-description: La COVID-19 continúa en activo, aunque en países como España se encuentre
+image: "/uploads/COVID-19.jpg"
+description:
+  La COVID-19 continúa en activo, aunque en países como España se encuentre
   bajo control. No obstante, los rebrotes por coronavirus exigen que estemos informados.
-intro: El **coronavirus** ha provocado una pandemia de dimensiones desconocidas en
+intro:
+  El **coronavirus** ha provocado una pandemia de dimensiones desconocidas en
   nuestros tiempos. La **COVID-19** es una enfermedad contra la que aún no existe
   un tratamiento específico y tampoco vacuna. Es preciso que no bajemos la guardia.
 tags: covid-19, coronavirus, pandemia, vacunas
 slug: guíacovid19
-
 ---
+
 ![Covid-19](/uploads/coronavirus.jpg "Coronavirus")
 
 La COVID-19 es una enfermedad respiratoria causada por un nuevo virus. Los síntomas incluyen fiebre, tos, dolor de garganta y dificultad para respirar. El virus puede propagarse de persona a persona. Actualmente no hay tratamiento para COVID-19. Averigua quién está en riesgo y qué debes hacer si crees que tienes COVID-19.
