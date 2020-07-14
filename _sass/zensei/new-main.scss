@@ -244,8 +244,8 @@ input[type="submit"] {
   flex-direction: column;
   justify-content: space-between;
   @media screen and (max-width: $tablet-bp) {
-    height: 47.25vw;
-    width: 67.23vw;
+    height: 189px;
+    width: 269px;
     padding: 20px 12px;
   }
 }
@@ -491,7 +491,6 @@ input[type="submit"] {
         width: 88.4vw;
         margin: 10px auto;
         padding: 12px;
-        margin-left: 17px;
       }
       &__content {
         font-style: italic;
