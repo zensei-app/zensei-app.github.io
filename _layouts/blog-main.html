@@ -7,7 +7,6 @@
 
   {% include commons/sticky-cta.html %}
   {% include commons/nav-header.html %}
-
   <div class="hero-header" style="
     background-image: url('{{ page.image }}'); 
     background-repeat: no-repeat;
@@ -17,11 +16,43 @@
       <br>
       <br>
       <br>
+      <br>
+      <br>
       <h1 style="font-size:42px; font-weight: bold; color: #FFFFFF;">{{ page.title | escape }}</h1>
       <br>
       <h2 style="color: #FFFFFF;">
         {{ page.description | escape }}
       </h2>
+      <div>
+        <a
+          class="install-button"
+          title="¿Eres usuario de Android? Aquí puedes descargártela"
+          onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://wgji.app.link/fIu9tK3PMO"
+        >
+          <img
+            style="display: inline;"
+            src="/assets/img/google-play-badge.png"
+            height="80"
+          />
+        </a>
+        <a
+          class="install-button"
+          title="¿Eres usuario de iPhone? Aquí puedes descargártela"
+          onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://wgji.app.link/fIu9tK3PMO"
+        >
+          <img
+            style="display: inline;"
+            src="/assets/img/iphone-badge.svg"
+            height="55"
+          />
+        </a>
+      </div>
       <!-- <form id="mc-embedded-subscribe-form" class="validate" action="https://zenseiapp.us15.list-manage.com/subscribe/post?u=a518c767a6166cb42b4e9b0f5&amp;id=77df32060b" method="post" name="mc-embedded-subscribe-form" target="_blank">
         <input id="mce-EMAIL" class="required email" name="EMAIL" size="30" type="email" value="" placeholder="Tu email aquí." 
           style="height: 50px; width: 260px; border-radius: 5px; border-width: 0px; padding: 10px; margin: 5px; box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.25);"/>
