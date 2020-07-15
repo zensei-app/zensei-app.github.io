@@ -5,12 +5,12 @@
 
   <body class="fixed">
     {% include commons/nav-header.html %}
-    {% include home/landing.html %} 
-
-    <div class="nav-header--main ">
-    </div>
 
     <main aria-label="Content" >
+      {% include home/landing.html %} 
+
+      <div class="apply-overlay"></div>
+      
       {{ content }}
     </main>
 

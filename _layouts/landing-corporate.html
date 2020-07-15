@@ -138,21 +138,21 @@
     {% include commons/google-analytics.html %}
   </head>
   <body>
+    {% include commons/nav-header.html %}
+    <div class="apply-overlay"></div>
+    <br />
+    <br />
     <div
       class="hero-header"
       style="
-  background-image: url('{{ page.image }}'); 
-  background-repeat: no-repeat;
-  background-size: cover;"
+        background-image: url('{{ page.image }}'); 
+        background-repeat: no-repeat;
+        background-size: cover;"
     >
-      <div>
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://zenseiapp.com"
-          ><div class="logo">zensei</div></a
-        >
-      </div>
+      <br />
+      <br />
+      <br />
+      <br />
       <div class="container-narrow center" id="fade-in">
         <h1 style="font-size: 42px; font-weight: 700; color: #fff;">
           {{ page.title | escape }}
@@ -318,6 +318,7 @@
 
     <div id="fb-root"></div>
     <script type="text/javascript" src="/assets/js/app.js"></script>
+    <script src="/assets/js/hamburguer-menu.js"></script>
   </body>
 </html>
 

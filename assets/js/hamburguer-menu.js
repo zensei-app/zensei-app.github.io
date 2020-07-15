@@ -3,7 +3,7 @@ $(() => {
     bars = $(".menu-bars"),
     items = $(".menu-item"),
     content = $("#menu-cnt");
-  body = $(".nav-header--main");
+  overlay = $(".apply-overlay");
 
   let firstClick = true,
     menuClosed = true;
@@ -20,9 +20,9 @@ $(() => {
     content.toggleClass("dropped");
 
     if (!menuClosed) {
-      body.addClass("window-overlay");
+      overlay.addClass("window-overlay");
     } else {
-      body.removeClass("window-overlay");
+      overlay.removeClass("window-overlay");
     }
 
     event.stopPropagation();
