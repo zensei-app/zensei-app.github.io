@@ -6,7 +6,7 @@ date: 2020-07-16 22:00:00 +0000
 last_modified_at: 2020-07-16 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: ''
+image: "/uploads/edema-pulmonar.png"
 description: El edema pulmonar, también conocido como agua en los pulmones, puede
   ser potencialmente mortal si no se atiende a tiempo.
 intro: Te contamos todo lo que necesitas saber sobre el **edema pulmonar**, sus tipos
