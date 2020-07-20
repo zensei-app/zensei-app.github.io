@@ -14,18 +14,16 @@
     <div class="home--carousel-container-wo-arrow" >
       {% assign posts = site.posts %}
       {% for item in posts limit:3 %}  
-        <a href="{{ item.url }}">
           <li class="home--carousel-article-card-with-bckg">
             <div>
               <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
-              <p  class="secondary-btn home--carousel-article-card__btn">
+              <a href="{{ item.url }}"  class="secondary-btn home--carousel-article-card__btn">
                 Leer más 
                 <span class="fa fa-chevron-right" aria-hidden="true"></span>
-              </p>
+              </a>
             </div>
             <img src="{{item.image}}" alt="{{item.title}}" />
           </li>
-        </a>
       {% endfor %}
   </div>
 </ul>

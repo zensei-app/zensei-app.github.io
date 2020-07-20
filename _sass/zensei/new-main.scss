@@ -29,7 +29,7 @@ strong {
   position: fixed;
   left: 0;
   top: 0;
-  z-index: 1;
+  z-index: 3;
 }
 
 .flex {
@@ -46,7 +46,7 @@ strong {
 }
 
 .only-for-desktop {
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     display: none;
   }
 }
@@ -60,7 +60,7 @@ strong {
 
 %container {
   display: flex;
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     flex-direction: column;
     margin: 0;
     margin-bottom: -10vh;
@@ -71,7 +71,7 @@ strong {
   }
   & > div {
     width: 50%;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       width: 100%;
     }
   }
@@ -83,7 +83,7 @@ strong {
   @media screen and (max-width: $big-screen-bp) {
     margin: 0 $margin-horiz-desktop;
   }
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     flex-direction: column;
     margin: 0 $margin-horiz-mobile;
   }
@@ -94,7 +94,7 @@ strong {
   @media screen and (max-width: $big-screen-bp) {
     padding: 0 $margin-horiz-desktop;
   }
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     flex-direction: column;
     padding: 0 $margin-horiz-mobile;
   }
@@ -113,7 +113,7 @@ strong {
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     background-position-x: 20px;
   }
 }
@@ -122,60 +122,61 @@ strong {
 
 .title-big {
   text-align: center;
-  font-size: 2.625rem;
-  line-height: 3.125rem;
   font-weight: bold;
   letter-spacing: 0.015625rem;
-  margin-bottom: 3.75rem;
-  @media screen and (max-width: $tablet-bp) {
-    font-size: 1.5625rem;
-    line-height: 1.6875rem;
-    margin-bottom: 20px;
+
+  font-size: 1.5625rem;
+  line-height: 1.6875rem;
+  margin-bottom: 20px;
+  @media screen and (min-width: $tablet-bp) {
+    font-size: 2.625rem;
+    line-height: 3.125rem;
+    margin-bottom: 3.75rem;
   }
 }
 
 .title-medium {
-  text-align: center;
-  font-size: 2.375rem;
-  line-height: 2.5rem;
   font-weight: bold;
   letter-spacing: 0.015625rem;
-  margin-bottom: 1.75rem;
-  @media screen and (max-width: $tablet-bp) {
-    text-align: left;
-    font-size: 1.375rem;
-    line-height: 1.5625rem;
-    margin-bottom: 20px;
+  text-align: left;
+  font-size: 1.375rem;
+  line-height: 1.5625rem;
+  margin-bottom: 20px;
+  @media screen and (min-width: $tablet-bp) {
+    text-align: center;
+    font-size: 2.375rem;
+    line-height: 2.5rem;
+    margin-bottom: 1.75rem;
   }
 }
 
 .title-small {
-  font-size: 1.5625rem;
-  line-height: 1.75rem;
   font-weight: bold;
-  text-align: center;
-  margin: 48px 0 20px 0;
   color: $mediterranean;
-  @media screen and (max-width: $tablet-bp) {
-    font-size: 1.0625rem;
-    line-height: 1.5625rem;
-    text-align: left;
-    margin: 20px 0;
+  font-size: 1.0625rem;
+  line-height: 1.5625rem;
+  text-align: left;
+  margin: 20px 0;
+  @media screen and (min-width: $tablet-bp) {
+    font-size: 1.5625rem;
+    line-height: 1.75rem;
+    text-align: center;
+    margin: 48px 0 20px 0;
   }
 }
 
 .paragraph {
-  font-size: 1.625rem;
-  line-height: 2.1875rem;
+  font-size: 1.0625rem;
+  line-height: 1.5625rem;
+  text-align: left;
   & > span {
-    display: inline-block;
+    display: inline;
   }
-  @media screen and (max-width: $tablet-bp) {
-    font-size: 1.0625rem;
-    line-height: 1.5625rem;
-    text-align: left;
+  @media screen and (min-width: $tablet-bp) {
+    font-size: 1.625rem;
+    line-height: 2.1875rem;
     & > span {
-      display: inline;
+      display: inline-block;
     }
   }
 }
@@ -197,7 +198,7 @@ strong {
   &:hover {
     text-decoration: none;
   }
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     height: 36px;
     line-height: 2.25rem;
   }
@@ -225,7 +226,7 @@ input[type="submit"] {
   border-radius: 19px;
   background-color: $pink;
   margin: 19px;
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     margin: 0;
     margin-right: 10px;
     margin-top: 10px;
@@ -243,7 +244,7 @@ input[type="submit"] {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     height: 189px;
     width: 269px;
     padding: 20px 12px;
@@ -265,7 +266,7 @@ input[type="submit"] {
   //lateral arrows
   & .slick-prev {
     left: -30px;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       left: 0.8vw;
     }
     &::before {
@@ -275,7 +276,7 @@ input[type="submit"] {
   }
   & .slick-next {
     right: -30px;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       right: 0.8vw;
     }
     &::before {
@@ -292,7 +293,7 @@ input[type="submit"] {
     }
     & li {
       margin: 0 1.5vw;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin: 0 2.5vw;
       }
       & button {
@@ -335,7 +336,7 @@ input[type="submit"] {
   //card
   & .slick-list {
     padding: 20px 10px;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       max-width: 280px;
       max-height: 200px;
       margin: 0 auto;
@@ -353,7 +354,7 @@ input[type="submit"] {
     @extend %home-card;
     padding: 24px 18px;
     margin: 0 10px;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       padding: 12px;
     }
     &__content {
@@ -362,7 +363,7 @@ input[type="submit"] {
       font-size: 1.25rem;
       line-height: 1.4375rem;
       color: $balticSea;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         font-size: 16px;
         line-height: 18--px;
       }
@@ -373,7 +374,7 @@ input[type="submit"] {
       font-size: 1.0625rem;
       line-height: 1.125rem;
       color: #000000;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         font-size: 14px;
         line-height: 23px;
       }
@@ -388,7 +389,7 @@ input[type="submit"] {
     font-size: 23px;
     margin-top: 60px;
     margin-bottom: 100px;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       font-size: 0.875rem;
       margin: 10px 0;
     }
@@ -421,7 +422,7 @@ input[type="submit"] {
       & li {
         width: 33.3333%; //3 columns
         padding-top: 14px;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           width: 50%; //3 columns
           padding-top: 9px;
         }
@@ -434,7 +435,7 @@ input[type="submit"] {
 
   &--carousel {
     &__hidden-in-mobile {
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         display: none;
       }
     }
@@ -443,14 +444,14 @@ input[type="submit"] {
       background-size: 132.8vw;
       height: 34.4vw;
       margin-bottom: 16vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         background-size: 235vw;
         height: 62.5vw;
         margin-top: -9vh;
       }
       & > div {
         transform: translate(0px, 8.2vw);
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           transform: translate(0px, 9px);
         }
       }
@@ -471,7 +472,7 @@ input[type="submit"] {
       @extend .home--carousel-container;
       flex-wrap: wrap;
       margin: 0 auto;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         flex-direction: column;
       }
     }
@@ -487,7 +488,7 @@ input[type="submit"] {
     &-opinion-card {
       @extend %home-card;
       padding: 24px 18px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         width: 88.4vw;
         margin: 10px auto;
         padding: 12px;
@@ -500,7 +501,7 @@ input[type="submit"] {
         color: $balticSea;
         height: 80%;
         overflow: auto;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           font-size: 16px;
           line-height: 18px;
         }
@@ -511,7 +512,7 @@ input[type="submit"] {
         font-size: 1.0625rem;
         line-height: 1.125rem;
         color: #000000;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           font-size: 14px;
           line-height: 23px;
         }
@@ -520,7 +521,7 @@ input[type="submit"] {
 
     &-article-card {
       @extend %home-card;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         width: 88.4vw;
         margin: 10px auto;
       }
@@ -530,7 +531,7 @@ input[type="submit"] {
         line-height: 1.125rem;
         color: $asphalt;
         height: 76%;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           font-size: 14px;
           line-height: 23px;
         }
@@ -539,7 +540,8 @@ input[type="submit"] {
         font-size: 0.875rem;
         height: 1rem;
         padding: 0;
-        @media screen and (max-width: $tablet-bp) {
+        z-index: 1;
+        @media screen and (max-width: $tablet) {
           font-size: 13px;
           line-height: 16px;
         }
@@ -549,7 +551,7 @@ input[type="submit"] {
       @extend .home--carousel-article-card;
       padding: 0;
       overflow: hidden;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin: 10px auto;
         width: 88.4vw;
         height: 131px;
@@ -574,7 +576,7 @@ input[type="submit"] {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           width: 88.4vw;
           height: 131px;
           padding: 20px 12px;
@@ -586,50 +588,63 @@ input[type="submit"] {
   &--landing {
     height: 100vh;
     &__container {
-      @extend %container;
-      height: 86vh; // (100vh - footerHeight)
-      @media screen and (max-width: $tablet-bp) {
-        flex-direction: column;
-        padding-top: 7vh;
+      height: 83vh; // (100vh - footerHeight)
+      display: flex;
+      flex-direction: column;
+      padding-top: 66px;
+      text-align: center;
+      @media screen and (min-width: $desktop-bp) {
+        text-align: left;
+        padding-top: 130px;
       }
     }
-    &__content {
-      padding-top: 22.5vh;
-      height: 100%;
-      @media screen and (max-width: $tablet-bp) {
-        padding-top: 0;
-        height: 7.5vh;
+    &__content-container {
+      height: 55vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      @media screen and (min-width: $desktop-bp) {
+        flex-direction: row;
+        height: 100%;
       }
     }
-    &__title {
-      font-size: 2.25rem;
-      line-height: 3.125rem;
+    & h1 {
+      font-size: 1.5625rem;
+      line-height: 1.6875rem;
       font-weight: 900;
       letter-spacing: 0.015625rem;
-      margin-bottom: 4.7vh;
-      @media screen and (max-width: $tablet-bp) {
-        text-align: center;
-        font-size: 1.5625rem;
-        line-height: 1.6875rem;
-        margin-bottom: 48.1vh;
+      @media screen and (min-width: $tablet-bp) {
+        font-size: 2.25rem;
+        line-height: 3.125rem;
+      }
+      @media screen and (min-width: $desktop-bp) {
+        padding-top: 10vh;
+        width: 50%;
       }
     }
     &__btn-container {
-      @media screen and (max-width: $tablet-bp) {
-        text-align: center;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      @media screen and (min-width: $desktop-bp) {
+        position: absolute;
+        top: 45vh;
       }
     }
     &__img {
-      height: 100%;
-      background-image: url(/assets/illustrations/woman-window.png);
-      background-size: 100% auto;
-      background-repeat: no-repeat;
-      background-position: center;
-      @media screen and (max-width: $tablet-bp) {
-        height: 50%;
-        margin-top: 9.4vh;
-        background-size: 75%;
-        background-position: top;
+      height: 40vh;
+      @media screen and (min-width: $desktop-bp) {
+        height: 100%;
+        width: 50%;
+        display: flex;
+        align-items: center;
+      }
+      & > img {
+        max-height: 90%;
+        @media screen and (min-width: $desktop-bp) {
+          max-height: 100%;
+        }
       }
     }
     &__media {
@@ -637,49 +652,48 @@ input[type="submit"] {
       height: 14vh;
       background-color: $background-secondary;
       position: absolute;
-      top: 86vh; // (100vh - footerHeight)
+      top: 83vh; // (100vh - footerHeight)
       &__content {
         height: 100%;
-        margin: 0 auto;
-        max-width: $max-width-content;
         display: flex;
         align-items: center;
-        @media screen and (max-width: $big-screen-bp) {
+        flex-direction: column;
+        margin: 10px $margin-horiz-mobile;
+        @media screen and (min-width: $desktop-bp) {
+          flex-direction: row;
           margin: 0 $margin-horiz-desktop;
         }
-        @media screen and (max-width: $tablet-bp) {
-          flex-direction: column;
-          margin: 10px $margin-horiz-mobile;
+        @media screen and (min-width: $large-desktop-bp) {
+          max-width: $max-width-content;
+          margin: 0 auto;
         }
         & h4 {
-          margin: 0 35px 0 0;
+          margin: 0 5px 0 0;
           line-height: 1.65rem;
-          @media screen and (max-width: $tablet-bp) {
-            margin: 0;
+          @media screen and (min-width: $desktop-bp) {
+            margin: 0 35px 0 0;
+            min-width: 236px;
           }
         }
         & > div {
-          height: 100%;
+          width: 100%;
           display: flex;
           justify-content: space-between;
           align-items: center;
+          flex-flow: column wrap;
           flex-grow: 1;
-          @media screen and (max-width: $tablet-bp) {
-            height: 44%;
-            width: 100%;
-            flex-direction: column;
-            flex-flow: row wrap;
-            flex-grow: 0;
+          @media screen and (min-width: $desktop-bp) {
+            height: 100%;
+            flex-flow: row nowrap;
           }
-
           & > a {
             height: 80%;
-            width: 7vw;
+            width: 10vw;
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
-            @media screen and (max-width: $tablet-bp) {
-              width: 10vw;
+            @media screen and (min-width: $desktop-bp) {
+              width: 7vw;
             }
           }
         }
@@ -692,7 +706,7 @@ input[type="submit"] {
       background-image: url(/assets/illustrations/woman_wandering.png);
       background-size: 100vw auto;
       height: 54vw;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         background-size: 180vw auto;
         height: 152vw;
         background-position-x: -61.4vw;
@@ -702,7 +716,7 @@ input[type="submit"] {
     }
     &__container {
       margin-top: 4.5vw;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         position: relative;
         top: 70.4vw;
       }
@@ -713,7 +727,7 @@ input[type="submit"] {
     &__container-img-right {
       @extend %container;
       margin: 2.5vh 0 5vh $margin-horiz-desktop;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin: 10vh $margin-horiz-mobile;
         height: 96vh;
       }
@@ -722,13 +736,13 @@ input[type="submit"] {
       @extend %container;
       flex-direction: row-reverse;
       margin: 3.75vh $margin-horiz-desktop 16.25vh 0;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         flex-direction: column;
         margin: 0 $margin-horiz-mobile 5vh $margin-horiz-mobile;
       }
     }
     // &__container-text {
-    //   @media screen and (max-width: $tablet-bp) {
+    //   @media screen and (max-width: $tablet) {
     //     padding: 5vh $margin-horiz-mobile;
     //   }
     // }
@@ -739,7 +753,7 @@ input[type="submit"] {
         background-position-x: 49px;
         background-size: auto 407px;
         background-image: url(/assets/illustrations/shape1.png);
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           background-size: auto 251px;
           transform: translateY(-13.6vh);
           background-position: 8px;
@@ -749,7 +763,7 @@ input[type="submit"] {
         @extend %bckg-img--half-width;
         background-position-x: 41px;
         background-size: auto 468px;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           background-position-x: 0;
           background-position: right;
           background-size: auto 292px;
@@ -758,7 +772,7 @@ input[type="submit"] {
         &-small {
           @extend .home--slide2__phone-bckg-left;
           background-size: auto 410px;
-          @media screen and (max-width: $tablet-bp) {
+          @media screen and (max-width: $tablet) {
             background-size: auto 243px;
           }
         }
@@ -767,7 +781,7 @@ input[type="submit"] {
       &-img {
         width: 240px;
         height: 464px;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           width: 152px;
           height: 288px;
         }
@@ -776,7 +790,7 @@ input[type="submit"] {
     &__cta-btn {
       margin-top: 4.7vh;
       margin-bottom: 7.81vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         height: 5.6vh;
         transform: translateY(53.4vh);
       }
@@ -787,7 +801,7 @@ input[type="submit"] {
     &__container {
       margin-top: 15vh;
       margin-bottom: 6vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-bottom: 2vh;
       }
     }
@@ -803,7 +817,7 @@ input[type="submit"] {
     }
     &__list1-closed {
       height: 150px; //3 x 50px por línea
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         height: 140px; //4 x 35px por línea
       }
     }
@@ -813,7 +827,7 @@ input[type="submit"] {
       & button {
         margin: 10px 0;
         border-width: 0;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           margin: 0;
         }
       }
@@ -823,32 +837,32 @@ input[type="submit"] {
   &--slide5 {
     &__container {
       margin-top: 7.4vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-bottom: 4.4vh;
       }
     }
     &__title {
       margin-bottom: 4.1vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-bottom: 2.1vh;
       }
     }
     &__text1 {
       margin-bottom: 4.7vw;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         transform: translate(0px, 187px);
       }
     }
     &__img1 {
       width: 90%;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         height: 165px;
         transform: translate(0px, -118px);
       }
     }
     &__text2 {
       margin-bottom: 1.7vh;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-bottom: 3.7vh;
         transform: translate(0px, 255px);
       }
@@ -856,7 +870,7 @@ input[type="submit"] {
     &__img2 {
       height: 55vh;
       margin: 0 auto;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         height: 250px;
         transform: translate(0px, -282px);
       }
@@ -868,7 +882,7 @@ input[type="submit"] {
       background-image: url(/assets/illustrations/woman&Macario.png);
       background-size: 1430px;
       height: 850px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         background-size: 600px;
         height: 78.31vh;
         background-position: -50vw 20vh;
@@ -876,20 +890,20 @@ input[type="submit"] {
     }
     &__container {
       margin-top: 57px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
       }
     }
     &__list {
       display: flex;
       justify-content: space-around;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         flex-direction: column;
         transform: translate(0px, 31.25vh);
       }
     }
     &__item {
       max-width: 235px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         max-width: $tablet-bp;
         display: flex;
         & > p {
@@ -902,7 +916,7 @@ input[type="submit"] {
   &--slide7 {
     &__container {
       margin-top: 160px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-top: 15vh;
         margin-bottom: 10vh;
       }
@@ -912,7 +926,7 @@ input[type="submit"] {
     }
     &__articles {
       margin-top: 60px;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         margin-top: 3vh;
       }
     }
@@ -925,7 +939,7 @@ input[type="submit"] {
       background-size: 133vw;
       height: 33.6vw;
       transform: translate(0px, 8.6vw);
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         background-image: url(/assets/illustrations/big-shape1.png);
         background-size: 279vw auto;
         height: 71.6vw;
@@ -936,19 +950,19 @@ input[type="submit"] {
         transform: translate(0px, 10.5vw);
         & > div {
           margin-top: 1.2vw;
-          @media screen and (max-width: $tablet-bp) {
+          @media screen and (max-width: $tablet) {
             margin-top: 8.2vw;
             margin-bottom: 0;
           }
           & a {
             margin: 0;
             margin-bottom: 16px;
-            @media screen and (max-width: $tablet-bp) {
+            @media screen and (max-width: $tablet) {
               margin-bottom: 6px;
             }
           }
         }
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           transform: translate(0px, 24.5vw);
         }
       }
@@ -958,7 +972,7 @@ input[type="submit"] {
         font-weight: 900;
         font-size: 3.125rem;
         color: $white;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           font-size: 1.675rem;
         }
       }
@@ -967,7 +981,7 @@ input[type="submit"] {
       & > div {
         margin-left: 8px;
       }
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         display: block;
         text-align: center;
       }
@@ -976,17 +990,17 @@ input[type="submit"] {
       z-index: 0;
       padding: $margin-horiz-desktop;
       background-color: $mediterranean;
-      @media screen and (max-width: $tablet-bp) {
+      @media screen and (max-width: $tablet) {
         padding: 16vw $margin-horiz-mobile 11vw $margin-horiz-mobile;
       }
       &-container {
         display: flex;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           flex-direction: column;
         }
         & > div {
           width: 70%;
-          @media screen and (max-width: $tablet-bp) {
+          @media screen and (max-width: $tablet) {
             width: 100%;
           }
         }
@@ -998,7 +1012,7 @@ input[type="submit"] {
         line-height: 1.5625rem;
         text-transform: uppercase;
         color: $white;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           font-size: 1.0625rem;
           margin-top: 30px;
         }
@@ -1014,7 +1028,7 @@ input[type="submit"] {
         line-height: 1.5625rem;
         font-weight: normal;
         color: $white;
-        @media screen and (max-width: $tablet-bp) {
+        @media screen and (max-width: $tablet) {
           margin-top: 10px;
           font-size: 1rem;
         }
@@ -1064,7 +1078,7 @@ input[type="submit"] {
 .search-bar--form {
   display: flex;
 
-  @media screen and (max-width: $tablet-bp) {
+  @media screen and (max-width: $tablet) {
     flex-direction: column;
     & input[type="search"] {
       width: 100%;
@@ -1075,20 +1089,20 @@ input[type="submit"] {
 .recommended-posts {
   &__container {
     margin-top: 10vh;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       margin-top: 3vh;
       margin-bottom: 10vh;
     }
   }
   &__title {
     margin-bottom: 5vh;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       margin-bottom: 6.25vh;
     }
   }
   &__articles {
     margin-top: 7.5vh;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       margin-top: 3vh;
     }
   }

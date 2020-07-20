@@ -74,7 +74,7 @@ svg.sparkline {
   background-image: url(/assets/zensei-pink.png);
   &-header {
     @extend .zensei-logo;
-    @media screen and (max-width: $tablet-bp) {
+    @media screen and (max-width: $tablet) {
       width: 49px;
       height: 29.4px;
     }
