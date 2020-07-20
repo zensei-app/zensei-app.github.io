@@ -1,7 +1,9 @@
 # Politica de privacidad
 
-ZENSEI es una aplicación que se rige por sus propios términos de uso que
-se tendrán que aceptar al descargarse la aplicación.
+Esta página web no recoge datos personales. En la misma se facilitan
+direcciones de correo electrónico para que contactes con nosotros. No obstante,
+ZENSEI cumple escrupulosamente con la normativa de privacidad según te
+exponemos a continuación.
 
 A los efectos de lo dispuesto en el Reglamento UE 2016/679 General de
 Protección de Datos (RGPD) y la Ley Orgánica 3/2018 de Protección de
@@ -64,7 +66,12 @@ relación contractual.
 
 ZENSEI podrá utilizar los datos de los usuarios, previamente
 anonimizados, para realizar análisis y estadísticas basándose en su
-interés legítimo.
+interés legítimo. Una vez anonimizados, no habrá datos personales y será
+imposible la reidentificación de las personas de las que se han obtenido.
+
+Conservaremos los datos el tiempo imprescindible para cumplir con la finalidad
+determinada y nuestras obligaciones legales. En el caso de los usuarios,
+conservaremos los datos mientras tenga interés en utilizar la aplicación. 
 
 ## Destinatarios
 
