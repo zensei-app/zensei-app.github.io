@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: corporate
   label: Corporate
-  create: all
+  create: documents
   match: "*"
 - type: directory
   path: blog
