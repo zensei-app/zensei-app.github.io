@@ -12,7 +12,7 @@ seo_description: En este artículo te contamos que es la salud digital respirato
 permalink: "/salud-digital-respiratoria/"
 
 ---
-En los ultimos tiempos la salud respiratoria se ha convertrido en foco de atención para el publico en general. 
+En los ultimos tiempos la salud respiratoria se ha convertrido en foco de atención para el publico en general.
 
 En Zensei aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respitratoria y desde 2017 entonces nuestra mision es _mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria._
 
@@ -22,7 +22,7 @@ Estudios recientes estiman que el entorno físico, estilo de vida y factores soc
 
 A medio-largo plazo, la inversión poblacional, amenaza la sostenibilidad del sistema de salud.  El cambio climático,  desastres ambientales,aumento de enfermedades crónicas ligadas a la longevidad, virus  emergentes y un  ciudadano más formado y exigente amenazan con desbordar los sistemas sanitarios actuales.
 
-El sistema sanitario del futuro tendrá que primar la prevención y la proactividad para reducir los costes de salud y mejora la atención  a la salud. 
+El sistema sanitario del futuro tendrá que primar la prevención y la proactividad para reducir los costes de salud y mejora la atención  a la salud.
 
 Nuestra vision es utilizar los ultimos avances en epidemiologia computacional  y analitica de datos para _fomentar la salud preventiva y personalizada de forma escalable y humanizada._
 
@@ -61,33 +61,28 @@ Ofrecemos el plan de suscripción a empresas que quieran ofrecer nuestra clínic
 
 **Zensei Lighthouse.**
 
-Informe del comportamiento del paciente respiratorio digital.
-Qué síntomas, tratamientos o productos buscan los distintos pacientes respiratorios.
-Cuáles son los factores de entorno que más impactan mi negocio y correlan con el uso de cierto medicamento o síntoma
-Cuál es el tamaño de mercado en internet de un producto respiratorio
-Cuáles son los perfiles de buyer personas respiratorias que existen y muchas más.
-Todo esto con datos quasi en tiempo real con nuestra herramienta de audiencias.
+Informe del comportamiento del paciente respiratorio digital con datos quasi en tiempo real con nuestra herramienta de audiencias. 
 
-Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos y no en días. Aumentando tu curva de aprendizaje sobre el paciente respiratorio. Sabiendo como piensa, siente y reacciona.
+* Qué síntomas, tratamientos o productos buscan los distintos pacientes respiratorios. 
+* Cuáles son los factores de entorno que más impactan mi negocio y correlan con el uso de cierto medicamento o síntoma.
+* Cuál es el tamaño de mercado en internet de un producto respiratorio.
+* Cuáles son los perfiles de buyer personas respiratorias que existen y muchas más. 
+
+Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo como piensa, siente y reacciona._
 
 **Zensei Ads.**
 
-crea conocimiento de marca con campañas contextuales y comportacionales hiper targetización de tu producto o servicio a nuestra audiencia de más de 150.000 personas con problemas respiratorios (Mayor audiencia en castellano a nivel mundial de salud respiratoria).
-Todo esto gracias a nuestra solución de marketing digital respiratorio, donde podrás impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas.
-Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
+Crea conocimiento de marca con campañas contextuales y comportacionales hiper targetizadas de tu producto o servicio a nuestra audiencia de más de 150.000 personas con problemas respiratorios (Mayor audiencia en castellano a nivel mundial de salud respiratoria). Con nuestra solución de marketing digital respiratorio, donde podrás impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
 
 **Zensei Business.**
 
-Si trabajas en temas respiratorios, tu negocio depende del entorno.
-Es decir, vendes más de tu producto debido a que un agente externo causa la condición de salud. Por eso necesitas modelos de predicción de variables de negocio con datos de entorno.
-Así podrás entender qué factores crean más ventas, cuando invertir en marketing y predecir en tiempo real con varias semanas de antelación las ventas de productos respiratorios.
-Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.
+Si trabajas en temas respiratorios, tu negocio depende del entorno. Es decir, vendes más de tu producto debido a que un agente externo causa la condición de salud. Por eso, necesitas modelos de predicción de variables de negocio con datos de entorno. Así podrás entender qué factores aumentaran las ventas, cuando invertir en marketing y predecir en tiempo real con varias semanas la fabricación de productos respiratorios. Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.
 
 **Zensei APIs.**
 
-Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios.
-Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios, te permitirán diseñar de la mejor experiencia para cada paciente.
-Nuestras APIs pueden aumentar la retención de tu producto a más del 50% después de 30 días desde el primer día de uso.
+Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios. 
+
+Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios, te permitirán diseñar la mejor experiencia para cada paciente. Nuestras APIs pueden aumentar la retención de tu producto a más del 50% después de 30 días desde el primer día de uso.
 
 **Zensei Digital Epidemiology.**
 
@@ -96,20 +91,10 @@ Hemos realizado múltiples estudios epidemiológicos ad hoc utilizando nuestra a
 Con nuestra app podemos monitorizar la experiencia y adherencia de usuarios que están siendo tratados.
 También podemos hacer una sesión con tu equipo para contarte de que va la epidemiología digital y hacia dónde va el mercado de salud digital respiratoria.
 
-## **Casos de uso que hemos desarrollado con clientes**
-
-Con nuestros servicios podrás realizar los siguientes casos de uso:
+## **Casos de uso desarrollados con clientes**
 
 1. Correlación ventas, adherencia y factores de entorno.
 2. Sistema de alerta temprana de gripe u otras  enfermedades infecciosas
 3. Predicción del uso de reactivos para casos de gripe
 4. Predicción del nº de consultas para movilización de recursos asistenciales
 5. Promoción de la salud: contenidos digitales de salud respiratoria
-
-## **Nuestra misión**
-
-Mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria.
-
-## **Nuestra visión**
-
-Fomentar la salud preventiva y personalizada de forma escalable y humanizada.
