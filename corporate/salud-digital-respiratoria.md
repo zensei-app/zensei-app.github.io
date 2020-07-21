@@ -3,10 +3,9 @@ layout: landing-corporate
 title: Zensei te acerca al paciente respiratorio digital
 subtitle: Descubre cómo el big data y  los modelos predictivos,  pueden ayudar a tus
   pacientes y hacer crecer tu negocio.
-date: 2020-07-27T00:00:00.000+02:00
+date: 2020-07-20 22:00:00 +0000
 image: "/uploads/pexels-photo-321576.jpeg"
-description: Descubre cómo el big data y  los modelos predictivos,  pueden ayudar
-  a tus pacientes y hacer crecer tu negocio.
+description: Big Data y  epidemiología al servicio de los pacientes respiratorios
 seo_description: En este artículo te contamos que es la salud digital respiratoria
   y como puedes utilizar el big data para conocer mejor la psicología y comportamiento
   del paciente respiratorio digital.
