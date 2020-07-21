@@ -5,8 +5,8 @@ subtitle: Descubre cómo el big data y  los modelos predictivos,  pueden ayudar 
   pacientes y hacer crecer tu negocio.
 date: 2020-07-27T00:00:00.000+02:00
 image: "/uploads/pexels-photo-321576.jpeg"
-description: Utiliza el big data para conocer mejor al paciente respiratorio. Tu estrategia
-  de salud digital respiratoria mejorará y tendrás pacientes más adherentes.
+description: Descubre cómo el big data y  los modelos predictivos,  pueden ayudar
+  a tus pacientes y hacer crecer tu negocio.
 seo_description: En este artículo te contamos que es la salud digital respiratoria
   y como puedes utilizar el big data para conocer mejor la psicología y comportamiento
   del paciente respiratorio digital.
