@@ -14,7 +14,7 @@ permalink: "/salud-digital-respiratoria/"
 ---
 En los ultimos tiempos la salud respiratoria se ha convertrido en foco de atención para el publico en general. 
 
-Para Zensei la salud respiratoria es su area de  trabajo desde el año 2017.Aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respitratoria.Desde entonces nuestra mision es mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria.
+En Zensei aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respitratoria y desde 2017 entonces nuestra mision es mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria.
 
 ## **¿Cómo te podemos ayudar?**
 
