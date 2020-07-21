@@ -44,7 +44,7 @@ Si te enfrentas  al reto de transformar tu unidad de negocio o compañía somos 
 
 ## **¿Qué servicios proveemos?**
 
-**Zensei clínica virtual respiratoria**
+#### **Zensei clínica virtual respiratoria**
 
 Nuestra clínica virtual respiratoria ofrece bajo suscripción las siguientes servcios a pacientes respiratorios :
 
@@ -59,39 +59,39 @@ Nuestra clínica virtual respiratoria ofrece bajo suscripción las siguientes se
 
 Ofrecemos el plan de suscripción a empresas que quieran ofrecer nuestra clínica virtual respiratoria como beneficio social a sus empleados o aseguradoras que quieran cuidar de sus asegurados con problemas respiratorios.
 
-**Zensei Lighthouse.**
+#### **Zensei Lighthouse**
 
-Informe del comportamiento del paciente respiratorio digital con datos quasi en tiempo real con nuestra herramienta de audiencias. 
+Informe del comportamiento del paciente respiratorio digital con datos quasi en tiempo real con nuestra herramienta de audiencias.
 
-* Qué síntomas, tratamientos o productos buscan los distintos pacientes respiratorios. 
+* Qué síntomas, tratamientos o productos buscan los distintos pacientes respiratorios.
 * Cuáles son los factores de entorno que más impactan mi negocio y correlan con el uso de cierto medicamento o síntoma.
 * Cuál es el tamaño de mercado en internet de un producto respiratorio.
-* Cuáles son los perfiles de buyer personas respiratorias que existen y muchas más. 
+* Cuáles son los perfiles de buyer personas respiratorias que existen y muchas más.
 
 Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo como piensa, siente y reacciona._
 
-**Zensei Ads.**
+#### **Zensei Ads.**
 
 Crea conocimiento de marca con campañas contextuales y comportacionales hiper targetizadas de tu producto o servicio a nuestra audiencia de más de 150.000 personas con problemas respiratorios (Mayor audiencia en castellano a nivel mundial de salud respiratoria). Con nuestra solución de marketing digital respiratorio, donde podrás impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
 
-**Zensei Business.**
+#### **Zensei Business**
 
-Si trabajas en temas respiratorios, tu negocio depende del entorno. Es decir, vendes más de tu producto debido a que un agente externo causa la condición de salud. Por eso, necesitas modelos de predicción de variables de negocio con datos de entorno. Así podrás entender qué factores aumentaran las ventas, cuando invertir en marketing y predecir en tiempo real con varias semanas la fabricación de productos respiratorios. Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.
+Si trabajas en temas respiratorios, tu negocio depende del entorno. Es decir, vendes más de tu producto debido a que un agente externo causa la condición de salud. Por eso, necesitas modelos de predicción de variables de negocio con datos de entorno. Así podrás entender qué factores aumentaran las ventas, cuando invertir en marketing y predecir en tiempo real con varias semanas la fabricación y venta de productos respiratorios. **Podemos explicar y predecir tu volumen de ventas con 95% de acierto a cuatro semanas.**
 
-**Zensei APIs.**
+#### **Zensei APIs**
 
-Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios. 
+Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios.
 
 Nuestra solución de alertas hiperlocales de entorno (contaminación, pólenes, virus, clima) y el diario de salud respiratoria para explicar y predecir síntomas respiratorios, te permitirán diseñar la mejor experiencia para cada paciente. Nuestras APIs pueden aumentar la retención de tu producto a más del 50% después de 30 días desde el primer día de uso.
 
-**Zensei Digital Epidemiology.**
+#### **Zensei Digital Epidemiology**
 
 Si necesitas un estudio más específico de cómo el entorno impacta sobre una población de pacientes.
 Hemos realizado múltiples estudios epidemiológicos ad hoc utilizando nuestra app diario de salud respiratoria y datos no convencionales.
 Con nuestra app podemos monitorizar la experiencia y adherencia de usuarios que están siendo tratados.
 También podemos hacer una sesión con tu equipo para contarte de que va la epidemiología digital y hacia dónde va el mercado de salud digital respiratoria.
 
-## **Casos de uso desarrollados con clientes**
+## **Algunos casos de uso desarrollados con clientes**
 
 1. Correlación ventas, adherencia y factores de entorno.
 2. Sistema de alerta temprana de gripe u otras  enfermedades infecciosas
