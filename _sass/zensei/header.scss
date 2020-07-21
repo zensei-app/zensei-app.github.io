@@ -2,32 +2,25 @@
 
 .header {
   background-color: $white;
-  height: 86px;
   color: $balticSea;
-  top: -100px;
   box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
   -webkit-transition: top 0.3s;
   transition: top 0.3s;
-  width: 100%;
-  padding: 0;
-  z-index: 2;
-  position: fixed;
-  top: 0;
-  @media screen and (max-width: $tablet) {
-    height: 56px;
-    width: 100vw;
+  z-index: 4;
+
+  padding: 0 24px;
+  height: 56px;
+  width: 100vw;
+  @media screen and (min-width: $tablet-bp) {
+    height: 86px;
+    width: 100%;
+    padding: 20px 60px;
   }
 }
 
 .header-container {
   max-width: $max-width-content;
   margin: 0 auto;
-  @media screen and (max-width: $big-screen-bp) {
-    margin: 0 $margin-horiz-desktop;
-  }
-  @media screen and (max-width: $tablet) {
-    margin: 0 $margin-horiz-mobile;
-  }
 }
 
 .header .header-container {
@@ -37,55 +30,38 @@
   align-items: center;
 }
 
-/*	The header placeholder. It is displayed when the header is fixed to the top of the
-      browser window, in order to prevent the content of the page from jumping up. */
-
-.header-placeholder {
-  height: 80px;
-  display: none;
-}
-
 .header-content {
   display: flex;
   align-items: center;
-  @media screen and (max-width: $tablet) {
+  flex-grow: 1;
+  justify-content: flex-end;
+  @media screen and (max-width: ($tablet-bp - 1)) {
     justify-content: space-between;
-    flex-grow: 1;
+    max-width: 250px;
   }
 }
 
-/* Logo */
-
-.header .header-container h1 {
-  float: left;
-  font: normal 28px Cookie, Arial, Helvetica, sans-serif;
-  line-height: 40px;
-  margin: 0;
-}
-
-.header .header-container h1 span {
-  color: $balticSea;
-}
-
-.header-container .logo {
-  float: left;
-  margin: 0.5rem 0;
+.header-container .header-logo {
+  @extend .zensei-logo;
+  @media screen and (max-width: $tablet-bp) {
+    width: 49px;
+    height: 29.4px;
+  }
 }
 
 /* The navigation links */
 
 .header .header-container nav {
-  line-height: 40px;
-  float: right;
+  line-height: 30px;
+  font-size: 15px;
 }
 
 .header .header-container nav a {
   display: inline-block;
-  padding: 0 5px;
+  padding: 0 10px;
   text-decoration: none;
   color: $balticSea;
   font-size: 1rem;
-  // font-family: "Palanquin Dark", sans-serif;
   @media screen and (max-width: $tablet) {
     font-size: 0.9375rem;
   }
@@ -99,7 +75,7 @@
 }
 
 .header .header-container nav a:hover {
-  opacity: 1;
+  color: $asphalt;
 }
 
 .header .header-container nav a.selected {
@@ -108,85 +84,21 @@
   opacity: 1;
 }
 
-/* Fixed version of the header */
-
-body.fixed .header {
-  background-color: $white;
-  padding: 20px 60px;
-  height: 86px;
-  color: $balticSea;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  z-index: 2;
-  @media screen and (max-width: $tablet) {
-    padding: 0 24px;
-    height: 56px;
-    width: 100vw;
-    position: fixed;
-    top: 0;
-  }
-}
-
-body.fixed .header .header-container {
-  height: 100%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-body.fixed .header-placeholder {
-  display: block;
-}
-
-body.fixed .header .header-container h1 {
-  font-size: 24px;
-  line-height: 30px;
-}
-
-body.fixed .header .header-container nav {
-  line-height: 30px;
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-}
-
-body.fixed .header .header-container nav a {
-  padding: 10px;
-}
-
-/* Making the header responsive */
-
-@media all and (max-width: 600px) {
-  .header {
-    height: 56px;
-    width: 100vw;
-    & .action-btn,
-    input[type="submit"] {
+.header {
+  & .action-btn,
+  input[type="submit"] {
+    @media all and (max-width: ($tablet-bp - 1)) {
+      padding: 0 20px;
       font-size: 0.7rem;
     }
   }
-
-  .header .header-container .logo {
-    float: none;
-  }
-
-  .header .header-container nav {
-    line-height: 1;
-    margin-left: 20px;
-    margin-right: -20px;
-  }
-
-  .header .header-container nav a {
-    font-size: 0.9375rem;
-  }
 }
 
-.header .action-btn {
-  @media screen and (max-width: $tablet) {
-    padding: 0 20px;
-  }
+/* Fixed version of the header */
+
+body.fixed .header {
+  position: fixed;
+  top: 0;
 }
 
 /*HAMBURGUER-MENU*/

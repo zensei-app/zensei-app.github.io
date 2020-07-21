@@ -46,7 +46,7 @@ strong {
 }
 
 .only-for-desktop {
-  @media screen and (max-width: $tablet) {
+  @media screen and (max-width: ($tablet-bp - 1)) {
     display: none;
   }
 }
