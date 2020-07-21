@@ -13,7 +13,9 @@ seo_description: En este artículo te contamos que es la salud digital respirato
 permalink: "/salud-digital-respiratoria/"
 
 ---
-Actualmente parece que la salud respiratoria ha tomado bastante importancia. Nosotros venimos trabajando en temas de datos, epidemiología y salud respiratoria desde el año 2017. Seguramente el equipo con mayor experiencia en España en estos temas.
+En los ultimos tiempos la salud respiratoria se ha convertrido en foco de atención para el publico en general. 
+
+Para Zensei la salud respiratoria es su area de  trabajo desde el año 2017.Aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respitratoria.Desde entonces nuestra mision es mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria.
 
 ## **¿Cómo te podemos ayudar?**
 
@@ -24,7 +26,7 @@ Las fuentes de datos digitales, y las técnicas avanzadas de aprendizaje estadí
 Si eres un proveedor o prescriptor de servicios de salud, soluciones, productos o medicamentos contáctanos y te ayudamos a cuidar de tus pacientes, permitiéndote:
 
 1. Conocer mejor a tu cliente respiratorio objetivo.
-2. Saber que factores de entorno afectan a tu negocio de forma directa.
+2. Saber que factores de entorno afectan a tu negocio.
 3. Impactar a una audiencia con un alto nivel de activación.
 4. Aumentar la calidad de vida de tus pacientes respiratorios.
 5. Mejorar tus resultados de retención, activación o ventas de productos respiratorios.
