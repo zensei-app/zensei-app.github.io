@@ -91,7 +91,7 @@ Hemos realizado múltiples estudios epidemiológicos ad hoc utilizando nuestra a
 Con nuestra app podemos monitorizar la experiencia y adherencia de usuarios que están siendo tratados.
 También podemos hacer una sesión con tu equipo para contarte de que va la epidemiología digital y hacia dónde va el mercado de salud digital respiratoria.
 
-## **Algunos casos de uso desarrollados con clientes**
+**Algunos casos de uso desarrollados con clientes**
 
 1. Correlación ventas, adherencia y factores de entorno.
 2. Sistema de alerta temprana de gripe u otras  enfermedades infecciosas
