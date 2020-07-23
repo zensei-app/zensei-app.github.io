@@ -58,7 +58,7 @@ _Si te enfrentas  al reto de transformar tu unidad de negocio o compañía somos
 
 **Si necesitas un estudio más específico de cómo el entorno impacta sobre una población de pacientes.**
 
-**Algunos casos de uso desarrollados con clientes**
+**Algunos casos de uso desarrollados con clientes:**
 
 1. Correlación ventas, adherencia y factores de entorno.
 2. Sistema de alerta temprana de gripe u otras  enfermedades infecciosas
