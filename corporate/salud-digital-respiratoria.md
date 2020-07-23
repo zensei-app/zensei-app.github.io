@@ -12,17 +12,17 @@ seo_description: En este artículo te contamos que es la salud digital respirato
 permalink: "/salud-digital-respiratoria/"
 
 ---
-En Zensei aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respitratoria y desde 2017 nuestra mision es _mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria._
+En Zensei aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respiratoria y desde 2017 nuestra misión es _mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria._
 
 Si eres un proveedor o prescriptor de servicios de salud, soluciones, productos o medicamentos contáctanos y te ayudamos a cuidar de tus pacientes.
 
 ## **¿Qué ayudamos a resolver?**
 
-Nuestra vision es utilizar los ultimos avances en epidemiologia computacional  y analitica de datos para _fomentar la salud preventiva y personalizada de forma escalable y humanizada._
+Nuestra visión es utilizar los últimos avances en epidemiología computacional  y analítica de datos para _fomentar la salud preventiva y personalizada de forma escalable y humanizada._
 
 ## **¿Cómo te podemos ayudar?**
 
-En Zensei recolectamos datos de salud percibida, tratamiento, entorno, hábitos, factores sociales, datos genéticos y biomarcadores. y construimos el fenotipo profundo de cada paciente proporcionandoté una información sobre la dinámica de las enfermedades y la salud en poblaciones.
+En Zensei recolectamos datos de salud percibida, tratamiento, entorno, hábitos, factores sociales, datos genéticos y biomarcadores. y construimos el fenotipo profundo de cada paciente proporcionando una información sobre la dinámica de las enfermedades y la salud en poblaciones.
 
 1. Conocer mejor a tu cliente respiratorio objetivo.
 2. Saber que factores de entorno afectan a tu negocio.
@@ -40,7 +40,7 @@ Diario de salud , informe respiratorio y alertas de salud.
 
 #### **Zensei Lighthouse**
 
-Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo como piensa, siente y reacciona._
+Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo cómo piensa, siente y reacciona._
 
 #### **Zensei Ads.**
 
