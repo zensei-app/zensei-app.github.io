@@ -36,27 +36,27 @@ _Si te enfrentas  al reto de transformar tu unidad de negocio o compañía somos
 
 #### **Zensei clínica virtual respiratoria**
 
-**Diario de salud , informe respiratorio y alertas de salud.**
+Diario de salud , informe respiratorio y alertas de salud.
 
 #### **Zensei Lighthouse**
 
-**Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo como piensa, siente y reacciona._**
+Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo como piensa, siente y reacciona._
 
 #### **Zensei Ads.**
 
-**Impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.**
+Impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
 
 #### **Zensei Business**
 
-**Podemos explicar y predecir tus ventas con 95% de acierto a cuatro semanas.**
+Podemos explicar y predecir tus ventas con 95% de acierto a cuatro semanas.
 
 #### **Zensei APIs**
 
-**Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios.**
+Si quieres crear experiencias de salud digital totalmente personalizadas, contextuales y con alto engagement para pacientes respiratorios.
 
 #### **Zensei Digital Epidemiology**
 
-**Si necesitas un estudio más específico de cómo el entorno impacta sobre una población de pacientes.**
+Si necesitas un estudio más específico de cómo el entorno impacta sobre una población de pacientes.
 
 **Algunos casos de uso desarrollados con clientes:**
 
