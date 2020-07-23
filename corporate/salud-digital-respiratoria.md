@@ -42,7 +42,7 @@ Diario de salud , informe respiratorio y alertas de salud.
 
 Imagínate poder entender cualquier aspecto del mercado de salud digital respiratoria en minutos , mejorando tu curva de aprendizaje sobre el paciente respiratorio. _Sabiendo cómo piensa, siente y reacciona._
 
-#### **Zensei Ads.**
+#### **Zensei Ads**
 
 Impactar a nuevos pacientes respiratorios, aumentando el ROI de tus campañas. Nuestra audiencia responde a nuestras campañas con un CTR de más del 30%.
 
