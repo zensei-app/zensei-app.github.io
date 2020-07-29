@@ -19,6 +19,10 @@ strong {
   display: none;
 }
 
+.center {
+  text-align: center;
+}
+
 .window-overlay {
   background-color: rgba(0, 0, 0, 0.84);
   opacity: 0.6;
@@ -178,6 +182,13 @@ strong {
     & > span {
       display: inline-block;
     }
+  }
+}
+
+.paragraph-center {
+  @extend .paragraph;
+  @media screen and (min-width: $tablet-bp) {
+    text-align: center;
   }
 }
 
@@ -618,7 +629,7 @@ input[type="submit"] {
         line-height: 3.125rem;
       }
       @media screen and (min-width: $desktop-bp) {
-        padding-top: 10vh;
+        padding-top: 5vh;
         width: 50%;
       }
     }
@@ -629,7 +640,7 @@ input[type="submit"] {
       justify-content: center;
       @media screen and (min-width: $desktop-bp) {
         position: absolute;
-        top: 45vh;
+        top: 50vh;
       }
     }
     &__img {
@@ -903,6 +914,10 @@ input[type="submit"] {
     }
     &__item {
       max-width: 235px;
+      & span {
+        color: #ff7f7f;
+        font-weight: bold;
+      }
       @media screen and (max-width: $tablet) {
         max-width: $tablet-bp;
         display: flex;
