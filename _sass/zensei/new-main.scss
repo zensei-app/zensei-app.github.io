@@ -49,14 +49,24 @@ strong {
   }
 }
 
-.only-for-desktop {
+.only-for-desktop,
+.only-for-desktop * {
   @media screen and (max-width: ($tablet-bp - 1)) {
     display: none;
   }
 }
-.only-for-mobile {
+.only-for-mobile,
+.only-for-mobile * {
   @media screen and (min-width: $tablet-bp) {
     display: none;
+  }
+}
+
+.reversed-in-desktop {
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: $tablet-bp) {
+    flex-direction: column-reverse;
   }
 }
 
@@ -152,6 +162,12 @@ strong {
     line-height: 2.5rem;
     margin-bottom: 1.75rem;
   }
+  & span {
+    display: inline;
+    @media screen and (min-width: $tablet-bp) {
+      display: block;
+    }
+  }
 }
 
 .title-small {
@@ -167,6 +183,12 @@ strong {
     text-align: center;
     margin: 48px 0 20px 0;
   }
+  & span {
+    display: inline;
+    @media screen and (min-width: $tablet-bp) {
+      display: block;
+    }
+  }
 }
 
 .paragraph {
@@ -177,7 +199,7 @@ strong {
     display: inline;
   }
   @media screen and (min-width: $tablet-bp) {
-    font-size: 1.625rem;
+    font-size: 1.375rem;
     line-height: 2.1875rem;
     & > span {
       display: inline-block;
@@ -716,21 +738,21 @@ input[type="submit"] {
   &--slide1 {
     &__bckg-img {
       background-image: url(/assets/illustrations/woman_wandering.png);
-      background-size: 100vw auto;
-      height: 54vw;
-      @media screen and (max-width: $tablet) {
-        background-size: 180vw auto;
-        height: 152vw;
-        background-position-x: -61.4vw;
-        background-position-y: top;
-        margin-top: -3.1vw;
+      background-size: 180vw auto;
+      height: 64vw;
+      background-position-x: -61.4vw;
+      margin-top: -3.1vw;
+
+      @media screen and (min-width: $tablet-bp) {
+        background-size: 100vw auto;
+        background-position-x: 0;
+        height: 35vw;
       }
     }
     &__container {
-      margin-top: 4.5vw;
-      @media screen and (max-width: $tablet) {
-        position: relative;
-        top: 70.4vw;
+      margin-top: 40px;
+      @media screen and (min-width: $tablet-bp) {
+        margin-top: 60px;
       }
     }
   }
@@ -740,8 +762,7 @@ input[type="submit"] {
       @extend %container;
       margin: 2.5vh 0 5vh $margin-horiz-desktop;
       @media screen and (max-width: $tablet) {
-        margin: 10vh $margin-horiz-mobile;
-        height: 96vh;
+        margin: 0 $margin-horiz-mobile;
       }
     }
     &__container-img-left {
@@ -803,7 +824,7 @@ input[type="submit"] {
       margin-top: 4.7vh;
       margin-bottom: 7.81vh;
       @media screen and (max-width: $tablet) {
-        height: 5.6vh;
+        // height: 5.6vh;
         transform: translateY(53.4vh);
       }
     }
@@ -845,72 +866,96 @@ input[type="submit"] {
       }
     }
   }
+  // &__bckg-img {
+  //   background-image: url(/assets/illustrations/woman_wandering.png);
+  //   background-size: 180vw auto;
+  //   height: 64vw;
+  //   background-position-x: -61.4vw;
+  //   margin-top: -3.1vw;
+
+  //   @media screen and (min-width: $tablet-bp) {
+  //     background-size: 100vw auto;
+  //     background-position-x: 0;
+  //     height: 35vw;
+  //   }
+  // }
 
   &--slide5 {
     &__container {
       margin-top: 7.4vh;
-      @media screen and (max-width: $tablet) {
-        margin-bottom: 4.4vh;
+      @media screen and (min-width: $tablet-bp) {
       }
     }
     &__title {
-      margin-bottom: 4.1vh;
-      @media screen and (max-width: $tablet) {
-        margin-bottom: 2.1vh;
+      margin-bottom: 2.1vh;
+      @media screen and (min-width: $tablet-bp) {
+        margin-bottom: 4.1vh;
       }
     }
     &__text1 {
       margin-bottom: 4.7vw;
-      @media screen and (max-width: $tablet) {
-        transform: translate(0px, 187px);
-      }
     }
     &__img1 {
-      width: 90%;
-      @media screen and (max-width: $tablet) {
-        height: 165px;
-        transform: translate(0px, -118px);
+      display: flex;
+      justify-content: center;
+      & img {
+        width: auto;
+        height: 45.8vw;
+        @media screen and (min-width: $tablet-bp) {
+          width: 90%;
+          height: auto;
+          max-width: 900px;
+        }
       }
     }
     &__text2 {
-      margin-bottom: 1.7vh;
-      @media screen and (max-width: $tablet) {
-        margin-bottom: 3.7vh;
-        transform: translate(0px, 255px);
+      margin-bottom: 3.7vh;
+      @media screen and (min-width: $tablet-bp) {
+        margin-bottom: 1.7vh;
       }
     }
     &__img2 {
-      height: 55vh;
-      margin: 0 auto;
-      @media screen and (max-width: $tablet) {
-        height: 250px;
-        transform: translate(0px, -282px);
+      display: flex;
+      justify-content: center;
+      & img {
+        width: auto;
+        height: 60.8vw;
+        @media screen and (min-width: $tablet-bp) {
+          height: 40vw;
+          max-height: 450px;
+        }
       }
     }
   }
 
   &--slide6 {
+    &__container {
+      margin-top: 7.4vh;
+    }
     &__bckg {
       background-image: url(/assets/illustrations/woman&Macario.png);
-      background-size: 1430px;
-      height: 850px;
-      @media screen and (max-width: $tablet) {
-        background-size: 600px;
-        height: 78.31vh;
-        background-position: -50vw 20vh;
+      background-size: 160vw;
+      height: 60.3vw;
+      background-position-x: -46.3vw;
+      background-position-y: center;
+
+      @media screen and (min-width: $tablet-bp) {
+        background-size: 100vw auto;
+        height: 32.4vw;
+        background-position-x: 0;
+        margin: 40px 0;
       }
     }
-    &__container {
+    & h3 {
       margin-top: 57px;
-      @media screen and (max-width: $tablet) {
-      }
     }
     &__list {
+      margin-top: 3vh;
+      margin-bottom: 3vh;
       display: flex;
       justify-content: space-around;
       @media screen and (max-width: $tablet) {
         flex-direction: column;
-        transform: translate(0px, 31.25vh);
       }
     }
     &__item {
