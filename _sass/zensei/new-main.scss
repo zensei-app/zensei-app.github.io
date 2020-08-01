@@ -947,13 +947,13 @@ input[type="submit"] {
       margin-top: 57px;
     }
     &__list {
-      width: 100%;
       margin-top: 3vh;
       margin-bottom: 3vh;
       display: flex;
       justify-content: space-around;
       @media screen and (max-width: $tablet) {
         flex-direction: column;
+        width: 100%;
       }
     }
     &__item {
