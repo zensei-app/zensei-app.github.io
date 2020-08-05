@@ -100,10 +100,10 @@ strong {
     flex-direction: row;
     margin: 0 $margin-horiz-desktop;
   }
-  @media screen and (min-width: $big-screen-bp) {
-    max-width: $max-width-content;
-    margin: 0 auto;
-  }
+// @media screen and (min-width: $big-screen-bp) {
+//   max-width: $max-width-content;
+//   margin: 0 auto;
+// }
 }
 .container-main-with-bckg {
   width: 100%;
