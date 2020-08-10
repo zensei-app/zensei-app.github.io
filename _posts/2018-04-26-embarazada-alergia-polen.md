@@ -5,7 +5,7 @@ redirect_from:
   - '/blog/2018/04/26/embarada-alergia-polen/'
 title:  "🌼🤰 Embarazada: Remedios para la alergia al polen"
 last_modified_at: 2020-02-20 10:00:00 +0000
-date:   2018-04-26 10:00:00 +0200
+date: 2018-04-26 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 category: Alergia
 image: /img/pregnant-775028_1280.jpg
