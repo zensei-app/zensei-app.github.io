@@ -88,7 +88,6 @@
   & .action-btn,
   input[type="submit"] {
     @media all and (max-width: ($tablet-bp - 1)) {
-      padding: 0 20px;
       font-size: 0.6rem;
     }
   }
