@@ -6,7 +6,8 @@ title: Zensei, startup madrileña coautora de un estudio en Nature para minimiza
 last_modified_at: 2020-08-08T10:00:00.000+00:00
 date: 2020-08-08T10:00:00.000+00:00
 author: Ana
-category: prensa
+category:
+- prensa
 description: El estudio tiene como objetivo ayudar a las autoridades sanitarias a
   tomar las medidas adecuadas para no saturar los sistemas hospitalarios con los rebrotes.
 intro: "**El estudio tiene como objetivo ayudar a las autoridades sanitarias a tomar
