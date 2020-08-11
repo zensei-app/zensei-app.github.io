@@ -203,6 +203,10 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  margin-top: 2 * $spacing-unit;
+  @media screen and (min-width: $tablet-bp) {
+    margin-top: 4 * $spacing-unit;
+  }
 }
 
 .post-title {
