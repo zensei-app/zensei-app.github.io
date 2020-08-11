@@ -24,7 +24,7 @@ El toledano David Martín-Corral es Ingeniero Técnico Industrial por la Univers
 
 David es experto en análisis masivo de datos y modelización matemática. Ha realizado su carrera profesional en grandes corporaciones como IBM y Sanitas, y en startups tecnológicas. David también ha sido o es profesor en universidades como la Univ. Carlos III de Madrid, la de Univ. de Alcalá, el Instituto de Empresa o Univ. Complutense de Madrid.
 
-Durante sus más de 10 años viviendo en Madrid conoció a Carlos Hernando, antiguo CTO de doctor24, primera plataforma de video consulta médica en España. Juntos fundaron en Abril del 2017, [Zensei, una empresa especializada en datos, epidemiología y salud respiratoria](https://zenseiapp.com) con más de 50.000 personas con problemas respiratorios que han confiado en su experiencia para ayudar a respirar mejor.
+Durante sus más de 10 años viviendo en Madrid conoció a Carlos Hernando, antiguo CTO de doctor24, primera plataforma de video consulta médica en España. Juntos fundaron en Abril del 2017, [Zensei, una empresa especializada en datos, epidemiología y salud respiratoria](https://zenseiapp.com) con más de 50.000 personas con problemas respiratorios que han confiado en su experiencia para ayudarles a respirar mejor.
 
 Actualmente ofrece un servicio de clínica virtual respiratoria basada en datos para cuidar a ciudadanos con problemas respiratorios ya sean debidos por asma, epoc, rinitis alérgica o por virus respiratorios como la gripe, la covid o la bronquiolitis. Zensei pertenece y es un miembro activo de las comunidades de de Tetuan Valley, Google for Startups Madrid, Netmentora Madrid y Barcelona Health Hub.
 
