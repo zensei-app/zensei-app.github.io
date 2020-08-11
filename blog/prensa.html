@@ -1,0 +1,64 @@
+---
+layout: blog-main
+title: Sala de prensa de Zensei
+description: Aquí tienes acceso a nuestro kit para medios, notas de prensa y puedes probar nuestra app de salud respiratoria.
+image: "/img/press-room.jpeg"
+permalink: /prensa/
+---
+
+<br />
+<h2>
+  <a
+    itemprop="url"
+    href="https://drive.google.com/drive/folders/1rUOu3yudWF6IvUPprRxjJtyAFr0yQ8HH?usp=sharing"
+  >
+    <span class="post-title" itemprop="name headline">
+      📦 Kit para medios
+    </span>
+  </a>
+</h2>
+<div class="home">
+  <br />
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.category == 'prensa' %}
+    <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+      <h2>
+        <a
+          itemprop="url"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{ post.url | relative_url }}"
+        >
+          <span class="post-title" itemprop="name headline"
+            >{{ post.title | escape }}</span
+          >
+        </a>
+      </h2>
+      <p>
+        <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
+        <time
+          class="post-meta"
+          datetime="{{ post.date | date_to_xmlschema }}"
+          itemprop="datePublished"
+          >⏳ Publicado el {% include commons/locale-dates.html
+          date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year
+          }}</time
+        >
+      </p>
+      <p itemprop="description">
+        {{ post.description | escape }}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{ post.url | relative_url }}"
+        >
+          Leer Más
+        </a>
+      </p>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+
