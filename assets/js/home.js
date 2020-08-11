@@ -1,4 +1,7 @@
+let hasBeenScrolled = false;
+
 $(window).scroll(function () {
+  hasBeenScrolled = true;
   const scrollTop = $(window).scrollTop();
   const PERCENTAGE_CONTENT_LANDING = 0.86;
   if (scrollTop >= PERCENTAGE_CONTENT_LANDING * window.innerHeight) {
@@ -20,6 +23,10 @@ $(window).scroll(function () {
 });
 
 $(document).ready(function () {
+  if (!hasBeenScrolled) {
+    $("header").addClass("invisible");
+  }
+
   //https://kenwheeler.github.io/slick/
   $(".carousel-responsive").slick({
     accesibility: true,
