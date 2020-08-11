@@ -6,8 +6,7 @@ title: Zensei, startup madrileña coautora de un estudio en Nature para minimiza
 last_modified_at: 2020-08-08T10:00:00.000+00:00
 date: 2020-08-08T10:00:00.000+00:00
 author: Ana
-category:
-- prensa
+category: prensa
 description: El estudio tiene como objetivo ayudar a las autoridades sanitarias a
   tomar las medidas adecuadas para no saturar los sistemas hospitalarios con los rebrotes.
 intro: "**El estudio tiene como objetivo ayudar a las autoridades sanitarias a tomar
@@ -27,7 +26,7 @@ David es experto en análisis masivo de datos y modelización matemática. Ha re
 
 Durante sus más de 10 años viviendo en Madrid conoció a Carlos Hernando, antiguo CTO de doctor24, primera plataforma de video consulta médica en España. Juntos fundaron en Abril del 2017, [Zensei, una empresa especializada en datos, epidemiología y salud respiratoria](https://zenseiapp.com) con más de 50.000 personas con problemas respiratorios que han confiado en su experiencia para ayudar a respirar mejor.
 
-Actualmente ofrece un servicio de clínica virtual respiratoria basada en datos para cuidar a ciudadanos con problemas respiratorios ya sean debidos por asma, epoc, rinitis alérgica o por virus respiratorios como la gripe, la covid o la bronquiolitis. Zensei ha sido apoyada por Tetuan Valley, Google for Startups Madrid, Netmentora Madrid y Barcelona Health Hub.
+Actualmente ofrece un servicio de clínica virtual respiratoria basada en datos para cuidar a ciudadanos con problemas respiratorios ya sean debidos por asma, epoc, rinitis alérgica o por virus respiratorios como la gripe, la covid o la bronquiolitis. Zensei pertenece y es un miembro activo de las comunidades de de Tetuan Valley, Google for Startups Madrid, Netmentora Madrid y Barcelona Health Hub.
 
 [Kit para medios](https://drive.google.com/drive/folders/1rUOu3yudWF6IvUPprRxjJtyAFr0yQ8HH)
 
