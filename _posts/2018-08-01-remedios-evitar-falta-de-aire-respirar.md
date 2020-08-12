@@ -4,9 +4,9 @@ toc: true
 redirect_from:
 - "/blog/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
 - "/blog/2018/08/01/como-evitar-la-falta-de-aire-al-respirar-con-un-diario-de-síntomas-respiratorios/"
-title: Sientes que te falta el aire. El remedio de los médicos para evitarlo
+title: Remedios para la sensación de falta de aire
 date: 2018-08-01 08:00:00 +0000
-last_modified_at: 2020-06-11 09:00:00 +0000
+last_modified_at: 2020-08-12 09:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Asma
 image: "/img/photo-1531615018523-12556603349f.jpeg"
@@ -14,7 +14,7 @@ description: Conoce las causas por las que te falta el aire y por qué tienes qu
   profundo. Te contamos en este artículo como consiguem evitar la falta de aire los
   médicos.
 tags: remedios asma
-
+intro: "En este artículo te detallamos los síntomas de la disnea, sus causas y los remedios que puedes llevar a acabo para evitar esa horrible sensación de falta de aire."
 ---
 Casi todos hemos experimentado alguna vez la sensación de falta de aire. En ocasiones, esa impresión nos obliga a provocar profundos suspiros. Lo hacemos con la intención de superar el momento en que cuesta respirar. **Esa dificultad para respirar profundamente es conocida como** [**disnea**](https://www.cun.es/enfermedades-tratamientos/enfermedades/disnea)**.**
 
