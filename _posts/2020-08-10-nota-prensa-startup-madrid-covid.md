@@ -1,19 +1,24 @@
 ---
 layout: post
 toc: false
-title: Zensei, startup madrileña coautora de un estudio en Nature para minimizar los
+title:
+  Zensei, startup madrileña coautora de un estudio en Nature para minimizar los
   rebrotes de la COVID-19
 last_modified_at: 2020-08-08T10:00:00.000+00:00
 date: 2020-08-08T10:00:00.000+00:00
 author: Ana
-category: prensa
-description: El estudio tiene como objetivo ayudar a las autoridades sanitarias a
+category:
+  - prensa
+image: "/assets/img/team.jpg"
+description:
+  El estudio tiene como objetivo ayudar a las autoridades sanitarias a
   tomar las medidas adecuadas para no saturar los sistemas hospitalarios con los rebrotes.
-intro: "**El estudio tiene como objetivo ayudar a las autoridades sanitarias a tomar
+intro:
+  "**El estudio tiene como objetivo ayudar a las autoridades sanitarias a tomar
   las medidas adecuadas para no saturar los sistemas hospitalarios con los rebrotes.**"
 slug: startup-madrid-nature
-
 ---
+
 El científico, ingeniero y cofundador de Zensei, David Martín-Corral Calvo (Toledo, 1984), es coautor del [estudio epidemiológico, publicado en la revista científica Nature el 5 de agosto.](https://www.nature.com/articles/s41562-020-0931-9.epdf?sharing_token=itW75rYaCm6fRP4rDkJov9RgN0jAjWel9jnR3ZoTv0MLrFAv4IoCVan9pnzRUjws17XD5c9eFPRjdQalW_PlN1diAsH2Stgnr-G-hwDVRa-bRNAD0DMsdBmBds_Sm2KNwy9CIWJGXpY8_q1uWy9YeJzfmvGIKOMIFgcxqIMT7Rg%3D) Este estudio determina las medidas necesarias de cuarentena, testeo y rastreo para evitar los rebrotes y una segunda ola de la COVID-19.
 
 El resultado del estudio, realizado con un modelo computacional epidemiológico con datos reales de movilidad del área metropolitana de Boston, USA, determina que para que el sistema hospitalario no se sature por ingresos por la COVID-19, es necesario que las autoridades sanitarias al menos identifiquen un 50% de los casos positivos por COVID mediante tests y trazar el 40% de los contactos de los casos positivos, mediante técnicas rastreo, más cuarentenas selectivas de los casos positivos.
