@@ -972,6 +972,7 @@ input[type="submit"] {
       & img {
         width: 93vw;
         height: auto;
+        align-self: flex-start;
         @media screen and (min-width: $tablet-bp) {
           width: 80vw;
           max-width: 900px;
