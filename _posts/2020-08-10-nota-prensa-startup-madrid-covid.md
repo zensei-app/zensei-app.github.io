@@ -7,8 +7,7 @@ title:
 last_modified_at: 2020-08-08T10:00:00.000+00:00
 date: 2020-08-08T10:00:00.000+00:00
 author: Ana
-category:
-  - prensa
+category: prensa
 image: "/assets/img/team.jpg"
 description:
   El estudio tiene como objetivo ayudar a las autoridades sanitarias a
