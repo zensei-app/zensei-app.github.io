@@ -12,6 +12,8 @@ image: "/img/photo-1444930694458-01babf71870c.jpeg"
   <br />
   <ul class="post-list">
     {% for post in site.posts %}
+    {% if post.category != 'prensa' %}
+
     <p>
       <a
         target="_blank"
@@ -58,6 +60,7 @@ image: "/img/photo-1444930694458-01babf71870c.jpeg"
         </a>
       </p>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </div>
