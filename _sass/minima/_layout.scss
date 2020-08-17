@@ -201,6 +201,11 @@
 /**
  * Posts
  */
+.header-with-hero {
+  margin-bottom: $spacing-unit;
+  margin-top: 2 * $spacing-unit;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
   margin-top: 2 * $spacing-unit;

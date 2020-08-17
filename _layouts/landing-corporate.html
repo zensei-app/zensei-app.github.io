@@ -149,7 +149,8 @@
     >
       <br />
       <br />
-      <div class="container-narrow center" id="fade-in">
+
+      <div class="container-narrow center post-header" id="fade-in">
         <h1 style="font-size: 42px; font-weight: 700; color: #fff;">
           {{ page.title | escape }}
         </h1>
@@ -157,12 +158,8 @@
         <h2 style="color: #fff;">
           {{ page.description | escape }}
         </h2>
-        <br />
-        <br />
       </div>
     </div>
-    <br />
-    <br />
     <div class="container-narrow">
       <div class="wrapper">
         <div class="post-content" aria-label="Content">
@@ -171,7 +168,10 @@
             itemscope
             itemtype="http://schema.org/BlogPosting"
           >
-            <header class="post-header">
+            <br />
+            <br />
+
+            <header>
               <h1 class="post-title" itemprop="name headline">
                 {{ page.subtitle | escape }}
               </h1>
@@ -188,6 +188,8 @@
                 </time>
               </p>
             </header>
+            <br />
+
             <div class="post-content" itemprop="articleBody">
               {{ content }}
             </div>
