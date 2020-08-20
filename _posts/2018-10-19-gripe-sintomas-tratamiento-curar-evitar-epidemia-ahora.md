@@ -4,7 +4,7 @@ redirect_from:
 - "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 - "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Epidemia de la Gripe 2019-2020 "
+title: "\U0001F47E\U0001F912 Evolución de la Gripe 2019-2020 en tiempo real"
 date: 2018-10-19T08:00:00.000+00:00
 last_modified_at: 2020-05-05 10:00:00 +0000
 category: Gripe
@@ -32,42 +32,83 @@ tags:
 
 **Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2019-2020.**
 
-## 2019-2020: la temporada en que la gripe pasó desapercibida
+<br>
+![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
+<br>
 
-La pandemia, que ha afectado a todos los continentes, ha traído consigo una sucesión de brutales consecuencias. **El desolador escenario pandémico ha obligado a los gobiernos a decretar la** [**cuarentena por coronavirus.**](https://zenseiapp.com/gripe/cuarentena-casa-aislamiento-coronavirus/) El confinamiento se ha entendido como la única manera de luchar contra una enfermedad de la que nada se conocía y que ha presentado una elevadísima tasa de contagio y un terrible índice de mortalidad.
+## **Vigilancia de la gripe 2019-2020**
 
-Estas circunstancias se han visto agravadas en determinados tramos de la población**. El ensañamiento de la** [**COVID-19 con la tercera edad**](https://zenseiapp.com/gripe/coronavirus-personas-mayores/) **y con enfermos crónicos ha sido feroz.** Todas estas circunstancias han hecho que durante la temporada 2019-2020 la gripe nos haya parecido que pasaba desapercibida.
+La epidemia de la gripe ya ha llegado a su cumbre. Está en fase de descenso. Así que todo empieza a volver a la normalidad.
 
-Sin embargo, a la par que se ha producido ese escenario dantesco, la gripe ha hecho su aparición. Como cada temporada, **2019-2020 ha vivido las consecuencias de la epidemia de gripe.**
+Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
 
-De hecho, las especiales circunstancias de esta ocasión incluso han obligado a que los especialistas tuvieran que dar **indicaciones para que la población supiera** [**cómo diferenciar el coronavirus de la gripe.**](https://zenseiapp.com/gripe/coronavirus-gripe-diferencia/)
+Actualizamos la previsión todos los jueves de cada semana a las 16:00 horas.
 
-**Ambas enfermedades respiratorias, de carácter contagioso, han convivido en la campaña 2019-2020.** En muchas ocasiones, los enfermos de gripe han sido tratados como sospechosos de portar el coronavirus. En otras situaciones, desgraciadamente, afectados por la COVID-19 fueron tratados como contagiados por gripe.
+## **¿Cómo seguir la epidemia de la gripe ahora en tiempo real?**
 
-**Las consecuencias, sobre todo en el segundo de los casos, han sido fatales.** La virulencia del coronavirus y su capacidad para desencadenar gravísimas complicaciones, han disparado la tasa de mortalidad. El fatal desenlace ha llegado a muchos enfermos que, ante una patología completamente desconocida, eran tratados en un primer momento como si tuvieran una gripe agravada.
+Mira.
 
-## Cómo ha sido la gripe en 2019-2020
+Hemos desarrollado este observatorio de la Gripe en España.
 
-Aunque haya pasado desapercibida en su enfoque mediático, lo cierto es que **la gripe en 2019-2020 ha sido declarada epidemia.** Ello se debe al hecho de que, esta temporada, la enfermedad **ha afectado a un elevado porcentaje de la población.**
+Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológicos oficiales y búsquedas en Google.
 
-Frente a la gripe no se debe bajar la guardia. Esta patología de carácter estacional puede acarrear **fatales consecuencias a pacientes de riesgo: niños, embarazadas, ancianos y enfermos crónicos.**
+Con estos datos, más datos de clima hemos entrenado un inteligencia artificial que predice el impacto de la epidemia de la gripe en España y se actualiza semanalmente.
 
-Por esta razón, hemos intentado configurar para ti **la guía más completa sobre la epidemia de la gripe en España.** Te vamos a contar qué es la gripe, cuáles son sus síntomas, tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España (2019-2020) y su incidencia.  
- En resumen, si quieres evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre todo, quieres prevenirla, **al final del artículo tendrás un regalo que te será realmente útil…**
+### **¿Cuál es el riesgo de coger la gripe esta semana?**
 
-## Vigilancia de la gripe 2019-2020
+<p>El riesgo de contraer la gripe esta semana es <b><span id="risk1"></span></b>.</p><p> Se estima una incidencia de la gripe de <b><span id="today1"></span></b> casos por cada 100.000 habitantes para esta semana y <b><span id="tomorrow1"></span></b> casos para la semana que viene, suponiendo <b><span id="growth"></span></b> relativo del <b><span id="pct"></span>%</b>.</p>
 
-Durante este año, la epidemia de la gripe **se ha alargado más de lo habitual** y le ha costado tocar techo. Afortunadamente, una vez conseguida la fase de descenso, todo vuelve a la normalidad.
+### **Observatorio de la Epidemia de la Gripe en España 2019-2020**
 
-Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. La gripe ha venido acompañada de los siguientes síntomas: **fiebre, dolor muscular y de cabeza, y debilidad generalizada.**
+Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de la gripe ahora. Actualizado semanalmente.
 
-## ¿Cómo seguir la epidemia de la gripe ahora en tiempo real?
+<div>
+<div class="center">
+<div class="section group">
+<div class="col span_1_of_3">
+<p id="risk" style="font-size:50px; font-weight: bold;"></p>
+<p style="color:lightgrey; font-weight:lighter;">Riesgo de coger la Gripe</p>
+</div>
+<div class="col span_1_of_3">
+<p id="today" style="font-size:50px; font-weight: bold;"></p>
+<p style="color:lightgrey; font-weight:lighter;">Casos esta semana</p>
+</div>
+<div class="col span_1_of_3">
+<p id="tomorrow" style="font-size:50px; font-weight: bold;"></p>
+<p style="color:lightgrey; font-weight:lighter;">Próxima semana</p>
+</div>
+</div>
+<br>
+<nav class="segmented-button">
+<input type="radio" name="seg-1" value="timeserie" id="timeserie" checked>
+<label for="timeserie" class="first">Predicción</label>
+<input type="radio" name="seg-1" value="seasons" id="seasons">
+<label for="seasons">Temporadas</label>
+<input type="radio" name="seg-1" value="locations" id="locations">
+<label for="locations" class="last">Comunidades</label>
+</nav>
+<br>
+</div>
+<div class="full-width">
+<div class="center" id="chart">
+<svg></svg>
+<br>
+<div class="center">
+<p>← Desliza para hacer zoom →</p>
+</div>
+</div>
+<div class="center" id="barchart">
+<svg></svg>
+</div>
+<p id="source">Fuentes de datos epidemiológicos del <a href="http://vgripe.isciii.es/inicio.do">Sistema de Vigilancia de la Gripe en España</a>, <a href="https://trends.google.com/trends/explore?geo=ES&q=gripe">Google Trends Spain</a> y elaboración propia de Zensei.</p>
+</div>
+</div>
 
-Hemos desarrollado este [**observatorio de la Gripe en España. **](http://vgripe.isciii.es/inicio.do)Es un Sistema de vigilancia de la gripe, que utiliza datos epidemiológicos oficiales y búsquedas en Google. Esta información se completa con referencias climáticas.
+¿Quiéres tener las predicciones de la gripe para tu ciudad en tu móvil?
 
-Todas estas reseñas son gestionadas **a través de Inteligencia Artificial.** El resultado es la **predicción del impacto de la epidemia de la gripe en España.** Esta información se actualiza semanalmente durante todo el año. Puedes ver en un mapa incluso las zonas afectadas, el grado de difusión y el nivel de incidencia.
+Prueba nuestra App Diario de Salud Respiratoria.
 
-De todas formas, si deseas tener las predicciones de la gripe para tu ciudad en tu móvil, la mejor opción es que te **descargues nuestra App Diario de Salud Respiratoria**. Con [Zensei App](https://zenseiapp.com/) tendrás toda la información en tu bolsillo.
+👉 [DESCARGAR ZENSEI](https://zenseiapp.com)
 
 ## ¿Qué es la gripe?
 
@@ -304,3 +345,9 @@ _Referencias:_
 [_La gripe es un importante problema de salud y la vacunación es la manera más efectiva de prevenirla. Ministerio de Sanidad. Gobierno de España._](https://www.mscbs.gob.es/gabinete/notasPrensa.do?id=4703)
 
 [_La gestión de riesgos ante una pandemia de gripe. Organización Mundial de la Salud. OMS._](https://apps.who.int/iris/bitstream/handle/10665/272829/WHO-WHE-IHM-GIP-2017.1-spa.pdf)
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.2/d3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
+<script type="text/javascript" src="/assets/js/gripe.js"></script>
