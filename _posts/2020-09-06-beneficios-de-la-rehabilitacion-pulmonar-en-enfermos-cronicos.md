@@ -9,11 +9,11 @@ category: Salud respiratoria
 image: ''
 description: La rehabilitación pulmonar puede mejorar la calidad de vida de los pacientes
   con enfermedades respiratorias crónicas.
-intro: La **rehabilitación pulmonar** aun no cuenta con suficientes estudios más allá
-  de su aplicación en pacientes de EPOC. Sin embargo, la evidencia avala que con tan
-  solo adaptar los programas empleados para la rehabilitación de estos enfermos, los
-  afectados por distintas enfermedades pulmonares crónicas pueden mejorar sustancialmente
-  su calidad de vida.
+intro: La aplicación en pacientes de EPOC está permitiendo el desarrollo de la **rehabilitación
+  pulmonar** para su aplicación en otros tipos de enfermedades pulmonares. La evidencia
+  avala que con tan solo adaptar los programas empleados para la rehabilitación de
+  estos enfermos, los afectados por distintas enfermedades pulmonares crónicas pueden
+  mejorar sustancialmente su calidad de vida.
 tags: rehabilitación pulmonar, salud respiratoria, EPOC, salud pulmones, pulmones
   sanos
 slug: rehabilitación-pulmonar
