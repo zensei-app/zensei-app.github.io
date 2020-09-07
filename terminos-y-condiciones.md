@@ -49,7 +49,7 @@ aceptación por parte de los mismos.
 
 2.3. Para usar la aplicación, se le podrá solicitar que cree una cuenta
 y se le pedirán ciertos datos personales. Para más información, consulte
-nuestra [política de privacidad](./politica-privacidad).
+nuestra [política de privacidad](../politica-privacidad/).
 
 2.4. Para descargar la aplicación, el Usuario necesita estar conectado a
 internet. Zensei no se hace responsable de la imposibilidad de acceder a
