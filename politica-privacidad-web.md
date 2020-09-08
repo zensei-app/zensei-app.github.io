@@ -16,7 +16,7 @@ S.L.** cuyos datos de contacto son los siguientes:
 
 NIF: B-88249909
 
-Domicilio social: C/ Orense 32 5 3 , 28020 MADRID (MADRID)
+Domicilio social: C/ Zurbano 45, planta 1, 28010 MADRID (MADRID)
 
 Teléfono: +34 919 030 147
 

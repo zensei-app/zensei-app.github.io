@@ -19,7 +19,7 @@ que serán objeto de tratamiento según se expone a continuación:
 
 El responsable del tratamiento es ZENSEI TECHNOLOGIES, S.L.
 
-Domicilio: Calle Orense 32, 5, 3- 28020 Madrid
+Domicilio: Calle Zurbano 45, planta 1, 28010 Madrid
 
 CIF: B-88249909
 

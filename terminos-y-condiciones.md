@@ -1,7 +1,8 @@
 # Términos y condiciones de uso de Zensei
 
 Esta aplicación pertenece a ZENSEI TECHNOLOGIES, S.L. (en adelante
-ZENSEI) con CIF B-88249909 y domicilio en Madrid, Calle Orense 32, 5, 3.
+ZENSEI) con CIF B-88249909 y domicilio en Madrid, Calle Zurbano 45,
+planta 1.
 
 ZENSEI se encuentra inscrita en el Registro Mercantil de Madrid
 con número de entrada 1/2018/168331 en el asiento 10/109/310 con fecha de
