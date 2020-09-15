@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: 'Una vuelta al cole: entrevista a nuestro epidemiólogo'
+title: 'Vuelta al cole: entrevista a nuestro epidemiólogo'
 date: 2020-09-14 22:00:00 +0000
 last_modified_at: 2020-09-14 22:00:00 +0000
 author: Ana
