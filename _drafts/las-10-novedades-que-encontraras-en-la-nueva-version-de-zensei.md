@@ -6,14 +6,14 @@ date: 2020-09-14 22:00:00 +0000
 last_modified_at: 2020-09-14 22:00:00 +0000
 author: Cristina
 category: Salud respiratoria
-image: ''
-description: Y con más novedades que nunca
+image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
+description: 'A partir de mañana ya estará disponible la nueva versión de la app,
+  tanto para Android como para iOs. '
 intro: ''
 tags: ''
 slug: nueva-version-app-zensei
 
 ---
-Y con más novedades que nunca.
 
 El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
 
