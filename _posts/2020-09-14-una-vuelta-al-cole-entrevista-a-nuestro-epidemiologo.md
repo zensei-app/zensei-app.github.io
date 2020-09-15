@@ -85,3 +85,5 @@ Estos límites son los que ya sabéis y que repite todo el mundo cada dos por tr
 Se trata de **establecer un comportamiento muy bueno de higiene y aseo personal**. Los niños educados con estas medidas van a ser muy distintos a cómo hemos crecido nosotros. El resultado serán personas mucho más conscientes del riesgo de contagio y cómo evitarlo.
 
 Cómo veis, la vuelta al cole, aunque atípica, no debe ser un motivo de preocupación más allá de conseguir el material adecuado para los peques. Eso sí, siempre manteniendo las guías de comportamiento e higiene personal para intentar que los contagios sean mínimos.
+
+[https://youtu.be/0rPtnV_M1y0](https://youtu.be/0rPtnV_M1y0 "https://youtu.be/0rPtnV_M1y0")
