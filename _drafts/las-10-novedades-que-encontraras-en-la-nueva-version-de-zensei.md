@@ -27,22 +27,6 @@ tags: ''
 slug: nueva-version-app-zensei
 
 ---
-El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
-
-Y aunque la versión antigua de la app gustaba, nuestros usuarios nos hicieron ver que había muchas cosas que mejorar.
-
-Faltaban muchas localizaciones, funcionalidades en las que no habíamos pensado y otras que no eran tan útiles como creíamos…
-
-Así que escuchamos a nuestros usuarios y nos pusimos manos a la obra.
-
-Y así hemos llegado hasta aquí. Zensei 2.0. La nueva versión de Zensei.
-
-Mejorada.
-
-Para ti.
-
-Y a partir de mañana podrás disfrutar de ella. 
-
 # **Más sencilla**
 
 Se ha rediseñado la app para que sea más intuitiva, por lo que es más fácil y cómoda de usar.
