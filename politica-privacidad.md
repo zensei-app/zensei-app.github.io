@@ -107,7 +107,7 @@ tenemos ciertos datos (p.e. las notificaciones sobre factores del
 entorno no funcionan si no sabemos tu ubicación). Sólo trataremos ese
 dato si tú lo consientes y sólo para este fin.
 
-Para realizar analíticas y estadísticas nos basamos en nuestros interés
+Para realizar analíticas y estadísticas nos basamos en nuestro interés
 legítimo. Para ello no vamos a utilizar datos personales sino que
 previamente los anonimizaremos.
 
@@ -131,15 +131,22 @@ No vamos a comunicar datos a terceros sin tu consentimiento. De hecho,
 para determinadas funcionalidades es posible que te solicitemos
 consentimientos específicos.
 
+En un momento dado te ofrecemos la posibilidad de consultar con un
+especialista pero nosotros no proporcionamos datos. Te damos el link a
+la aplicación de Mediquo y voluntariamente puedes descargarla y
+facilitar una copia del informe que te genera Zenseiapp para hacer la
+consulta. Tú les darás directamente tu consentimiento. Nosotros sólo te
+facilitamos esa referencia.
+
 Trabajamos con proveedores externos y con herramientas seguras que están
-en su mayoría en la Unión Europea. No obstante también trabajamos con
-Amazon Web Services que se encuentra adherida al protocolo Privacy
-Shield para las transferencias internacionales entre Estados Unidos y la
-Unión Europea.
+en su mayoría en la Unión Europea. También trabajamos con Amazon Web
+Services que cumple con la normativa de protección de datos. Sus
+servidores están en la Unión Europea.
 
 Para las analíticas utilizamos Google Analytics, Sentry y Branch que
 también están en Estados Unidos. Hemos comprobado que cumplen con la
-normativa de protección de datos.
+normativa de protección de datos aunque no recogen datos que permitan
+identificar a los usuarios sino estadísticas.
 
 ## Derechos
 
