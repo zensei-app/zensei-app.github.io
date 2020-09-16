@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: 'Vuelta al cole: entrevista a nuestro epidemiólogo'
-date: 2020-09-14 22:00:00 +0000
-last_modified_at: 2020-09-14 22:00:00 +0000
+date: 2020-09-14T22:00:00.000+00:00
+last_modified_at: 2020-09-14T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
 image: ''
@@ -86,4 +86,4 @@ Se trata de **establecer un comportamiento muy bueno de higiene y aseo personal*
 
 Cómo veis, la vuelta al cole, aunque atípica, no debe ser un motivo de preocupación más allá de conseguir el material adecuado para los peques. Eso sí, siempre manteniendo las guías de comportamiento e higiene personal para intentar que los contagios sean mínimos.
 
-[https://youtu.be/0rPtnV_M1y0](https://youtu.be/0rPtnV_M1y0 "https://youtu.be/0rPtnV_M1y0")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rPtnV_M1y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
