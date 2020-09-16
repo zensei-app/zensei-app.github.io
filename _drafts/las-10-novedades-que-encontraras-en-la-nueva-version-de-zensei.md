@@ -104,6 +104,8 @@ Recibe notificaciones y deja de olvidarte de tomar la medicación o apuntar los 
 
 Lo único que tienes que hacer es decidir cuándo quieres recibirlas.
 
+Todos los cambios que se han hecho han sido pensando en poder ayudar mejor a las personas que lo necesitan. 
+
 Todavía nos quedan muchas cosas que iremos incorporando poco a poco, como ejercicios respiratorios. Pero estamos muy orgullosos del nuevo inicio de Zensei.
 
 Llevamos desde el 2017 con el objetivo de ayudar a personas de todo el mundo a respirar mejor y fomentar la salud preventiva y personalizada.
