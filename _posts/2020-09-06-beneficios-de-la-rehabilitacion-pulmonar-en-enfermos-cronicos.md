@@ -2,11 +2,11 @@
 layout: post
 toc: true
 title: 'Beneficios de la rehabilitación pulmonar en enfermos crónicos '
-date: 2020-09-06 22:00:00 +0000
-last_modified_at: 2020-09-06 22:00:00 +0000
+date: 2020-09-06T22:00:00.000+00:00
+last_modified_at: 2020-09-06T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: ''
+image: "/uploads/rehabilitacion-pulmonar-1.jpeg"
 description: La rehabilitación pulmonar puede mejorar la calidad de vida de los pacientes
   con enfermedades respiratorias crónicas.
 intro: La aplicación en pacientes de EPOC está permitiendo el desarrollo de la **rehabilitación
@@ -41,7 +41,7 @@ Quizás también debamos **centrarnos en los factores ambientales y de comportam
 
 Varios autores han informado efectos positivos de la rehabilitación pulmonar sobre el rendimiento del ejercicio funcional y / o el estado de salud específico de la enfermedad en pacientes con EPOC con y sin comorbilidades autonotificadas al inicio de su estudio. También se confirman observaciones previas de que **las comorbilidades están presentes en aproximadamente el 50-60% de los pacientes con EPOC** que ingresan a la rehabilitación pulmonar.
 
-Se ha llegado a reportar la presencia de **cinco grupos de comorbilidades** en pacientes con EPOC que ingresan a rehabilitación pulmonar**: menos comorbilidad, cardiovascular, caquéctica, metabólica y psicológica.**
+Se ha llegado a reportar la presencia de **cinco grupos de comorbilidades__ en pacientes con EPOC que ingresan a rehabilitación pulmonar**: menos comorbilidad, cardiovascular, caquéctica, metabólica y psicológica.**
 
 A pesar de todo, se ha llegado a mostrar que los pacientes disneicos, no hipercápnicos con EPOC e insuficiencia cardíaca crónica bien establecida con fracción de eyección ventricular izquierda reducida (<40%) **tienen una oxigenación cerebral deteriorada durante el ejercicio progresivo en comparación con sus pares con EPOC sin insuficiencia cardíaca crónica.** Dado que la coexistencia de la EPOC y la insuficiencia cardíaca crónica es muy prevalente en los pacientes ingresados ​​en el hospital o que ingresan a la rehabilitación pulmonar, estos hallazgos merecen más investigación.
 
