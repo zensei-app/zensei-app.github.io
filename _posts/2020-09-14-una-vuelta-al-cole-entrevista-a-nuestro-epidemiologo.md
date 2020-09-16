@@ -6,9 +6,9 @@ date: 2020-09-14T22:00:00.000+00:00
 last_modified_at: 2020-09-14T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: ''
+image: "/uploads/vuelta-al-cole.jpg"
 description: La vuelta al cole no debe ser un quebradero de cabeza. El epidemiólogo
-  David Martín Corral resuelve todas las dudas al respecto respondiendo las preguntas
+  David Martín-Corral resuelve todas las dudas al respecto respondiendo las preguntas
   de Angélica de POiN.
 intro: La **vuelta al cole** viene este año lleva de dudas para padres y madres. Resolver
   estas cuestiones para estar tranquilos mientras los peques están en clase es clave
