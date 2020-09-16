@@ -9,7 +9,20 @@ category: Salud respiratoria
 image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
 description: 'A partir de mañana ya estará disponible la nueva versión de la app,
   tanto para Android como para iOs. '
-intro: ''
+intro: |-
+  El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
+
+  Y aunque la versión antigua de la app gustaba, nuestros usuarios nos hicieron ver que había muchas cosas que mejorar.
+
+  Faltaban muchas localizaciones, funcionalidades en las que no habíamos pensado y otras que no eran tan útiles como creíamos…
+
+  Así que escuchamos a nuestros usuarios y nos pusimos manos a la obra.
+
+  Y así hemos llegado hasta aquí. Zensei 2.0. La nueva versión de Zensei.
+
+  Mejorada.
+
+  Para ti.
 tags: ''
 slug: nueva-version-app-zensei
 
@@ -27,6 +40,8 @@ Y así hemos llegado hasta aquí. Zensei 2.0. La nueva versión de Zensei.
 Mejorada.
 
 Para ti.
+
+Y a partir de mañana podrás disfrutar de ella. 
 
 # **Más sencilla**
 
@@ -104,7 +119,7 @@ Recibe notificaciones y deja de olvidarte de tomar la medicación o apuntar los 
 
 Lo único que tienes que hacer es decidir cuándo quieres recibirlas.
 
-Todos los cambios que se han hecho han sido pensando en poder ayudar mejor a las personas que lo necesitan. 
+Todos los cambios que se han hecho han sido pensando en poder ayudar mejor a las personas que lo necesitan.
 
 Todavía nos quedan muchas cosas que iremos incorporando poco a poco, como ejercicios respiratorios. Pero estamos muy orgullosos del nuevo inicio de Zensei.
 
