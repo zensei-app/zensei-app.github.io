@@ -3,7 +3,7 @@ layout: post
 toc: true
 title: "\U0001F637 Bronquiolitis (Causas, síntomas y tratamiento)"
 date: 2019-07-18T22:00:00.000+00:00
-last_modified_at: 2020-04-14 10:00:00 +0000
+last_modified_at: 2020-09-17 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/bronquiolitis.jpg"
@@ -107,6 +107,88 @@ Hay que prestar atención a otras cuestiones y situaciones que comportan un mayo
 ✅ **El hacinamiento.** Desarrollarse en un entorno hacinado conlleva falta de higiene y condiciones que propician la transmisión de enfermedades.
 
 ✅ **Los hermanos más mayores.** Las familias con hijos mayores de tres años que acuden al colegio o a la guardería pueden contraer la infección. A partir de ahí, serán ellos quienes introduzcan el virus en el hogar y se lo contagien al bebé.
+
+## Coronavirus y VRS
+
+El coronavirus y el virus respiratorio sincitial (VRS) son dos tipos de enfermedades respiratorias que tienen **algunos síntomas similares.** Hasta ahora, el nuevo coronavirus parece ser más peligroso para los adultos, especialmente para los mayores. **El VRS supone mayor riesgo para los niños pequeños,** pero también puede ser grave para las personas mayores y quienes tienen otros problemas de salud.
+
+### Coronavirus vs. VRS
+
+**Los coronavirus son un grupo de virus comunes que infectan el tracto respiratorio.** El más nuevo es el virus que causa la [COVID-19](https://zenseiapp.com/salud%20respiratoria/gu%C3%ADacovid19/).
+
+Aunque la COVID-19 puede afectar a los niños, **los adultos constituyen la mayoría de los casos diagnosticados hasta ahora.** Los adultos también son más propensos a tener síntomas graves por el coronavirus, especialmente si tienen más de 65 años o padecen una afección como diabetes, enfermedad pulmonar o enfermedad cardíaca.
+
+El VRS también puede afectar a personas de distintas edades, pero es especialmente común en bebés y niños pequeños. **A los 2 años, casi todos los niños estarán infectados.** La mayoría de los casos son leves. Pero algunos niños tienen más probabilidades de enfermarse gravemente, entre ellos:
+
+· Bebés de 6 meses o menos
+
+· Bebés que nacieron temprano
+
+· Niños menores de 2 años con enfermedad pulmonar o cardíaca crónica
+
+· Niños con un sistema inmunológico débil
+
+· Niños que tienen problemas para tragar
+
+Cada año, el VRS envía a más de 57,000 niños al hospital tan solo en EE. UU. No obstante, cuando los adultos y los niños mayores contraen el VRS, generalmente solo tienen síntomas menores que son similares a un resfriado. Sin embargo, también **puede ser grave para ciertos pacientes:**
+
+· Personas mayores de 65 años
+
+· Aquellos con un sistema inmunológico debilitado
+
+· Aquellos con enfermedades cardíacas o pulmonares
+
+Unos 177.000 adultos mayores son hospitalizados por VRS cada año en los Estados Unidos, y 14.000 de ellos mueren.
+
+**Ambas enfermedades se transmiten de la misma manera:** una persona infectada tose o estornuda y envía al aire gotitas que contienen el virus. Puede enfermarse si las gotitas caen sobre usted o si toca una superficie que tiene el virus y luego se lleva los dedos a la nariz, la boca o los ojos.
+
+### Comparación de síntomas
+
+Tanto la COVID-19 como el VRS pueden causar estos síntomas:
+
+· Rinorrea
+
+· Fiebre
+
+· Tos
+
+**Los niños con coronavirus suelen presentar síntomas leves o aparecer asintomáticos.** Los adultos con COVID-19 a menudo también notan dificultad para respirar. Sus síntomas pueden variar de leves a potencialmente mortales.
+
+Junto con los síntomas similares a los del resfriado, el VRS causa:
+
+· Pérdida de apetito
+
+· Estornudos
+
+· Dificultad para respirar o sibilancias en niños y adultos
+
+· Mal humor (en niños pequeños)
+
+El VRS también puede provocar problemas más graves como:
+
+· Bronquiolitis, que causa hinchazón en los pequeños sacos de aire de los pulmones.
+
+· Neumonía, una infección pulmonar.
+
+Como puedes observar la sintomatología llega a ser tan parecida que algunos especialistas se han centrado en concebir [un test que pueda diferenciar una enfermedad de otra](https://www.heraldo.es/branded/un-test-para-diferenciar-el-coronavirus-la-gripe-y-el-virus-respiratorio-sincitial/).
+
+### ¿Tu hijo está en riesgo de contraer COVID-19?
+
+El nuevo coronavirus es muy contagioso. Los niños corren el mismo riesgo de contraer la enfermedad que los adultos, aunque las consecuencias suelen ser más leves en los niños. El problema parece estribar en la segunda cadena de contagio y es que los más pequeños pueden servir de [transmisores de la enfermedad a personas de riesgo](https://zenseiapp.com/salud%20respiratoria/vuelta-al-cole/), como abuelos o parientes con dolencias preexistentes.
+
+Pero, tal vez lo más importante sea que tanto para minimizar el riesgo de contraer bronquiolitis como infectarse de COVID-19 se deben tomar las mismas medidas. La mejor manera de evitar que tú y tus hijos sucumbáis al coronavirus o al VRS es **mantenerse alejado de cualquier persona que pueda estar enferma**.
+
+Aquí hay algunos otros consejos de prevención que funcionan bien para ambas enfermedades:
+
+· Lavarse las manos con agua y jabón durante 20 segundos, especialmente después de ir al baño y antes de comer. Usa un desinfectante de manos a base de alcohol si no hay agua y jabón disponibles.
+
+· Mantén las manos alejadas de boca, nariz y ojos. Para los niños, eso significa no chuparse el dedo ni hurgarse la nariz.
+
+· Pide a todos en la casa que tosan y estornuden en el codo o en un pañuelo de papel, no en la mano.
+
+· Limpia y desinfecta las cosas que se tocan con frecuencia, como pomos de puertas, mostradores y juguetes.
+
+· No permitas que los niños compartan artículos personales como utensilios o tazas con nadie.
 
 ## Cifras y datos sobre la bronquiolitis aguda
 
@@ -221,3 +303,23 @@ Si tu hijo tiene problemas para alimentarse, puede recibir líquidos o leche a t
 La succión nasal no se usa habitualmente en niños con bronquiolitis. Pero puede recomendarse si la nariz está bloqueada y hay problemas para respirar.
 
 Por último, cabe destacar que **el tratamiento con antibióticos y corticosteroides no suelen ejercer efecto** sobre la bronquiolitis. El facultativo recomendará las acciones más recomendables en cada caso.
+
+_Referencias:_
+
+[_Bronchiolitis. The Royal Children’s Hospital Melbourne_](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/)
+
+[_Bronchiolitis. Cleveland Clinic_](https://my.clevelandclinic.org/health/diseases/8272-bronchiolitis)
+
+[_Life-threatening bronchiolitis in children: eight decades of critical care. Reinout A Bem, Louis J Bont, Job B M van Woensel. The Lancet_](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(19)30445-X/fulltext)
+
+[_Learn about Bronquiolitis. American Lung Association_](https://www.lung.org/lung-health-diseases/lung-disease-lookup/bronchiolitis/learn-about-bronchiolitis)
+
+[_What Is Bronchiolitis? WebMD_](https://www.webmd.com/lung/what-is-bronchiolitis)
+
+[_Bronquiolitis. Mayo Clinic_](https://www.mayoclinic.org/es-es/diseases-conditions/bronchiolitis/symptoms-causes/syc-20351565#:\~:text=La%20bronquiolitis%20es%20una%20infecci%C3%B3n,a%20causa%20de%20un%20virus.)
+
+[_Bronquiolitis. Dra. Virginia Soler Vigil​. HM Hospitales_](https://www.hmhospitales.com/usuario-hm/apuntes-de-salud/bronquiolitis)
+
+[_¿Qué es la bronquiolista? Antonio Ramón Torres. Sociedad Española de Neumología Pediátrica_](https://neumoped.org/bronquiolitis/)
+
+[_¿Cómo tratar una bronquiolitis? Sanitas_](https://www.sanitas.es/sanitas/seguros/es/particulares/biblioteca-de-salud/prevencion-salud/bronquiolitis.html)
