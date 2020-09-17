@@ -16,6 +16,8 @@ tags: vuelta al cole, bronquiolitis, virus, temporada de frío
 slug: bronquiolitis
 
 ---
+![](/uploads/bronquiolitis.jpg)
+
 **La bronquiolitis es una infección pulmonar bastante común entre los bebés**. Puede causar tos, sibilancias y dificultad para respirar. Es importante saber que la mayor parte de los pacientes reciben su tratamiento en casa. No obstante, también es cierto que es la **razón principal por la que los bebés ingresan en el hospital.**
 
 Esta enfermedad **puede ser contraída por adultos**. Sin embargo, el **porcentaje de afectados es muy bajo** y, por lo general, la bronquiolitis en mayores suele venir de la mano de otras infecciones o lesiones.
