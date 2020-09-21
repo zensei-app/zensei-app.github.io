@@ -7,7 +7,7 @@ last_modified_at: 2020-09-14T22:00:00.000+00:00
 author: Cristina
 category: Salud respiratoria
 image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
-description: 'A partir de mañana ya estará disponible la nueva versión de la app,
+description: 'A partir de mañana podrás disfrutar de todas las novedades de Zensei
   tanto para Android como para iOs. '
 intro: |-
   El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
@@ -27,6 +27,12 @@ tags: ''
 slug: nueva-version-app-zensei
 
 ---
+Ahora te ayudará con tu estado de salud gracias a las novedades como los consejos personalizados, avisos, nuevos síntomas y hasta consultas.
+
+A partir de mañana podrás disfrutar de ella tanto para Android como para iOs.
+
+¡Sigue leyendo! Te contamos todo lo nuevo.
+
 # **Más sencilla**
 
 Se ha rediseñado la app para que sea más intuitiva, por lo que es más fácil y cómoda de usar.
@@ -35,77 +41,118 @@ En ella encontrarás de un solo vistazo el diario, los factores del aire y tus f
 
 ¡No tiene pérdida!
 
-# **Modifica las entradas del Diario de Salud Respiratoria**
+# **Notificaciones**
 
-Antes solo podías guardar tus síntomas respiratorios una vez al día en tu Diario. Ahora puedes modificarlos las veces que quieras.
+Recibe notificaciones y alertas que te interesan para que siempre estés informado y puedas prevenir en cualquier momento.
 
-Puedes añadir los síntomas cuando los tengas, en cualquier momento.
-
-Y, ¿qué ocurre cuando no tienes síntomas? Ahora también podrás añadir días sin síntomas.
-
-Parece una tontería, pero es muy importante. Lo más difícil al principio es acostumbrarse a poner los síntomas a diario, sobre todo si son intermitentes.
-
-Esta función te ayudará a coger esa rutina. Además, no tener síntomas también es algo para recordar.
-
-![](/uploads/zensei-diario.png)
-
-# **Descubre consejos y remedios personalizados**
-
-Cada vez que añadas una entrada en tu diario, en función de los síntomas, tu estado de ánimo, tus emociones y de los factores del aire aparecerán consejos o remedios que te vendrán bien en ese momento.
-
-Además, podrás añadirlos a tus favoritos y acudir a ellos siempre que los necesites.
+Lo único que tienes que hacer es decidir cuándo quieres recibirlas: al despertar, en la comida o al llegar a casa, a la hora que mejor te venga.
 
 # **Muchas más ciudades y municipios**
 
-Muchos nos lo habéis pedido. Más municipios y más ciudades.
+Una de las novedades es que ahora podrás seleccionar tu municipio y conocer los factores concretos de tu entorno.
 
-De momento solo hemos ampliado en España, pero estamos trabajando para poco a poco ir añadiendo más países.
+Esto permitirá tener un perfil mucho más personalizado y adecuado a ti.
 
-Si no encuentras tu ciudad o municipio, escríbenos a ayuda@zenseiapp.com
+De momento solo hemos ampliado las ciudades y municipios de España, pero con vuestro apoyo podremos seguir creciendo y añadir más países.
 
-# **Conoce el aire que respiras**
+Si vives fuera de España, no te preocupes. Puedes seguir usando el Diario, las alertas y los consejos personalizados.
 
-En la página principal encontrarás los factores que había antes que pueden afectar a tu respiración y algunos nuevos que también son importantes como el ozono o las partículas muy pequeñas suspendidas en el aire.
+Ten paciencia.
 
-![](/uploads/zensei-alertas-respiratorias-1.png)
+Estamos trabajando muy duro para conseguir nuevos países y ciudades y que muchas más personas podáis disfrutar de la app al completo.
 
-# **Tus alergias y condiciones de salud**
-
-En tu perfil podrás añadir tus afecciones como alergia al polen, asma o catarros frecuentes.
-
-Toda esta información permitirá crear tu perfil único digital de salud respiratoria para ayudarte con mayor precisión.
+Si no encuentras tu ciudad o municipio, escríbenos a [ayuda@zenseiapp.com](mailto:ayuda@zenseiapp.com) y te ayudaremos encantados.
 
 # **Asistencia médica con Mediquo**
 
-Accede rápidamente a consultas con médicos de confianza.
+Muchas de las personas que usan Zensei nos escriben a diario intranquilas con dudas sobre sus síntomas respiratorios, sin saber qué hacer hasta la próxima consulta con el médico.
 
-Podrás encontrar tu historial de salud creado en Zensei que podrás compartir con quien quieras y un apartado de notas para apuntar y recordar todo lo que quieras preguntar a tu médico.
+Por eso hemos confiado en Mediquo para darte tranquilidad en estas situaciones.
+
+Desde Zensei podrás acceder a sus videoconsultas con un especialista cuando más lo necesites.
+
+Además, ahora encontrarás tu historial de salud en la app y lo podrás compartir con quien quieras y un apartado de notas para apuntar y recordar todo lo que quieras preguntar a tu médico.
+
+Todo esto te ayudará a que las consultas sean más personalizadas y que tu médico te conozca mejor.
 
 # **Nuevos síntomas, actividades y medicación**
 
-En el Diario encontrarás nuevos síntomas e incluso podrás añadir tu estado de ánimo, tus emociones, si estabas haciendo alguna actividad concreta y tu medicación.
+Llevar un Diario de síntomas es imprescindible para conocerte mejor y poder controlar y ver la evolución de los problemas respiratorios y los síntomas.
 
-Todo esto ayudará a que los consejos sean más precisos y podrás encontrar pautas de comportamiento de tus síntomas.
+En esta actualización encontrarás nuevos síntomas e incluso podrás añadir tu estado de ánimo, tus emociones, si estabas haciendo alguna actividad concreta y tu medicación.
+
+Todo esto ayudará a que los consejos sean más precisos y podrás descubrir pautas de comportamiento de tus síntomas.
 
 ![](/uploads/zensei-sintomas-respiratorios.png)
+
+# **Modifica las entradas del Diario de Salud Respiratoria**
+
+Tu salud durante el día puede variar mucho y antes solo podías guardar tus síntomas respiratorios una vez al día en tu Diario.
+
+Ahora puedes modificarlos las veces que quieras.
+
+Añade los síntomas cuando los tengas.
+
+En cualquier momento.
+
+Y, ¿qué ocurre cuando no tienes síntomas?
+
+Ahora es más sencillo que nunca gracias al botón **Sin síntomas.**
+
+Recordar los días buenos es muy importante para conocer en detalle la evolución de tu salud respiratoria, y compartirla con tu médico.
+
+Lo más difícil al principio es acostumbrarse a poner los síntomas a diario, sobre todo si son intermitentes.
+
+Esta función te ayudará a coger esa rutina.
+
+![](/uploads/zensei-diario.png)
+
+# **Tus alergias y condiciones de salud**
+
+Sin ningún tipo de duda, Zensei ahora es mucho más personalizado.
+
+Por lo que tu perfil también.
+
+La salud de cada persona es única, por lo que ahora podrás añadir otras alergias como al pelo de los gatos, o incluso condiciones de salud como por ejemplo los catarros frecuentes.
+
+Toda esta información permitirá crear tu perfil único digital de salud respiratoria para ayudarte con mayor precisión.
+
+# **Conoce el aire que respiras**
+
+Conocer los factores de tu entorno es muy importante para poder evitar los horribles síntomas.
+
+Ahora podrás conocer todos los factores de tu entorno de un modo fácil y sencillo antes de que afecten a tu respiración.
+
+Además de personalizar los factores que te afectan te enseñaremos muchos otros que también son importantes y pueden afectar a tu salud y empeorar tus síntomas sin que te des cuenta, como el ozono o las partículas muy pequeñas suspendidas en el aire.
+
+![](/uploads/zensei-alertas-respiratorias-1.png)
 
 # **COVID**
 
 Al igual que en la versión antigua, encontrarás la evolución de ciertas enfermedades como la gripe o el resfriado.
 
-Ahora también podrás ver la evolución del COVID, sus síntomas, los test que puedes hacer y la futura vacuna.
+Ahora también podrás ver la evolución del COVID y verás todos sus síntomas en el diario.
 
-Además, si presentas síntomas se te avisará para que tomes medidas cuanto antes.
+Si presentas síntomas compatibles con COVID o gripe te avisaremos para que puedas tomar medidas cuanto antes.
 
-# **Notificaciones**
+Además, incluimos los test que puedes realizarte y la futura vacuna, para que personalices tu perfil y te demos consejos personalizados.
 
-Recibe notificaciones y deja de olvidarte de tomar la medicación o apuntar los síntomas.
+# **Descubre consejos y remedios personalizados**
 
-Lo único que tienes que hacer es decidir cuándo quieres recibirlas.
+Reconocer los síntomas es una tarea complicada y muchos usuarios nos han comentado que a menudo se enfrentan a situaciones en las que no saben qué hacer.
 
-Todos los cambios que se han hecho han sido pensando en poder ayudar mejor a las personas que lo necesitan.
+Sin embargo, en muchas ocasiones se pueden hacer cosas para encontrarse mejor.
 
-Todavía nos quedan muchas cosas que iremos incorporando poco a poco, como ejercicios respiratorios. Pero estamos muy orgullosos del nuevo inicio de Zensei.
+Por eso ahora, cada vez que añadas una entrada en tu diario, en función de los síntomas, tu estado de ánimo, tus emociones y de los factores que te afectan recibirás consejos o remedios totalmente personalizados que te ayudarán a controlar y prevenir los síntomas.
+
+Además, podrás añadirlos a tus favoritos y acudir a ellos siempre que los necesites.
+
+  
+Esperamos que estos cambios ayuden a las personas que usan Zensei a conocer mejor su salud, prevenir síntomas horribles y saber qué hacer para respirar mejor.
+
+Todavía nos quedan muchas cosas que iremos incorporando poco a poco, como ejercicios respiratorios.
+
+Y con tu apoyo lo conseguiremos.
 
 Llevamos desde el 2017 con el objetivo de ayudar a personas de todo el mundo a respirar mejor y fomentar la salud preventiva y personalizada.
 
