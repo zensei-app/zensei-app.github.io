@@ -4,7 +4,7 @@ $(document).ready(function () {
     message: "Esta web utiliza cookies. ",
     dismiss: "Vale",
     learnMore: "Más info",
-    link: "/politica-cookies.html",
+    link: "/politica-cookies/",
     theme: "dark-bottom",
     target: "_blank",
   };
