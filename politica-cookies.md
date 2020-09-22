@@ -201,9 +201,7 @@ Google           | <https://safety.google/privacy/privacy-controls/>            
 Hotjar           | <https://www.hotjar.com/legal/compliance/opt-out>                      |
 Twitter          | <https://help.twitter.com/nl/safety-and-security#ads-and-data-privacy> |
 
-  ---------------------------------------
   **PANEL DE CONFIGURACIÓN DE COOKIES**
-  ---------------------------------------
 
 Desde este panel podrá configurar las cookies que el sitio web puede
 instalar en su navegador, excepto las cookies técnicas o funcionales que
@@ -211,17 +209,13 @@ son necesarias para la navegación y la utilización de las diferentes
 opciones o servicios que se ofrecen.
 
 
-  ---------------------------------------------------
   **CÓMO GESTIONAR LAS COOKIES DESDE EL NAVEGADOR**
-  ---------------------------------------------------
 
 | **Eliminar las cookies del dispositivo**          | Las cookies que ya están en un dispositivo se pueden eliminar borrando el historial del navegador, con lo que se suprimen las cookies de todos los sitios web visitados. Sin embargo, también se puede perder parte de la información guardada (por ejemplo, los datos de inicio de sesión o las preferencias de sitio web).
 | **Gestionar las cookies específicas del sitio**   | Para tener un control más preciso de las cookies específicas de cada sitio, los usuarios pueden ajustar su configuración de privacidad y cookies en el navegador. 
 | **Bloquear las cookies**                          | Aunque la mayoría de los navegadores modernos se pueden configurar para evitar que se instalen cookies en los dispositivos, eso puede obligar al ajuste manual de determinadas preferencias cada vez que se visite un sitio o página. Además, algunos servicios y características pueden no funcionar correctamente (por ejemplo, los inicios de sesión con perfil).
 
-  --------------------------------------------------------------
   **CÓMO ELIMINAR LAS COOKIES DE LOS NAVEGADORES MÁS COMUNES**
-  --------------------------------------------------------------
 
 |  **Chrome**                        | <http://support.google.com/chrome/answer/95647?hl=es>
 |  **Internet Explorer. Versión 11** | <https://support.microsoft.com/es-es/help/278835/how-to-delete-cookie-files-in-internet-explorer>
