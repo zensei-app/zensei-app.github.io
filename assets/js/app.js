@@ -19,17 +19,6 @@ $(document).ready(function () {
       "href": "https://zenseiapp.com/politica-cookies/"
     }
   });
-
-  (function (d, s, id) {
-    var js,
-      cjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src =
-      "//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js";
-    cjs.parentNode.insertBefore(js, cjs);
-  })(document, "script", "cookie-consent");
   // End Cookie Consent plugin
 
   // Begin social
