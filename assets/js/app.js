@@ -1,13 +1,24 @@
 // Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
 $(document).ready(function () {
-  window.cookieconsent_options = {
-    message: "Esta web utiliza cookies. ",
-    dismiss: "Vale",
-    learnMore: "Más info",
-    link: "/politica-cookies/",
-    theme: "dark-bottom",
-    target: "_blank",
-  };
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "#f1d600"
+      }
+    },
+    "position": "bottom-right",
+    "type": "opt-out",
+    "content": {
+      "message": "Utilizamos cookies propias y de terceros para analizar nuestros servicios y mostrarte publicidad relacionada con tus preferencias en base a un perfil elaborado a partir de tus hábitos denavegación (por ejemplo, páginas visitadas).",
+      "dismiss": "Aceptar",
+      "deny": "Rechazar",
+      "link": "Puedes obtener más información y configurar tus preferencias.",
+      "href": "https://zenseiapp.com/politica-cookies/"
+    }
+  });
 
   (function (d, s, id) {
     var js,
@@ -16,7 +27,7 @@ $(document).ready(function () {
     js = d.createElement(s);
     js.id = id;
     js.src =
-      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js";
+      "//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js";
     cjs.parentNode.insertBefore(js, cjs);
   })(document, "script", "cookie-consent");
   // End Cookie Consent plugin
