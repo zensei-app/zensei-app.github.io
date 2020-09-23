@@ -6,7 +6,7 @@ date: 2020-09-21 22:00:00 +0000
 last_modified_at: 2020-09-21 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: ''
+image: "/uploads/1-vuelta-al-cole-portada.jpg"
 description: Te contamos cómo debes asumir la vuelta al cole durante la pandemia del
   coronavirus.
 intro: Muchos padres expresan su temor a la vuelta al cole debido al COVID-19. Sin
