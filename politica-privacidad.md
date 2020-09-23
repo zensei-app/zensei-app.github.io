@@ -143,7 +143,7 @@ en su mayoría en la Unión Europea. También trabajamos con Amazon Web
 Services que cumple con la normativa de protección de datos. Sus
 servidores están en la Unión Europea.
 
-Para las analíticas utilizamos Google Analytics, Sentry y Branch que
+Para las analíticas utilizamos Google Analytics y Sentry que
 también están en Estados Unidos. Hemos comprobado que cumplen con la
 normativa de protección de datos aunque no recogen datos que permitan
 identificar a los usuarios sino estadísticas.
