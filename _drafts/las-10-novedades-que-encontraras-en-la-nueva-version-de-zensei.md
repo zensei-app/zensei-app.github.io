@@ -7,8 +7,8 @@ last_modified_at: 2020-09-14T22:00:00.000+00:00
 author: Cristina
 category: Salud respiratoria
 image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
-description: 'A partir de mañana podrás disfrutar de todas las novedades de Zensei
-  tanto para Android como para iOs. '
+description: 'Ya puedes disfrutar de todas las novedades de Zensei tanto para Android
+  como para iOs. '
 intro: |-
   El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
 
@@ -127,15 +127,13 @@ Además de personalizar los factores que te afectan te enseñaremos muchos otros
 
 ![](/uploads/zensei-alertas-respiratorias-1.png)
 
-# **COVID**
+# **Alertas de virus respiratorios**
 
-Al igual que en la versión antigua, encontrarás la evolución de ciertas enfermedades como la gripe o el resfriado.
+Al igual que en la versión antigua, encontrarás la evolución de algunos virus respiratorios como la gripe, el COVID o la bronquiolitis.
 
-Ahora también podrás ver la evolución del COVID y verás todos sus síntomas en el diario.
+Todos sus síntomas aparecerán en el diario y si presentas síntomas compatibles con alguno recibirás una alerta para que puedas tomar medidas cuanto antes.
 
-Si presentas síntomas compatibles con COVID o gripe te avisaremos para que puedas tomar medidas cuanto antes.
-
-Además, incluimos los test que puedes realizarte y la futura vacuna, para que personalices tu perfil y te demos consejos personalizados.
+También encontrarás los test que puedes realizarte, para que personalices tu perfil y te demos consejos personalizados.
 
 # **Descubre consejos y remedios personalizados**
 
@@ -147,7 +145,6 @@ Por eso ahora, cada vez que añadas una entrada en tu diario, en función de los
 
 Además, podrás añadirlos a tus favoritos y acudir a ellos siempre que los necesites.
 
-  
 Esperamos que estos cambios ayuden a las personas que usan Zensei a conocer mejor su salud, prevenir síntomas horribles y saber qué hacer para respirar mejor.
 
 Todavía nos quedan muchas cosas que iremos incorporando poco a poco, como ejercicios respiratorios.
