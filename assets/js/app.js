@@ -1,9 +1,9 @@
 // Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
 $(document).ready(function () {
   window.cookieconsent_options = {
-    message: "Esta web utiliza cookies. ",
-    dismiss: "Vale",
-    learnMore: "Más info",
+    message: "Utilizamos cookies propias y de terceros para fines analíticos y para mostrarte publicidad personalizada en base a un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas). Puedes aceptar todas las cookies pulsando el botón “Aceptar”.",
+    dismiss: "Aceptar",
+    learnMore: "Más información.",
     link: "/politica-cookies/",
     theme: "dark-bottom",
     target: "_blank",
