@@ -9,27 +9,25 @@ category: Salud respiratoria
 image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
 description: 'Ya puedes disfrutar de todas las novedades de Zensei tanto para Android
   como para iOs. '
-intro: |-
-  El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios.
-
-  Y aunque la versión antigua de la app gustaba, nuestros usuarios nos hicieron ver que había muchas cosas que mejorar.
-
-  Faltaban muchas localizaciones, funcionalidades en las que no habíamos pensado y otras que no eran tan útiles como creíamos…
-
-  Así que escuchamos a nuestros usuarios y nos pusimos manos a la obra.
-
-  Y así hemos llegado hasta aquí. Zensei 2.0. La nueva versión de Zensei.
-
-  Mejorada.
-
-  Para ti.
+intro: "El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios
+  como asma, EPOC, catarros frecuentes, alergia al polen o post covid. \n\nLa versión
+  de la app diario de salud respiratoria, que lanzamos en Abril del 2018, gustaba,
+  pero nuestros usuarios nos hicieron ver que había muchas cosas que mejorar.\n\nFaltaban
+  muchas localizaciones, funcionalidades en las que no habíamos pensado y otras que
+  no eran tan útiles como creíamos…\n\nAsí que analizamos la opinión y mensajes de
+  mejora de nuestros usuarios y nos pusimos manos a la obra.\n\nY así hemos llegado
+  hasta aquí. Zensei 2.0. La nueva versión de Zensei.\n\nMejorada.\n\nPara ti."
 tags: ''
 slug: nueva-version-app-zensei
 
 ---
-Ahora te ayudará con tu estado de salud gracias a las novedades como los consejos personalizados, avisos, nuevos síntomas y hasta consultas.
+Ahora te ayudará con tu estado de salud gracias a las novedades como los consejos personalizados para que sepas que hacer en todo momento, nuevos síntomas para que puedas llevar un mejor control de tu salud respiratoria, sincronización de datos para que no pierdas tus datos nunca más y hasta consultas para que puedas preguntar en todo momento tus dudas de salud.
 
-A partir de mañana podrás disfrutar de ella tanto para Android como para iOs.
+Si quieres verla en acción antes de descargarla en el siguiente vídeo puedes hacerlo. Esperamos que os guste el vídeo que hemos preparado con mucho cariño.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/Z4T1Ok_c2QI](https://www.youtube.com/embed/Z4T1Ok_c2QI "https://www.youtube.com/embed/Z4T1Ok_c2QI")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+En los siguientes enlaces podrás disfrutar de ella tanto para [Android](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es) como para [iOS](https://apps.apple.com/us/app/id1531710304).
 
 ¡Sigue leyendo! Te contamos todo lo nuevo.
 
@@ -37,7 +35,7 @@ A partir de mañana podrás disfrutar de ella tanto para Android como para iOs.
 
 Se ha rediseñado la app para que sea más intuitiva, por lo que es más fácil y cómoda de usar.
 
-En ella encontrarás de un solo vistazo el diario, los factores del aire y tus favoritos (más adelante te contamos de qué se trata).
+En ella encontrarás de un solo vistazo el diario, los factores de riesgo del aire que respiras (polución, pólenes y virus) y tus favoritos (más adelante te contamos de qué se trata).
 
 ¡No tiene pérdida!
 
@@ -55,11 +53,9 @@ Esto permitirá tener un perfil mucho más personalizado y adecuado a ti.
 
 De momento solo hemos ampliado las ciudades y municipios de España, pero con vuestro apoyo podremos seguir creciendo y añadir más países.
 
-Si vives fuera de España, no te preocupes. Puedes seguir usando el Diario, las alertas y los consejos personalizados.
+Si vives fuera de España, no te preocupes. Puedes seguir usando el diario, las alertas y los consejos personalizados.
 
-Ten paciencia.
-
-Estamos trabajando muy duro para conseguir nuevos países y ciudades y que muchas más personas podáis disfrutar de la app al completo.
+Estamos trabajando muy duro para conseguir nuevos países y ciudades y que muchas más personas podáis disfrutar de la app al completo para que puedas ver el aire que respiras en tu ciudad. 
 
 Si no encuentras tu ciudad o municipio, escríbenos a [ayuda@zenseiapp.com](mailto:ayuda@zenseiapp.com) y te ayudaremos encantados.
 
@@ -163,4 +159,10 @@ Suena a cliché pero es totalmente cierto: sin vosotros, nada de esto tendría s
 
 Esperamos que os encante la nueva versión de la app tanto como a nosotros.
 
-P.D.: Cualquier sugerencia, duda o si simplemente queréis hablar con nosotros, por favor, no dudéis en hacerlo en hola@zenseiapp.com
+En los siguientes enlaces puedes descargarte nuestra app diario de salud respiratoria.
+
+[Descargar versión para Android](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es)
+
+[Descargar versión para iOS](https://apps.apple.com/us/app/id1531710304)
+
+P.D.: En los enlaces de arriba puedes descargarte nuestra app diario de salud respiratoria. Cualquier sugerencia, duda o si simplemente queréis hablar con nosotros, por favor, no dudéis en hacerlo en hola@zenseiapp.com
