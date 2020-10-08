@@ -25,7 +25,7 @@ Ahora te ayudará con tu estado de salud gracias a las novedades como los consej
 
 Si quieres verla en acción antes de descargarla en el siguiente vídeo puedes hacerlo. Esperamos que os guste el vídeo que hemos preparado con mucho cariño.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/Z4T1Ok_c2QI](https://www.youtube.com/embed/Z4T1Ok_c2QI "https://www.youtube.com/embed/Z4T1Ok_c2QI")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/embed/Z4T1Ok_c2QI](https://www.youtube.com/embed/Z4T1Ok_c2QI "https://www.youtube.com/embed/Z4T1Ok_c2QI")
 
 En los siguientes enlaces podrás disfrutar de ella tanto para [Android](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es) como para [iOS](https://apps.apple.com/us/app/id1531710304).
 
@@ -55,7 +55,7 @@ De momento solo hemos ampliado las ciudades y municipios de España, pero con vu
 
 Si vives fuera de España, no te preocupes. Puedes seguir usando el diario, las alertas y los consejos personalizados.
 
-Estamos trabajando muy duro para conseguir nuevos países y ciudades y que muchas más personas podáis disfrutar de la app al completo para que puedas ver el aire que respiras en tu ciudad. 
+Estamos trabajando muy duro para conseguir nuevos países y ciudades y que muchas más personas podáis disfrutar de la app al completo para que puedas ver el aire que respiras en tu ciudad.
 
 Si no encuentras tu ciudad o municipio, escríbenos a [ayuda@zenseiapp.com](mailto:ayuda@zenseiapp.com) y te ayudaremos encantados.
 
