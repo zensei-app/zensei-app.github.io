@@ -2,8 +2,8 @@
 layout: post
 toc: false
 title: 'Las 10 novedades que encontrarás en la nueva versión de Zensei '
-date: 2020-09-14T22:00:00.000+00:00
-last_modified_at: 2020-09-14T22:00:00.000+00:00
+date: 2020-10-07 22:00:00 +0000
+last_modified_at: 2020-10-07 22:00:00 +0000
 author: Cristina
 category: Salud respiratoria
 image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
