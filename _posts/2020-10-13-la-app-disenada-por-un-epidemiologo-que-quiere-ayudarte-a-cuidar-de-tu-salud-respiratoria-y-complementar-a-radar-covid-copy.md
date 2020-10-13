@@ -52,22 +52,6 @@ Email: [cristina@zenseiapp.com](mailto:cristina@zenseiapp.com)
 
 **Vídeo de producto:** [https://youtu.be/Z4T1Ok_c2QI](https://youtu.be/Z4T1Ok_c2QI "https://youtu.be/Z4T1Ok_c2QI")
 
-**Links de interés**
-
-Home: [https://zenseiapp.com](https://zenseiapp.com "https://zenseiapp.com")
-
-Blog de salud respiratoria: [https://zenseiapp.com/blog](https://zenseiapp.com/blog "https://zenseiapp.com/blog")
-
-Versión Android: [https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal "https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal")
-
-Versión iOS:
-
-[https://apps.apple.com/us/app/id1531710304](https://apps.apple.com/us/app/id1531710304 "https://apps.apple.com/us/app/id1531710304")
-
-Link votación BHHAwards:
-
-[https://bhhsummit.com/bhh-awards/](https://bhhsummit.com/bhh-awards/ "https://bhhsummit.com/bhh-awards/")
-
 **Redes sociales**
 
 [Facebook](https://www.facebook.com/zenseiapp)
