@@ -52,26 +52,6 @@ Email: [cristina@zenseiapp.com](mailto:cristina@zenseiapp.com)
 
 **Vídeo de producto:** [https://youtu.be/Z4T1Ok_c2QI](https://youtu.be/Z4T1Ok_c2QI "https://youtu.be/Z4T1Ok_c2QI")
 
-**Algunos medios que ya han hablado sobre nosotros:**
-
-[Esta app te echa una mano si tienes problemas respiratorios](https://byzness.elperiodico.com/es/startups/20200414/zensei-startup-app-problemas-respiratorios-7927291)
-
-[Zensei una aplicación que nos ayuda a prevenir los problemas respiratorios](https://www.xatakamovil.com/aplicaciones/zensei-una-aplicacion-que-nos-ayuda-a-prevenir-los-problemas-respiratorios)
-
-[Una aplicación que detecta el riesgo de enfermar](https://elpais.com/ccaa/2018/03/03/madrid/1520107047_318938.html)
-
-[Consejos de madre con base científica](https://elpais.com/elpais/2017/07/12/talento_digital/1499880554_103986.html)
-
-[Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)
-
-[Nuevos modelos matemáticos aconsejan seguir con los niveles de confinamiento actuales y hacer más tests](https://hipertextual.com/2020/03/nuevos-modelos-matematicos-aconsejan-seguir-con-niveles-confinamiento-actuales-y-hacer-mas-test)
-
-[La investigación de un toledano concluye que encontrar el 50% de positivos evitaría una segunda ola](https://www.encastillalamancha.es/sanidad/la-investigacion-de-un-toledano-concluye-que-encontrar-el-50-por-100-de-positivos-evitaria-una-segunda-ola/)
-
-[Científico toledano y su receta para evitar una segunda ola](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)
-
-[Modelo de predicción de la gripe a dos semanas de Zensei](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
-
 **Links de interés**
 
 Home: [https://zenseiapp.com](https://zenseiapp.com "https://zenseiapp.com")
