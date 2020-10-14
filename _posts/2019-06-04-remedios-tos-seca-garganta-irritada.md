@@ -1,9 +1,9 @@
 ---
 layout: post
 toc: true
-title: "\U0001F616 15 Remedios para la Tos Seca y Garganta Irritada "
+title: Cómo acabar con la tos seca persistente
 date: 2019-06-04T22:00:00.000+00:00
-last_modified_at: 2020-04-03 10:00:00 +0000
+last_modified_at: 2020-10-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/Tos seca.jpg"
