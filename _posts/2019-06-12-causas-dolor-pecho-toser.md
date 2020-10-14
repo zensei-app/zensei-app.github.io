@@ -1,16 +1,17 @@
 ---
 layout: post
 toc: true
-title: "\U0001F927 Dolor en el pecho al toser: Causas y tratamiento"
+title: 'Dolor de pecho al toser: Causas y tratamiento'
 date: 2019-06-12T22:00:00.000+00:00
-last_modified_at: 2020-04-23 09:00:00 +0000
+last_modified_at: 2020-10-14 09:00:00 +0000
 category: Salud Respiratoria
 author: Ana
 image: "/uploads/Dolor en el pecho al toser.jpg"
 description: Sentir dolor en el pecho al toser no tiene por qué ir asociado a una
   dolencia grave. Pero si la situación persiste se debe consultar al médico urgentemente.
-intro: Existen muchas causas que pueden provocar **dolor en el pecho al toser**. De
-  todos modos, no todas se revisten de gravedad. Te mostramos algunas causas.
+intro: "Existen muchas causas que pueden provocar **dolor en el pecho al toser**.
+  \n\nDe todos modos, no todas son graves\n\nSi quieres conocer posibles causas, sigue
+  leyendo, que te las contamos e intentamos ayudarte a que te encuentres mejor.\n"
 tags:
 - dolor pecho tos
 - pitos
@@ -21,11 +22,11 @@ redirect_from: "/blog/causas-dolor-pecho-toser/"
 ---
 ![tos y dolor pecho](/uploads/Dolor en el pecho al toser.jpg "Dolor en el pecho")
 
-**Existen muchas causas que pueden provocar dolor en el pecho al toser.** En ciertos casos, incluso la sintomatología puede ir acompañada de chillido en el pecho. De todos modos, **no todos los procesos que cursan tos con dolor en el pecho revisten gravedad.** Te mostramos algunas circunstancias.
+**Existen muchas causas que pueden provocar** [**dolor en el pecho**](https://www.mayoclinic.org/es-es/diseases-conditions/chest-pain/symptoms-causes/syc-20370838) **al toser.** En ciertos casos, incluso la sintomatología puede ir acompañada de chillido en el pecho. De todos modos, **no todos los procesos que cursan tos con dolor en el pecho revisten gravedad.** Te mostramos algunas circunstancias.
 
 El dolor torácico puede manifestarse de diversas formas. Puedes sentir **desde una punzada aguda hasta una molestia sorda.** Se dan ocasiones en las que puede ponerse de manifiesto a través de **presión en el pecho** por ansiedad. Este problema en concreto también puede ir acompañado de dolor en el pecho y en la espalda.
 
-Pero, para comprender situaciones asociados a la tos, como el sonido en el pecho o las sibilancias, sería recomendable comprender [qué es la tos.](https://zenseiapp.com/salud%20respiratoria/remedios-tos-seca-garganta-irritada/)
+Pero, para comprender situaciones asociados a la [tos](https://es.wikipedia.org/wiki/Tos), como el [sonido en el pecho o las sibilancias](https://zenseiapp.com/asma/sibilancias-pitidos-respiratorios/), sería recomendable comprender [qué es la tos.](https://zenseiapp.com/salud%20respiratoria/remedios-tos-seca-garganta-irritada/)
 
 ## Qué es la tos
 
