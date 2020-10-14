@@ -6,7 +6,7 @@ redirect_from:
 - "/blog/sibilancias-pitidos-respiratorios/"
 - "/blog/2018/05/08/sibilancias-pitidos-respiratorios/"
 title: Sibilancias o Pitidos al respirar - Causas y cómo evitarlos
-last_modified_at: 2020-05-22T10:00:00.000+00:00
+last_modified_at: 2020-10-14 10:00:00 +0000
 date: 2018-05-08T08:00:00.000+00:00
 author: Ana Pérez y Mar Santiago
 category: Asma
