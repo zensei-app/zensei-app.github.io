@@ -21,9 +21,9 @@ redirect_from:
 ---
 ![](/uploads/Tos seca y garganta irritada.jpg)
 
-La tos seca y la garganta irritada son sintomatologías que acompañan a muchas [enfermedades respiratorias.](https://zenseiapp.com/salud%20respiratoria/) **En la mayoría de los casos no tienen por qué revestir gravedad.** Sin embargo, su aparición va acompañada de molestias que interfieren en nuestro día a día.
+La tos seca persistente y la garganta irritada son sintomatologías que acompañan a muchas [enfermedades respiratorias.](https://zenseiapp.com/salud%20respiratoria/) **En la mayoría de los casos no tienen por qué revestir gravedad.** Sin embargo, su aparición va acompañada de molestias que interfieren en nuestro día a día.
 
-La persistencia de este cuadro clínico acarrea un **malestar que se prolonga por la noche,** impidiendo el descanso adecuado. **Los enfermos se sienten cansados y doloridos.** Analizamos todos los factores y te ofrecemos 15 remedios para la tos seca y la garganta irritada.
+La persistencia de este cuadro clínico acarrea un **malestar que se prolonga por la noche,** impidiendo el descanso adecuado. **Los enfermos se sienten cansados y doloridos.** Analizamos todos los factores y te ofrecemos 15 remedios para la tos seca persistente y la garganta irritada.
 
 ## Guía sobre la tos
 
