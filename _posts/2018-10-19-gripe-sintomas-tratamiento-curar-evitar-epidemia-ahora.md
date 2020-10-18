@@ -4,20 +4,20 @@ redirect_from:
 - "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 - "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Evolución de la Gripe 2019-2020 en tiempo real"
+title: "\U0001F47E\U0001F912 Evolución de la Gripe 2020-2021 en tiempo real"
 date: 2018-10-19T08:00:00.000+00:00
-last_modified_at: 2020-05-05 10:00:00 +0000
+last_modified_at: 2020-05-05T10:00:00.000+00:00
 category: Gripe
 author: David - Ana
 image: "/uploads/Epidemia de la gripe 2019-2020.jpg"
-description: 'Esta es la guía más completa de la epidemia de la gripe en España. ¿La
-  mejor parte? Puedes seguir la gripe en tiempo real y saber cuales son los síntomas
-  de la epidemia de gripe en España (2019-2020). En resumen: si quieres evitar o tienes
-  la gripe, te encantará esta guía.'
+description: 'Esta es la guía más completa de la epidemia de la gripe en España. Puedes
+  seguir la gripe en tiempo real y saber cuales son los síntomas de la epidemia de
+  gripe en España (2020-2021). En resumen: si quieres evitar o tienes la gripe, te
+  encantará esta guía.'
 intro: 'Esta es la guía más completa de la epidemia de la gripe en España.<br><br>¿La
   mejor parte?<br><br>Te vamos a contar que es la gripe, cuáles son sus síntomas,
   tratamiento, vacunación, prevención, cómo seguir la epidemia de gripe en España
-  (2019-2020) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres
+  (2020-2021) y su incidencia ahora en tiempo real.<br><br>En resumen: si quieres
   evitar o tienes la gripe, te encantará esta guía. Si te preocupa la gripe y sobre
   todo, quieres prevenirla, al final del artículo tendrás un regalo que te será realmente
   útil...'
@@ -30,17 +30,17 @@ tags:
 ---
 ![gripe 2019-2020](/uploads/Epidemia de la gripe 2019-2020.jpg "Epidemia gripe 2019-2020")
 
-**Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2019-2020.**
+**Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2020-2021.**
 
 <br>
 ![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
 <br>
 
-## **Vigilancia de la gripe 2019-2020**
+## **Vigilancia de la gripe 2020-2021**
 
 La epidemia de la gripe ya ha llegado a su cumbre. Está en fase de descenso. Así que todo empieza a volver a la normalidad.
 
-Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2019-2020. Se espera que la gripe venga acompañada de los siguiente síntomas: fiebre, dolor muscular y de cabeza, y debilidad generalizada.
+Puedes seguir aquí la evolución y previsión de la epidemia de gripe 2020-2021. No tenemos datos oficiales ahora mismo de la gripe pese haber comenzado la campaña de la gripe, estamos yendo a ciegas. Por este motivo nuestro modelo podría fallar, esperemos que en las próximas semanas tengamos dato.
 
 Actualizamos la previsión todos los jueves de cada semana a las 16:00 horas.
 
@@ -58,7 +58,7 @@ Con estos datos, más datos de clima hemos entrenado un inteligencia artificial 
 
 <p>El riesgo de contraer la gripe esta semana es <b><span id="risk1"></span></b>.</p><p> Se estima una incidencia de la gripe de <b><span id="today1"></span></b> casos por cada 100.000 habitantes para esta semana y <b><span id="tomorrow1"></span></b> casos para la semana que viene, suponiendo <b><span id="growth"></span></b> relativo del <b><span id="pct"></span>%</b>.</p>
 
-### **Observatorio de la Epidemia de la Gripe en España 2019-2020**
+### **Observatorio de la Epidemia de la Gripe en España 2020-2021**
 
 Aquí tienes nuestro interactivo sobre la evolución y predicción epidemia de la gripe ahora. Actualizado semanalmente.
 
