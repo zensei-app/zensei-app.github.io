@@ -3,8 +3,8 @@ layout: post
 toc: true
 title: Guía definitiva para entender la Rinitis
 date: 2020-02-12T23:00:00.000+00:00
-last_modified_at: 2020-04-16 22:00:00 +0000
-author: Cristina
+last_modified_at: 2020-10-21 22:00:00 +0000
+author: Cristina-Ana
 category: Alergia
 image: "/uploads/mujer-estornuda-pie-calle_8353-1327.jpg"
 description: Te ayudamos a conocer y controlar la rinitis alérgica. Como bien sabes
