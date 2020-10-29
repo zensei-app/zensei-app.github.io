@@ -1,26 +1,4 @@
-// Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent
 $(document).ready(function () {
-  window.cookieconsent_options = {
-    message: "Utilizamos cookies propias y de terceros para fines analíticos y para mostrarte publicidad personalizada en base a un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas). Puedes aceptar todas las cookies pulsando el botón “Aceptar”.",
-    dismiss: "Aceptar",
-    learnMore: "Más información.",
-    link: "/politica-cookies/",
-    theme: "dark-bottom",
-    target: "_blank",
-  };
-
-  (function (d, s, id) {
-    var js,
-      cjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src =
-      "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js";
-    cjs.parentNode.insertBefore(js, cjs);
-  })(document, "script", "cookie-consent");
-  // End Cookie Consent plugin
-
   // Begin social
   (function (d, s, id) {
     var js,
