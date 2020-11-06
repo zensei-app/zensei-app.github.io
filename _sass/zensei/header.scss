@@ -40,6 +40,15 @@
   }
 }
 
+.header-content > a {
+  margin-bottom: 0;
+  margin-right: 1vw;
+  @media screen and (min-width: $tablet-bp) {
+    margin-right: 0;
+    margin-left: 10px;
+  }
+}
+
 .header-container .header-logo {
   @extend .zensei-logo;
   @media screen and (max-width: $tablet-bp) {

@@ -24,6 +24,16 @@ layout: blog
     <br>
     {% endif %}
     {{ content | toc_only }}
+
+    {%if page.category == "prensa" or page.category == "asma" %}
+    {% include aux/symptoms-quiz.html %}
+    {% endif %}
+
+    {%unless page.category == "prensa" or page.category == "asma" %}
+    {% include aux/symptoms-quiz-chat.html %}
+    {% endunless %}
+
+
   </div>
   <p>
     <a target="_blank" rel="noopener noreferrer" href="/{{ page.category | replace: ' ' , '-'  | downcase }}" class="shake">
