@@ -1,3 +1,10 @@
+// $(document).ready(function () {
+//   $("#closeTopBanner").click(function(){
+//     alert("The paragraph was clicked.");
+//     $(".top-banner").slideUp();
+//   })
+// });
+
 $(document).ready(function () {
   // Begin social
   (function (d, s, id) {
@@ -29,14 +36,21 @@ $(document).ready(function () {
     return t;
   })(document, "script", "twitter-wjs");
 
+  let hasBannerBeenClosed = false;
+
   $(document).scroll(function () {
     var y = $(this).scrollTop();
-    if (y > 2000) {
+    if (y > 2000 && !hasBannerBeenClosed) {
       $(".top-banner").slideDown();
     } else {
       $(".top-banner").slideUp();
     }
   });
+
+  $("#closeTopBanner").on("click",function(){
+    $(".top-banner").slideUp();
+    hasBannerBeenClosed = true;
+  })
 
   // End social
 
