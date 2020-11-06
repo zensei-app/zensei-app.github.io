@@ -54,6 +54,12 @@ $(document).ready(function () {
 
   // End social
 
+  //Begin social-card
+  const numberOfComments = 6;
+  const randomNumber = Math.floor(Math.random() * Math.floor(numberOfComments))+1;
+  $(`#social-card-${randomNumber}`).removeClass("invisible");
+  //End social-card
+
   // Begin Mixpanel
   (function (e, a) {
     if (!a.__SV) {
