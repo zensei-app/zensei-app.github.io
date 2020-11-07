@@ -18,27 +18,20 @@ layout: blog
     {{ page.intro | markdownify }}
 
     {% if page.toc %}
-    {% include aux/social-card.html %}
+
     <div class="section-nav">
       <h3<b>🔖 Navega el contenido</b></h3>
       {% include post/toc.html html=content ordered=true h_min=2 h_max=3 %}
     </div>
     <br>
-    {% endif %}
 
-    {%unless page.toc %}
-    {% include aux/social-card.html %}
-    {% endunless %}
+    {% endif %}
+    {% include aux/symptoms-quiz.html %}
 
     {{ content | toc_only }}
 
-    {%if page.category == "prensa" or page.category == "asma" %}
     {% include aux/symptoms-quiz.html %}
-    {% endif %}
-
-    {%unless page.category == "prensa" or page.category == "asma" %}
-    {% include aux/symptoms-quiz-chat.html %}
-    {% endunless %}
+    {% include aux/social-card.html %}
 
 
   </div>
