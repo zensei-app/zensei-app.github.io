@@ -1389,6 +1389,11 @@ input[type="submit"] {
 
 .payment-cards {
   margin: 4vh 0;
+  & button {
+    border: none;
+    padding: 4px;
+    margin: 0;
+  }
   & > div {
     @extend %card;
     align-items: flex-start;
@@ -1412,6 +1417,7 @@ input[type="submit"] {
     & > div {
       flex-grow: 2;
       display: flex;
+      transform: translateY(7px);
     }
     &--coffee {
       color: $red;
