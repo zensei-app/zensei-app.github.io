@@ -4,7 +4,6 @@ permalink: /payment
 title: ¡Apóyanos con un café!
 description: Somos un pequeño equipo con muchas ganas de ayudarte a respirar mejor.
 ---
-
 <header class="header-fixed center">
   <br/>
   <div class="header-limiter center">
@@ -27,30 +26,28 @@ description: Somos un pequeño equipo con muchas ganas de ayudarte a respirar me
         Selecciona una de las tarjetas:
     </p>
 
-    <button 
-        id="payment-card-1" 
-        data-checkout-mode="payment"
-        data-price-id="price_1HmJyyIbghy1AOgXuxHs4ATR"
-    >
+    <div id="payment-card-1">
         <h5 class="payment-cards__title--no-flag">
             Apóyanos hoy
-        </h5>
         <div class="payment-cards__content">
             <div>
                 <span class="payment-cards__content--coffee">
                     <img src="/assets/illustrations/pink_coffee.png" />
-                    <span>x1</span>
+                    <span>x12</span>
                 </span>
                 <div class="payment-cards__content--price">2.50 €</div>
             </div>
-            <span class="payment-cards__content--button">Apoyar</span>
         </div>
-    </button>
-    <button 
-        id="payment-card-2"
-        data-checkout-mode="payment"
-        data-price-id="price_1HmJyyIbghy1AOgXixvIPt0Y" 
-    >
+        <button 
+            class="action-btn"
+            data-checkout-mode="payment"
+            data-price-id="price_1HmKRnIbghy1AOgXhz30PGxN"
+        >
+            Apóyanos hoy
+        </button>
+    </div>
+    
+    <div id="payment-card-2">
         <div>
             <div class="payment-cards__title">
                 <h5>
@@ -64,21 +61,23 @@ description: Somos un pequeño equipo con muchas ganas de ayudarte a respirar me
 
             <div class="payment-cards__content">
                 <div>
-                    <span class="payment-cards__content--coffee">
+                    <span class="price_1HmKRmIbghy1AOgXl3CL2kvz">
                         <img src="/assets/illustrations/pink_coffee.png" />
-                        <span>x4</span>
+                        <span>x4 </span>
                     </span>
                     <div class="payment-cards__content--price">5.50 €</div>
                 </div>
-                <span class="payment-cards__content--button">Apoyar</span>
             </div>
+            <button 
+                class="action-btn"
+                data-checkout-mode="payment"
+                data-price-id="price_1HmKRmIbghy1AOgX0g1pcHZh" 
+            >
+                Apóyanos todo el mes
+            </button>
         </div>
-    </button>
-    <button 
-        id="payment-card-3" 
-        data-checkout-mode="payment"
-        data-price-id="price_1HmJyyIbghy1AOgXSop4XAcr"
-    >
+    </div>
+    <div id="payment-card-3">
         <h5 class="payment-cards__title--no-flag">
             Apóyanos todo el año
         </h5>
@@ -90,54 +89,17 @@ description: Somos un pequeño equipo con muchas ganas de ayudarte a respirar me
                 </span>
                 <div class="payment-cards__content--price">19.95 €</div>
             </div>
-            <span class="payment-cards__content--button">Apoyar</span>
         </div>
-    </button>
+        <button 
+            class="action-btn"
+            data-checkout-mode="payment"
+            data-price-id="price_1HmKRnIbghy1AOgXhz30PGxN"
+        >
+            Apóyanos todo el año
+        </button>
+    </div>
+    
   </section>
   <br />
   <br />
 </div>
-<script src="https://js.stripe.com/v3/"></script>
-<script>
-    // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
-    var PUBLISHABLE_KEY = 'pk_test_SajYpTJpTfwAef74coi1p9kK';
-    // Replace with the domain you want your users to be redirected back to after payment
-    var DOMAIN = location.href.replace(/[^/]*$/, '');
-
-    if (PUBLISHABLE_KEY === 'pk_test_SajYpTJpTfwAef74coi1p9kK') {
-      console.log(
-        'Replace the hardcoded publishable key with your own publishable key: https://dashboard.stripe.com/test/apikeys'
-      );
-    }
-
-    var stripe = Stripe(PUBLISHABLE_KEY);
-
-    // Handle any errors from Checkout
-    var handleResult = function (result) {
-      if (result.error) {
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    };
-
-    document.querySelectorAll('button').forEach(function (button) {
-      button.addEventListener('click', function (e) {
-        var mode = e.target.dataset.checkoutMode;
-        var priceId = e.target.dataset.priceId;
-        var items = [{ price: priceId, quantity: 1 }];
-
-        // Make the call to Stripe.js to redirect to the checkout page
-        // with the sku or plan ID.
-        stripe
-          .redirectToCheckout({
-            mode: mode,
-            lineItems: items,
-            successUrl:
-              DOMAIN + 'payment-success?session_id={CHECKOUT_SESSION_ID}',
-            cancelUrl:
-              DOMAIN + 'payment-cancel?session_id={CHECKOUT_SESSION_ID}',
-          })
-          .then(handleResult);
-      });
-    });
-  </script>
