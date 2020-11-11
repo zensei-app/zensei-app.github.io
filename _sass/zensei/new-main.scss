@@ -1389,9 +1389,7 @@ input[type="submit"] {
 
 .payment-cards {
   margin: 4vh 0;
-  & button {
-    border: none;
-    color: $text;
+  & > div {
     @extend %card;
     align-items: flex-start;
     background: $white;
