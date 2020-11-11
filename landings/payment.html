@@ -1,0 +1,88 @@
+---
+layout: minimal
+permalink: /payment
+title: ¡Apóyanos con un café!
+description: Somos un pequeño equipo con muchas ganas de ayudarte a respirar mejor.
+---
+
+<header class="header-fixed center">
+  <br/>
+  <div class="header-limiter center">
+    <a target="_blank" rel="noopener noreferrer" href="{{ "/" | relative_url }}">
+      <div class="zensei-logo-header"></div>
+    </a>
+  </div>
+</header>
+<div class="container-main payment">
+    <br />
+    <h1 class="title-big" style="color: #274e6a">
+      <strong>{{page.title}}</strong>
+    </h1>
+    <p class="paragraph" style="color: #274e6a">
+        {{page.description}}
+    </p>
+   
+  <section class="payment-cards">
+    <p class="paragraph">
+        Selecciona una de las tarjetas:
+    </p>
+
+    <button id="payment-card-1" >
+        <h5 class="payment-cards__title--no-flag">
+            Apóyanos hoy
+        </h5>
+        <div class="payment-cards__content">
+            <div>
+                <span class="payment-cards__content--coffee">
+                    <img src="/assets/illustrations/pink_coffee.png" />
+                    <span>x1</span>
+                </span>
+                <div class="payment-cards__content--price">2.50 €</div>
+            </div>
+            <span class="payment-cards__content--button">Apoyar</span>
+        </div>
+    </button>
+    <button id="payment-card-2" >
+        <div>
+            <div class="payment-cards__title">
+                <h5>
+                    Apóyanos todo el mes
+                </h5>
+                <img class="payment-cards__title--flag" src="/assets/illustrations/zensei_flag.png" />
+            </div>
+            <h5 class="payment-cards__title--flag-label" >
+                Popular
+            </h5>
+
+            <div class="payment-cards__content">
+                <div>
+                    <span class="payment-cards__content--coffee">
+                        <img src="/assets/illustrations/pink_coffee.png" />
+                        <span>x4</span>
+                    </span>
+                    <div class="payment-cards__content--price">5.50 €</div>
+                </div>
+                <span class="payment-cards__content--button">Apoyar</span>
+            </div>
+        </div>
+    </button>
+    <button id="payment-card-3" >
+        <h5 class="payment-cards__title--no-flag">
+            Apóyanos todo el año
+        </h5>
+        <div class="payment-cards__content">
+            <div>
+                <span class="payment-cards__content--coffee">
+                    <img src="/assets/illustrations/pink_coffee.png" />
+                    <span>x12</span>
+                </span>
+                <div class="payment-cards__content--price">19.95 €</div>
+            </div>
+            <span class="payment-cards__content--button">Apoyar</span>
+        </div>
+    </button>
+
+  </section>
+  <br />
+  <br />
+</div>

@@ -300,7 +300,6 @@ input[type="submit"] {
   margin: 0;
   border-radius: 15px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
-  // background-color: $white;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -317,12 +316,7 @@ input[type="submit"] {
   margin: 10px;
   width: 297px;
   padding: 32px 25px;
-  // border-radius: 15px;
-  // box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
   background-color: $white;
-  // display: flex;
-  // flex-direction: column;
-  // justify-content: space-between;
   align-items: flex-start;
   @media screen and (max-width: $tablet) {
     height: 189px;
@@ -1341,7 +1335,7 @@ input[type="submit"] {
   }
 }
 
-.social-card {
+.social-cards {
   margin: 4vh 0;
 
   & > section > div {
@@ -1389,6 +1383,83 @@ input[type="submit"] {
         font-size: 14px;
         line-height: 5px;
       }
+    }
+  }
+}
+
+.payment-cards {
+  margin: 4vh 0;
+  & button {
+    border: none;
+    color: $text;
+    @extend %card;
+    align-items: flex-start;
+    background: $white;
+    margin-bottom: 10px;
+  }
+  & h5 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    @media screen and (min-width: $tablet-bp) {
+      font-size: 1rem;
+      line-height: 1.125rem;
+    }
+  }
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    & > div {
+      flex-grow: 2;
+      display: flex;
+    }
+    &--coffee {
+      color: $red;
+      margin-right: 1rem;
+      & > img {
+        transform: translateY(-5px);
+      }
+    }
+    &--price {
+      font-weight: 500;
+    }
+  }
+  &__title {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 18px;
+    &--no-flag {
+      height: 35px;
+    }
+    &--flag {
+      width: 70px;
+      transform: translate(-12px, -22px);
+      height: 70px;
+      &-label {
+        align-self: flex-end;
+        color: white;
+        transform: translate(-22px, -18px);
+      }
+    }
+    &--button {
+      color: $red;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin-right: 1rem;
+    }
+  }
+  & #payment-card-2 {
+    background: linear-gradient(to right, $brand, $yellowLight);
+    padding: 8px;
+    & > div {
+      @extend %card;
+      padding: 12px;
+      background: $white;
+      box-shadow: none;
+      align-items: flex-start;
     }
   }
 }
