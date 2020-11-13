@@ -1422,7 +1422,7 @@ input[type="submit"] {
     & > div {
       flex-grow: 2;
       display: flex;
-      transform: translateY(7px);
+      align-items: center;
     }
     &--coffee {
       color: $red;
@@ -1445,12 +1445,12 @@ input[type="submit"] {
     }
     &--flag {
       width: 70px;
-      transform: translate(-12px, -18px);
-      height: 70px;
+      height: 82px;
+      transform: translate(-12px, -19px);
       &-label {
         align-self: flex-end;
         color: white;
-        transform: translate(-22px, -18px);
+        transform: translate(-22px, -22px);
       }
     }
     &--button {
@@ -1462,7 +1462,7 @@ input[type="submit"] {
   }
   & #payment-card-2 {
     background: linear-gradient(to right, $brand, $yellowLight);
-    padding: 6px;
+    padding: 4px;
     & > div {
       @extend %card;
       padding: 10px;
