@@ -463,9 +463,12 @@ input[type="submit"] {
     // font-size: 0.875rem;
     margin: 10px 0;
     @media screen and (min-width: $tablet-bp) {
-      font-size: 23px;
       padding: 12px 30px;
       margin: 60px 0 100px 0;
+    }
+    //apply big size only on big screens due to long copy of cta
+    @media screen and (min-width: 1278px) {
+      font-size: 23px;
     }
   }
 
