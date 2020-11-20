@@ -13,7 +13,7 @@ intro: Los síntomas de la **alergia de otoño y la Covid-19** pueden llevar a c
   ambas enfermedades. Sin embargo, existen ciertos aspectos que las diferencian claramente.
   ¿Quieres saber cuáles son? ¡Sigue leyendo!
 tags: alergia, alergia de otoño, alergia estacional, covid19
-slug: alergia-otoño-covid-19
+slug: alergia-otono-covid-19
 
 ---
 ![Alergia estacional](/uploads/alergia-de-otono-y-covid.jpg "Alergia de otoño")
