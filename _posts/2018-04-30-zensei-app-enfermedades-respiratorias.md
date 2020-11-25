@@ -38,6 +38,4 @@ Digamos que es algo así como eso que se ha dado en llamar [epidemiología digit
 
 **A través de Zensei podrás llevar un diario de tu salud respiratoria,** pero también conocer otras cuestiones que pueden interesarte para tener mejor calidad de vida. Entre ellas está el clima, los rayos UV, los niveles de contaminación, si existe alerta por virus, la concentración de polen o si se debe tener especial cuidado con poblaciones de riesgos, como niños y mayores.
 
-Pero, no te lo vas a creer, Zensei va más allá y **es capaz incluso de lanzar una alerta por alta concentración de piojos.** Como lo has leído. La verdad es que vale la pena descargársela y echar un ojo a cómo funciona.
-
 La tienes disponible en [Apple Store](https://apps.apple.com/us/app/id1531710304 "Zenseiapp en Apple Store") y [Google Play](https://play.google.com/store/apps/details?id=com.zenseiapp.medicaljournal&hl=es "Zenseiapp en Google Play"). Anímate a descargarla pues te ayudará a controlar tus síntomas respiratorios como nunca habías podido hacerlo hasta ahora.
