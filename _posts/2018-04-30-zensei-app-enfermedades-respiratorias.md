@@ -3,7 +3,7 @@ layout: post
 redirect_from: "/blog/2018/04/30/zensei-app-enfermedades-respiratorias/"
 title: "⚡\U0001F4F1 Zensei: una app para enfermedades respiratorias como asma, epoc
   o rinitis alérgica"
-last_modified_at: 2019-01-27 08:00:00 +0000
+last_modified_at: 2020-11-25 08:00:00 +0000
 date: 2018-04-30 08:00:00 +0000
 author: Ana Pérez y Mar Santiago
 categories: diario, salud, respiratoria, zensei, enfermedades, respiratorias, digital,
