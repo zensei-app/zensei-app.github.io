@@ -8,7 +8,7 @@ date: 2018-06-17T08:00:00.000+00:00
 last_modified_at: 2020-02-20T10:00:00.000+00:00
 author: Zensei Team
 category: Alergia
-image: "/img/19389787_10213834807130019_102773456_n.jpg"
+image: "/img/19389787_10213834807130019_102773456_n.webp"
 description: Es el cuarto ataque de estornudos que tienes esta mañana y mientras coges
   otro pañuelo, sigues preguntándote si estos síntomas catarrales – congestión nasal
   y estornudos...
@@ -22,7 +22,7 @@ De acuerdo con la Organización mundial de la salud, más de 400 millones de per
 La alergia estacional o también llamada fiebre de heno, es la alergia más común en nuestro país y se estima que siga aumentando en los próximos años. La relevancia de esta enfermedad no es que sea una amenaza para nuestra salud, sino que prevalece durante largos períodos de tiempo y los que la padecen sufren un considerable deterioro de su calidad de vida.
 
 <br>
-![niños zensei resfriado](/img/19389787_10213834807130019_102773456_n.jpg){: .center-image }
+![niños zensei resfriado](/img/19389787_10213834807130019_102773456_n.webp){: .center-image }
 <br>
 
 De acuerdo con datos de [GlaxoSmithKline Consumer Healthcare (GSK CH)](http://gsk.com/?gclid=CjwKEAjwj6PKBRCAy9-07PeTtGgSJAC1P9xGtM_ptkNAam8vUWHAmNfDKLNJ1NWj0kp-5OXy6mDd_xoC6D7w_wcB), el 85% de las personas con alergia sufren de cansancio, mientras que el 67% irritabilidad, un 60% tristeza y un 57% sufre de dificultades para dormir.

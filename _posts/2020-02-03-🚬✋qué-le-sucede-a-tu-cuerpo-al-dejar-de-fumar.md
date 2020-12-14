@@ -6,7 +6,7 @@ date: 2020-02-03 23:00:00 +0000
 last_modified_at: 2020-02-03 23:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Dejar de fumar 4.jpg"
+image: "/uploads/Dejar de fumar 4.webp"
 description: Si estás pensando en dejar de fumar te recomendamos que leas el timeline
   a través del cual experimentarás una serie de mejoras que te harán reforzar tu decisión.
 intro: El tabaco es una de las principales causas de muerte evitable. Te contamos,
@@ -15,7 +15,7 @@ tags: dejar-de-fumar tabaco enfermedades-pulmonares enfermedades-cardiovasculare
   cáncer
 
 ---
-![Humo de tabaco](/uploads/Dejar de fumar 4.jpg "Dejar de fumar")
+![Humo de tabaco](/uploads/Dejar de fumar 4.webp "Dejar de fumar")
 
 **El tabaco es la principal causa de muerte evitable en el mundo**. Su toxicidad es la culpable de enfermedades tan graves como el EPOC, patologías cardiovasculares o, incluso, cáncer de pulmón. Vale la pena abandonar un hábito tan peligroso. Por ello, resultará interesante saber **qué le sucede a tu cuerpo al dejar de fumar.**
 
@@ -51,7 +51,7 @@ A la mitad de tu primer día de dejar de fumar, **tu nivel de monóxido de carbo
 
 Si fumas un paquete al día **tienes el doble de probabilidades de sufrir un ataque cardíaco** que un no fumador. Pero pasa un día completo sin un cigarrillo y habrás reducido las posibilidades. Vale la pena dejar de fumar con estas perspectivas que se plantean en tan solo 24 horas.
 
-![Salud tras dejar de fumar](/uploads/dejar de fumar 5.jpg "Dejar el tabaco")
+![Salud tras dejar de fumar](/uploads/dejar de fumar 5.webp "Dejar el tabaco")
 
 #### 48 horas
 

@@ -6,7 +6,7 @@ date: 2019-05-10T06:00:00.000+00:00
 last_modified_at: 2020-04-08 10:00:00 +0000
 category: Alergia
 author: Ana
-image: "/uploads/IMG_20190516_194030.jpg"
+image: "/uploads/IMG_20190516_194030.webp"
 description: "¿Sabías que el aire en espacios cerrados está más contaminado que el
   del exterior? De ahí la importancia de purificar el aire de casa. Te indicamos la
   mejor manera de hacerlo y respirar tranquilo."
@@ -19,7 +19,7 @@ tags: purificador asma alergia rinitis casa productos
 redirect_from: "/blog/purificar-aire-casa-habitacion-dormitorio/"
 
 ---
-![](/uploads/IMG_20190516_194030.jpg)
+![](/uploads/IMG_20190516_194030.webp)
 
 ¿Sabes cómo **purificar el aire de casa**? Aunque te parezca increíble es una operación muy necesaria para el bienestar y la salud de las personas que pasan mucho tiempo en el hogar.
 
@@ -167,6 +167,6 @@ La inversión inicial ha sido de un poco más de 400€. Luego tendrás que adqu
 
 Con un pequeño presupuesto anual, que no sobrepasa los 500€, puedes asegurarte que la calidad de aire que respiras es la más saludable.
 
-![](/uploads/IMG_20190516_194900.jpg "Purificador de aire habitación")
+![](/uploads/IMG_20190516_194900.webp "Purificador de aire habitación")
 
 Consigue aquí un [Purificador para limpiar el aire del dormitorio de los niños casa](https://www.philips.es/tienda/productos-para-el-hogar/tratamiento-de-aire/purificador-de-aire/p/AC3256_10?utm_source=zensei&utm_medium=app&utm_campaign=market). Así dormirán con respiración menos pesadas y evitarás ir menos a urgencias.

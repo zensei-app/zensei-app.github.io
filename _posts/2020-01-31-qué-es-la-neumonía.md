@@ -6,7 +6,7 @@ date: 2020-01-31T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Neumonía pulmones.jpg"
+image: "/uploads/Neumonía pulmones.webp"
 description: La neumonía es una de las infecciones pulmonares más habituales en la
   población. Descubre qué la causa y cuáles son sus tratamientos.
 intro: La **neumonía** suele estar provocada por la infección que generan hongos,
@@ -16,7 +16,7 @@ tags: enfermedades-pulmonares neumonía infección pulmonar
 slug: neumonia infeccion pulmonar
 
 ---
-![Radiografía pulmones con neumonía](/uploads/Neumonía pulmones.jpg "Neumonía")
+![Radiografía pulmones con neumonía](/uploads/Neumonía pulmones.webp "Neumonía")
 
 La neumonía es una **infección pulmonar** que puede variar de leve a grave si no ponemos remedio a tiempo. En los casos más serios hay que acudir de inmediato al hospital más cercano.
 

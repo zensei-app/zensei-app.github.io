@@ -6,7 +6,7 @@ date: 2019-07-04T22:00:00.000+00:00
 last_modified_at: 2020-06-01 10:00:00 +0000
 category: Epoc
 author: Ana
-image: "/uploads/epoc y pulmones.jpg"
+image: "/uploads/epoc y pulmones.webp"
 description: 'En este artículo descubrirás todo lo que necesitas saber sobre el EPOC
   y su tratamiento. Causas, estudios y tratamiento. '
 intro: Se conoce como **EPOC** a la enfermedad pulmonar obstructiva crónica. Aunque
@@ -15,7 +15,7 @@ tags: efisema pulmonar tratamiento epoc
 redirect_from: "/blog/enfisema-pulmonar-y-epoc-tratamiento/"
 
 ---
-![](/uploads/epoc y pulmones.jpg)
+![](/uploads/epoc y pulmones.webp)
 
 El enfisema pulmonar es una de las causas que pueden derivar en la Enfermedad Pulmonar Obstructiva Crónica (EPOC). Con toda seguridad es una de las patologías más graves y que provocan un EPOC más virulento. De todos modos, también trataremos las otras causas del EPOC y veremos los tipos que existen. Nos centraremos en todo lo que tienes que saber sobre esta enfermedad y también analizaremos el enfisema pulmonar.
 
@@ -127,7 +127,7 @@ También puede desarrollarse EPOC si estás expuesto a sustancias químicas y ga
 
 Igualmente puede haber una predisposición genética a desarrollar EPOC. Se ha estimado que el 5% de los pacientes con EPOC presentan una deficiencia de una proteína llamada alfa-1-antitripsina.
 
-![](/uploads/manómetro de oxígeno.jpg)
+![](/uploads/manómetro de oxígeno.webp)
 
 ## Diagnóstico de la EPOC
 

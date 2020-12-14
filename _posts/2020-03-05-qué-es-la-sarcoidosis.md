@@ -6,7 +6,7 @@ date: 2020-03-05 09:00:00 +0000
 last_modified_at: 2020-03-05 09:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Captura de pantalla 2020-03-05 a las 11.47.08.png"
+image: "/uploads/Captura de pantalla 2020-03-05 a las 11.47.08.webp"
 description: La sarcoidosis es una patología que puede afectar a los pulmones. Aprende
   todo lo que necesitas saber sobre la enfermedad.
 intro: La **sarcoidosis** es una enfermedad inflamatoria que puede afectar a diversos
@@ -16,7 +16,7 @@ tags: enfermedades-pulmonares sarcoidosis inflamación-pulmonar
 slug: sarcoidosis sintomas causas tratamiento
 
 ---
-![](/uploads/sarcoidosis.jpeg)
+![](/uploads/sarcoidosis.webp)
 
 **La sarcoidosis es una enfermedad inflamatoria que afecta a múltiples órganos del cuerpo.** Sin embargo, los más afectados resultan ser **principalmente los pulmones y las glándulas linfáticas.** En las personas con sarcoidosis, se forman masas o nódulos anormales, llamados granulomas.
 
@@ -112,7 +112,7 @@ Esta sintomatología no implica necesariamente que se padezca sarcoidosis, pero 
 
 ✅ **Broncoscopia.** Sirve para inspeccionar los bronquios y extraer una biopsia (una pequeña muestra de tejido). De este modo se pueden buscar granulomas y obtener material para descartar infección. La broncoscopia implica pasar un pequeño tubo (broncoscopio) por la tráquea y hacia los bronquios.
 
-![](/uploads/llenando-registro-medico_1098-18239.jpg)
+![](/uploads/llenando-registro-medico_1098-18239.webp)
 
 ## ¿Cómo se trata la sarcoidosis?
 

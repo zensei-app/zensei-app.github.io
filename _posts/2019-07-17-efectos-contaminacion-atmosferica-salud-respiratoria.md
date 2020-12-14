@@ -6,7 +6,7 @@ date: 2019-07-17T22:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
-image: "/uploads/Contaminación atmosférica 2.jpg"
+image: "/uploads/Contaminación atmosférica 2.webp"
 description: Los efectos de la contaminación atmosférica sobre la salud respiratoria
   son cada vez más preocupantes. Unas 30.000 personas mueren al año en España por
   esta causa.
@@ -17,7 +17,7 @@ tags: contaminación respiración
 redirect_from: "/blog/efectos-de-la-contaminación-atmosférica-sobre-la-salud/"
 
 ---
-![](/uploads/Contaminación atmosférica.jpg)
+![](/uploads/Contaminación atmosférica.webp)
 
 Los efectos de la contaminación atmosférica sobre la salud son demasiado numerosos. Corremos un gran riesgo tanto a corto como a largo plazo. La propia Organización Mundial de la Salud (OMS) ha advertido de las **consecuencias de la mala calidad del aire en las ciudades**. De hecho, ha incidido en el peligro que conlleva para la salud respiratoria.
 
@@ -77,7 +77,7 @@ Por otro lado, los efectos del calentamiento global se hacen notar en otro tipo 
 
 Algunos expertos en este apartado ponen como ejemplo las epidemias como **el dengue o el zika.** Cuanto mayor es el grado de humedad y de calor, incrementado por los efectos del calentamiento global y la contaminación, más rápidamente se reproducen los mosquitos que transmiten estas enfermedades. Está claro que [**el elevado CO2 ya tiene efectos graves sobre la salud.**](https://www.lavanguardia.com/vida/natural/20181123/453100708786/calentamiento-global-gases-efecto-invernadero-salud.html)
 
-![](/uploads/Contaminación atmosférica 2.jpg)
+![](/uploads/Contaminación atmosférica 2.webp)
 
 ### Efectos de la contaminación atmosférica en los entorno industriales
 

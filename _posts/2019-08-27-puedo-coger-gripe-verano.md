@@ -6,7 +6,7 @@ date: 2019-08-27T22:00:00.000+00:00
 last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/Gripe en verano.jpg"
+image: "/uploads/Gripe en verano.webp"
 description: Coger la gripe en verano resulta muy inusual. Infórmate sobre otras enfermedades
   que pueden confundirse con ella.
 intro: Coger la **gripe en verano** es algo muy atípico. Sin embargo, puede ocurrir
@@ -15,7 +15,7 @@ intro: Coger la **gripe en verano** es algo muy atípico. Sin embargo, puede ocu
 tags: gripe verano
 
 ---
-![](/uploads/Gripe en verano.jpg)
+![](/uploads/Gripe en verano.webp)
 
 La mayoría de los ciudadanos han escuchado alguna vez la expresión “temporada de gripe”. Esta referencia suele prodigarse durante los meses de **otoño e invierno**. No obstante, muchas personas también han experimentado síntomas que, fuera de ese periodo, eran muy parecidos a los que provoca la gripe en otras épocas del año. **¿Es posible, entonces, coger la gripe en verano?**
 
@@ -79,7 +79,7 @@ Los **síntomas pseudogripales que ocurren durante el verano** probablemente sea
 
 ✅ **Bronquitis:** los síntomas incluyen fatiga, tos, fiebre, escalofríos y dificultad para respirar.
 
-![](/uploads/Gripe en verano 1.jpg)
+![](/uploads/Gripe en verano 1.webp)
 
 ## ¿Es un resfriado o la gripe?
 

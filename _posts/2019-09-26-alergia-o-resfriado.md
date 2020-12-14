@@ -6,7 +6,7 @@ date: 2019-09-26T22:00:00.000+00:00
 last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Alergia
-image: "/uploads/Alergia o resfriado.jpg"
+image: "/uploads/Alergia o resfriado.webp"
 description: "¿Alergia o resfriado? Te mostramos las claves para desentrañar qué te
   ocurre. Hay síntomas que te ayudarán a descubrir la diferencia."
 intro: Muchos pacientes se preguntan si tienen **alergia o resfriado**. La manera
@@ -14,7 +14,7 @@ intro: Muchos pacientes se preguntan si tienen **alergia o resfriado**. La maner
 tags: alergia resfriado
 
 ---
-![](/uploads/Alergia o resfriado.jpg)
+![](/uploads/Alergia o resfriado.webp)
 
 Si tienes **congestión y secreción nasal, estornudas y toses**, lo primero que puedes pensar es que has pillado un catarro. Sin embargo, estos también son signos de alergias. La pregunta del millón es **¿se trata de** [**alergia o resfriado**](https://www.frenadol.es/curiosidad/verdades-y-mitos/alergia-o-resfriado)**?**
 
@@ -116,7 +116,7 @@ Es habitual entre la población observar **el color de la mucosidad** para saber
 
 A pesar de la **idea errónea** de que la secreción nasal verde es un signo de infección, las alergias pueden causar secreción nasal en todos los colores. Y un resfriado a menudo puede desarrollarse con mucosidad más clara.
 
-![](/uploads/Ostetoscopio.jpg)
+![](/uploads/Ostetoscopio.webp)
 
 ## Diagnóstico de resfriados y alergias
 

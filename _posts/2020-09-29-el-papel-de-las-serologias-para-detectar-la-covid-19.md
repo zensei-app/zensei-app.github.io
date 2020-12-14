@@ -6,7 +6,7 @@ date: 2020-09-29 22:00:00 +0000
 last_modified_at: 2020-09-29 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/serologia.jpg"
+image: "/uploads/serologia.webp"
 description: 'Pruebas serológicas, test y PCR están a la orden del día a la hora de
   detectar el coronavirus. La pregunta es: ¿cuál debo realizarme?'
 intro: La COVID-19 ha traído consigo un gran número de pruebas serológicas, test y
@@ -16,7 +16,7 @@ tags: serología, pruebas serológicas, covid-19, pandemia, contagios
 slug: serología-covid-19
 
 ---
-![Serología covid-19](/uploads/serologia.jpg "Prueba covid-19")
+![Serología covid-19](/uploads/serologia.webp "Prueba covid-19")
 
 Durante los últimos meses, la pandemia provocada por el coronavirus SarS-CoV-2 ha contribuido a que nuestro vocabulario habitual incorpore términos y conceptos ajenos hasta ahora para la mayoría de nosotros. **Es el caso de la palabra** [**_‘serología’_**](https://definicion.de/serologia/)**,** que aparece a diario en medios de comunicación, entre autoridades de Salud y, hasta en el ámbito más cotidiano, entre personas comunes que desean saber si están libres del patógeno.
 
@@ -50,7 +50,7 @@ Lo cierto es que la PCR se ha convertido en el test más conocido y, a pesar de 
 
 Tiene la ventaja de que detecta el virus en el momento de realizar la prueba, pero es muy lenta. **Los resultados precisan entre tres y cinco horas. Además, es la más cara, en torno a los 120 euros.**
 
-![Coronavirus](/uploads/covid-19.jpg "Covid-19")
+![Coronavirus](/uploads/covid-19.webp "Covid-19")
 
 ### Test de antígenos
 

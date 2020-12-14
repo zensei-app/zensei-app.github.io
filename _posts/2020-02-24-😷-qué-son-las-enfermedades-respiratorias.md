@@ -6,7 +6,7 @@ date: 2020-02-24 23:00:00 +0000
 last_modified_at: 2020-02-25 23:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Pulmón-610x455.jpg"
+image: "/uploads/Pulmón-610x455.webp"
 description: "¿Sabes cuáles son las principales enfermedades respiratorias? Analizamos
   aquellas más habituales en todo el mundo."
 intro: Las **enfermedades respiratorias** constituyen una serie de dolencias que afectan

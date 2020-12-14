@@ -6,7 +6,7 @@ date: 2019-09-29T22:00:00.000+00:00
 last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/enfermedades pulmonares ocupaciones.jpg"
+image: "/uploads/enfermedades pulmonares ocupaciones.webp"
 description: Las enfermedades pulmonares ocupacionales son aquellas derivadas de la
   inhalación de partículas tóxicas en suspensión relacionadas con el medio laboral.
 intro: La prevención y la protección adecuada son las mejores armas para poder afrontar
@@ -16,7 +16,7 @@ tags: enfermedades pulmonares ocupacionales
 redirect_from: "/enfermedades%20pulmonares/todo-sobre-las-enfermedades-pulmonares-ocupacionales/"
 
 ---
-![](/uploads/enfermedades pulmonares ocupaciones.jpg)
+![](/uploads/enfermedades pulmonares ocupaciones.webp)
 
 En este punto de encuentro dedicado a las **enfermedades del sistema respiratorio**, no podíamos dejar pasar la oportunidad de dedicar algunos artículos a las enfermedades pulmonares ocupacionales.
 
@@ -80,7 +80,7 @@ Determinados tipos de trabajo lo ponen en mayor riesgo de enfermedades pulmonare
 
 **La mayoría de las enfermedades pulmonares ocupacionales son consecuencia de la exposición repetida a largo plazo.** Pero, incluso una única exposición severa a un agente inseguro puede dañar los pulmones. Además, algunos hábitos como el de fumar puede empeorar la enfermedad pulmonar ocupacional.
 
-![](/uploads/enfermedades pulmonares ocupaciones 1.jpg)
+![](/uploads/enfermedades pulmonares ocupaciones 1.webp)
 
 ### ¿Cuáles son los síntomas de las enfermedades pulmonares ocupacionales?
 

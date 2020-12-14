@@ -6,7 +6,7 @@ date: 2020-02-16T23:00:00.000+00:00
 last_modified_at: 2020-05-31 22:00:00 +0000
 author: Cristina-Ana
 category: Epoc
-image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg"
+image: "/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.webp"
 description: Te ayudamos a conocer y controlar la EPOC. Como bien sabes es bastante
   complicado, ya que es una enfermedad que puede ser provocada por diversos factores.
   Descúbrelos.
@@ -24,7 +24,7 @@ tags: epoc tratamiento síntomas
 slug: guia-epoc
 
 ---
-![](/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.jpg)
+![](/uploads/hombre-camiseta-nebulizador-asma_23-2147934449.webp)
 
 ¿Quieres entender en detalle la [EPOC (Enfermedad Pulmonar Obstructiva Crónica)](https://zenseiapp.com/epoc/que-es-el-epoc/)? Es bastante complicado, ya que es una patología que puede ser provocada por diferentes factores.
 
@@ -48,7 +48,7 @@ Si no se trata, el EPOC puede conducir a una avance más rápido de la enfermeda
 
 Es el momento de profundizar un poco más en la enfermedad y observar algunas cuestiones que resultarán de gran ayuda.
 
-![](/uploads/tubos-altos-planta-energia-humo-blanco_127089-1762.jpg)
+![](/uploads/tubos-altos-planta-energia-humo-blanco_127089-1762.webp)
 
 ## Causas de la EPOC
 
@@ -132,7 +132,7 @@ Estas formas clínicas permiten identificar a los pacientes y determinar la tera
 
 ✅ **Fenotipo agudizador**: se da en aquellos pacientes que muestran dos o más agudizaciones moderadas o graves al año cuyo tratamiento es a base de corticoides sistémicos y/o antibióticos.
 
-![](/uploads/mujeres-asiaticas-tienen-angina-fiebre-alta-tos-cronica_112699-294.jpg)
+![](/uploads/mujeres-asiaticas-tienen-angina-fiebre-alta-tos-cronica_112699-294.webp)
 
 ## ¿Cuáles son los síntomas del EPOC?
 
@@ -212,7 +212,7 @@ Durante el examen físico, tu médico usará un estetoscopio para escuchar tus p
 
 Estas pruebas pueden ayudar a determinar si hay EPOC o una afección diferente, como asma, una enfermedad pulmonar restrictiva o insuficiencia cardíaca.
 
-![](/uploads/Rx-de-tórax-EPOC-tipo-enfisema-efe.jpg)
+![](/uploads/Rx-de-tórax-EPOC-tipo-enfisema-efe.webp)
 
 ## EPOC tratamiento
 
@@ -256,7 +256,7 @@ Los médicos suelen utilizar las siguientes terapias adicionales para las person
 
 Los [broncodilatadores](https://zenseiapp.com/asma/broncodilatadores-naturales-asma-epoc/) son los medicamentos que ayudan a relajar los músculos de las vías respiratorias, ensanchándolas para que puedas respirar más fácilmente. Por lo general, se hace a través de un inhalador o un nebulizador. Se pueden agregar glucocorticosteroides para reducir la inflamación en las vías respiratorias.
 
-![](/uploads/corticoesteroides.jpg)
+![](/uploads/corticoesteroides.webp)
 
 ## Medicamentos para la EPOC
 
@@ -280,7 +280,7 @@ Los medicamentos para tratar la EPOC se toman o regularmente o solo cuando se ne
 
 La EPOC aumenta el riesgo de otros problemas respiratorios. Por esa razón, tu médico podría recomendarte vacunas contra la gripe, contra el neumococo o la vacuna contra la tos ferina.
 
-![](/uploads/senora-adicto-blanco-rompe-encantadora_1301-3106.jpg)
+![](/uploads/senora-adicto-blanco-rompe-encantadora_1301-3106.webp)
 
 ## Cómo curar la EPOC de forma natural
 
@@ -401,7 +401,7 @@ Tiene muchos beneficios, como descomponer la mucosidad, mejorar la circulación 
 
 En esta lista puedes encontrar tu remedio casero efectivo para el EPOC. No obstante, puedes investigar más. Existe un nutrido número de suplementos vitamínicos, alimentos antioxidantes y plantas que pueden ayudarte a aliviar la sintomatología de tu enfermedad.
 
-![](/uploads/cirujanos-que-realizan-operacion-sala-operacion_1170-2220.jpg)
+![](/uploads/cirujanos-que-realizan-operacion-sala-operacion_1170-2220.webp)
 
 ## Prevención de la EPOC
 
@@ -425,7 +425,7 @@ Esta enfermedad puede causar muchas complicaciones:
 
 ✅ **Depresión**: la dificultad para respirar puede condicionar mucho tu vida y que dejes de hacer actividades que te gustan. Esto puede contribuir a que se presente depresión.
 
-![](/uploads/consulta-medica-clinica_151013-252.jpg)
+![](/uploads/consulta-medica-clinica_151013-252.webp)
 
 ## Cuándo contactar a un médico
 
@@ -447,7 +447,7 @@ En caso de que no fumes, el humo de las personas de tu entorno que sí lo hacen 
 
 Utilizar aires acondicionados con filtros de aire es una gran medida que puede evitar desarrollar enfermedades respiratorias, entre ellas EPOC.
 
-![](/uploads/cuidar-al-recien-nacido_78455-540.jpg)
+![](/uploads/cuidar-al-recien-nacido_78455-540.webp)
 
 ## EPOC en bebés
 
@@ -509,7 +509,7 @@ La EPOC es una enfermedad prevalente en adultos pero en los últimos años ha si
 
 Los niños que suelen padecer EPOC tienen secuelas de infecciones respiratorias agudas que evolucionaron hacia esta enfermedad. Lo principal es evitar fumar en el ambiente donde vive el niño ya que el humo del tabaco es uno de los peores irritantes.
 
-![](/uploads/nina-que-tiene-tratamiento-inhalacion-medica-nebulizador_137573-2340.jpg)
+![](/uploads/nina-que-tiene-tratamiento-inhalacion-medica-nebulizador_137573-2340.webp)
 
 ## EPOC en adolescentes
 

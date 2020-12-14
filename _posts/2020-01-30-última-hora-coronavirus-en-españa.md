@@ -6,7 +6,7 @@ date: 2020-01-30 23:00:00 +0000
 last_modified_at: 2020-01-30 23:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/Coronavirus en España.jpeg"
+image: "/uploads/Coronavirus en España.webp"
 description: Un turista alemán es el primer caso positivo de coronavirus en España.
   En Cataluña se investiga a un niño procedente de Wuhan.
 intro: Cataluña está investigando un posible segundo caso de **coronavirus en España**.
@@ -16,7 +16,7 @@ tags: coronavirus epidemia vacunas
 
 
 ---
-![Coronavirus en España](/uploads/Coronavirus en España.jpeg "Coronavirus")
+![Coronavirus en España](/uploads/Coronavirus en España.webp "Coronavirus")
 
 Ha sido el propio ministro de Sanidad, Salvador Illa, quien ha confirmado oficialmente del **primer infectado por coronavirus en España.** Se trata de un turista alemán que permanece ingresado en el Hospital Nuestra Señora de Guadalupe, **en la isla canaria de La Gomera**. El paciente ha sido aislado y, por el momento, evoluciona bien.
 
@@ -42,7 +42,7 @@ Hay que recordar que son cinco las personas que componen el grupo de ingresados 
 
 El grupo había sido aislado al conocerse que, en Alemania, **habían estado en contacto con una persona diagnosticada de infección** **por el 2019-nCoV de Wuhan**. Se trataba de una ciudadana china. La mujer había viajado hasta Baviera para impartir un curso.
 
-![Coronavirus en España](/uploads/Coronavirus en España 1.jpeg "Coronavirus España")
+![Coronavirus en España](/uploads/Coronavirus en España 1.webp "Coronavirus España")
 
 ### Seguimiento de los contactados con el afectado
 

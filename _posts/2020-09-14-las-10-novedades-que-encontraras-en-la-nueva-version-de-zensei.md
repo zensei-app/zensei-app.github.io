@@ -6,7 +6,7 @@ date: 2020-10-07 22:00:00 +0000
 last_modified_at: 2020-10-07 22:00:00 +0000
 author: Cristina
 category: Salud respiratoria
-image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png"
+image: "/uploads/3-youtube_mesa-de-trabajo-1-copia-14.webp"
 description: 'Ya puedes disfrutar de todas las novedades de Zensei tanto para Android
   como para iOs. '
 intro: "El objetivo de Zensei siempre ha sido ayudar a personas con problemas respiratorios
@@ -79,7 +79,7 @@ En esta actualización encontrarás nuevos síntomas e incluso podrás añadir t
 
 Todo esto ayudará a que los consejos sean más precisos y podrás descubrir pautas de comportamiento de tus síntomas.
 
-![](/uploads/zensei-sintomas-respiratorios.png)
+![](/uploads/zensei-sintomas-respiratorios.webp)
 
 # **Modifica las entradas del Diario de Salud Respiratoria**
 
@@ -101,7 +101,7 @@ Lo más difícil al principio es acostumbrarse a poner los síntomas a diario, s
 
 Esta función te ayudará a coger esa rutina.
 
-![](/uploads/zensei-diario.png)
+![](/uploads/zensei-diario.webp)
 
 # **Tus alergias y condiciones de salud**
 
@@ -121,7 +121,7 @@ Ahora podrás conocer todos los factores de tu entorno de un modo fácil y senci
 
 Además de personalizar los factores que te afectan te enseñaremos muchos otros que también son importantes y pueden afectar a tu salud y empeorar tus síntomas sin que te des cuenta, como el ozono o las partículas muy pequeñas suspendidas en el aire.
 
-![](/uploads/zensei-alertas-respiratorias-1.png)
+![](/uploads/zensei-alertas-respiratorias-1.webp)
 
 # **Alertas de virus respiratorios**
 

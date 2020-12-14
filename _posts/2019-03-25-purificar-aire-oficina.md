@@ -6,7 +6,7 @@ date: 2019-03-25T23:00:00.000+00:00
 last_modified_at: 2019-08-22 10:00:00 +0000
 category: Alergia
 author: David
-image: "/uploads/air-office.jpeg"
+image: "/uploads/air-office.webp"
 description: Este es el artículo más completo sobre purificar el aire de tu oficina.
   En este artículo aprenderás todo lo que necesita saber sobre cómo purificar el aire
   de oficinas e interiores de espacios de trabajo. Por lo tanto, si necesitas mejor
@@ -200,7 +200,7 @@ Que relaja.
 
 ### **Aire acondicionado con filtros HEPA**
 
-![](/uploads/IMG_20190315_154210-1.jpg)
+![](/uploads/IMG_20190315_154210-1.webp)
 
 Normalmente, los edificios de oficinas suelen tener sistemas de aire acondicionado.
 

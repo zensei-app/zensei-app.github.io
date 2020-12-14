@@ -6,7 +6,7 @@ date: 2020-02-12T23:00:00.000+00:00
 last_modified_at: 2020-10-21 22:00:00 +0000
 author: Cristina-Ana
 category: Alergia
-image: "/uploads/mujer-estornuda-pie-calle_8353-1327.jpg"
+image: "/uploads/mujer-estornuda-pie-calle_8353-1327.webp"
 description: Te ayudamos a conocer y controlar la rinitis alérgica. Como bien sabes
   es bastante complicado, ya que la rinitis es una enfermedad que puede ser provocada
   por diversos factores. Descúbrelos.
@@ -44,7 +44,7 @@ Estos aeroalérgenos se clasifican como:
 
 ✅**Agentes laborales**: surge como respuesta a un agente presente en el aire y en el lugar de trabajo. Por ejemplo: harinas de cereales, enzimas proteolíticas y maderas tropicales.
 
-![](/uploads/seleccion-diferentes-harinas-gluten-almendra-trigo-sarraceno-arroz-garbanzos-avena_82893-3506.jpg)
+![](/uploads/seleccion-diferentes-harinas-gluten-almendra-trigo-sarraceno-arroz-garbanzos-avena_82893-3506.webp)
 
 También existen factores de riesgo:
 
@@ -74,7 +74,7 @@ Los síntomas se presentan generalmente durante dos o más días consecutivos y 
 
 ✅**Goteo posnasal**.
 
-![](/uploads/atleta-macho-cansado-tener-descanso-despues-trotar_1262-5912.jpg)
+![](/uploads/atleta-macho-cansado-tener-descanso-despues-trotar_1262-5912.webp)
 
 Existen factores estacionales, es decir, pueden comenzar o empeorar en un momento particular del año. Los detonantes son:
 
@@ -96,7 +96,7 @@ También puede apoyarse en alguna **prueba**, pero son bastante comunes:
 
 ✅ **Análisis de sangre**.
 
-![](/uploads/medico-guantes-azules-toma-sangre-vena-mujer-joven_168258-31.jpg)
+![](/uploads/medico-guantes-azules-toma-sangre-vena-mujer-joven_168258-31.webp)
 
 En casos muy particulares se pueden llegar a hacer otras pruebas como pruebas olfatorias, determinación de los niveles de óxido nítrico nasal o pruebas de provocación nasal con alérgenos.
 
@@ -116,7 +116,7 @@ Es muy eficaz si tienes alergia a la caspa de gato, a los ácaros o al polen. En
 
 ✅**Enjuague** de los senos paranasales: con una solución salina, estéril y destilada para aliviar la congestión nasal. Ayuda a expulsar el moco y los alérgenos de la nariz.
 
-![](/uploads/hombre-usando-spray-nasal_81262-608.jpg)
+![](/uploads/hombre-usando-spray-nasal_81262-608.webp)
 
 Si tienes un hijo con rinitis alérgica, habla con el médico sobre el tratamiento ya que no todos los medicamentos para la rinitis alérgica están aprobados para el consumo pediátrico.
 
@@ -168,7 +168,7 @@ Problemas que pueden asociarse a la rinitis alérgica:
 
 ✅**Infección de oído**, sobre todo en los niños.
 
-![](/uploads/mujer-asiatica-tiene-dolor-oido-concepto-tinnitus_34670-865.jpg)
+![](/uploads/mujer-asiatica-tiene-dolor-oido-concepto-tinnitus_34670-865.webp)
 
 ## Tipos de rinitis alérgica
 
@@ -190,7 +190,7 @@ Es importante acudir al médico en alguno de los siguientes casos:
 
 ✅Padeces **otro trastorno** que puede empeorar la rinitis alérgica, como pólipos nasales o asma.
 
-![](/uploads/doctor-sujetando-estetoscopio_23-2147822716.jpg)
+![](/uploads/doctor-sujetando-estetoscopio_23-2147822716.webp)
 
 ## Rinitis alérgica en bebés
 
@@ -208,7 +208,7 @@ Los síntomas en bebés lactantes son:
 
 ✅Mayor cansancio.
 
-![](/uploads/tratamiento-resfriado-comun-bebe_127093-572.jpg)
+![](/uploads/tratamiento-resfriado-comun-bebe_127093-572.webp)
 
 La rinitis en bebés suele ser más complicada que en los adultos ya que los bebés todavía no se acostumbran a respirar con normalidad y tener mocos severo puede llegar a causarle asfixia.
 
@@ -226,7 +226,7 @@ Además, la rinitis alérgica suele estar asociada con otras afecciones como asm
 
 Cuanto antes se diagnostique, antes se puede establecer un tratamiento preventivo y conseguir que la enfermedad no empeore.
 
-![](/uploads/alergia-estacional-nino-rinitis_73944-8415.jpg)
+![](/uploads/alergia-estacional-nino-rinitis_73944-8415.webp)
 
 En caso de que los niños hayan pasado una mala primavera o un mal verano debido a la rinitis y conjuntivitis, se recomienda ir en otoño a pediatras alergólogos para solicitar una evaluación.
 
@@ -236,7 +236,7 @@ Actualmente, el 16% de los adolescentes entre 13 y 14 años padecen rinitis alé
 
 En caso de padecer tos frecuente por las noches o con el ejercicio y sufrir episodios de fatiga o dolor en el pecho se debe acudir al médico.
 
-![](/uploads/rinitis-alergica-vacaciones-verano-viaje-adolescente_116407-2829.jpg)
+![](/uploads/rinitis-alergica-vacaciones-verano-viaje-adolescente_116407-2829.webp)
 
 La rinitis alérgica se asocia a otras enfermedades como la dermatitis atópica y el asma y puede llegar a interferir en la calidad de su vida.
 
@@ -252,7 +252,7 @@ No se trata de ninguna enfermedad peligrosa para el embarazo ni es peligrosa par
 
 Puede confundirse con la rinitis alérgica, pero las causas son diferentes. La rinitis alérgica es causada por diversos alérgenos, sin embargo, se cree que la rinitis gestacional se debe a los cambios hormonales.
 
-![](/uploads/mujer-embarazada-soplando-su-nariz-casa_107420-4312.jpg)
+![](/uploads/mujer-embarazada-soplando-su-nariz-casa_107420-4312.webp)
 
 Los síntomas pueden aparecer en cualquier momento pero son más comunes durante el primer trimestre de embarazo. Desaparecen por completo a las dos semanas después del parto.
 

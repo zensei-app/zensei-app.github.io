@@ -6,7 +6,7 @@ date: 2020-03-15T23:00:00.000+00:00
 last_modified_at: 2020-03-15T23:00:00.000+00:00
 author: Cristina
 category: Gripe
-image: "/uploads/Cuarentena.jpg"
+image: "/uploads/Cuarentena.webp"
 description: 'El Gobierno implanta el estado de alarma en España. Sabemos que estar
   en casa no es fácil, pero es necesario. La seguridad de todos depende de ello. '
 intro: |-
@@ -19,7 +19,7 @@ tags: coronavirus aislamiento casa cuarentena que-hacer
 slug: cuarentena casa aislamiento coronavirus
 
 ---
-![](/uploads/Cuarentena-1.jpg)
+![](/uploads/Cuarentena-1.webp)
 
 ## **Motivos de la cuarentena actual.**
 
@@ -63,7 +63,7 @@ El problema viene con la **población vulnerable**: las personas mayores o con e
 
 Por eso, si tienes síntomas es importante no acudir directamente al centro sanitario.
 
-![](/uploads/coronavirus-china-personas-blanco-mascarilla-medica-conjunto-concepto-ilustracion-cuarentena-coronavirus_10083-937.jpg)
+![](/uploads/coronavirus-china-personas-blanco-mascarilla-medica-conjunto-concepto-ilustracion-cuarentena-coronavirus_10083-937.webp)
 
 Si te estás poniendo malo, llama al **900 102 112**. Allí te atenderán y te dirán las indicaciones que tienes que seguir.
 
@@ -111,7 +111,7 @@ Aquí te dejamos algunos consejos que seguro que te ayudan:
 
 ✅ Aprovecha para limpiar y ordenar esas cosas que has ido dejando. El momento ha llegado. Ordena tu casa, tu armario, limpia esa estantería que llevas tiempo queriendo ordenar.
 
-![](/uploads/metodo-vertical-limpieza-ropa-marie-kondo_136595-1069.jpg)
+![](/uploads/metodo-vertical-limpieza-ropa-marie-kondo_136595-1069.webp)
 
 ✅ Haz una lista de todas las películas que querías ver y hazlo. También vale para series y documentales.
 
@@ -123,7 +123,7 @@ Aquí te dejamos algunos consejos que seguro que te ayudan:
 
 ✅ Desempolva los juegos de mesa. Chinchón, monopoli, cinquillo, trucos de magia, Catán, lo que sea.
 
-![](/uploads/jugador-jugando-al-ajedrez-mesa_114579-6048.jpg)
+![](/uploads/jugador-jugando-al-ajedrez-mesa_114579-6048.webp)
 
 ✅ En cuanto haga bueno abre las ventanas y saca un poco la cabeza, que te de el sol. Seguro que eso te alegra.
 

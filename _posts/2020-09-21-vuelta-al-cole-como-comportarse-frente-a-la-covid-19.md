@@ -6,7 +6,7 @@ date: 2020-09-21 22:00:00 +0000
 last_modified_at: 2020-09-21 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/1-vuelta-al-cole-portada.jpg"
+image: "/uploads/1-vuelta-al-cole-portada.webp"
 description: Te contamos cómo debes asumir la vuelta al cole durante la pandemia del
   coronavirus.
 intro: Muchos padres expresan su temor a la vuelta al cole debido al COVID-19. Sin
@@ -16,7 +16,7 @@ tags: vuelta al cole, coronavirus, pandemia
 slug: vuelta-al-cole-y-covid-19
 
 ---
-![Vuelta al cole y covid-19](/uploads/1-vuelta-al-cole-portada.jpg "Vuelta al cole")
+![Vuelta al cole y covid-19](/uploads/1-vuelta-al-cole-portada.webp "Vuelta al cole")
 
 El inicio de la pandemia por coronavirus nos obligó a todos a reajustar nuestras vidas y afrontar un confinamiento muy duro. Los niños fueron uno de los colectivos que más sufrieron el aislamiento y la falta de actividad social. Ahora, **con la vuelta al cole, los pequeños muestran su alegría por el hecho de volver a una vida cotidiana** que les permite, entre otras cosas, reencontrarse con sus compañeros y chicos de su edad. Sin embargo, los padres y madres se muestran preocupados frente a la posibilidad de que sus hijos se vean afectados por la [COVID-19](https://zenseiapp.com/salud%20respiratoria/gu%C3%ADacovid19/). **¿Hay motivos para preocuparse? ¿Cómo debemos comportarnos en esta vuelta al cole frente a la enfermedad?**
 
@@ -34,7 +34,7 @@ Al margen de la COVID-19, es preciso que padres y tutores puedan hacerse una ide
 
 Los mocos, las toses y la fiebre suelen ser compañeros habituales de los escolares que, además y por el estrecho contacto que mantienen en el colegio, **se reinfectan una y otra vez.** Esto hace que los pequeños encadenen varias enfermedades respiratorias a lo largo de la temporada.
 
-![cole y frío](/uploads/2-vuelta-al-cole-enfermedades-_mesa-de-trabajo-1-copia-40.jpg "Colegio y temporada de frío")
+![cole y frío](/uploads/2-vuelta-al-cole-enfermedades-_mesa-de-trabajo-1-copia-40.webp "Colegio y temporada de frío")
 
 ## Qué enfermedades nos esperan con la vuelta al cole
 
@@ -76,7 +76,7 @@ Por su parte, como cada año, la vuelta al cole llega con una serie de enfermeda
 
 En esta temporada, además, los adultos tendremos que hacernos a la idea de que **la lista de enfermedades respiratorias durante la vuelta al cole incluye la COVID-19.**
 
-![higiene](/uploads/3-vuelta-al-cole-prevencion_mesa-de-trabajo-1-copia-38.jpg "Higiene covid-19")
+![higiene](/uploads/3-vuelta-al-cole-prevencion_mesa-de-trabajo-1-copia-38.webp "Higiene covid-19")
 
 ## Cómo combatir las enfermedades respiratorias
 
@@ -98,7 +98,7 @@ Las reglas establecidas por las autoridades sanitarias permitirán que, práctic
 
 Para este último consejo te puede resulta muy útil [**descargarte la app gratuita de Zensei**](https://zenseiapp.com/)**.** Llevarás un control minucioso de tu afección respiratoria que, además, ayudará a tu médico a comprender tu evolución.
 
-![vuelta al colegio](/uploads/4-vuelta-al-cole-parte-psicologica_mesa-de-trabajo-1-copia-39.jpg "Niños y covid-19")
+![vuelta al colegio](/uploads/4-vuelta-al-cole-parte-psicologica_mesa-de-trabajo-1-copia-39.webp "Niños y covid-19")
 
 ## Minimizar el miedo de los niños a la pandemia
 

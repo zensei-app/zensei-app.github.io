@@ -6,7 +6,7 @@ date: 2020-03-03T23:00:00.000+00:00
 last_modified_at: 2020-06-30 22:00:00 +0000
 author: Ana
 category: Alergia
-image: "/uploads/Captura de pantalla 2020-03-05 a las 12.01.56.png"
+image: "/uploads/Captura de pantalla 2020-03-05 a las 12.01.56.webp"
 description: Las alergias de primavera son una de las afecciones estacionales más
   extendidas. Te contamos todo sobre ellas.
 intro: "¿Eres alérgico? ¿Temes la llegada del buen tiempo? Aprende más sobre las **alergias
@@ -15,7 +15,7 @@ tags: calidad-aire vías-respiratorias dificultad-respiratoria asma alergias pri
 slug: alergia primavera sintomas prevencion
 
 ---
-![alergia polen](/uploads/Alergias de primavera.jpg "Alergias de primavera")
+![alergia polen](/uploads/Alergias de primavera.webp "Alergias de primavera")
 
 Llega el buen tiempo. Los meses primaverales anticipan el verano con una explosión de luz y color. Los campos se encuentran preciosos y… **miles de personas padecen los síntomas de las alergias de primavera.**
 
@@ -85,7 +85,7 @@ Sin embargo, durante el periodo de alergias primaverales, la dermatitis de conta
 
 La terapia más idónea es la de evitar el contacto directo con el desencadenante. Para averiguar cuál es el alérgeno causante, **el paciente debe someterse a ciertas pruebas epicutáneas.**
 
-![](/uploads/alergia polen.jpg)
+![](/uploads/alergia polen.webp)
 
 **Urticaria**
 

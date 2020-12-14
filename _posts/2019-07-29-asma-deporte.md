@@ -6,7 +6,7 @@ date: 2019-07-29T22:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: "/uploads/Asma y deporte.jpg"
+image: "/uploads/Asma y deporte.webp"
 description: Asma y deporte no deberían ser antagónicos. Elige bien tu deporte y mantén
   tus controles médicos.
 intro: La actividad física es fundamental para la buena calidad de vida de las personas.
@@ -16,7 +16,7 @@ tags: asma deporte
 redirect_from: "/blog/asma-y-deporte/"
 
 ---
-![](/uploads/Asma y deporte.jpg)
+![](/uploads/Asma y deporte.webp)
 
 La actividad física es recomendable para todas las personas, independientemente de su edad. La razón es que practicar ejercicio de forma regular reporta numerosos beneficios para el ser humano. Sin embargo, es importante tener en cuenta ciertos factores para que puedas sacar partido a tu rutina física sin padecer ninguna contraindicación. En este caso, **¿son compatibles asma y deporte?**
 
@@ -64,7 +64,7 @@ No obstante, no podemos ignorar a esa proporción de pacientes que se ven afecta
 
 Las vías respiratorias intervienen en diversas funciones importantes para el cuerpo. Por ejemplo, se comportan como un “radiador” y se dedican a **calentar y humedecer el aire**. De esta manera, llega en las mejores condiciones a los alveolos, donde se realiza el intercambio de oxígeno.
 
-![](/uploads/Asma y deporte 1.jpg)
+![](/uploads/Asma y deporte 1.webp)
 
 ### Cómo se interfieren asma inducida por el ejercicio y vías respiratorias
 

@@ -6,7 +6,7 @@ date: 2020-07-16 22:00:00 +0000
 last_modified_at: 2020-07-16 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/edema-pulmonar.png"
+image: "/uploads/edema-pulmonar.webp"
 description: El edema pulmonar, también conocido como agua en los pulmones, puede
   ser potencialmente mortal si no se atiende a tiempo.
 intro: Te contamos todo lo que necesitas saber sobre el **edema pulmonar**, sus tipos
@@ -16,7 +16,7 @@ tags: edema pulmonar, pulmones, salud pulmonar
 slug: edema-pulmonar
 
 ---
-![](/uploads/edema-pulmonar.png)
+![](/uploads/edema-pulmonar.webp)
 
 El edema pulmonar es una dolencia provocada por la **acumulación excesiva de líquido en los pulmones.** El agua queda acumulada en los numerosos alveolos pulmonares, los cuantiosos saquitos de aire de los pulmones. Esta circunstancia hace que la respiración se vuelva muy dificultosa. Te contamos todo lo que debes saber sobre el edema pulmonar.
 
@@ -136,7 +136,7 @@ Lo natural es que al intercambiar estos gases no se produzca ningún tipo de inc
 
 Se dan diversas causas que pueden contribuir a que se acumule líquido en los pulmones. No obstante, **la mayoría de ellas están vinculadas con el corazón (edema pulmonar cardiogénico).** Por esta razón, es importante lograr comprender la vinculación que existe entre el corazón y los pulmones. Así podremos entender qué desencadena el edema pulmonar.
 
-![Heart](/uploads/corazon.png "Corazón")
+![Heart](/uploads/corazon.webp "Corazón")
 
 ### El funcionamiento del corazón
 

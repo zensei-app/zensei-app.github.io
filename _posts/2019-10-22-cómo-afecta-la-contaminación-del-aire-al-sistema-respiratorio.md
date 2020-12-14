@@ -6,7 +6,7 @@ date: 2019-10-22T22:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Contaminación.jpg"
+image: "/uploads/Contaminación.webp"
 description: Te mostramos cómo afecta la contaminación del aire al sistema respiratorio.
   Es necesario concienciarnos de sus consecuencias.
 intro: La **contaminación del aire afecta directamente al sistema respiratorio y al
@@ -15,7 +15,7 @@ intro: La **contaminación del aire afecta directamente al sistema respiratorio 
 tags: calidad-aire vías-respiratorias dificultad-respiratoria asma
 
 ---
-![](/uploads/Contaminación.jpg)
+![](/uploads/Contaminación.webp)
 
 La **calidad del aire** de las ciudades está cada vez más dañada. La polución se ha convertido en uno de los grandes problemas urbanos. El número de personas aquejadas por **enfermedades y alergias** aumenta día a día. ¿Sabes **cómo afecta la contaminación del aire** al sistema respiratorio?
 
@@ -101,7 +101,7 @@ La misma suerte corren los **pacientes con afecciones cardíacas** (ataques al c
 
 Su aumento también está relacionado con un **mayor índice de muertes tempranas de enfermos pulmonares y cardíacos.** Además, hay evidencia de que la exposición a largo plazo a partículas puede contribuir al desarrollo de cáncer de pulmón y posiblemente asma.
 
-![](/uploads/Polución.jpg)
+![](/uploads/Polución.webp)
 
 ### Dióxido de nitrógeno (NO 2)
 

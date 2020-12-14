@@ -6,7 +6,7 @@ date: 2019-10-19T22:00:00.000+00:00
 last_modified_at: 2020-04-15T22:00:00.000+00:00
 author: Ana
 category: Alergia
-image: "/uploads/Embarazo con alergias.jpg"
+image: "/uploads/Embarazo con alergias.webp"
 description: 'Superar un embarazo con alergias no es tan complicado como puedes pensar
   en un primer momento. Te contamos todo lo que necesitas saber. '
 intro: Un **embarazo con alergias** no tiene por qué complicarse. En contacto con
@@ -15,7 +15,7 @@ intro: Un **embarazo con alergias** no tiene por qué complicarse. En contacto c
 tags: embarazo alergias asma
 
 ---
-![](/uploads/Embarazo con alergias.jpg)
+![](/uploads/Embarazo con alergias.webp)
 
 Primero nos embarga la emoción, pero a continuación nos inunda la preocupación al tener que sobrellevar un embarazo con alergias. Las mujeres tienen muchas cosas en que pensar cuando están embarazadas. Sin embargo, lo más importante que debéis saber es que el asma y otros problemas alérgicos se encuentran entre las **enfermedades potencialmente más graves** que complican el embarazo.
 
@@ -63,7 +63,7 @@ Es apropiado continuar con las inyecciones antialérgicas durante el embarazo en
 
 Sin embargo, **el embarazo no es un buen momento para comenzar un tratamiento de vacunas contra la alergia**. Es posible que puedan causar fuertes reacciones alérgicas. Sin conocer la reacción de una mujer, es mejor retrasar el inicio de estas inyecciones contra la alergia hasta después del parto.
 
-![](/uploads/Embarazo con alergias y polen.jpg)
+![](/uploads/Embarazo con alergias y polen.webp)
 
 ## Qué tipos de medicamentos tomar durante el embarazo con alergias
 

@@ -6,7 +6,7 @@ date: 2020-04-05 22:00:00 +0000
 last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/Jarabe de sauco contra la gripe.jpg"
+image: "/uploads/Jarabe de sauco contra la gripe.webp"
 description: El jarabe de saúco ha sido empleado durante siglos para tratar dolencias
   como el resfriado o la gripe.
 intro: Te ofrecemos una guía sobre los principales aspectos que debes conocer sobre
@@ -15,7 +15,7 @@ tags: gripe jarabe-de-sauco resfriado jarabes remedios-gripe
 slug: jarabe de sauco contra la gripe
 
 ---
-![Jarabe de sauco contra la gripe](/uploads/Jarabe de sauco contra la gripe.jpg "Jarabe de sauco")
+![Jarabe de sauco contra la gripe](/uploads/Jarabe de sauco contra la gripe.webp "Jarabe de sauco")
 
 A lo largo y ancho del mundo son muchos los partidarios de la baya del saúco. Aseguran que esta fruta es una de las soluciones más versátiles de la naturaleza para un buen número de enfermedades. Una de las formas de administración, quizá la más empleada, sea el jarabe de saúco. Se emplea como **un buen aliado contra la gripe y el resfriado.**
 
@@ -61,7 +61,7 @@ Es muy importante que se determine cuál es la causa de la tos, sobre todo si es
 
 De cualquier modo, en caso de padecer tos persistente **es importante que el paciente acuda al médico para que determine el origen de ese síntoma.**
 
-![Jarabe de sauco para el resfriado](/uploads/Jarabe de sauco contra la gripe 1.jpg "Bayas de sauco")
+![Jarabe de sauco para el resfriado](/uploads/Jarabe de sauco contra la gripe 1.webp "Bayas de sauco")
 
 ### Alivio del dolor
 

@@ -6,7 +6,7 @@ date: 2019-10-16T22:00:00.000+00:00
 last_modified_at: 2019-10-16T22:00:00.000+00:00
 author: David
 category: Salud respiratoria
-image: "/uploads/vitalaire-paying-for-your-cpap-mobile.jpg"
+image: "/uploads/vitalaire-paying-for-your-cpap-mobile.webp"
 description: Si estás pensando en comprar un CPAP en este post conocerás las mejores
   máquinas y máscaras de CPAP del mercado para mejorar tu apnea del sueño y volver
   a dormir plácidamente.

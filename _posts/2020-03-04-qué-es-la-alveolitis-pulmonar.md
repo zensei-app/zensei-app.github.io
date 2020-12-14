@@ -6,7 +6,7 @@ date: 2020-03-04T23:00:00.000+00:00
 last_modified_at: 2020-03-04T23:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: "/uploads/alveolos.jpeg"
+image: "/uploads/alveolos.webp"
 description: La alveolitis pulmonar es una enfermedad que precisa de un diagnóstico
   temprano. Descubre todo lo que necesitas saber sobre esta patología.
 intro: La **alveolitis pulmonar** es un trastorno pulmonar resultante de la inhalación
@@ -17,7 +17,7 @@ tags:
 slug: alveolitis pulmonar
 
 ---
-![Alveolos](/uploads/alveolos.jpeg "Alveolitis pulmonar")
+![Alveolos](/uploads/alveolos.webp "Alveolitis pulmonar")
 
 La alveolitis alérgica extrínseca o alveolitis pulmonar es un **trastorno pulmonar resultante de la inhalación repetida de polvo orgánico.** Por lo general se produce en un entorno laboral específico.
 
@@ -87,7 +87,7 @@ Una **gran variedad de sustancias** que se encuentran en entornos laborales pued
 
 La alveolitis alérgica extrínseca puede afectar a hombres y mujeres en la misma proporción. Estas personas, como patrón generalizado, desempeñan trabajos con alérgenos en forma de polvo en suspensión. Los alérgicos a las sustancias contenidas en dichas partículas inhalan el polvo procedente de animales o vegetales.
 
-![alveolitis pulmonar](/uploads/alveolitis pulmonar.jpeg "alveolitis pulmonar")
+![alveolitis pulmonar](/uploads/alveolitis pulmonar.webp "alveolitis pulmonar")
 
 ## Trastornos relacionados
 

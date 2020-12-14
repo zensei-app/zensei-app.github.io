@@ -6,7 +6,7 @@ date: 2020-02-11T23:00:00.000+00:00
 last_modified_at: 2020-04-19 22:00:00 +0000
 author: Cristina
 category: Asma
-image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.jpg"
+image: "/uploads/mujer-que-sufre-dolor-pecho-o-sintomas-enfermedades-corazon-mientras-ejecuta-parque_66269-661.webp"
 description: Te ayudamos a conocer y controlar el asma. Como bien sabes es bastante
   complicado, ya que el asma es una enfermedad que puede ser provocada por diversos
   factores. Descúbrelos.
@@ -39,7 +39,7 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * **Algunos hongos.**
 * **Pelo o caspa de animales:** tanto domésticos, como pueden ser los gatos, o no domésticos, como los caballos.
 
-  ![](/uploads/pelo de gato.jpg)
+  ![](/uploads/pelo de gato.webp)
 * **Algunos medicamentos:** como la aspirina, los betabloqueantes, el ibuprofeno o el naproxeno.
 * **Cambios en el clima:** sobre todo el frío.
 * **Algunos químicos** que se añaden a los alimentos y bebidas.
@@ -48,7 +48,7 @@ No está claro por qué algunas personas contraen asma y otras no, pero suele es
 * **Emociones fuertes:** como el estrés.
 * **Contaminantes del aire e irritantes:** como el humo del tabaco.
 
-  ![](/uploads/contaminacion.jpg)
+  ![](/uploads/contaminacion.webp)
 * Tener un **pariente consanguíneo con asma.**
 * Tener **alguna alergia:** como la dermatitis atópica o rinitis alérgica.
 * Tener **sobrepeso**.
@@ -69,7 +69,7 @@ Los principales síntomas del asma son:
 * **Cansancio durante el día.**
 * Un **pitido o silbido al respirar** que puede oírse al exhalar.
 
-![](/uploads/mujer-enferma-que-tiene-tos-descansando-cama_23-2147953577.jpg)
+![](/uploads/mujer-enferma-que-tiene-tos-descansando-cama_23-2147953577.webp)
 
 También es importante conocer las situaciones en las que nuestro asma puede empeorar para así evitarlas o tener mayor precaución:
 
@@ -87,7 +87,7 @@ El primer paso para diagnosticar el asma es **hablar con el médico** sobre tus 
 
 Es probable que el médico haga **preguntas** acerca de los síntomas y de la exposición a las sustancias que se vinculan con el asma.
 
-![](/uploads/llenando-registro-medico_1098-18239.jpg)
+![](/uploads/llenando-registro-medico_1098-18239.webp)
 
 Los síntomas clínicos del asma se pueden confundir con otras enfermedades tanto del pulmón como de las vías respiratorias superiores. Por ello, se realizan una serie de **exploraciones para confirmar** que se padece de asma antes de establecer un tratamiento a largo plazo.
 
@@ -99,7 +99,7 @@ Es posible que el médico haga lo siguientes:
 * Usar un estetoscopio para **escuchar la respiración**. La [sibilancia](https://medlineplus.gov/spanish/ency/article/003070.htm) (sonidos agudos similares a un silbido al exhalar) es uno de los principales signos del asma.
 * **Examinar la piel** para detectar signos de afecciones alérgicas, como eccema y urticaria.
 
-![](/uploads/doctor-auscultando-paciente_13339-210181.jpg)
+![](/uploads/doctor-auscultando-paciente_13339-210181.webp)
 
 El médico también querrá saber si tienes signos y síntomas frecuentes de asma como de los que te hemos hablado antes (tos, problemas para respirar, opresión en el pecho, etc.).
 
@@ -109,7 +109,7 @@ El médico también puede recurrir a varias pruebas para determinar cómo están
 
 1. **Espirometría**: es la prueba más importante y la que generalmente usan los médicos para diagnosticar el asma en personas mayores de 5 años. Para conocer cómo están funcionando los pulmones te pedirán que inspires profundamente y que sueltes el aire con fuerza dentro de un tubo conectado a una espirómetro. Esto registra tanto la cantidad del aire que exhalas (volumen) como la rapidez con la que exhalas. Si alguna de las mediciones importantes están por debajo de lo normal para una persona de tu edad, puede indicar que el asma ha estrechado las vías respiratorias.
 
-![](/uploads/espirometria.jpg)
+![](/uploads/espirometria.webp)
 
 Después es posible que el médico te pida que inhales un medicamento para el asma que despeje tus vías respiratorias y volver a hacer el examen anterior.
 
@@ -119,7 +119,7 @@ Si en los resultados de este segundo intento se ve una mejoría significativa, p
 
 En caso de que el asma sea desencadenado por el ejercicio es posible que el médico te pida que hagas actividades físicas para ver si desencadena los síntomas.
 
-![](/uploads/primer-plano-mujer-corriendo-fondo-desenfocado_23-2147600468.jpg)
+![](/uploads/primer-plano-mujer-corriendo-fondo-desenfocado_23-2147600468.webp)
 
 Después de cualquiera de estas pruebas, tendrás que repetir la espirometría. Si las mediciones siguen siendo normales, lo más probable es que no tengas asma. Pero, si las mediciones disminuyen significativamente, es posible que sí tengas asma.
 
@@ -139,7 +139,7 @@ El tratamiento debe cubrir varios frentes:
    1. Broncodilatadores de acción prolongada: se toman por la mañana y por la noche, todos los días, se tengan o no síntomas.
    2. Broncodilatadores de acción corta: se suelen reservar para tomar en caso de necesidad (sensación de ahogo, tos). El objetivo es que los pacientes usen estos lo menos posible. Si no se consigue, es necesario potenciar el tratamiento antiinflamatorio.
 
-![](/uploads/primer-plano-mujer-que-usa-inhalador-asma_23-2147948420.jpg)
+![](/uploads/primer-plano-mujer-que-usa-inhalador-asma_23-2147948420.webp)
 
 1. En el caso de que el paciente padezca **asma alérgica**:
    1. Los antihistamínicos pueden ser beneficiosos.
@@ -178,7 +178,7 @@ Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu
 * Aprende a **controlar tu respiración** y **conoce los signos de advertencia** de un ataque. Te permitirá identificar y tratar los ataques a tiempo y así evitar ataques graves.
 * **Vacúnate** contra la neumonía y la influenza. Es muy importante estar al día con las vacunas.
 
-![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.jpg)
+![](/uploads/primer-plano-mano-medico-guantes-azules-que-dan-jeringa-brazo-paciente_23-2148050551.webp)
 
 * Presta atención al **uso del inhalador de alivio rápido**. Si notas que cada vez lo usas más significa que no está bajo control.
 * Si la causa del asma es una alergia es recomendable **evitar la exposición a los agentes** que la originan.
@@ -186,7 +186,7 @@ Tú mismo también puedes llevar a cabo ciertos pasos que te permitan mejorar tu
 * En caso de que padezcas **rinitis**, debes tener especial cuidado ya que con frecuencia precede al asma. Es importante que si detectas algún indicio de principio asmático acudas al médico.
 * Evita **fumar** y espacios con mucho **humo**.
 
-![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.jpg)
+![](/uploads/hombre-rociando-vapores-pueblo-prevenir-fiebre-dengue_46740-137.webp)
 
 ## Complicaciones del asma
 
@@ -200,7 +200,7 @@ Algunos de los síntomas que indican que el asma está empeorando son:
 * Visitas a urgencias y hospitalizaciones por **ataques intensos de asma.**
 * **Efectos secundarios** del consumo a largo plazo de algunos medicamentos que se utilizan para estabilizar el asma grave.
 
-![](/uploads/blur-hospital_1203-7957.jpg)
+![](/uploads/blur-hospital_1203-7957.webp)
 
 Las complicaciones del asma pueden llevar a:
 
@@ -222,7 +222,7 @@ Existen diferentes clasificaciones:
   * **Asma ocupacional:** desencadenado por irritantes en el lugar del trabajo, como químicos, polvo o gases.
   * **Asma alérgica:** causado por sustancias que se encuentran en el aire como el polen o el pelo de las mascotas.
 
-# ![](/uploads/mujeres-tienen-dolor-pecho-mientras-corren-jardin_42310-100.jpg)
+# ![](/uploads/mujeres-tienen-dolor-pecho-mientras-corren-jardin_42310-100.webp)
 
 * En función de la frecuencia y la intensidad de los síntomas:
   * **Leve**: se puede controlar mediante tratamiento farmacológico y no suele alterar la vida cotidiana de quienes la padecen.
@@ -236,7 +236,7 @@ Existen diferentes clasificaciones:
 * Si **empeoran los síntomas** del asma. Si crees que los medicamentos no están aliviando los síntomas o si necesitas usar el inhalador de alivio rápido con mayor frecuencia. No intentes resolver el problema tomando más medicamentos sin antes consultar con el médico. El abuso de los medicamentos para el asma puede producir efectos secundarios y empeorar el asma.
 * Para **revisar tu tratamiento**. Con frecuencia, el asma cambia con el paso del tiempo. Reúnete con el médico regularmente para hablar sobre tus síntomas y hacer cualquier ajuste necesario al tratamiento.
 
-![](/uploads/primer-plano-medico-llenando-formulario-medico-paciente_23-2148050550.jpg)
+![](/uploads/primer-plano-medico-llenando-formulario-medico-paciente_23-2148050550.webp)
 
 Los ataques de asma graves pueden poner en riesgo tu vida. Habla con el médico para determinar qué hacer cuando los signos y síntomas empeoran, y cuándo necesitarás tratamiento de urgencia.
 
@@ -258,7 +258,7 @@ Diagnosticar asma en bebés es una tarea complicada ya que no es fácil medir la
 
 Por ello, el pediatra dependerá mucho de los síntomas de tu hijo, la información que le puedas facilitar al respecto y si algún miembro de la familia sufre asma.
 
-![](/uploads/bebe-visitando-hospital-mama_1098-21198.jpg)
+![](/uploads/bebe-visitando-hospital-mama_1098-21198.webp)
 
 Es importante saber si el bebé sufre sibilancia, tos o respira rápido cuando está resfriado, en contacto con animales o en lugares con mucho humo o polvo.
 
@@ -276,7 +276,7 @@ La mayoría de los niños pequeños tienen asma exclusivamente durante infeccion
 
 En otras ocasiones, como los niños con alergia al polen, solo lo padecerán en primavera y verano.
 
-![](/uploads/mujer-hace-inhalacion-nino-casa_127093-541.jpg)
+![](/uploads/mujer-hace-inhalacion-nino-casa_127093-541.webp)
 
 Los padres deben controlar a los niños poniendo especial cuidado a la aparición de pitidos, fatiga y otros signos de obstrucción bronquial.
 
@@ -288,7 +288,7 @@ Tal y como ocurre con los niños, en los últimos años los casos de asma han au
 
 Las características del asma en esta edad varían a las de los niños. Las infecciones respiratorias pierden importancia como desencadenantes del asma, son más frecuentes las alergias (polen, ácaros, hongos) y los broncoespasmos por ejercicio son más comunes.
 
-![](/uploads/nina-teniendo-ataque-asma-usando-inhalador-sentado-sofa-casa_127069-576.jpg)
+![](/uploads/nina-teniendo-ataque-asma-usando-inhalador-sentado-sofa-casa_127069-576.webp)
 
 La adolescencia en un paciente sano ya es una etapa complicada y frustrante, pero en un paciente asmático, que es más vulnerable, puede constituir una dificultad añadida.
 
@@ -309,7 +309,7 @@ El asma en adultos está muy ligado a la obesidad, el reflujo gastroesofágico, 
 
 Los síntomas del asma en los adultos se manifiesta con el pecho apretado, silbidos, cansancio que empeora con el ejercicio físico y/o tos persistente.
 
-![](/uploads/hombre-casco-moto-sobre-pared-aislada_1368-72592.jpg)
+![](/uploads/hombre-casco-moto-sobre-pared-aislada_1368-72592.webp)
 
 Hay ciertos meses del año en los que se puede estar más expuesto a factores alérgenos como el polen, la contaminación y las infecciones virales respiratorias. También es importante prestar atención a los cambios de temperatura asociados a la polución.
 
@@ -319,7 +319,7 @@ Es muy importante mantener el asma controlado y, aunque no tengas síntomas, seg
 
 El asma es una de las enfermedades más comunes que pueden complicar un embarazo, aunque la mayoría de las mujeres asmáticas tienen embarazos normales y, si se lleva un control adecuado del asma, el riesgo de complicaciones es bajo.
 
-![](/uploads/tiro-medio-mujer-embarazada-pie-junto-ventana_23-2148252648.jpg)
+![](/uploads/tiro-medio-mujer-embarazada-pie-junto-ventana_23-2148252648.webp)
 
 Sin embargo, el asma grave o mal controlada durante el embarazo puede aumentar el riesgo de diferentes problemas, entre ellos:
 
@@ -334,7 +334,7 @@ Si el asma mejora, suele ser de forma gradual según avanza el embarazo. Sin emb
 
 En cuanto a los medicamentos, es cierto que cualquier medicina que se tome durante el embarazo puede representar riesgos, sin embargo, los fármacos para el asma pueden usarse sin inconvenientes durante el embarazo.
 
-![](/uploads/mujer-embarazada-tomando-pastillas-embarazo_85869-7435.jpg)
+![](/uploads/mujer-embarazada-tomando-pastillas-embarazo_85869-7435.webp)
 
 Es importante tomar los medicamentos según lo recetado por tu médico ya que cualquier cambio que hagas en la rutina de fármacos puede influir en la gravedad del asma. Si necesitas ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
@@ -346,7 +346,7 @@ Cuidar de ti misma es la mejor manera de cuidar a tu bebé.
 
 Los síntomas de la alergia en la tercera edad son similares a la alergia en adultos jóvenes, aunque es frecuente que en los pacientes mayores se confunda el asma con la bronquitis crónica o se considere que es un trastorno propio de la edad.
 
-![](/uploads/hombre-asiatico-mayor-tiene-gripe-estornuda-problema-virus-temporada-enfermedad_1439-86.jpg)
+![](/uploads/hombre-asiatico-mayor-tiene-gripe-estornuda-problema-virus-temporada-enfermedad_1439-86.webp)
 
 Es importante diferenciar si el asma se ha iniciado antes de los 40 años o si se ha iniciado después de los 40 años.
 
@@ -356,7 +356,7 @@ Sin embargo, los pacientes que presentan asma antes de los 40 años tienen una m
 
 Otro rasgo a tener en cuenta en las personas mayores es la medicación que toman, sobre todo el uso frecuente de betabloqueantes para la hipertensión arterial, alteraciones cardiacas leves o la tensión ocular, ya que pueden pueden ejercer un efecto negativo en el paciente con asma y dificultar su tratamiento.
 
-![](/uploads/anciana-prepararse-comer-pildora-medicina-diaria_1150-14593.jpg)
+![](/uploads/anciana-prepararse-comer-pildora-medicina-diaria_1150-14593.webp)
 
 Nunca se debe decidir por sí mismo suspender o modificar dosis de algunos medicamentos. Si se necesita ajustar las dosis o suspender algún medicamento, acude a tu médico.
 
@@ -378,11 +378,11 @@ Este inhalador tiene sensores integrados en el inhalador que permite conocer la 
 
 Estos datos se pueden compartir con familiares y médicos.
 
-![](/uploads/eMDIs.jpg)
+![](/uploads/eMDIs.webp)
 
 El caso de Propeller es diferente. No es un inhalador como tal, sino un sensor que se conecta al inhalador. Este sensor permite rastrear de forma automática las dosis y recoge información que guarda en la aplicación y que también puede compartirse con la familia o el médico. Además, la aplicación te manda recordatorios e información sobre cuándo, dónde y por qué aparecen síntomas.
 
-![](/uploads/Propeller-605x340.jpg)
+![](/uploads/Propeller-605x340.webp)
 
 ## Datos interesantes sobre el asma
 

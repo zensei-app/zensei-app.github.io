@@ -6,7 +6,7 @@ date: 2020-12-01 23:00:00 +0000
 last_modified_at: 2020-12-01 23:00:00 +0000
 author: Ana
 category: gripe
-image: "/uploads/vacuna-coronavirus-laboratorio.jpg"
+image: "/uploads/vacuna-coronavirus-laboratorio.webp"
 description: La evolución de la pandemia hace que la carrera por conseguir una vacuna
   de la Covid-19 efectiva sea más necesaria que nunca.
 intro: El avance del coronavirus ha puesto en jaque a la comunidad científica para
@@ -16,7 +16,7 @@ tags: vacuna coronavirus, covid-19, vacunas, pandemia, vacuna covid
 slug: vacuna-coronavirus
 
 ---
-![prueba de vacunas](/uploads/vacuna-coronavirus-laboratorio.jpg "Vacuna de la Covid-19")
+![prueba de vacunas](/uploads/vacuna-coronavirus-laboratorio.webp "Vacuna de la Covid-19")
 
 Las vacunas generalmente requieren años de investigación y pruebas antes de llegar a la clínica, pero los científicos se están dando prisa para producir una vacuna de la Covid-19 segura y eficaz para el próximo año. Los investigadores están probando 57 vacunas en ensayos clínicos en humanos, y al menos 87 vacunas preclínicas están bajo investigación activa en animales.
 
@@ -42,7 +42,7 @@ A continuación, veremos con detalle el proceso general de prueba de vacunas.
 
 **EN PAUSA:** Si los investigadores observan síntomas preocupantes en los voluntarios, pueden poner un ensayo en pausa. Después de la correspondiente investigación, el ensayo puede reanudarse o abandonarse.
 
-![jeringuillas de vacunas](/uploads/vacuna-de-la-covid19.jpg "Vacuna coronavirus")
+![jeringuillas de vacunas](/uploads/vacuna-de-la-covid19.webp "Vacuna coronavirus")
 
 ## Vacunas genéticas
 
@@ -72,7 +72,7 @@ En el verano, las empresas comenzaron a firmar acuerdos para entregar grandes pe
 
 Al igual que la vacuna de Moderna, la preparación de Pfizer y BioNTech se basa en ARNm, que se deshace a menos que se mantenga en un congelador. Como resultado, la vacuna tendrá que enfriarse a menos 70ºC hasta que esté lista para ser inyectada. Pfizer está construyendo cajas que mantendrán frías las vacunas mientras se transportan. Además, como la mayoría de las vacunas que se encuentran actualmente en ensayo, requiere dos dosis. Asegurarse de que las personas vuelvan después de tres semanas para su segunda inyección agregará una capa adicional de complejidad a la distribución de la vacuna de la Covid-19.
 
-![Covid-19 y vacuna](/uploads/vacuna-covid.jpg "Vacuna covid")
+![Covid-19 y vacuna](/uploads/vacuna-covid.webp "Vacuna covid")
 
 ### Zydus Cadila – FASE 2
 

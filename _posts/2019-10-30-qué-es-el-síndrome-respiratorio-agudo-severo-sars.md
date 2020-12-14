@@ -6,7 +6,7 @@ date: 2019-10-30T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/SARS.jpg"
+image: "/uploads/SARS.webp"
 description: El SARS solo ha sido protagonistas de dos brotes epidémicos. Su carácter
   virulento y su capacidad de expansión han contribuido a que aún se esté investigando.
 intro: El **Síndrome Respiratorio Agudo Severo**, también conocido como **SARS**,
@@ -15,7 +15,7 @@ intro: El **Síndrome Respiratorio Agudo Severo**, también conocido como **SARS
 tags: enfermedades pulmonares SARS Síndrome-respiratorio-agudo-severo
 
 ---
-![](/uploads/SARS.jpg)
+![](/uploads/SARS.webp)
 
 El **Síndrome Respiratorio Agudo Severo (SRAS)** es una infección viral grave y potencialmente mortal. Se sabe que es causada por un **virus** no reconocido previamente de la familia Coronaviridae, el coronavirus asociado al SARS (SARS-CoV).
 
@@ -135,7 +135,7 @@ Se ha encontrado una amplia gama de otros coronavirus en los murciélagos. Ello 
 
 **La proximidad en la que viven los humanos y el ganado** en las zonas rurales del sur de China puede haber llevado a la transmisión del virus a las personas.
 
-![](/uploads/SARS 1.jpg)
+![](/uploads/SARS 1.webp)
 
 ## Coronavirus del síndrome respiratorio del Medio Oriente (MERS-CoV)
 

@@ -6,7 +6,7 @@ date: 2019-06-25T22:00:00.000+00:00
 last_modified_at: 2020-04-13 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
-image: "/uploads/insuficiencia respiratoria neonatal.jpg"
+image: "/uploads/insuficiencia respiratoria neonatal.webp"
 description: La insuficiencia respiratoria neonatal provoca la opresión de los alveolos,
   dificultando el funcionamiento de los pulmones. En este artículo te contamos como
   prevenirla y tratarla.
@@ -17,7 +17,7 @@ tags: bebés insuficiencia respiratoria
 redirect_from: "/blog/todo-lo-que-debes-saber-sobre-la-insuficiencia-respiratoria-neonatal/"
 
 ---
-![](/uploads/insuficiencia respiratoria neonatal.jpg)
+![](/uploads/insuficiencia respiratoria neonatal.webp)
 
 La insuficiencia respiratoria en niños recién nacidos es conocida como **Síndrome de Dificultad Respiratoria (SDR) neonatal**. La afección, que consigue dificultar la capacidad para respirar, suele afectar con mayor virulencia a los bebés que nacen antes de tiempo.
 
@@ -81,7 +81,7 @@ Cuando el líquido tarda en absorberse el pequeño no inspirará la cantidad de 
 
 Es importante contar con la **valoración médica cuanto antes** para descartar problemas más serios para la salud del recién nacido.
 
-![](/uploads/insuficiencia respiratoria neonatal1.jpg)
+![](/uploads/insuficiencia respiratoria neonatal1.webp)
 
 ## Pruebas y exámenes para detectar el SDR neonatal
 

@@ -6,7 +6,7 @@ date: 2019-06-04T22:00:00.000+00:00
 last_modified_at: 2020-10-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
-image: "/uploads/Tos seca.jpg"
+image: "/uploads/Tos seca.webp"
 description: Si la tos seca persiste por más de una semana o va acompañada de otro
   tipo de sintomatología, como fiebre o dolor pectoral, debe ser el médico quien valore
   la situación y prescriba el medicamento adecuado.
@@ -19,7 +19,7 @@ redirect_from:
 - "/blog/remedios-tos-seca-garganta-irritada/"
 
 ---
-![](/uploads/Tos seca y garganta irritada.jpg)
+![](/uploads/Tos seca y garganta irritada.webp)
 
 La tos seca persistente y la garganta irritada son sintomatologías que acompañan a muchas [enfermedades respiratorias.](https://zenseiapp.com/salud%20respiratoria/) **En la mayoría de los casos no tienen por qué revestir gravedad.** Sin embargo, su aparición va acompañada de molestias que interfieren en nuestro día a día.
 
@@ -127,7 +127,7 @@ Desde la tos productiva a la tos seca o tos persistente, existen muchos tipos. E
 
 ✅ Cuestiones accidentales: humo, alimentos que pasan a la tráquea, cuerpos extraños, etc.
 
-![](/uploads/Jarabe.jpg)
+![](/uploads/Jarabe.webp)
 
 #### Cómo se puede calmar la tos
 

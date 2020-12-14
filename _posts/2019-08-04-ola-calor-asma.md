@@ -6,7 +6,7 @@ date: 2019-08-04T22:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: "/uploads/Ola de calor.jpg"
+image: "/uploads/Ola de calor.webp"
 description: Ola de calor y enfermedades respiratorias son factores estrechamente
   ligados. El verano hace necesario extremar las precauciones.
 intro: Las personas con **enfermedades respiratorias y otras afecciones crónicas**,
@@ -17,7 +17,7 @@ tags: calor enfermedades
 redirect_from: "/blog/ola-de-calor-y-enfermedades-respiratorias/"
 
 ---
-![](/uploads/Ola de calor.jpg)
+![](/uploads/Ola de calor.webp)
 
 A medida que aumentan las temperaturas exteriores, también aumenta el riesgo de aterrizar en el hospital. Las cosas se complican cuando fijamos nuestra atención en situaciones extremas derivadas de la relación que se establece entre ciertos **factores de riesgo**, como ‘ola de calor y enfermedades respiratorias’.
 
@@ -47,7 +47,7 @@ Los investigadores sugieren que la alteración de la termorregulación también 
 
 El cuerpo exige más oxígeno a medida que trabaja para mantenerse fresco, lo que puede conducir a una **disminución de la función pulmonar**. Esto puede provocar una respiración anormalmente rápida o profunda, una afección llamada [hiperpnea](https://www.definicionabc.com/ciencia/hiperpnea-hiperventilacion.php).
 
-![](/uploads/Ola de calor 1.jpg)
+![](/uploads/Ola de calor 1.webp)
 
 ## Qué es un golpe de calor
 

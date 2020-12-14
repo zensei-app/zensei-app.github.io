@@ -6,7 +6,7 @@ date: 2019-08-29T22:00:00.000+00:00
 last_modified_at: 2019-08-29T22:00:00.000+00:00
 author: Ana
 category: Salud Respiratoria
-image: "/uploads/Sentidea.jpg"
+image: "/uploads/Sentidea.webp"
 description: Zensei y Sentidea unen esfuerzos para ayudar a mejorar la calidad del
   aire y las vías respiratorias.
 intro: Zensei comienza a colaborar con **Sentidea y la línea purificante de Puressentiel**
@@ -15,7 +15,7 @@ intro: Zensei comienza a colaborar con **Sentidea y la línea purificante de Pur
 tags: purificar aire
 
 ---
-![](/uploads/Sentidea.jpg)
+![](/uploads/Sentidea.webp)
 
 Desde Zensei tenemos el placer de anunciar que comenzamos una nueva trayectoria empresarial. En esta ocasión nos complace indicar que **estrenamos colaboración con** [**Sentidea**](https://sentideashop.com/es/?utm_source=zenseiapp&utm_medium=blog&utm_campaign=pure-essential), empresa experta en aceites esenciales.
 
@@ -33,13 +33,13 @@ Puressentiel ofrece una línea de producto con 150 referencias, incluyendo dos d
 
 Con más de una década de experiencia, Puressentiel ofrece productos listos para su uso, prevenir las molestias y cuidar de toda la familia. Sus **productos de aromaterapia son 100% puros**, sin necesidad de añadir aditivos ni conservantes. Además, al con el respaldo de más de 150 estudios clínicos son totalmente seguros.
 
-![](/uploads/Puressentiel.jpg)
+![](/uploads/Puressentiel.webp)
 
 ## Cómo utilizar la línea purificante de Puressentiel
 
 El objetivo de esta gama de productos consiste en **facilitar la buena salud e higiene** de sus clientes. Porque la mejor prevención es la higiene cotidiana de los espacios de vida, Puressentiel, el especialista en farmacia de los productos naturales concentrados, propone un protocolo fácil y eficaz:
 
-![](/uploads/PURIFYING_Spray41_75ml_FR-EN_plante-xprime.png)
+![](/uploads/PURIFYING_Spray41_75ml_FR-EN_plante-xprime.webp)
 
 ### 1. Spray Purificante
 
@@ -49,7 +49,7 @@ Terminada la jornada, una vez que vuelvas a casa, abre unos minutos las ventanas
 
 **Este spray genera una atmósfera natural, pura y aromática**. Permite eliminar los malos olores y purifica el aire sin aportar productos químicos sintéticos. Su fórmula patentada, con una mezcla única de aceites esenciales totalmente puros, es ideal para usar en dormitorios, salones, oficinas, cocinas y todo tipo de habitaciones húmedas. Además, también puede aplicarse en artículos textiles como zapatillas, bolsos, peluches, cortinas, sofás, asientos del coche…
 
-![](/uploads/locion_970x760_80_NL.png)
+![](/uploads/locion_970x760_80_NL.webp)
 
 ### 2. Loción AB Purificante
 
@@ -59,7 +59,7 @@ Durante el día, límpiate las manos con la [Loción AB Purificante](https://sen
 
 Tu móvil, tableta, bolso u ordenador no habían estado tan limpios como ahora. Ni siquiera cuando estaban en la línea de producción.
 
-![](/uploads/ASSAINISSANT_DiffuseAirPur_FR-EN.png)
+![](/uploads/ASSAINISSANT_DiffuseAirPur_FR-EN.webp)
 
 ### 3. Difuss RespOK
 

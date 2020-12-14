@@ -6,7 +6,7 @@ date: 2019-06-06T22:00:00.000+00:00
 last_modified_at: 2020-05-28 09:00:00 +0000
 category: Salud Respiratoria
 author: Ana
-image: "/uploads/fibrosis pulmonar.png"
+image: "/uploads/fibrosis pulmonar.webp"
 description: La fibrosis pulmonar es una afección que no tiene cura. Sin embargo,
   un tratamiento adecuado puede mejorar la calidad de vida del paciente.
 intro: Resulta difícil encontrar información acerca de la **fibrosis pulmonar**. Por
@@ -16,7 +16,7 @@ tags: fibrosis pulmonar tratamiento
 redirect_from: "/blog/fibrosis-pulmonar-tiene-cura/"
 
 ---
-![](/uploads/fibrosis pulmonar.png "fibrosis pulmonar")
+![](/uploads/fibrosis pulmonar.webp "fibrosis pulmonar")
 
 Existen más de 200 tipos de **fibrosis pulmonar (FP)**. De la mayoría de ellos no se conoce el origen. Aun así, un tratamiento precoz aumenta la calidad de vida del paciente.
 
@@ -138,7 +138,7 @@ Entre los **síntomas más frecuentes** que se relacionan con el padecimiento de
 
 Aunque esta sea la sintomatología más habitual, lo cierto es que **las manifestaciones varían de manera notable de un paciente a otro.** Algunos afectados experimentan una evolución muy rápida de la enfermedad, acompañada de un cuadro grave. Sin embargo, en otros casos, la sintomatología resulta más moderada y la etiología empeora con mayor lentitud, pudiendo llevar meses o, incluso, años.
 
-![](/uploads/pulmones.png)
+![](/uploads/pulmones.webp)
 
 #### Fibrosis Pulmonar mortal
 

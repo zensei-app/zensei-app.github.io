@@ -6,7 +6,7 @@ date: 2020-11-02 23:00:00 +0000
 last_modified_at: 2020-11-02 23:00:00 +0000
 author: Ana
 category: asma
-image: "/uploads/asma-y-coronavirus.jpg"
+image: "/uploads/asma-y-coronavirus.webp"
 description: Existe cierta controversia entre las recomendaciones sanitarias frente
   a la crisis del coronavirus y los pacientes con asma. Te contamos qué debes hacer
   si padeces esta enfermedad frente a un posible contagio por Covid-19.
@@ -17,7 +17,7 @@ tags: asma, coronavirus, pandemia, contagios, prevención
 slug: asma-y-coronavirus
 
 ---
-![paciente con asma](/uploads/asma-y-coronavirus.jpg "Asma y coronavirus")
+![paciente con asma](/uploads/asma-y-coronavirus.webp "Asma y coronavirus")
 
 En este artículo queremos ayudarte a comprender cómo puedes **reducir el riesgo de contagiarte de la Covid-19**. Especialmente si padeces asma. Por supuesto, siempre debes seguir las pautas indicadas por el gobierno, ser lógico, mantener el distanciamiento social y hacer uso del gel hidroalcohólico y las mascarillas.
 
@@ -77,7 +77,7 @@ Los fumadores también se tocan más la boca y la cara, lo que aumenta el riesgo
 
 Es importante que, si fumas, dejes de hacerlo lo antes posible. Además de reducir el riesgo de contraer coronavirus, tu respiración se volverá más fácil a los pocos días de dejar de fumar.
 
-![Monito con inhalador](/uploads/asma-y-coronavirus-2.jpg "Coronavirus y asma")
+![Monito con inhalador](/uploads/asma-y-coronavirus-2.webp "Coronavirus y asma")
 
 ### Usa mascarillas
 
@@ -129,7 +129,7 @@ Puede resultarte útil hablar con amigos, familiares o un profesional de la salu
 
 Te resultará útil esta guía rápida sobre qué tipo de actividades son más seguras que otras. Por lo general, las actividades al aire libre, como ver a amigos fuera de casa o sentarse en una cafetería o restaurante, pueden tener menor riesgo que las actividades en el interior.
 
-![Asma y coronavirus](/uploads/asma-y-coronavirus-3.jpg "Asma y tabaco")
+![Asma y coronavirus](/uploads/asma-y-coronavirus-3.webp "Asma y tabaco")
 
 ### ¿Puedo irme de vacaciones?
 

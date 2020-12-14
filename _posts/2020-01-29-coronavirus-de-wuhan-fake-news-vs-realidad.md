@@ -6,7 +6,7 @@ date: 2020-01-29 23:00:00 +0000
 last_modified_at: 2020-01-29 23:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/coronavirus de Wuhan.jpg"
+image: "/uploads/coronavirus de Wuhan.webp"
 description: Se desata el pánico en las redes sociales en torno al coronavirus de
   Wuhan. La causa se encuentra en las fake news que inundan estos canales y se hacen
   virales.
@@ -16,7 +16,7 @@ intro: Es preciso no dejarse llevar por las fake news que se están haciendo vir
 tags: coronavirus wuhan gripe virus epidemia
 
 ---
-![Placa de cultivo](/uploads/coronavirus de Wuhan.jpg "coronavirus de Wuhan")
+![Placa de cultivo](/uploads/coronavirus de Wuhan.webp "coronavirus de Wuhan")
 
 Un caudaloso río de **noticias falsas** se está extendiendo como la pólvora a través de las redes sociales. Estas _fake news_, con el **coronavirus de Wuhan** como protagonista, están fomentando el pánico y asustando a ciudadanos de todo el mundo.
 
@@ -68,7 +68,7 @@ _“El trabajo patentado citado en las teorías de la conspiración involucraba 
 
 Apuntillaron que **el trabajo patentado se completó en 2015 y no está financiado por la Fundación Bill y Melinda Gates.** De todos modos, la financiación no prueba que la Fundación Gates supiera de antemano sobre el brote de coronavirus o jugase un papel para causarlo.
 
-![Técnico en vitrina](/uploads/coronavirus de Wuhan 1.jpg "Coronavirus epidemia")
+![Técnico en vitrina](/uploads/coronavirus de Wuhan 1.webp "Coronavirus epidemia")
 
 ### El coronavirus proviene de un 'programa de armas biológicas'
 

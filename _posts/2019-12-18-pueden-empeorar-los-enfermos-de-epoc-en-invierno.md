@@ -6,7 +6,7 @@ date: 2019-12-18T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Epoc
-image: "/uploads/Enfermos de EPOC.jpg"
+image: "/uploads/Enfermos de EPOC.webp"
 description: Los enfermos de EPOC en invierno pueden empeorar. Las condiciones climáticas
   y ambientales requieren que el paciente siga una serie de pautas.
 intro: Aprovechamos para ofrecer una lista de pautas que deben seguir los *enfermos
@@ -14,7 +14,7 @@ intro: Aprovechamos para ofrecer una lista de pautas que deben seguir los *enfer
 tags: enfermedades-pulmonares epoc invierno
 
 ---
-![EPOC e invierno](/uploads/Enfermos de EPOC.jpg "Enfermos de EPOC")
+![EPOC e invierno](/uploads/Enfermos de EPOC.webp "Enfermos de EPOC")
 
 Los pacientes con enfermedad pulmonar obstructiva crónica (EPOC) a menudo tienen episodios más agudos de **empeoramiento de los síntomas (exacerbaciones) durante los meses más fríos** del año. Se ha comprobado que [**la EPOC en invierno resulta más virulenta**](https://www.abc.es/salud/enfermedades/abci-epoc-empeora-invierno-201911151201_noticia.html). De hecho, durante enero, febrero y marzo, se evidencian tasas más altas de hospitalización y mortalidad, según todos los estudios.
 
@@ -92,7 +92,7 @@ Pero sea cual sea la causa exacta, la conclusión es que los pacientes con EPOC 
 
 Cubrirte la nariz y la boca mientras estás al aire libre en invierno es esencial si padeces EPOC. Una bufanda funciona bien. También sirven las mascarillas médicas. Pero, como mínimo, ahueca tus manos y úsalas para cubrirte la nariz y la boca mientras estás expuesto al aire libre.
 
-![EPOC en invierno](/uploads/Enfermos de EPOC 1.jpg "Enfermos de EPOC en invierno")
+![EPOC en invierno](/uploads/Enfermos de EPOC 1.webp "Enfermos de EPOC en invierno")
 
 ### Mantente caliente
 

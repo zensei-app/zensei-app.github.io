@@ -6,7 +6,7 @@ date: 2020-09-06T22:00:00.000+00:00
 last_modified_at: 2020-09-06T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: "/uploads/rehabilitacion-pulmonar-1.jpeg"
+image: "/uploads/rehabilitacion-pulmonar-1.webp"
 description: La rehabilitación pulmonar puede mejorar la calidad de vida de los pacientes
   con enfermedades respiratorias crónicas.
 intro: La aplicación en pacientes de EPOC está permitiendo el desarrollo de la **rehabilitación
@@ -19,7 +19,7 @@ tags: rehabilitación pulmonar, salud respiratoria, EPOC, salud pulmones, pulmon
 slug: rehabilitación-pulmonar
 
 ---
-![árboles simulando pulmones](/uploads/rehabilitacion-pulmonar-1.jpeg "Rehabilitación pulmonar")
+![árboles simulando pulmones](/uploads/rehabilitacion-pulmonar-1.webp "Rehabilitación pulmonar")
 
 La rehabilitación pulmonar es una intervención integral diseñada para mejorar la condición física y psicológica de las personas con [enfermedades respiratorias](https://zenseiapp.com/salud%20respiratoria/) crónicas y promover la adherencia a largo plazo a conductas que mejoran la salud.
 
@@ -81,7 +81,7 @@ Lo cierto es que esta técnica elevó la fuerza muscular del cuádriceps, el equ
 
 Esta evidencia puede deberse, al menos en parte, a la carga metabólica relativamente alta durante el Tai chi. De hecho, los pacientes con EPOC utilizaron aproximadamente el 63% de su capacidad aeróbica máxima durante una sesión de Tai chi al estilo _Sun_, que es similar a la absorción media de oxígeno durante una sesión de entrenamiento de resistencia de las extremidades inferiores. Recientemente, otras formas de Tai chi también se han revelado como beneficiosas para los pacientes con EPOC. Por lo tanto, **el Tai chi puede incluso considerarse como una estrategia de entrenamiento de mantenimiento a largo plazo**, debido al hecho de que los pacientes pueden realizar esta técnica de rehabilitación pulmonar en su hogar.
 
-**![Mujer mayor ejercitándose](/uploads/rehabilitacion-pulmonar-2.jpeg "Salud pulmonar")**
+**![Mujer mayor ejercitándose](/uploads/rehabilitacion-pulmonar-2.webp "Salud pulmonar")**
 
 #### Entrenamiento de ejercicio periodizado no lineal
 
@@ -157,7 +157,7 @@ Por tanto, **el entrenamiento del equilibrio como parte de la rehabilitación pu
 
 La escala de equilibrio de Berg, la batería corta de rendimiento físico y la escala de confianza de equilibrio de actividades específicas son los instrumentos más utilizados para evaluar el control postural y el miedo a las caídas. No obstante, estas evaluaciones subjetivas no siempre captan los cambios sutiles en la marcha que anteriormente se han relacionado con el riesgo de caídas. Por lo tanto, **el análisis de la marcha basado en acelerometría debe considerarse como un enfoque objetivo adicional** para evaluar a los pacientes con EPOC con riesgo de caídas.
 
-**![Pulmones fertes](/uploads/rehabilitacion-pulmonar-3.jpeg "Pulmones")**
+**![Pulmones fertes](/uploads/rehabilitacion-pulmonar-3.webp "Pulmones")**
 
 ## Cómo adaptar el programa de rehabilitación pulmonar a pacientes con enfermedades respiratorias crónicas distintas de la EPOC
 
@@ -265,7 +265,7 @@ Varios estudios han excluido a los participantes de la clase IV, aunque un estud
 
 En resumen, existe evidencia emergente de que la rehabilitación pulmonar y el entrenamiento con ejercicios tienen beneficios clínicamente significativos en pacientes con HAP. Dado que los programas de rehabilitación pulmonar proporcionan una estrecha supervisión, titulación individual y monitorización del ejercicio, es un entorno ideal para que las personas con HAP realicen ejercicios de entrenamiento. Solo los pacientes que están estables con una terapia médica óptima deben ser considerados para un programa de ejercicios. Debido a que los síntomas clínicamente importantes difieren en la HAP en comparación con otros pacientes en rehabilitación pulmonar y se desconoce la prescripción de ejercicio ideal, se debe tener cuidado de **proporcionar una prescripción de ejercicio dirigida individual y cuidadosamente monitoreada.**
 
-**![salud pulmonar](/uploads/rehabilitacion-pulmonar-4.jpeg "Ejercicio pulmonar")**
+**![salud pulmonar](/uploads/rehabilitacion-pulmonar-4.webp "Ejercicio pulmonar")**
 
 ### Bronquiectasia por fibrosis no quística
 

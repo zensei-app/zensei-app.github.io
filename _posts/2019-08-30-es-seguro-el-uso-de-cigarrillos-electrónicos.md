@@ -6,7 +6,7 @@ date: 2019-08-30T22:00:00.000+00:00
 last_modified_at: 2019-08-30T22:00:00.000+00:00
 author: Ana
 category: Salud Respiratoria
-image: "/uploads/Cigarrilos electrónicos.jpg"
+image: "/uploads/Cigarrilos electrónicos.webp"
 description: Los cigarrillos electrónicos parecen estar de moda. Sin embargo, ¿es
   completamente seguro el uso de estos dispositivos?
 intro: El uso de **cigarrillos electrónicos y vapers** para dejar de fumar ha experimentado
@@ -15,7 +15,7 @@ intro: El uso de **cigarrillos electrónicos y vapers** para dejar de fumar ha e
 tags: tabaco EPOC
 
 ---
-![](/uploads/Cigarrilos electrónicos.jpg)
+![](/uploads/Cigarrilos electrónicos.webp)
 
 [Fuente de la imagen Blacknote](https://www.blacknote.com/e-juice/)
 
@@ -61,7 +61,7 @@ _Puede ser difícil acostumbrarse a esta experiencia al principio. Pero, una vez
 
 _Creo que estoy usando una alternativa más segura, aunque todavía me califico como fumador. Lo cierto es que si los cigarrillos electrónicos no estuvieran disponibles de repente volvería a fumar cigarrillos de tabaco_ ".
 
-![](/uploads/Cigarrilos electrónicos-1.jpg)
+![](/uploads/Cigarrilos electrónicos-1.webp)
 
 ## ¿Cuáles son las preocupaciones de los médicos?
 

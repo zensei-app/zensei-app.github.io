@@ -6,7 +6,7 @@ date: 2019-08-30T22:00:00.000+00:00
 last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: EPOC
-image: "/uploads/Vacaciones con EPOC.jpg"
+image: "/uploads/Vacaciones con EPOC.webp"
 description: "¿Pueden viajar los enfermos con complicaciones respiratorias? La respuesta
   es afirmativa. Te mostramos cómo planificar tus vacaciones con EPOC."
 intro: Los médicos aconsejan normalizar la vida de los pacientes con enfermedades
@@ -15,7 +15,7 @@ intro: Los médicos aconsejan normalizar la vida de los pacientes con enfermedad
 tags: EPOC pulmones
 
 ---
-![](/uploads/Vacaciones con EPOC.jpg)
+![](/uploads/Vacaciones con EPOC.webp)
 
 La **Enfermedad Pulmonar Obstructiva Crónica (EPOC)** agrupa a ciertas dolencias que afectan seriamente al funcionamiento de los pulmones. Entre ellas figura **el enfisema pulmonar y la bronquitis crónica**. Esta patología, que no tiene cura, suele ir empeorando con el paso del tiempo. A pesar de ello, la comunidad médica persigue un [modelo de tratamiento](https://issuu.com/separ/docs/guia_gesepoc_2017) que pretende conseguir la mayor normalidad en la vida de los afectados. **¿Se puede disfrutar de unas vacaciones con EPOC?**
 
@@ -63,7 +63,7 @@ Lo cierto es que este es un tema que ha suscitado mucho interés entre la comuni
 
 Por supuesto, es preciso que estas cuestiones sean **supervisadas por el especialista**. De esta manera, las actividades y el nivel de esfuerzo se adaptará a las condiciones del paciente. De todos modos, parece que se obtienen resultados muy positivos en aquellos individuos en los que se ha detectado la [EPOC](https://www.infobae.com/salud/2016/11/15/claves-para-entender-la-epoc-una-enfermedad-que-avanza-en-silencio/) en una fase temprana.
 
-![](/uploads/Vacaciones con EPOC 1.jpg)
+![](/uploads/Vacaciones con EPOC 1.webp)
 
 ## Viajar con EPOC
 

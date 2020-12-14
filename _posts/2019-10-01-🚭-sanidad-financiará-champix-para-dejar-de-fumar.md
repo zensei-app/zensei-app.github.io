@@ -6,7 +6,7 @@ date: 2019-10-01 22:00:00 +0000
 last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Dejar de fumar.jpg"
+image: "/uploads/Dejar de fumar.webp"
 description: El ministerio de Sanidad, por primera vez, subvencionará un medicamento
   contra el tabaquismo. Dejar de fumar será más sencillo a partir de enero de 2020.
 intro: La eficacia del Champix para **dejar de fumar** se ha comprobado en más de
@@ -16,7 +16,7 @@ tags: enfermedades-pulmonares tabaco dejar-de-fumar
 slug: sanidad champix dejar fumar
 
 ---
-![](/uploads/Dejar de fumar.jpg)
+![](/uploads/Dejar de fumar.webp)
 
 Por primera vez, **el ministerio de Sanidad decide incluir un fármaco antitabaco en la partida de medicamentos financiados.** [Champix](https://cima.aemps.es/cima/dochtml/p/106360016/P_106360016.html) permitirá a los fumadores intentar dejar de fumar con receta médica a partir de enero de 2020.
 
@@ -68,7 +68,7 @@ Además, uno de los principales factores de riesgo de padecer un cáncer es el t
 
 Sería un buen paso destinar el ahorro que conllevará disminuir esos costosos tratamientos a potenciar el sistema público de salud.
 
-![](/uploads/Dejar de fumar 1.jpg)
+![](/uploads/Dejar de fumar 1.webp)
 
 ### Cuántas personas se beneficiarán de Champix
 

@@ -6,7 +6,7 @@ date: 2019-08-28T22:00:00.000+00:00
 last_modified_at: 2019-08-28T22:00:00.000+00:00
 author: David
 category: Gripe
-image: "/uploads/broncodilatadores naturales.jpg"
+image: "/uploads/broncodilatadores naturales.webp"
 description: "¿Quieres convertirte en una experta para prevenir la gripe de 2019-2020?
   Esta artículo en profundidad lo tiene todo para evitar la gripe."
 intro: |-
@@ -41,7 +41,7 @@ La gripe o virus de la influenza, se parece a algo como esto.
 
 Y son muy pequeños.
 
-![EM of influenza virus.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EM_of_influenza_virus.jpg/300px-EM_of_influenza_virus.jpg)
+![EM of influenza virus.webp](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EM_of_influenza_virus.jpg/300px-EM_of_influenza_virus.jpg)
 
 Durante los meses de calor no pueden sobrevivir en el exterior ya que su carcasa exterior se derrite. Por eso, durante el verano hay pocos casos de gripe.
 
@@ -63,7 +63,7 @@ Pero si vemos a nivel poblacional, es decir, muchas personas.
 
 Si representamos en un gráfico la propagación de la gripe. Quedaría de la siguiente manera.
 
-![Curva de la epidemia de a gripe españa 2014-2019](/uploads/Screen Shot 2019-08-29 at 11.22.56.png "Curva de la epidemia de a gripe españa 2014-2019")
+![Curva de la epidemia de a gripe españa 2014-2019](/uploads/Screen Shot 2019-08-29 at 11.22.56.webp "Curva de la epidemia de a gripe españa 2014-2019")
 
 Lo que vemos aquí es que la temporada de la gripe empieza en septiembre, semana cero.
 
@@ -241,7 +241,7 @@ Ahora los modelos son mucho más avanzados y con muchas otras fuentes de datos.
 
 La evolución de Google Flu Trends se cristalizó en [HealthMap Flu Trends.](https://en.wikipedia.org/wiki/Spanish_flu)
 
-![](/uploads/Screen Shot 2019-08-29 at 15.32.52.png)
+![](/uploads/Screen Shot 2019-08-29 at 15.32.52.webp)
 
 Bien.
 

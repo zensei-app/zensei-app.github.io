@@ -6,7 +6,7 @@ date: 2020-09-14T22:00:00.000+00:00
 last_modified_at: 2020-09-14T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: "/uploads/vuelta-al-cole.jpg"
+image: "/uploads/vuelta-al-cole.webp"
 description: La vuelta al cole no debe ser un quebradero de cabeza. El epidemiólogo
   David Martín-Corral resuelve todas las dudas al respecto respondiendo las preguntas
   de Angélica de POiN.
@@ -18,7 +18,7 @@ tags: vuelta al cole, coronavirus, pandemia
 slug: vuelta-al-cole
 
 ---
-![En el cole con mascarilla](/uploads/vuelta-al-cole.jpg "Vuelta al cole")
+![En el cole con mascarilla](/uploads/vuelta-al-cole.webp "Vuelta al cole")
 
 La vuelta al cole este 2020 está siendo una de las más atípicas de la historia. La pandemia sigue afectando a todos los sectores y los colegios no iban a ser menos. En este artículo no queremos centrarnos en las medidas de seguridad recomendadas o impuestas por los gobiernos sino en qué debemos hacer como padres para **cuidar la salud de nuestros niños**.
 
@@ -50,7 +50,7 @@ Se podría decir que incluso resultaría beneficioso para los niños pasar el co
 
 No podemos olvidar que, al fin y al cabo, los niños son por sí mismos contagiadores de virus. No solo de la covid-19 sino de todo tipo de virus. La única diferencia con el coronavirus es que aún debemos aprender cómo convivir con él.
 
-![Vuelta al cole](/uploads/vuelta-al-cole-2.jpg "Aulas burbuja")
+![Vuelta al cole](/uploads/vuelta-al-cole-2.webp "Aulas burbuja")
 
 ## Qué debemos hacer si el niño presenta síntomas
 

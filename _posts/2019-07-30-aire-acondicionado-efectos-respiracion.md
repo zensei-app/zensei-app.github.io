@@ -7,7 +7,7 @@ date: 2019-07-30T22:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 category: Salud Respiratoria
 author: Ana
-image: "/uploads/Aire acondicionado.jpg"
+image: "/uploads/Aire acondicionado.webp"
 description: Aprende a utilizar el aire acondicionado sin correr riesgos que afecten
   a tu salud respiratoria.
 intro: El **aire acondicionado** garantiza nuestra comodidad y es una parte integral
@@ -17,7 +17,7 @@ tags: verano asma rinitis epoc
 redirect_from: "/blog/aire-acondicionado-y-efectos-sobre-la-salud/"
 
 ---
-![](/uploads/Aire acondicionado.jpg)
+![](/uploads/Aire acondicionado.webp)
 
 Se reconoce que el **aire acondicionado** probablemente brinda **más ventajas que inconvenientes** para los humanos. Esta es la razón de su innegable popularidad, especialmente durante el verano. ¿Quién no ha buscado frenéticamente esa sensación refrescante e instantánea que proporciona el aire acondicionado?
 
@@ -97,7 +97,7 @@ Cuando los sacos de aire en los pulmones se llenan afecta a su función principa
 
 La neumonía puede perjudicar a los pulmones de dos maneras. Si la inflamación daña a una sección (lóbulo) de un pulmón, se llama **neumonía lobular**. Si se ven parches en ambos pulmones se conoce como **neumonía bronquial**. El término **neumonía doble** significa que ambos pulmones están afectados.
 
-![](/uploads/Aires acondicionados.jpg)
+![](/uploads/Aires acondicionados.webp)
 
 ### Qué causa la neumonía
 

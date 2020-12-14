@@ -6,7 +6,7 @@ date: 2019-05-23T22:00:00.000+00:00
 last_modified_at: 2020-10-14 09:00:00 +0000
 category: Asma
 author: Ana
-image: "/uploads/Ventolin.jpg"
+image: "/uploads/Ventolin.webp"
 description: Existen broncodilatadores naturales que pueden ayudarte a aliviar tus
   problemas respiratorios. De todos modos nunca deben sustituir al tratamiento que
   te recete tu médico.
@@ -95,7 +95,7 @@ Además, estos medicamentos **no deben ser prescritos**, o debe hacerse bajo un 
 
 Estos remedios pueden facilitar la **dilatación de los bronquios o aligerar la mucosidad** y actuar como expectorantes, potenciando la expulsión de las flemas y provocando un efecto broncodilatador natural.
 
-![](/uploads/broncodilatadores naturales.jpg)
+![](/uploads/broncodilatadores naturales.webp)
 
 ### Broncodilatadores naturales
 

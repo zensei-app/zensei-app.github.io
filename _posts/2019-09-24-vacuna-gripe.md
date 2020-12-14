@@ -6,7 +6,7 @@ date: 2019-09-24T22:00:00.000+00:00
 last_modified_at: 2020-04-13 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/Campaña vacunación gripe 2019.jpg"
+image: "/uploads/Campaña vacunación gripe 2019.webp"
 description: La vacuna contra la gripe para la temporada 2019-2020 es la mejor manera
   de prevenir contagiarse con el virus y evitar los horribles síntomas de la gripe.
   Te contamos todo lo que tienes que saber.
@@ -17,7 +17,7 @@ tags: gripe vacunas vacunación
 redirect_from: "/gripe/vacuna-contra-la-gripe-2019-2020/"
 
 ---
-![](/uploads/Vacuna gripe.jpg)
+![](/uploads/Vacuna gripe.webp)
 
 Ya ha terminado el verano y se acerca la época en que suele comenzar la **Campaña de la Vacuna contra la gripe.** Aprovechamos para actualizar la información para el periodo **2019 – 2020**. Es el momento de saber si la vacuna contra la gripe es efectiva, en qué casos está aconsejada, cuándo hay que ponérsela y todo aquello que rodea a una enfermedad que puede resultar crítica para ciertas personas.
 
@@ -69,7 +69,7 @@ La mejor manera de mantenerse alejado de la gripe es llevando a cabo una **acci�
 
 La campaña de vacunación 2019, como cada temporada, se inicia cuando termina el verano y la época de calor. Así, lo normal es que la fecha se extienda **desde finales de septiembre hasta el mes de noviembre.**
 
-![](/uploads/Campaña vacunación gripe 2019.jpg)
+![](/uploads/Campaña vacunación gripe 2019.webp)
 
 ### Composición de la vacuna contra la gripe 2019
 

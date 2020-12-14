@@ -6,7 +6,7 @@ date: 2020-11-30 23:00:00 +0000
 last_modified_at: 2020-11-30 23:00:00 +0000
 category: Alergia
 author: Ana
-image: "/uploads/Polen.jpg"
+image: "/uploads/Polen.webp"
 description: Te contamos 10 curiosidades sobre el polen. Aunque resulte una pesadilla
   para millones de alérgicos es curioso que, incluso, sea considerado un superalimento.
 intro: Esas partículas molestas y que complican la vida cotidiana de millones de personas
@@ -62,7 +62,7 @@ Algunos animales, tanto polinizadores como no polinizadores, utilizan el polen c
 
 Se cree que el polen también es altamente nutritivo para los seres humanos, por lo que, además de tomarse como un suplemento, se utiliza en todo tipo de productos alimenticios.
 
-![](/uploads/Polinización.jpg)
+![](/uploads/Polinización.webp)
 
 ## Más información acerca de las cualidades del polen
 

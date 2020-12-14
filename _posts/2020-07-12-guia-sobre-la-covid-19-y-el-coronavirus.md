@@ -6,7 +6,7 @@ date: 2020-07-12 22:00:00 +0000
 last_modified_at: 2020-07-12 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/COVID-19.jpg"
+image: "/uploads/COVID-19.webp"
 description:
   La COVID-19 continúa en activo, aunque en países como España se encuentre
   bajo control. No obstante, los rebrotes por coronavirus exigen que estemos informados.
@@ -18,7 +18,7 @@ tags: covid-19, coronavirus, pandemia, vacunas
 slug: guíacovid19
 ---
 
-![Covid-19](/uploads/coronavirus.jpg "Coronavirus")
+![Covid-19](/uploads/coronavirus.webp "Coronavirus")
 
 La COVID-19 es una enfermedad respiratoria causada por un nuevo virus. Los síntomas incluyen fiebre, tos, dolor de garganta y dificultad para respirar. El virus puede propagarse de persona a persona. Actualmente no hay tratamiento para COVID-19. Averigua quién está en riesgo y qué debes hacer si crees que tienes COVID-19.
 
@@ -66,7 +66,7 @@ El virus puede propagarse de persona a persona a través de:
 
 La COVID-19 es una enfermedad nueva, por lo que aún **no existe inmunidad** en la población. Esto significa que la infección puede extenderse amplia y rápidamente. Además, las últimas declaraciones oficiales de la Organización Mundial de la Salud (OMS) apuntan a que [**el coronavirus también se podría propagar a través del aire.**](https://www.bbc.com/mundo/noticias-53332686)
 
-![](/uploads/foto-oms.png)
+![](/uploads/foto-oms.webp)
 
 Por otro lado, diferentes análisis de aguas fecales en distintos puntos de España han permitido concluir que el virus ya se encontraba entre nosotros en enero de 2020, antes de que se conociera el primer caso de paciente afectado.
 
@@ -90,7 +90,7 @@ De este modo, el mes de julio de 2020, cuando el país ya había levantado las r
 
 Esta es la razón por la que, una tras otras, las comunidades autónomas están empezando a imponer el uso de la mascarilla en lugares públicos y privados, en interior o al aire libre, sea cual sea la distancia de seguridad. **Las multas por incumplir esta normativa podrían ir desde los 100€ hasta los 6.000€.**
 
-![joven con mascarilla](/uploads/mascarilla.jpg "Covid-19")
+![joven con mascarilla](/uploads/mascarilla.webp "Covid-19")
 
 ### Cuáles son los pacientes de riesgo frente al coronavirus
 
@@ -142,7 +142,7 @@ Todos debemos hacer lo siguiente para frenar la propagación de COVID-19 y prote
 
 Te adjuntamos esta infografía en la que encontrarás de manera resumida las principales cuestiones para tener en cuenta con respecto al coronavirus.
 
-![](/uploads/infografia-en-espanol-2019-ncov-factsheet.jpg)
+![](/uploads/infografia-en-espanol-2019-ncov-factsheet.webp)
 
 Fuente: [What you should know about COVID-19 to protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf)
 

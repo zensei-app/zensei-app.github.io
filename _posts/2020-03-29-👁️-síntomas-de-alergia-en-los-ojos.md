@@ -6,7 +6,7 @@ date: 2020-03-29T22:00:00.000+00:00
 last_modified_at: 2020-04-02T22:00:00.000+00:00
 author: Ana
 category: Alergia
-image: "/uploads/alergia ocular.jpg"
+image: "/uploads/alergia ocular.webp"
 description: "¿Tienes una alergia ocular? Consulta a tu médico. Este tipo de alergia
   puede reducirse a una serie de síntomas molestos o desarrollar problemas muy graves
   para tus ojos."
@@ -18,7 +18,7 @@ tags: alergia alergia-ocular ojos
 slug: alergia ojos sintomas causas
 
 ---
-![Alergia ojos](/uploads/alergia ocular.jpg "Alergia ocular")
+![Alergia ojos](/uploads/alergia ocular.webp "Alergia ocular")
 
 La mayoría de las personas asocian los síntomas de la alergia con la secreción nasal, la congestión sinusal, la tos y los estornudos. Sin embargo, [**las alergias**](https://zenseiapp.com/alergia/alergia-primavera-sintomas-prevencion/) **pueden afectar a diversos órganos, incluidos los ojos.** Dada la importancia de la salud ocular, nos proponemos ofrecerte toda la información sobre cómo las alergias pueden afectar a tus ojos y algunos tratamientos específicos.
 
@@ -122,7 +122,7 @@ Para evitar los alérgenos, algunos pacientes deben permanecer en lugares interi
 
 Además, algunos alérgenos residen en el interior. Es el caso de la caspa de las mascotas, los ácaros del polvo y los mohos. Estos alérgenos comunes se encuentran en el interior de la viviendas y los lugares de trabajo o estudio. Pueden desencadenar síntomas en algunas personas durante todo el año, causando **conjuntivitis alérgica perenne.**
 
-![Alergia en ojos](/uploads/alergia ocular 2.jpg "Alergia ocular")
+![Alergia en ojos](/uploads/alergia ocular 2.webp "Alergia ocular")
 
 ## Tipos de alergias en los ojos
 

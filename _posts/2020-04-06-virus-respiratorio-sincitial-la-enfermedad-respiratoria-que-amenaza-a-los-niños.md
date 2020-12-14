@@ -7,7 +7,7 @@ date: 2020-04-06 08:00:00 +0000
 last_modified_at: 2020-04-06 08:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/virus respiratorio sincitial.jpg"
+image: "/uploads/virus respiratorio sincitial.webp"
 description: El virus respiratorio sincitial es uno de los patógenos más peligrosos
   para los niños menores de dos años.
 intro: Te contamos todo lo que debes saber sobre el **virus respiratorio sincitial**,
@@ -17,7 +17,7 @@ tags: virus-respiratorios sincitial salud-niños vrs
 slug: virus respiratorio sincitial
 
 ---
-![vrs](/uploads/virus respiratorio sincitial.jpg "virus respiratorio sincitial ")
+![vrs](/uploads/virus respiratorio sincitial.webp "virus respiratorio sincitial ")
 
 [El Virus Respiratorio Sincitial (VRS)](https://www.bbc.com/mundo/noticias-51855792) es uno de los desencadenantes de las **complicaciones respiratorias más graves en niños menores de un año.** Aunque este patógeno afecta a individuos de todas las edades, sus peores consecuencias se pueden observar en niños y ancianos.
 
@@ -75,7 +75,7 @@ Sin embargo, la dolencia puede adquirir tintes más severos. **Una tos de perro 
 
 **Los bebés con VRS grave manifestarán una respiración corta, superficial y rápida.** Esto puede identificarse mediante la "caída" del pecho, entre las costillas y debajo de las costillas (retracción de la pared torácica); la "expansión" de las fosas nasales con cada respiración (dilatación nasal); y la respiración anormalmente rápida. **Además, la boca, los labios y las uñas pueden volverse de un color azulado debido a la falta de oxígeno.**
 
-![virus respiratorios en niños](/uploads/virus respiratorio sincitial 1.jpg "virus respiratorio sincitial 1")
+![virus respiratorios en niños](/uploads/virus respiratorio sincitial 1.webp "virus respiratorio sincitial 1")
 
 ### Cómo se diagnostica el VRS
 

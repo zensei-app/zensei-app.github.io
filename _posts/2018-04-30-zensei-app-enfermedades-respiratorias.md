@@ -8,7 +8,7 @@ date: 2018-04-30 08:00:00 +0000
 author: Ana Pérez y Mar Santiago
 categories: diario, salud, respiratoria, zensei, enfermedades, respiratorias, digital,
   app, asma, epoc, zensei
-image: "/img/showoff.png"
+image: "/img/showoff.webp"
 description: Ha llegado la primavera y estamos en plena eclosión. Los insectos y las
   flores se han vuelto locos. Andan de acá para allá, en un ambiente bucólico y pastoril
   que a los asmáticos y personas ...
@@ -18,7 +18,7 @@ tags: tecnología respiración salud
 ---
 Ha llegado la primavera y estamos en plena eclosión. Los insectos y las flores se han vuelto locos. Andan de acá para allá, en un ambiente bucólico y pastoril que **a los asmáticos y personas con problemas de alergia y enfermedades respiratorias, nos chafa** la visión tan estética que perciben otros.
 
-![](/uploads/3-youtube_mesa-de-trabajo-1-copia-14.png)
+![](/uploads/3-youtube_mesa-de-trabajo-1-copia-14.webp)
 
 Las Nuevas Tecnologías, afortunadamente para quienes padecen enfermedades como el asma, [han llegado para ayudarnos](https://zenseiapp.com/salud%20respiratoria/nueva-version-app-zensei/). Es el caso de **Zensei, una sencilla app que te descargas en tu dispositivo móvil** y que te va guiando para que sepas qué hacer y cómo gestionar tu día a día, dependiendo de las condiciones que se dan en el exterior.
 

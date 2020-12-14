@@ -6,7 +6,7 @@ date: 2019-10-26T22:00:00.000+00:00
 last_modified_at: 2019-10-26T22:00:00.000+00:00
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Aire frío.jpg"
+image: "/uploads/Aire frío.webp"
 description: El invierno y el abuso de los aires acondicionados provoca que bronquios
   y vías respiratorias se vean afectados.
 intro: El clima frío y las bajas temperaturas de los aires acondicionados afectan
@@ -16,7 +16,7 @@ tags: calidad-aire vías-respiratorias dificultad-respiratoria asma
 slug: aire frio bronquios
 
 ---
-![](/uploads/Aire frío.jpg)
+![](/uploads/Aire frío.webp)
 
 El uso cada vez mayor, particularmente en los países industrializados, del aire acondicionado en el hogar, en automóviles, hoteles y centros comerciales, ha puesto de manifiesto **nuevos problemas de salud**. Todos afectan a los bronquios y se relacionan con la exposición de las vías respiratorias al aire frío o, dicho de otro, estas enfermedades aparecen como resultado de someternos a cambios bruscos de temperatura.
 
@@ -66,7 +66,7 @@ La inhalación de aire frío activa el epitelio para la **secreción de sustanci
 
 Se ha demostrado que la vasodilatación de los vasos bronquiales causa engrosamiento de la mucosa de las vías respiratorias, antagonizando los efectos de la hiperventilación. Además, estimula la hiperreactividad bronquial, lo que puede desencadenar ataques de asma.
 
-![](/uploads/Aire acondicionado 1.jpg)
+![](/uploads/Aire acondicionado 1.webp)
 
 ## Papel de las vías aéreas superiores frente al asma
 

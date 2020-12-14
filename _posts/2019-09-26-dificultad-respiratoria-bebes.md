@@ -6,7 +6,7 @@ date: 2019-09-26T22:00:00.000+00:00
 last_modified_at: 2020-04-14 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Síndrome de dificultad respiratoria.jpg"
+image: "/uploads/Síndrome de dificultad respiratoria.webp"
 description: La Dificultad Respiratoria del Recién Nacido o Síndrome de Dificultad
   Respiratoria afecta sobre todo a neonatos prematuros o nacidos por cesárea
 intro: 'El **Síndrome de Dificultad Respiratoria o Dificultad Respiratoria del Recién
@@ -16,7 +16,7 @@ tags: bebés dificultad respiratoria
 redirect_from: "/salud%20respiratoria/dificultad-respiratoria-del-recién-nacido/"
 
 ---
-![](/uploads/Síndrome de dificultad respiratoria.jpg)
+![](/uploads/Síndrome de dificultad respiratoria.webp)
 
 La dificultad respiratoria del recién nacido o **Síndrome de Dificultad Respiratoria (SDR)** representa un reto a la hora de realizar un diagnóstico y determinar el tratamiento que se debe administrar. Los recién nacidos con dificultad respiratoria comúnmente presentan **taquipnea con una frecuencia respiratoria de más de 60 respiraciones por minuto**. Pueden presentarse con gruñidos, retracciones, aleteo nasal y cianosis.
 
@@ -84,7 +84,7 @@ Los bebés que la padecen suelen tener **insuficiencia nutricional, retrasos en 
 
 La Taquipnea Transitoria del Recién Nacido (TTN, por sus siglas en inglés), es **una de las causas principales** en los neonatos que presentan dificultad respiratoria en el recién nacido. Por ello, analizamos más profundamente su etiología.
 
-![](/uploads/Dificultad Respiratoria del Recién Nacido.jpg)
+![](/uploads/Dificultad Respiratoria del Recién Nacido.webp)
 
 ### Qué es la TTN
 

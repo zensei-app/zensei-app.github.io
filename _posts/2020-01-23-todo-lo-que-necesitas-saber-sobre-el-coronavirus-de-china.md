@@ -7,7 +7,7 @@ date: 2020-01-23T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/china con mascarilla.jpeg"
+image: "/uploads/china con mascarilla.webp"
 description: El coronavirus de China ya se ha extendido a varios países. Te contamos
   todo lo que necesitas saber sobre esta enfermedad infecciosa.
 intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus de China**.
@@ -16,7 +16,7 @@ intro: Las autoridades intentan tomar medidas drásticas ante el **coronavirus d
 tags: sars síndrome-respiratorio-agudo-severo coronavirus china
 
 ---
-![SARS](/uploads/china con mascarilla.jpeg "Coronavirus de China")
+![SARS](/uploads/china con mascarilla.webp "Coronavirus de China")
 
 La ciudad de Wuhan se ha convertido en el epicentro del coronavirus de China. **22 millones de personas han sido puestas en cuarentena** por las autoridades del país. Es un intento a la desesperada para que la enfermedad no se extienda.
 
@@ -68,7 +68,7 @@ Por si fuera poco, informaron sobre **casos de cuarta generación en Wuhan**. ¿
 
 También reportaron casos de segunda generación fuera de Wuhan, así como algunos grupos fuera de la provincia de Hubei, según un comunicado de prensa de la OMS.
 
-![Investigadores estudiando el sars](/uploads/investigador.jpeg "Investigador coronavirus de China")
+![Investigadores estudiando el sars](/uploads/investigador.webp "Investigador coronavirus de China")
 
 ### La información disponible no es suficiente
 

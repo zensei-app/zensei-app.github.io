@@ -7,7 +7,7 @@ date: 2019-09-26 22:00:00 +0000
 last_modified_at: 2019-09-26 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: uploads/Calidad del aire.jpg
+image: uploads/Calidad del aire.webp
 description: 'La calidad del aire dentro de casa puede ser incluso peor que la del
   exterior. Te desvelamos cómo combatirlo eficazmente. '
 intro: Por increíble que pueda parecer, hay situaciones en que **la calidad del aire**
@@ -15,7 +15,7 @@ intro: Por increíble que pueda parecer, hay situaciones en que **la calidad del
   de manera sencilla.
 tags: calidad-aire purificación asma 
 ---
-![](/uploads/Calidad del aire.jpg)
+![](/uploads/Calidad del aire.webp)
 
 La calidad del aire y el medio ambiente que nos rodea es de vital importancia para **gozar de buena salud.** La [Organización Mundial de la Salud](https://www.who.int/es/about/who-we-are/frequently-asked-questions) (OMS) no deja lugar a dudas con la siguiente definición:
 
@@ -39,7 +39,7 @@ Los diferentes estudios realizados a personas con enfermedades de las vías resp
 
 Vivir con la nariz continuamente obstruida resulta más problemático que una mera incomodidad. No poder respirar con normalidad afecta a la **calidad del sueño**, siendo éste mucho menos reparador. Mejorar este síntoma, entre otros, es posible gracias a recursos como la **aromaterapia de** [**Sentidea**](https://sentideashop.com/es/).
 
-![](/uploads/Pared con humedad y moho.jpg)
+![](/uploads/Pared con humedad y moho.webp)
 
 ## Qué hacer para mejorar nuestra salud respiratoria
 

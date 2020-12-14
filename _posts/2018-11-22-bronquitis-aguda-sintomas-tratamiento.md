@@ -11,7 +11,7 @@ date: 2018-11-22 08:00:00 +0000
 last_modified_at: 2020-05-11 09:00:00 +0000
 category: Salud Respiratoria
 author: David - Ana
-image: "/img/bronquitis-asmatica_20234_l.jpg"
+image: "/img/bronquitis-asmatica_20234_l.webp"
 description: En esta guía sobre la bronquitis podrás descubrir todos los aspectos
   relacionados con esta enfermedad respiratoria.
 intro: "¿Sabes cuántos **tipos de bronquitis** existen? ¿Tienes idea de cómo mejorar
@@ -19,7 +19,7 @@ intro: "¿Sabes cuántos **tipos de bronquitis** existen? ¿Tienes idea de cómo
 tags: bronquitis síntomas tratamiento
 
 ---
- ![bronqutis síntomas tratamiento](/img/bronquitis-asmatica_20234_l.jpg "Bronquitis")
+ ![bronqutis síntomas tratamiento](/img/bronquitis-asmatica_20234_l.webp "Bronquitis")
 
 **La bronquitis es una de las enfermedades respiratorias más comunes** y puede llegar a resultar muy incómoda para el paciente. Esta guía te va a ayudar a diferenciar **cuáles son los síntomas de la bronquitis, cómo tratar la dolencia y cómo evitarla.**
 
@@ -140,7 +140,7 @@ Una bronquitis común suele durar **alrededor de 15 días.** Si notas que persis
 
 Especial cuidado deben tener las personas con problemas respiratorios como el [EPOC](https://medlineplus.gov/spanish/ency/article/000091.htm) o [asma](https://medlineplus.gov/spanish/ency/article/000141.htm), ya que son propensos a sufrir complicaciones. En estos casos, es importante que se acuda a urgencias.
 
-![Pruebas para bronquitis](/uploads/bronquitis-aguda.jpg "Bronquitis aguda")
+![Pruebas para bronquitis](/uploads/bronquitis-aguda.webp "Bronquitis aguda")
 
 ## Pruebas para diagnosticar la bronquitis
 
@@ -270,7 +270,7 @@ Durante los meses más cálidos, el aire frío continúa siendo un problema debi
 
 En los últimos años ha habido un mayor debate sobre la “[calidad del aire interior](https://zenseiapp.com/salud%20respiratoria/recomendaciones-mejorar-entorno-calidad-aire/)”. Además, se está prestando una mayor atención a las patologías relacionadas, desde simples molestias térmicas hasta casos más graves, como el síndrome de desarrollo de enfermedades o el **agravamiento del asma y el EPOC**.
 
-![aire acondicionado](/uploads/Aire acondicionado 1.jpg "Frío y bronquitis")
+![aire acondicionado](/uploads/Aire acondicionado 1.webp "Frío y bronquitis")
 
 ### Impacto del frío y el aire acondicionado en la salud respiratoria
 

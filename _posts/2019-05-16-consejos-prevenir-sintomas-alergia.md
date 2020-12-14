@@ -6,7 +6,7 @@ date: 2019-05-16T22:00:00.000+00:00
 last_modified_at: 2020-04-13 09:00:00 +0000
 category: Alergia
 author: Ana
-image: "/uploads/alergia polen.jpg"
+image: "/uploads/alergia polen.webp"
 description: La alergia en primavera provoca síntomas a millones de personas cada
   año. Las molestias pueden llegar a ser impeditivas. Ayúdate con estos consejos.
 intro: Estamos en plena primavera y miles de personas padecen los **síntomas de la
@@ -50,7 +50,7 @@ El hecho es tan preocupante que, según datos de la Organización Mundial de la 
 
 Resulta muy importante para el paciente poder obtener información, en tiempo real, sobre los índices de polución de su ciudad o las condiciones atmosférica. Estos datos pueden servirle de ayuda para llevar un control sobre su salud respiratoria y como sistema de prevención.
 
-![](/uploads/Alergia primavera síntomas.jpg)
+![](/uploads/Alergia primavera síntomas.webp)
 
 ## ¿Se pueden prevenir los síntomas de la alergia en primavera?
 

@@ -6,7 +6,7 @@ date: 2019-12-06T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Asma
-image: "/uploads/mujer%20inhalador.jpeg"
+image: "/uploads/mujer%20inhalador.webp"
 description: "¿Eres asmático? ¿Conoces la terapia biológica para el asma severa? Te
   ofrecemos las pautas para que puedas planteársela a tu médico."
 intro: La *terapia biológica para el asma* severa se encuentra dentro de los tratamientos
@@ -14,7 +14,7 @@ intro: La *terapia biológica para el asma* severa se encuentra dentro de los tr
 tags: enfermedades-pulmonares asma terapia-biológica
 
 ---
-![](/uploads/mujer inhalador.jpeg)
+![](/uploads/mujer inhalador.webp)
 
 Los **nuevos medicamentos inyectables para el asma severa** (omalizumab, mepolizumab, reslizumab, benralizumab y dupilumab) se dirigen a diferentes moléculas. De esta manera ayudan a los pacientes que aún tienen problemas a pesar de estar usando otros inhaladores. Veamos quién podría recibir esta ayuda y cuáles son los posibles efectos secundarios.
 
@@ -118,7 +118,7 @@ Los **efectos secundarios** más comunes con Dupilumab son:
 
 ✅ Reacciones alérgicas severas (poco frecuentes)
 
-![](/uploads/jeringuilla.jpg)
+![](/uploads/jeringuilla.webp)
 
 ## Quién es candidato a la terapia biológica para el asma severa
 

@@ -6,7 +6,7 @@ date: 2020-05-05 22:00:00 +0000
 last_modified_at: 2020-05-05 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/Covid19 y embarazo.jpg"
+image: "/uploads/Covid19 y embarazo.webp"
 description: Las mujeres embarazadas han sido incluidas en el grupo de pacientes de
   riesgo frente al coronavirus. Descubre la relación entre Covid-19 y embarazo.
 intro: La mayoría de las mujeres gestantes positivas en COVID-19 suelen ser asintomáticas.
@@ -15,7 +15,7 @@ tags: covid-19 embarazo gripe virus pandemia
 slug: covid19 embarazo
 
 ---
-![Mujer embarazada](/uploads/Covid19 y embarazo.jpg "Covid-19 y embarazo")
+![Mujer embarazada](/uploads/Covid19 y embarazo.webp "Covid-19 y embarazo")
 
 **Las mujeres embarazadas han sido incluidas en el grupo de pacientes de riesgo frente al coronavirus.** El desconocimiento sobre el causante de la pandemia ha forzado a que se tomen medidas para garantizar la salud de la gestante y de su futuro bebé. Sin embargo, este segmento de la población se hace muchas preguntas al respecto. Te ayudamos a encontrar las respuestas en esta **Guía sobre COVID-19 y embarazo.**
 
@@ -73,7 +73,7 @@ Lo más importante es **seguir la orientación de las autoridades sanitarias.** 
 
 ✅ Usar los servicios telefónicos o en línea para comunicarse con el médico de cabecera u otros servicios esenciales.
 
-![pie de bebé](/uploads/Covid19 y embarazo 1.jpg "Embarazo y Covid-19")
+![pie de bebé](/uploads/Covid19 y embarazo 1.webp "Embarazo y Covid-19")
 
 ### ¿Por qué las mujeres embarazadas están en un grupo vulnerable?
 

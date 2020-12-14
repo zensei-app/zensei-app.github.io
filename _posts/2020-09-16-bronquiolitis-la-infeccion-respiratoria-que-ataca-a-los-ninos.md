@@ -6,7 +6,7 @@ date: 2020-09-16 22:00:00 +0000
 last_modified_at: 2020-09-16 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/bronquiolitis.jpg"
+image: "/uploads/bronquiolitis.webp"
 description: La bronquiolitis afecta principalmente a niños menores de tres años.
   Aprende cuáles son sus causas, síntomas y cómo actuar.
 intro: La **bronquiolitis** es una infección de los bronquiolos que suele darse en
@@ -16,7 +16,7 @@ tags: vuelta al cole, bronquiolitis, virus, temporada de frío
 slug: bronquiolitis
 
 ---
-![](/uploads/bronquiolitis.jpg)
+![](/uploads/bronquiolitis.webp)
 
 **La bronquiolitis es una infección pulmonar bastante común entre los bebés**. Puede causar tos, sibilancias y dificultad para respirar. Es importante saber que la mayor parte de los pacientes reciben su tratamiento en casa. No obstante, también es cierto que es la **razón principal por la que los bebés ingresan en el hospital.**
 
@@ -204,7 +204,7 @@ _Un 3% de los niños que consultan en urgencias y hasta un 20% de los pacientes 
 
 Aunque **el VRS es el causante del 80% de los casos**, lo cierto es que la bronquiolitis aguda puede ser provocada por otros agentes. Entre ellos destacan: _“rhinovirus, bocavirus, adenovirus, metapneumovirus y con menos frecuencia parainfluenza y virus de la gripe”._
 
-![](/uploads/bronquiolitis 1.jpg)
+![](/uploads/bronquiolitis 1.webp)
 
 ### Cómo se realiza el diagnóstico de la bronquiolitis
 

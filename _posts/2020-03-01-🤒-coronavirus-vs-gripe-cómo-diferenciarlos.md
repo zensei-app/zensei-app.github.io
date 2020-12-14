@@ -6,7 +6,7 @@ date: 2020-03-01T23:00:00.000+00:00
 last_modified_at: 2020-03-03T23:00:00.000+00:00
 author: Ana
 category: Gripe
-image: "/uploads/Gripe en verano.jpg"
+image: "/uploads/Gripe en verano.webp"
 description: Te mostramos diferencias y similitudes entre el coronavirus y la gripe.
   Aprende a diferenciar ambas enfermedades respiratorias.
 intro: El coronavirus ha desatado la alarma social. Sin embargo, esta patología altamente
@@ -15,7 +15,7 @@ tags: coronavirus gripe enfermedades-respiratorias
 slug: coronavirus gripe diferencia
 
 ---
-![](/uploads/Coronavirus vs gripe.jpg)
+![](/uploads/Coronavirus vs gripe.webp)
 
 Cuando ya ascienden a más de [**100 casos los afectados por el COVID-19 en España**](https://as.com/deporteyvida/2020/02/29/portada/1582957545_463697.html), la alarma se ha extendido entre la población. Al igual que en otros lugares, las mascarillas se han agotado en las farmacias y los habitantes han entrado en pánico. **Coronavirus vs. gripe: cómo diferenciarlos.**
 
@@ -49,7 +49,7 @@ Mientras el coronavirus ha sido contraído por unos 80.000 enfermos, nadie habla
 
 En ocasiones, un coronavirus que ha infectado a un animal **puede mutar y ser transmitido al ser humano.** De este modo, el virus se convierte en una cepa nueva que es capaz de desencadenar afecciones en personas. Así ocurrió con el SARS (Síndrome Respiratorio Agudo Severo) y el MERS (Síndrome Respiratorio de Oriente Medio).
 
-![](/uploads/Coronavirus vs gripe 1.jpg)
+![](/uploads/Coronavirus vs gripe 1.webp)
 
 ## Sintomatología del coronavirus y de la gripe
 

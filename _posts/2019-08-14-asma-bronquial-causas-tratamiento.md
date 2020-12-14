@@ -6,7 +6,7 @@ date: 2019-08-14T22:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 category: Asma
 author: Ana
-image: "/uploads/Asma bronquial.jpeg"
+image: "/uploads/Asma bronquial.webp"
 description: El asma bronquial es una enfermedad que provoca la inflamación de las
   vías respiratorias. ¿Sabes cómo hacerle frente?
 intro: La vida de un asmático no tiene por qué detenerse. Lo más importante es tener
@@ -15,7 +15,7 @@ tags: asma bronquial tratamiento
 redirect_from: "/blog/qué-es-el-asma-bronquial/"
 
 ---
-![](/uploads/Asma bronquial.jpeg)
+![](/uploads/Asma bronquial.webp)
 
 El **asma bronquial** es una afección médica que hace que **la vía aérea de los pulmones se hinche y se estreche.** Debido a esta hinchazón, la ruta del aire produce un exceso de moco que dificulta la respiración.
 
@@ -49,7 +49,7 @@ Cualquier **estímulo externo** como la exposición al perfume, el aire húmedo,
 
 En ciertos casos, incluso el **estrés mental o emocional** puede ser un desencadenante de una crisis de asma bronquial. Los ataques en esta condición generalmente ocurren por la mañana, junto con una sensación de ansiedad, lo que dificulta la respiración de los asmáticos.
 
-![](/uploads/Inhalador.jpeg)
+![](/uploads/Inhalador.webp)
 
 ## Desencadenantes de una crisis asmática
 

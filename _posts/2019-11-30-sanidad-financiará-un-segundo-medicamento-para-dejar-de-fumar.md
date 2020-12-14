@@ -6,7 +6,7 @@ date: 2019-11-30T23:00:00.000+00:00
 last_modified_at: 2020-04-15 22:00:00 +0000
 author: Ana
 category: Salud respiratoria
-image: "/uploads/Dejar de fumar 2.jpg"
+image: "/uploads/Dejar de fumar 2.webp"
 description: El Sistema Nacional de Salud ha decidido financiar un segundo medicamento
   para dejar de fumar. El Bupropión podrá ser recetado a partir del 1 de enero de
   2020.
@@ -16,7 +16,7 @@ intro: El Bupropión se suma a la lista de fármacos contra el tabaco. Sanidad h
 tags: enfermedades-pulmonares tabaco dejar-de-fumar
 
 ---
-![](/uploads/Dejar de fumar 2.jpg)
+![](/uploads/Dejar de fumar 2.webp)
 
 El sistema público de salud ha decidido incluir **otro medicamento para dejar de fumar** dentro del cupo de fármacos financiados por Sanidad. De este modo, ya son dos medicinas las que se subvencionan en un intento por acabar con el hábito del tabaco.
 
@@ -51,7 +51,7 @@ La razón es que estos profesionales no pueden recetar un fármaco financiado pa
 
 Sin embargo, las farmacéuticas sí lo comercializan desde hace años bajo distintos nombres, aunque **el más conocido es el de Zyntabac**. Aunque su acción es más suave que la de Champix, lo cierto es que los médicos señalan que la elección de uno u otro medicamento se realiza **en base al perfil del paciente.**
 
-![](/uploads/Dejar de fumar 3.jpg)
+![](/uploads/Dejar de fumar 3.webp)
 
 ### A la espera de otro tratamiento
 

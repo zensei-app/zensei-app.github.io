@@ -9,7 +9,7 @@ date: 2018-10-19 08:00:00 +0000
 last_modified_at: 2020-10-18 10:00:00 +0000
 category: Gripe
 author: David - Ana
-image: "/uploads/Epidemia de la gripe 2019-2020.jpg"
+image: "/uploads/Epidemia de la gripe 2019-2020.webp"
 description: 'Esta es la guía más completa de la epidemia de la gripe en España. Puedes
   seguir la gripe en tiempo real y saber cuales son los síntomas de la epidemia de
   gripe en España (2020-2021). En resumen: si quieres evitar o tienes la gripe, te
@@ -28,7 +28,7 @@ tags:
 - remedios gripe
 
 ---
-![gripe 2019-2020](/uploads/Epidemia de la gripe 2019-2020.jpg "Epidemia gripe 2019-2020")
+![gripe 2019-2020](/uploads/Epidemia de la gripe 2019-2020.webp "Epidemia gripe 2019-2020")
 
 **Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2020-2021.**
 
@@ -186,7 +186,7 @@ Los síntomas de la gripe este año coinciden con los habituales en cada periodo
 
 Teniendo en cuenta todo lo descrito, es frecuente que muchas personas no sepan diferenciar una gripe de un resfriado. Pero son dos dolencias distintas.
 
-![gripe 19-20](/uploads/Epidemia de la gripe 2019-2020 1.jpg "Epidemia gripe 19-20")
+![gripe 19-20](/uploads/Epidemia de la gripe 2019-2020 1.webp "Epidemia gripe 19-20")
 
 ## ¿Cómo diferenciar entre gripe o resfriado?
 

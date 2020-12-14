@@ -6,7 +6,7 @@ date: 2020-11-18 23:00:00 +0000
 last_modified_at: 2020-11-18 23:00:00 +0000
 author: Ana
 category: Alergia
-image: "/uploads/alergia-de-otono-y-covid.jpg"
+image: "/uploads/alergia-de-otono-y-covid.webp"
 description: Dada la gravedad de la pandemia, no es de extrañar que lleguemos a confundir
   los síntomas de la alergia de otoño con la Covid-19. Te enseñamos cómo diferenciarlos.
 intro: Los síntomas de la **alergia de otoño y la Covid-19** pueden llevar a confundir
@@ -16,7 +16,7 @@ tags: alergia, alergia de otoño, alergia estacional, covid19
 slug: alergia-otono-covid-19
 
 ---
-![Alergia estacional](/uploads/alergia-de-otono-y-covid.jpg "Alergia de otoño")
+![Alergia estacional](/uploads/alergia-de-otono-y-covid.webp "Alergia de otoño")
 
 Si tu hijo tiene tos, dolor de garganta y secreción nasal, probablemente te preguntes si se trata de una alergia de otoño e incluso si podría haberse contagiado de Covid-19.
 
@@ -50,7 +50,7 @@ Para un niño con alergias, su médico puede recomendar el uso de medicamentos q
 
 · Si además el niño tiene asma, es probable que el médico le recete un **inhalador** para abrirle las vías respiratorias. Otra opción serán los **corticosteroides inhalados**, que reducen la inflamación de las vías respiratorias.
 
-![Alergia de otoño](/uploads/alergia-de-otono-y-covid-2.jpg "Alergia y covid-19")
+![Alergia de otoño](/uploads/alergia-de-otono-y-covid-2.webp "Alergia y covid-19")
 
 ### 3. Formas para controlar la alergia de otoño en tu propia casa
 

@@ -6,7 +6,7 @@ date: 2020-03-31T22:00:00.000+00:00
 last_modified_at: 2020-04-02 22:00:00 +0000
 author: Ana
 category: Gripe
-image: "/uploads/coronavirus en personas mayores.jpg"
+image: "/uploads/coronavirus en personas mayores.webp"
 description: El coronavirus en personas mayores preocupa por su virulencia. Te mostramos
   todo lo que necesitas saber para minimizar su incidencia.
 intro: El COVID-19 afecta a todos los segmentos de la población. Sin embargo, el **coronavirus
@@ -16,7 +16,7 @@ tags: gripe coronavirus población-adulta pandemia COVID-19
 slug: coronavirus personas mayores
 
 ---
-![Coronavirus](/uploads/coronavirus en personas mayores.jpg "coronavirus en personas mayores")
+![Coronavirus](/uploads/coronavirus en personas mayores.webp "coronavirus en personas mayores")
 
 El COVID-19 ha sido catalogado por la Organización Mundial de la Salud (OMS) como una pandemia. Todos los continentes registran numerosos casos de contagiados. La enfermedad no discrimina a nadie y cualquiera es susceptible de ser infectado. No obstante, **existe una tasa de mortalidad más elevada entre la población de mayor edad.** Por ello, te ofrecemos esta guía sobre el [coronavirus](https://zenseiapp.com/gripe/todo-lo-que-necesitas-saber-sobre-el-coronavirus-de-china/) en personas mayores.
 
@@ -48,7 +48,7 @@ Mención aparte merece el impacto del coronavirus en personas mayores. La edad a
 
 Es muy importante que los mayores y sus cuidadores se conciencien del peligro que supone no observar los consejos de las autoridades sanitarias. Las personas que tengan fiebre, tos y dificultad respiratoria deben [**llamar a los servicios médicos**](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/telefonos.htm) **habilitados para emergencias por el coronavirus.**
 
-![](/uploads/coronavirus en personas mayores 1.jpg)
+![](/uploads/coronavirus en personas mayores 1.webp)
 
 ### Cómo se contagia el COVID-19
 

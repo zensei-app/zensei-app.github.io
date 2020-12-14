@@ -83,7 +83,7 @@ La evidencia muestra que mantenerse activo es bueno para las personas con asma. 
 
 Pero si te han diagnosticado [asma grave](https://www.healthychildren.org/spanish/health-issues/conditions/allergies-asthma/paginas/mild-moderate-severe-asthma-what-do-grades-mean.aspx) y a menudo tienes síntomas, es posible que te preguntes si el ejercicio también es bueno para ti o incluso si es posible mantenerte activo. En una encuesta reciente, el 86% de las personas dijeron que tener asma severa les impidió hacer ejercicio.
 
-![](/uploads/Deporte con asma.jpg)
+![](/uploads/Deporte con asma.webp)
 
 ### ¿Pueden las personas con asma severa hacer ejercicio?
 
