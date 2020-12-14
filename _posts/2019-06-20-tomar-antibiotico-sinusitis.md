@@ -6,7 +6,7 @@ date: 2019-06-20 22:00:00 +0000
 last_modified_at: 2020-05-07 10:00:00 +0000
 category: Alergia
 author: Ana
-image: "/uploads/Sinusitis.webp"
+image: "/uploads/Sinusitis2.webp"
 description: No siempre es preciso tomar antibiótico para la sinusitis. Aquí tienes
   toda la información sobre la enfermedad.
 intro: La **sinusitis** puede estar causada por muchos y diversos factores y no todos
@@ -15,7 +15,7 @@ tags: antibióticos sinusitis rinitis alérgica
 redirect_from: "/blog/es-bueno-tomar-antibiótico-para-la-sinusitis/"
 
 ---
-![Sinusitis en niños](/uploads/Sinusitis.webp "Sinusitis")
+![Sinusitis en niños](/uploads/Sinusitis2.webp "Sinusitis")
 
 La **sinusitis** puede estar causada por muchos y diversos factores y **no todos ellos reaccionan a la administración de antibióticos.** Sin embargo, muchos afectados por esta molesta dolencia siguen creyendo que el antibiótico para sinusitis es el mejor remedio para luchar contra la enfermedad.
 
