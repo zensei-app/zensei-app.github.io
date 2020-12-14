@@ -5,7 +5,7 @@ permalink: /epoc/
 title: Diario de síntomas para personas con EPOC
 description: Lleva un control de tu salud respiratoria y respira mejor sin esfuerzo.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar el EPOC. Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
-image: /img/photo-1520259075182-da7db177117b.jpeg
+image: /img/photo-1520259075182-da7db177117b.webp
 category: Epoc
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00

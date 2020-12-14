@@ -254,7 +254,7 @@ por Antonio Miguel Herrero
 
 Tú también **puedes aportar tu granito de arena para hacer de Zensei un producto realmente útil**.
 
- ![Zensei app diario de salud respiratoria](/img/show_app.png) ![Zensei app diario de salud respiratoria](/img/summer-offer-2018.png)
+ ![Zensei app diario de salud respiratoria](/img/show_app.webp) ![Zensei app diario de salud respiratoria](/img/summer-offer-2018.png)
 
 ### Qué es lo que dicen los usuarios que ya utilizan Zensei
 

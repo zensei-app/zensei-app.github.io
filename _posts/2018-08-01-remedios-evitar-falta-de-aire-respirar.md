@@ -9,7 +9,7 @@ date: 2018-08-01 08:00:00 +0000
 last_modified_at: 2020-08-12 09:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Asma
-image: "/img/photo-1531615018523-12556603349f.jpeg"
+image: "/img/photo-1531615018523-12556603349f.webp"
 description: Conoce las causas por las que te falta el aire y por qué tienes que respirar
   profundo. Te contamos en este artículo como consiguem evitar la falta de aire los
   médicos.
@@ -236,7 +236,7 @@ Será una buena ayuda, porque la información que traslada al usuario avisa a gr
 
 **Zensei tal vez sea una de las apps más innovadoras y prácticas en el ámbito de la salud para pacientes respiratorios.** Ayuda a mejorarla contándonos cómo es tu experiencia con la aplicación. Envíanos tus comentarios y dinos qué te gustaría que mejorase o incluyéramos para que te fuera de más utilidad y, si tienes sensación de falta de aire, dinos cómo ha funcionado.
 
- ![Zensei app diario de salud respiratoria](/img/show_app.png)
+ ![Zensei app diario de salud respiratoria](/img/show_app.webp)
 
 [**📱Tu decides si quieres cuidar tu salud respiratoria, la app de Zensei te lo pone fácil**](https://zenseiapp.com).
 

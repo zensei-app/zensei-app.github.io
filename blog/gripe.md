@@ -9,7 +9,7 @@ description:
 intro:
   Aquí podrás encontrar todo lo que necesitas saber para controlar el Gripe.
   Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarlo.
-image: "/img/photo-1422433555807-2559a27433bd.jpeg"
+image: "/img/photo-1422433555807-2559a27433bd.webp"
 category: Gripe
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00

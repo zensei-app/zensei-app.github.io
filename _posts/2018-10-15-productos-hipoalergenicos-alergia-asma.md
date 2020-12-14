@@ -9,7 +9,7 @@ date: 2018-10-15T08:00:00.000+00:00
 last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
-image: "/img/photo-1506664453913-f326aa81f54d.jpeg"
+image: "/img/photo-1506664453913-f326aa81f54d.webp"
 description:
   Si quieres ver una lista de productos hipoalergénicos en un solo lugar,
   entonces te encantará esta guía (actualizada). Si el médico te los ha recomendado.
@@ -52,7 +52,7 @@ Existen múltiples productos hipoalergénicos para tener una casa libre de alér
 Solo tienes que adquirir cada uno de los que te recomendamos.
 
 <br>
-![Zensei app](/img/photo-1506664453913-f326aa81f54d.jpeg){: .center-image }
+![Zensei app](/img/photo-1506664453913-f326aa81f54d.webp){: .center-image }
 <br>
 
 ### **Fundas de colchón hipoalergénicas**

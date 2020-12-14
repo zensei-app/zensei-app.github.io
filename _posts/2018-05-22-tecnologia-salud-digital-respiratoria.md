@@ -9,7 +9,7 @@ date:   2018-05-22 10:00:00 +0200
 last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Salud Respiratoria
-image: /img/zensei-app-description.png
+image: /img/zensei-app-description.webp
 description: Si crees padecer algún tipo de alergia lo primero que debes hacer es acudir a tu médico de cabecera para confirmar el diagnóstico. Si el especialista lo considera oportuno, te indicará que debes,...
 tags: tecnología salud respiración
 ---
@@ -17,7 +17,7 @@ tags: tecnología salud respiración
 En un mundo tecnológico en constante evolución, las nuevas tecnologías también han llegado para ayudarnos a controlar nuestra salud. Desde wearables hasta apps, ya existe un mundo de gadgets y aplicaciones que nos informan, controlan y resuelven sobre cuestiones relacionadas con nuestro estado de salud.
 
 <br>
-![Zensei app](/img/zensei-app-description.png){: .center-image }
+![Zensei app](/img/zensei-app-description.webp){: .center-image }
 <br>
 
 ### **eSKIN Tattoo**

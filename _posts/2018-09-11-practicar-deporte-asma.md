@@ -9,7 +9,7 @@ date: 2019-12-30T09:00:00.000+00:00
 last_modified_at: 2020-04-14 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Asma
-image: "/img/photo-1530143311094-34d807799e8f.jpeg"
+image: "/img/photo-1530143311094-34d807799e8f.webp"
 description: "¿Puedo practicar deporte con asma? Por supuesto que sí. Te damos una
   serie de consejos para que tu salud respiratoria no limite tu actividad física."
 intro: "¿Puedo practicar **deporte con asma**? Te sorprendería saber la cantidad de
@@ -22,7 +22,7 @@ tags:
 
 ---
 <br>
-![alergias cruzadas, frutas y polen](/img/photo-1530143311094-34d807799e8f.jpeg){: .center-image }
+![alergias cruzadas, frutas y polen](/img/photo-1530143311094-34d807799e8f.webp){: .center-image }
 <br>
 
 Cuando un asmático sigue correctamente sus pautas marcadas por el médico, puede **hacer ejercicio sin ningún problema.** Tienes que saber que muchos atletas de alta competición son asmáticos y alguno que otro se ha llevado una medalla de oro olímpica para casa. Así que veamos por qué y **cómo puedes practicar deporte con asma.**

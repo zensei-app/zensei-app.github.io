@@ -10,7 +10,7 @@ date: 2018-10-02T08:00:00.000+00:00
 last_modified_at: 2019-10-17 10:00:00 +0000
 category: Alergia
 author: David
-image: "/img/photo-1526705645973-c3f37d960d3f.jpeg"
+image: "/img/photo-1526705645973-c3f37d960d3f.webp"
 description:
   En este artículo te vamos ayudar a elegir la mejor mascarilla antipolución
   para asmáticos y alérgicos.

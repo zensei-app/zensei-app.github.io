@@ -10,7 +10,7 @@ last_modified_at: 2019-10-17 10:00:00 +0000
 category: Asma
 author: David
 tags: productos asma alergia rinitis casa
-image: "/img/photo-1537035448858-6d703dbc320f.jpeg"
+image: "/img/photo-1537035448858-6d703dbc320f.webp"
 description:
   "¿Quieres comprar un nebulizador, pero no sabes bien cuál comprar? Aquí
   vas a aprender en que te tienes que fijar para elegir uno. Elige el mejor y ahórrate

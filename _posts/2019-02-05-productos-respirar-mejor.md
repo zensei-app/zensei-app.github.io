@@ -8,7 +8,7 @@ date: 2019-02-05 10:00:00 +0200
 last_modified_at: 2020-02-20 10:00:00 +0000
 category: Salud Respiratoria
 author: David
-image: /img/photo-1465409042654-5314e9d1754b.jpeg
+image: /img/photo-1465409042654-5314e9d1754b.webp
 description: "Este artículo te va a ayudar a encontrar todo lo que necesitas para respirar mejor y así prevenir el asma, la la alergia al polen o la bronquitis. Así podrás evitar los maldita tos, estornudos, pitidos al respirar o la falta de aire. Pulsa el link para echar un vistazo y empezar a respirar mejor."
 intro: "Este artículo te va ayudar a **encontrar todo lo que necesitas para respirar mejor** y así prevenir el asma, la alergia al polen o la bronquitis. <br><br> Así podrás evitar los maldita tos, estornudos, pitidos al respirar o la falta de aire. <br><br>Hemos preparado una **lista de productos para que sepas que necesitas para respirar mejor** en casa y fuera de ella.<br><br>Venga, echa un vistazo."
 tags: purificador asma alergia rinitis productos

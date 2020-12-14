@@ -8,7 +8,7 @@ last_modified_at: 2020-02-20 10:00:00 +0000
 date:   2018-05-04 10:00:00 +0200
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/zensei-app-description.png
+image: /img/zensei-app-description.webp
 description: Las nuevas tecnologías están permitiendo avances en materia de salud. Afortunadamente estos hitos también están llegando al usuario de a pie. Es el caso de las aplicaciones que se utilizan...
 tags: tecnología alergia
 ---
@@ -16,7 +16,7 @@ tags: tecnología alergia
 Las **Nuevas Tecnologías** están permitiendo avances en materia de salud. Afortunadamente estos hitos también están llegando al usuario de a pie. Es el caso de las aplicaciones que se utilizan para distintos problemas y dolencias. Es algo común desde hace un par de años y parece que el tema va en aumento, como en el caso de las **apps para alérgicos.**
 
 <br>
-![Asma Zensei app](/img/zensei-app-description.png){: .center-image }
+![Asma Zensei app](/img/zensei-app-description.webp){: .center-image }
 <br>
 
 ## Las apps para la salud respiratoria

@@ -9,7 +9,7 @@ date:   2018-09-07 10:00:00 +0200
 last_modified_at: 2020-02-20 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/photo-1520238861346-a49993df0e69.jpeg
+image: /img/photo-1520238861346-a49993df0e69.webp
 description: Te podemos ayudar a prevenir y controlar tus crisis de asma y sus síntomas de forma sencilla, así podrás cantar, correr, bailar, etc. Pese a lo horrible que es tener asma...
 intro: Hay personas que son **alérgicas al polen que a veces al ingerir alguna fruta o verdura sufren reacciones alérgicas**. Ya hemos hablado en nuestro blog de las [alergias cruzadas](https://zenseiapp.com/blog/que-es-la-alergia-cruzada/). <br/><br/> Pero hoy vamos a analizar qué frutas y verduras suelen reaccionar según el tipo de polen al que le tienes alergia. 
 tags: alergia rinitis frutas
@@ -30,7 +30,7 @@ Más tarde el proceso acaba derivando en una reacción cruzada.
 Seguro que te viene muy bien este **listado con los alimentos que suelen ser los desencadenantes de una alergia cruzada** con el polen.
 
 <br>
-![alergias cruzadas, frutas y polen](/img/photo-1520238861346-a49993df0e69.jpeg){: .center-image }
+![alergias cruzadas, frutas y polen](/img/photo-1520238861346-a49993df0e69.webp){: .center-image }
 <br>
 
 ## **Tipos de polen y frutas que reaccionan**

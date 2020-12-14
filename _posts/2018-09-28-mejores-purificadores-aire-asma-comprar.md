@@ -9,7 +9,7 @@ date: 2018-09-28T08:00:00.000+00:00
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 category: Alergia
 author: David
-image: "/img/photo-1534397860164-120c97f4db0b.jpeg"
+image: "/img/photo-1534397860164-120c97f4db0b.webp"
 description:
   En este artículo te dar nuestra honesta opinión para ayudarte a elegir
   el mejor purificador de aire para asmáticos y alérgicos. ¿La mejor parte? Con tu

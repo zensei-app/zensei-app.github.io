@@ -5,7 +5,7 @@ permalink: /alergia/
 title: Diario de síntomas para Alérgicos
 description: Lleva un control de tu salud respiratoria y evita los horribles síntomas de la alergia.
 intro: Aquí podrás encontrar todo lo que necesitas saber para controlar la alergia respiratoria (rinitis alérgica). Que lo causa, cuales son sus síntomas, remedios y tratamiento para controlarla.
-image: "/img/photo-1444930694458-01babf71870c.jpeg"
+image: "/img/photo-1444930694458-01babf71870c.webp"
 category: Alergia
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00

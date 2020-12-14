@@ -42,7 +42,7 @@ Una solución a este problema vendría de la mano de políticas e inversiones qu
 El problema está en que la paliación de estos efectos contaminantes va más allá de nuestras manos. Son las ciudades tanto como las instancias normativas nacionales e internacionales las que deben tomar medidas. Pero si éstas no son suficientes, Zensei te ayuda a conocer la calidad del aire en tu ciudad para saber si es adecuado llevar a cabo actividades en el exterior o implementar medidas para respirar un aire más puro en interiores y así poder prevenir dichas enfermedades. 
 
 <br>
-![zensei contaminación](/img/notifications_background.png){: .center-image }
+![zensei contaminación](/img/notifications_background.webp){: .center-image }
 <br>
 
 De acuerdo con datos del [Air Quality Management District (AQMD)](http://www.aqmd.gov/home/library/public-information/publications/aire-sucio), los niños están más expuestos a la contaminación atmosférica debido a que respiran más aire en relación a su peso corporal y tamaño de sus pulmones. Por ello, desde Zensei creemos que es importante tomar conciencia de la calidad del aire siendo un problema que afecta tanto a nuestra salud como a la de los más pequeños. A través de nuestra app, te daremos a conocer los niveles del aire perjudiciales para la salud. Así podrás tomar medidas para reducir la exposición de los niños al aire contaminado, como por ejemplo, evitar actividades físicas al aire libre, como correr o jugar al fútbol.

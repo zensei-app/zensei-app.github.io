@@ -9,7 +9,7 @@ date: 2018-05-14 10:00:00 +0200
 last_modified_at: 2019-08-22 10:00:00 +0000
 author: Ana Pérez y Mar Santiago
 category: Alergia
-image: /img/pollution-grain-pollen.jpeg
+image: /img/pollution-grain-pollen.webp
 description: La polución en el medio ambiente es un causante importantísimo de problemas de salud entre la población que reside en grandes ciudades. Una de las consecuencias más serias está relacionada con el asombroso...
 intro: "Esta artículo te va enseñar las consecuencias que tiene la contaminación sobre la alergia al polen. <br><br>Así podrás evitar sus síntomas y respirar mejor.<br><br>Empezamos."
 tags: contaminación alergia síntomas
@@ -26,7 +26,7 @@ Mira.
 Así se ve un grano de polen con partículas de contaminación.
 
 <br>
-![contaminación Zensei app polen](/img/pollution-grain-pollen.jpeg){: .center-image }
+![contaminación Zensei app polen](/img/pollution-grain-pollen.webp){: .center-image }
 <br>
 
 Si esto es lo que respiras.

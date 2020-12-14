@@ -33,7 +33,7 @@ tags:
 **Con la aparición de la COVID-19, el coronavirus ha acaparado la atención de todo el mundo.** Comunidad científica, investigadores, médicos, sanitarios, gobiernos, instituciones… la sociedad en general, han tenido que centrarse en una pandemia que ha acorralado a los ciudadanos y los ha mantenido confinados en sus casas. **Prácticamente se nos ha olvidado realizar un seguimiento de la epidemia de la gripe 2020-2021.**
 
 <br>
-![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.jpeg){: .center-image }
+![virus de la gripe](/img/5cfea4607010b16a08499c843a6adef1a3f8a43d.webp){: .center-image }
 <br>
 
 ## **Vigilancia de la gripe 2020-2021**
