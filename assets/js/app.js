@@ -36,29 +36,7 @@ $(document).ready(function () {
     return t;
   })(document, "script", "twitter-wjs");
 
-  let hasBannerBeenClosed = false;
-
-  $(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 2000 && !hasBannerBeenClosed) {
-      $(".top-banner").slideDown();
-    } else {
-      $(".top-banner").slideUp();
-    }
-  });
-
-  $("#closeTopBanner").on("click",function(){
-    $(".top-banner").slideUp();
-    hasBannerBeenClosed = true;
-  })
-
   // End social
-
-  //Begin social-card
-  const numberOfComments = 6;
-  const randomNumber = Math.floor(Math.random() * Math.floor(numberOfComments))+1;
-  $(`#social-card-${randomNumber}`).removeClass("invisible");
-  //End social-card
 
   var isMobile = false; //initiate as false
   if (

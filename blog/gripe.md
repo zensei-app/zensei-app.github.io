@@ -1,5 +1,5 @@
 ---
-layout: landing-app
+layout: list-posts
 redirect_from: /app-gripe/
 permalink: /gripe/
 title: Diario de Salud para evitar los virus
@@ -13,6 +13,7 @@ image: "/img/photo-1422433555807-2559a27433bd.webp"
 category: Gripe
 last_modified_at: 2019-08-22T10:00:00.000+00:00
 date: 2019-08-22T10:00:00.000+00:00
+
 ---
 
 ## **En Zensei te ayudamos a controlar tu salud respiratoria con la app diario que hemos diseñado conjúntamente con médicos**
@@ -25,7 +26,7 @@ Si eso te interesa, genial. Si no te interesa, pues puedes volver a buscar en Go
 
 Por cierto, si quieres descargarte nuestra app para prevenir la gripe, es aquí:
 
-{% include commons/app-cta-landing.html %}
+{% include common/app-cta-landing.html %}
 
 Mira.
 
@@ -61,7 +62,7 @@ Si quieres evitar los síntomas de la gripe.
 
 Descárgate nuestra app diario aquí.
 
-{% include commons/app-cta-landing.html %}
+{% include common/app-cta-landing.html %}
 
 ## **Artículos sobre la Gripe en nuestro blog**
 
@@ -87,7 +88,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre la grip
         </h2>
         <p>
           <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include commons/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
+          <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include utils/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
         </p>
         <p itemprop="description">
           {{ post.description | escape }}

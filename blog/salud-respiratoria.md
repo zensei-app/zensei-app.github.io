@@ -1,5 +1,5 @@
 ---
-layout: landing-app
+layout: list-posts
 redirect_from: /app-salud-respiratoria/
 permalink: /salud-respiratoria/
 title: Diario de síntomas para cuidar tu respiración
@@ -50,7 +50,7 @@ Aquí abajo tienes una lista completa de todos nuestros artículos sobre Salud R
 </h2>
 <p>
 <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-<time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include commons/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
+<time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include utils/locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
 </p>
 <p itemprop="description">
 {{ post.description | escape }}

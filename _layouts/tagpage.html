@@ -1,6 +1,7 @@
 ---
-layout: blog
+layout: default
 search_omit: true
+
 ---
 
 <div class="home">
@@ -39,7 +40,7 @@ search_omit: true
           class="post-meta"
           datetime="{{ post.date | date_to_xmlschema }}"
           itemprop="datePublished"
-          >⏳ Actualizado el {% include commons/locale-dates.html
+          >⏳ Actualizado el {% include utils/locale-dates.html
           date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year
           }}</time
         >
@@ -57,5 +58,5 @@ search_omit: true
     </li>
     {% endfor %}
   </ul>
-  {% include commons/app-cta-landing.html %}
+  {% include common/app-cta-landing.html %}
 </div>

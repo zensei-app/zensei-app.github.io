@@ -1,5 +1,5 @@
 ---
-layout: landing-corporate
+layout: corporate
 title: Zensei te acerca al paciente respiratorio digital
 subtitle: Descubre cómo el big data y  los modelos predictivos,  pueden ayudar a tus
   pacientes y hacer crecer tu negocio.
@@ -12,6 +12,7 @@ seo_description: En este artículo te contamos que es la salud digital respirato
 permalink: "/salud-digital-respiratoria/"
 
 ---
+
 En Zensei aunamos experiencia  en distintas disciplinas cientificas , técnicas y de negocio alrededor de la salud respiratoria y desde 2017 nuestra misión es _mejorar la calidad de vida de las personas con problemas respiratorios, ayudándoles a entender y gestionar su salud respiratoria._
 
 Si eres un proveedor o prescriptor de servicios de salud, soluciones, productos o medicamentos contáctanos y te ayudamos a cuidar de tus pacientes.

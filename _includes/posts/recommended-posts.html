@@ -1,0 +1,42 @@
+<div class="container-main recommended-posts__container">
+  <h2 class="title-big recommended-posts__title">
+      Últimos artículos en nuestro blog 
+      <br />
+      de salud respiratoria
+  </h2>
+  <p class="paragraph-center">
+    Escribimos sobre todo tipo de enfermedades respiratorias: Asma, EPOC,
+    <br />
+    Rinitis alérgica, Gripe, Covid, Fibrosis quística y muchas más.
+  </p>
+
+<ul class="home--carousel-section recommended-posts__articles" >
+    <div class="home--carousel-container-wo-arrow" >
+      {% assign posts = site.posts %}
+      {% for item in posts limit:3 %}  
+
+          <li class="home--carousel-article-card-with-bckg">
+            <div>
+              <h5 class="home--carousel-article-card__title">{{ item.title }}</h5>
+              <a href="{{ item.url }}"  class="secondary-btn home--carousel-article-card__btn">
+                Leer más 
+                <span class="fa fa-chevron-right" aria-hidden="true"></span>
+              </a>
+            </div>
+            {% if item.category != 'prensa' %}
+            <img src="{{item.image}}" alt="{{item.title}}" />
+            {% endif %}
+          </li>
+
+      {% endfor %}
+  </div>
+</ul>
+<div style="display: flex; justify-content: flex-end;">
+  <a
+  class="secondary-btn home--button"
+  target="_blank" rel="noopener noreferrer" href="{{ "/blog/" | relative_url }}"
+  onclick="ga('send', 'event', 'buttons', 'click', 'cta');"
+  >Ver todos <span class="fa fa-chevron-right" aria-hidden="true"></span></a
+  >
+  </div>
+</div>

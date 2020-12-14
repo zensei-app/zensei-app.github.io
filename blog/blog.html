@@ -1,9 +1,10 @@
 ---
-layout: blog-main
+layout: list-posts
 permalink: /blog/
 title: Respira mejor con nuestros consejos de salud respiratoria
 description: Escribimos sobre todo tipo de enfermedades respiratorias
 image: "/img/photo-1444930694458-01babf71870c.webp"
+
 ---
 
 <br />
@@ -44,7 +45,7 @@ image: "/img/photo-1444930694458-01babf71870c.webp"
           class="post-meta"
           datetime="{{ post.date | date_to_xmlschema }}"
           itemprop="datePublished"
-          >⏳ Actualizado el {% include commons/locale-dates.html
+          >⏳ Actualizado el {% include utils/locale-dates.html
           date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year
           }}</time
         >
@@ -65,4 +66,4 @@ image: "/img/photo-1444930694458-01babf71870c.webp"
   </ul>
 </div>
 
-{% include blog/tags-cloud.html %}
+{% include posts/tags-cloud.html %}

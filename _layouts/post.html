@@ -1,45 +1,45 @@
 ---
-layout: blog
+layout: default
+
 ---
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-
       <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {% include commons/locale-dates.html date=page.last_modified_at %}
+        {% include utils/locale-dates.html date=page.last_modified_at %}
         ⏳ Actualizado el {{ day }} de {{ month }} de {{ year }}
       </time>
     </p>
   </header>
-  <div class="post-content" itemprop="articleBody">
+
+  <div
+    class="post-content"
+    itemprop="articleBody"
+  >
     {{ page.intro | markdownify }}
 
     {% if page.toc %}
-
     <div class="section-nav">
       <h3<b>🔖 Navega el contenido</b></h3>
-      {% include post/toc.html html=content ordered=true h_min=2 h_max=3 %}
+      {% include posts/toc.html html=content ordered=true h_min=2 h_max=3 %}
     </div>
     <br>
-
     {% endif %}
 
     {{ content | toc_only }}
 
-    {% include aux/social-card.html %}
-
-
+    {% include posts/social-card.html %}
   </div>
+
   <p>
     <a target="_blank" rel="noopener noreferrer" href="/{{ page.category | replace: ' ' , '-'  | downcase }}" class="shake">
       <code class="highligher-rouge"><nobr>{{ page.category | escape  }}</nobr></code>&nbsp;
     </a>
   </p>
-  {% include post/search-bar.html %}
+  {% include search-form.html %}
   <br>
 </article>
-
-

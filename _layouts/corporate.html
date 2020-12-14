@@ -1,0 +1,50 @@
+---
+layout: default
+
+---
+
+<article
+  class="post"
+  itemscope
+  itemtype="http://schema.org/BlogPosting"
+>
+  <br />
+  <br />
+
+  <header>
+    <h1 class="post-title" itemprop="name headline">
+      {{ page.subtitle | escape }}
+    </h1>
+    <p class="post-meta">
+      ⏳ Actualizado el
+      <time
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+      >
+        {% assign date_format = site.minima.date_format | default: "%b
+        %-d, %Y" %} {% include utils/locale-dates.html
+        date=page.date %} {{ day }} de {{ month | capitalize }} del {{
+        year }}
+      </time>
+    </p>
+  </header>
+  <br />
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
+
+<div class="container-narrow center">
+  <div class="section-cta">
+    <br />
+    <h2 style="font-weight: bold;">
+      Escríbenos y vemos si te podemos ayudar. Tú decides. 👇
+    </h2>
+  </div>
+  <div
+    class="pipedriveWebForms"
+    data-pd-webforms="https://pipedrivewebforms.com/form/5c22b335b1ef2caa2330d38984e509f67486414"
+  >
+  </div>
+</div>

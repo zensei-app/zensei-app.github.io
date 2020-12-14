@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: base
 permalink: /app-purificador
 title: Zensei - App Diario para Respirar Mejor
 description: Si tienes problemas respiratorios, te ayudamos a respirar mejor.
@@ -50,15 +50,3 @@ description: Si tienes problemas respiratorios, te ayudamos a respirar mejor.
     
   </ul>
 </div>
-
-<script>
-  function copyToClipboard(element) {
-    var $temp = $("<input>");
-    $("body").append($temp);
-    $temp.val($(element).text()).select();
-    alert("El código de descuento " + $(element).text() + " ha sido copiado. Utilízalo al pagar. Disfruta de tu nuevo Purificador de Aire. No olvides utilizar Zensei.");
-    document.execCommand("copy");
-    $temp.remove();
-    
-  }
-</script>

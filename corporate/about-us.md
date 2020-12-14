@@ -1,5 +1,5 @@
 ---
-layout: landing-app
+layout: default
 title:  "Expertos en la psicología y comportamiento digital del paciente respiratorio"
 subtitle: "¿Has probado ya nuestro Diario de Salud Respiratoria?"
 date: 2019-10-30 00:00:00 +0200
@@ -7,6 +7,7 @@ image: '/assets/img/team.jpg'
 description: Ayudamos al paciente, médico, farmaceúticas y aseguradoras a través de los datos del fenotipo profundo
 seo_description: "Aquí te contamos quiénes somos, qué hacemos y cómo ayudamos a miles de personas a respirar mejor."
 permalink: /sobre-nosotros/
+
 ---
 
 **¿Has visto lo que dicen nuestros usuarios de él?**
@@ -62,6 +63,3 @@ Si quieres contactar con nosotros por quieres contarnos un secreto, quieres info
 No tengas verguenza. Esto va de personas. Leemos y respondemos a todos los emails.
 
 **[hola@zenseiapp.com](mailto:hola@zenseiapp.com)**
-
-
-

@@ -1,5 +1,5 @@
 ---
-layout: blog-main
+layout: list-posts
 title: Sala de prensa de Zensei
 description: Aquí tienes acceso a nuestro kit para medios, notas de prensa y puedes probar nuestra app de salud respiratoria.
 image: "/img/press-room.webp"
@@ -41,7 +41,7 @@ permalink: /prensa/
           class="post-meta"
           datetime="{{ post.date | date_to_xmlschema }}"
           itemprop="datePublished"
-          >⏳ Publicado el {% include commons/locale-dates.html
+          >⏳ Publicado el {% include utils/locale-dates.html
           date=post.last_modified_at %}{{ day }} de {{ month }} de {{ year
           }}</time
         >

@@ -1,22 +1,22 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+---
+layout: base
 
-  {% include commons/head.html %}
+---
 
-  <body class="fixed">
-    
-    {% include commons/nav-header.html %}
+{% include common/nav-header.html %}
+{% include common/sticky-cta.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="apply-overlay"></div> 
-        {{ content }}
-      </div>
-    </main>
-    {% include commons/recommended-posts.html %}
-    {% include commons/footer.html %}
-    {% include commons/lazyload.html %}
-    <script src="/assets/js/hamburguer-menu.js"></script>
+{% if page.image and page.layout != "post" %}
+  {% include common/hero-header.html %}
+{% endif %}
 
-  </body>
-</html>
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <div class="apply-overlay"></div>
+    {{ content }}
+  </div>
+</main>
+
+{% if page.layout == "post" %}
+  {% include posts/recommended-posts.html %}
+{% endif %}
