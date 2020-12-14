@@ -151,7 +151,6 @@ ZENSEI TECHNOLOGIES SL. Atrium Zurbano c/ Zurbano, 45 1 - 28010 MADRID
   zenseiapp.com   | **\_hjAbsoluteSessionInProgress**                  | Cookie necesaria para la utilización de las opciones y servicios del sitio web                                                                                                                                                                                                      | Sesión
   zenseiapp.com   | **\_hjIncludedInPageviewSample**                   | Cookie necesaria para la utilización de las opciones y servicios del sitio web                                                                                                                                                                                                      | Sesión
   zenseiapp.com   | **cookieconsent_dismissed**                        | Cookie necesaria para la utilización de las opciones y servicios del sitio web                                                                                                                                                                                                      | en un año
-  zenseiapp.com   | **mp_ae42fa9b56806bc29fe4fdfeb37f0882_mixpanel**   | Cookie necesaria para la utilización de las opciones y servicios del sitio web                                                                                                                                                                                                      | en un año
 
 #### Analíticas
 
