@@ -15,4 +15,7 @@
 
 `jekyll build` add `--watch` to regenerate on changes.
 
-`bundle exec jekyll pagemaster cities
+
+### Additional [To Review]
+
+`bundle exec jekyll pagemaster cities`

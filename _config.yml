@@ -1,13 +1,50 @@
 # Jekyll config file
 # https://jekyllrb.com/docs/configuration/
 
+
+# Settings fixed by GitHub Pages
+lsi: false
+safe: true
+#source: [your repo's top level directory]
+#incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+
+plugins:
+  # Enabled by default by GitHub Pages (cannot be disabled)
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # /Enabled by default
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  # Not available on GitHub Pages:
+  #- jekyll-compress-images
+  #- jekyll-toc
+  #- octopress-minify-html
+  #- pagemaster
+
+
 # Global configuration
 timezone: Europe/Madrid
-#safe: true  # Cannot change
 
-# Build Command Options
-#lsi: false  # Cannot change
-#incremental: false  # Cannot change
+
+# Theme settings
+theme: minima
+
 
 # Site settings
 title: 😷 Blog de Salud Respiratoria de Zensei.
@@ -16,69 +53,53 @@ description: >
 baseurl: ""
 url: "https://zenseiapp.com"
 
+
 permalink: /:categories/:title/
 
-# Theme settings
-theme: minima
+google_analytics: UA-96842689-1
 
+# Unused
 app_link: https://wgji.app.link/fIu9tK3PMO
-
 github_username: zensei-app
 twitter_username: zensei_app
 disqus:
   shortname: dmartincc
 
-google_analytics: UA-96842689-1
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-toc
-  - octopress-minify-html
-  - jekyll-compress-images
-  - pagemaster
-  - jekyll-redirect-from
-
-compress_images:
-  images_path:
-    - "assets/img/*.{gif,png,jpg,jpeg,svg}"
-    - "img/*.{gif,png,jpg,jpeg,svg}"
-
-lazy_load_image:
-  src_attr_name: data-echo # [required] You need to specify the attributes to be saved for lazy loading
-  class_attr_values: # [optional] if you want to add custom class value, please add values
-    - lazyload
-  ignore_selectors: # [optional] if you want to ignore applying lazy load image, please add selector (css or xpath)
-    - ".ignore-lazy-image-load"
-    - "/*[@class='ignore-lazy-image-load']"
-  additional_attrs: # [optional] if you want to add attributes, please add key value
-    "data-size": auto
-
+# Plugins settings:
 sass:
   style: compressed
 
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
 
-# Default settings by Github
-github: [metadata]
-kramdown:
-  input: GFM
-  hard_wrap: false
-toc:
-  min_level: 2
-
-# Dynamic pages generator
-page_gen-dirs: true
-
-collections:
-  cities:
-    output: true
-    source: cities.yml
-    id_key: id
-    layout: city
+# To Review;
+#
+# webrick:
+#   headers:
+#     Access-Control-Allow-Origin: "*"
+# 
+# compress_images:
+#   images_path:
+#     - "assets/img/*.{gif,png,jpg,jpeg,svg}"
+#     - "img/*.{gif,png,jpg,jpeg,svg}"
+# 
+# lazy_load_image:
+#   src_attr_name: data-echo # [required] You need to specify the attributes to be saved for lazy loading
+#   class_attr_values: # [optional] if you want to add custom class value, please add values
+#     - lazyload
+#   ignore_selectors: # [optional] if you want to ignore applying lazy load image, please add selector (css or xpath)
+#     - ".ignore-lazy-image-load"
+#     - "/*[@class='ignore-lazy-image-load']"
+#   additional_attrs: # [optional] if you want to add attributes, please add key value
+#     "data-size": auto
+# 
+# toc:
+#   min_level: 2
+# 
+# page_gen-dirs: true
+# 
+# collections:
+#   cities:
+#     output: true
+#     source: cities.yml
+#     id_key: id
+#     layout: city
