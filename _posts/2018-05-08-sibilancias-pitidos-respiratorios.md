@@ -120,11 +120,11 @@ Si los facultativos sospechan que tienes alergias, tu médico puede pedirte que 
 
 Los planes de tratamiento para las alergias y el asma varían. Al abordar el sonido en el pecho como síntoma de alergias o asma, **se puede minimizar con medicamentos o con el uso de un inhalador.** Además, es conveniente que [acondiciones tu casa contra el asma o las alergias.](https://www.mayoclinic.org/es-es/diseases-conditions/allergies/in-depth/allergy/art-20049365)
 
-<div class="section-cta"> <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>. </div>
+<div class="section-cta"> <a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>. </div>
 
 Permítenos que te recomendemos algunas mascarillas antipulición, para cuando salgas de casa y te protegas de la polución, polenes y virus.
 
-<div class="section-cta"> <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>. </div>
+<div class="section-cta"> <a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>. </div>
 
 ## Tratamiento de los pitidos al respirar
 

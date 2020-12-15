@@ -262,7 +262,7 @@ Utiliza una mascarilla o filtro nasal, lo vas a notar.
 Y si en casa te parece un poco ridículo llevar una mascarilla, deberías comprate un purificador de aires.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ## **Conclusiones**
@@ -283,5 +283,5 @@ Y si alguna de las mascarillas no te convence.
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a una completa
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=mascarillas antipolución&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=9e3bb5ae257b640c1fa025d0499d907b">Lista de mascarillas antipolución</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=mascarillas antipolución&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=9e3bb5ae257b640c1fa025d0499d907b">Lista de mascarillas antipolución</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>

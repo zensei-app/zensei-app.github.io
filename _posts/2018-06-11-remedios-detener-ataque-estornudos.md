@@ -74,7 +74,7 @@ Así podrás respiraras un aire más limpio y evitar los ataques de estornudos e
 Solo tienes que instalarlo en su habitación.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/alergia/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ### **😷 Mascarilla antipolución**
@@ -86,7 +86,7 @@ Las mascarillas pueden ayudarte a evitar la polución, polvo, ácaros, polenes e
 Muchos causantes de los ataques de estornudos.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
+<a rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/alergia/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes muchos estornudos</bold></a>.
 </div>
 
 ### **👃 Trucos caseros para dejar de estornudos**

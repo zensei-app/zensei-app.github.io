@@ -66,13 +66,13 @@ Mira.
 **Necesitarás tener una mascarilla anti pulución** para cuando salgas de casa y así no respirar aire contaminado.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
 
 **Necesitarás un purificador de aire** para que cuando llegues a casa puedas tener tu burbuja de aire limpio y así respirar profundamente.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 **Necesitarás controlar tu salud respiratoria** para saber que, cuando y donde te afecta la contaminación y la alergia al polen.

@@ -11,7 +11,6 @@ search_omit: true
     {% for post in site.tags[page.tag] %}
     <p>
       <a
-        target="_blank"
         rel="noopener noreferrer"
         href="{{ post.category | replace: ' ' , '-'  | downcase | relative_url  }}"
         class="shake"
@@ -25,7 +24,6 @@ search_omit: true
       <h2>
         <a
           itemprop="url"
-          target="_blank"
           rel="noopener noreferrer"
           href="{{ post.url | relative_url }}"
         >
@@ -48,7 +46,6 @@ search_omit: true
       <p itemprop="description">
         {{ post.description | escape }}
         <a
-          target="_blank"
           rel="noopener noreferrer"
           href="{{ post.url | relative_url }}"
         >

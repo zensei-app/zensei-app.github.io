@@ -76,7 +76,7 @@ BONUS. [Cómo parar de estornudar haciéndote cosquillas...](/blog/como-detener-
 Si notas que las cosas se complican y van más allá de simples estornudos o picor de ojos, no dudes en acudir en seguida a tu médico.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla y evitar los síntomas de la alergia sin medicamentos</bold></a>.
 </div>
 
 Mientras tanto, puedes controlar tu salud respiratoria con el diario de salud respiratoria de [📱Zensei](https://zenseiapp.com) y descubrir que polenes provocan tus síntomas.

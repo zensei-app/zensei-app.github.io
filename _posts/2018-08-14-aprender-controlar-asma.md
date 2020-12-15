@@ -314,7 +314,7 @@ Con este servicio tendrás de forma GRATUITA:
 **Si te descargas Zensei ahora** tendrás acceso a un año **GRATIS del Servicio Premium** con:
 =======
 <div style="text-align:center">
-	<a class="main-cta-top main-cta--blog" target="_blank" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Quiero cuidar mi asma</a>
+	<a class="main-cta-top main-cta--blog" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Quiero cuidar mi asma</a>
 </div>
 <br>
 >>>>>>> new-landing
@@ -354,7 +354,7 @@ Imagina poder **disfrutar de tu vida como una persona normal**. Con Zensei puede
 =======
 <br>
 <div style="text-align:center">
-	<a class="main-cta-top main-cta--blog" target="_blank" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Si Quiero controlar mi asma</a>
+	<a class="main-cta-top main-cta--blog" rel="noopener noreferrer" href="https://wgji.app.link/fIu9tK3PMO" onclick="ga('send', 'event', 'buttons', 'click', 'cta');">Si Quiero controlar mi asma</a>
 </div>
 <br>
 >>>>>>> new-landing

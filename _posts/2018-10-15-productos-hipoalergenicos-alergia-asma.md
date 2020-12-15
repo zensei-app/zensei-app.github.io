@@ -167,7 +167,7 @@ Un purificador de aire te permitirá todas las partículas en suspensión como p
 Si tienes dificultades por la noche para respirar, un purificador de aire te permitirá volver a descansar.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a target="_blank" rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos escritopara <a rel="noopener noreferrer" href="/blog/mejores-purificadores-aire-asma-comprar/"><bold>elegir un purificador de aire para tu casa</bold></a>.
 </div>
 
 ## **Consejos para tener una casa hipoalergénica**

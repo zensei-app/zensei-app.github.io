@@ -43,7 +43,7 @@ Solo tienes que **seleccionar en el buscador** que hemos hecho para que te sea m
 	<ul class="factors">
 	{% for item in site.data.market %}
 	   <li class="{{ item.type }}">
-		   <a target="_blank" rel="noopener noreferrer" href="{{ item.link }}">
+		   <a rel="noopener noreferrer" href="{{ item.link }}">
 		   		<img src="{{ item.image }}" alt="" />
 		   		<br>
 		   		<br>

@@ -106,7 +106,7 @@ Pero aquí te contamos.
 
 ### **Mejor purificador de aire para una habitación pequeña**
 
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B07FFS62HP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FFS62HP&linkCode=as2&tag=zenseiapp08-21&linkId=46a11cbe060127b0805761fb56c06426">Purificador de Aire Portátil Jinpus</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07FFS62HP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B07FFS62HP/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07FFS62HP&linkCode=as2&tag=zenseiapp08-21&linkId=46a11cbe060127b0805761fb56c06426">Purificador de Aire Portátil Jinpus</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07FFS62HP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Es un purificador de aire portátil con Filtros HEPA y de Carbón Activo.
 
@@ -141,7 +141,7 @@ Totalmente recomendable.
 
 ### **Mejor purificador de aire para una habitación grande**
 
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B074FZN122/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B074FZN122&linkCode=as2&tag=zenseiapp08-21&linkId=16062f8a30707070dcb6f2deb057e29f">Purificador de aire Pro Breeze</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B074FZN122" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B074FZN122/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B074FZN122&linkCode=as2&tag=zenseiapp08-21&linkId=16062f8a30707070dcb6f2deb057e29f">Purificador de aire Pro Breeze</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B074FZN122" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Es ideal para una habitación grande, tiene potencia regulable y permite eliminar ácaros, Humo, Moho, Polvo, Olor, Gérmenes, Mascotas y Polen
 
@@ -168,7 +168,7 @@ Encima tiene temporizador para que se apague solo después de 3 o 4 horas.
 
 ### **Mejor purificador de aire para una casa pequeña**
 
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B07BCNKFFV/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07BCNKFFV&linkCode=as2&tag=zenseiapp08-21&linkId=774ce86f99523889f5a3910f496e04bb">Purificador Rowenta PU4080F0</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07BCNKFFV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B07BCNKFFV/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07BCNKFFV&linkCode=as2&tag=zenseiapp08-21&linkId=774ce86f99523889f5a3910f496e04bb">Purificador Rowenta PU4080F0</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B07BCNKFFV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Ya podrían poner mejores nombres a los purificadores.
 
@@ -201,11 +201,11 @@ Además tiene una app con la que podrás saber la calidad de aire de tu casa y e
 
 ### **Mejor purificador de aire para una casa mediana**
 
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42">Purificador de aire Philips AC3256/10 </a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42">Purificador de aire Philips AC3256/10 </a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UUVFSbycoCM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42"><bold>Comprar Purificador de aire Philips AC3256/10</bold></a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/product/B01GB8BT90/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B01GB8BT90&linkCode=as2&tag=zenseiapp08-21&linkId=0cbcbbdaf61b5b7ec6c02fb5e13c3f42"><bold>Comprar Purificador de aire Philips AC3256/10</bold></a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=am2&o=30&a=B01GB8BT90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Tiene capacidad para purificar hasta 95 metros cuadros.
 
@@ -332,7 +332,7 @@ Aquí puedes ver un listado completo de todos los purificadores de aire que pued
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a una completa
-<a target="_blank" target="_blank" rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=purificadores de aire&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=46173e3c4af7c9d69d65d527048bf82f">Lista de Purificadores de Aire</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="noopener noreferrer" href="https://www.amazon.es/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=zenseiapp08-21&keywords=purificadores de aire&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=46173e3c4af7c9d69d65d527048bf82f">Lista de Purificadores de Aire</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 Mira.
@@ -352,5 +352,5 @@ Ahora, te toca a ti cuidar de tu entorno para que evites los desagradables sínt
 Y si sueles tener síntomas cuando sales a la calle, a lo mejor necesitas una mascarilla antipolución.
 
 <div class="section-cta">
-<a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a target="_blank" rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
+<a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/">👉 Aquí</a> puedes echar un vistazo a la guía que hemos creado para <a rel="noopener noreferrer" href="/blog/mejor-mascarilla-asma-alergia-precio/"><bold>elegir una mascarilla si tienes asma alérgica</bold></a>.
 </div>
