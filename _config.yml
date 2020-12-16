@@ -58,6 +58,19 @@ permalink: /:categories/:title/
 
 google_analytics: UA-96842689-1
 
+
+defaults:
+  -
+    scope:
+      path: "assets/**/*"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "uploads/**/*"
+    values:
+      sitemap: false
+
 # Unused
 app_link: https://wgji.app.link/fIu9tK3PMO
 github_username: zensei-app
