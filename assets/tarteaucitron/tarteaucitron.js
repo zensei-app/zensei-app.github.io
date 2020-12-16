@@ -197,7 +197,7 @@ var tarteaucitron = {
         var cdn = tarteaucitron.cdn,
             language = tarteaucitron.getLanguage(),
             pathToLang = cdn + 'lang/tarteaucitron.' + language + '.js?v=' + tarteaucitron.version,
-            pathToServices = cdn + 'tarteaucitron.services.js?v=' + tarteaucitron.version,
+            pathToServices = cdn + 'tarteaucitron.services.zensei.min.js',
             linkElement = document.createElement('link'),
             defaults = {
                 "adblocker": false,
