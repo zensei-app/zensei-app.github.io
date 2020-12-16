@@ -10,14 +10,11 @@ last_modified_at: 2020-12-16 11:00:00 +0000
 category: Alergia
 author: David - Ana
 image: "/img/photo-1506664453913-f326aa81f54d.webp"
-description: Si quieres ver una lista de productos hipoalergénicos en un solo lugar,
-  entonces te encantará esta guía (actualizada). Si el médico te los ha recomendado.
-  Aquí podrás saber cuales necesitas.
+description: 'Si quieres ver una lista de productos hipoalergénicos en un solo lugar,
+  entonces te encantará esta guía (actualizada). '
 intro: Si quieres ver una lista de **productos hipoalergénicos** en un solo lugar,
-  entonces te encantará esta guía (actualizada).<br><br>Seguro que el médico te ha
-  recomendado que utilices productos hipoalergénicos.<br><br>Bien.<br><br>Aquí puedes
-  saber que es todo lo que necesitas.<br><br>Puedes filtrar a través de la lista para
-  encontrar el mejor producto hipoalergénico para ti y tu familia.
+  entonces te encantará esta guía (actualizada).Seguro que el médico te ha recomendado
+  que utilices productos hipoalergénicos. Aquí encontrarás todo lo que necesitas.
 tags: productos asma alergia rinitis casa
 
 ---
