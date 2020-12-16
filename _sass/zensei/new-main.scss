@@ -516,7 +516,7 @@ input[type="submit"] {
       }
     }
     &-bckg {
-      background-image: url(/assets/illustrations/big-shape1.webp);
+      background-image: url(/assets/images/backgrounds/big-shape1.webp);
       background-size: 132.8vw;
       height: 34.4vw;
       margin-bottom: 16vh;
@@ -877,7 +877,7 @@ input[type="submit"] {
     &__phone {
       &-bckg1 {
         @extend %bckg-img--half-width;
-        background-image: url(/assets/illustrations/shape1.png);
+        background-image: url(/assets/images/backgrounds/shape1.webp);
 
         @media screen and (min-width: $tablet-bp) {
           background-position-x: 5vw;
@@ -1127,12 +1127,12 @@ input[type="submit"] {
   &--footer {
     &__wave {
       z-index: 1;
-      background-image: url(/assets/illustrations/big-shape1.webp);
+      background-image: url(/assets/images/backgrounds/big-shape1.webp);
       background-size: 133vw;
       height: 33.6vw;
       transform: translate(0px, 8.6vw);
       @media screen and (max-width: $tablet) {
-        background-image: url(/assets/illustrations/big-shape1.webp);
+        background-image: url(/assets/images/backgrounds/big-shape1.webp);
         background-size: 279vw auto;
         height: 71.6vw;
         transform: translate(0px, 15.6vw);
