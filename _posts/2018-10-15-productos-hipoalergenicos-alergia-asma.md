@@ -131,21 +131,21 @@ Te recomendamos:
 
 ### Friegaplatos
 
-### El cuidado de la piel al hacer las tareas del hogar también es algo que puede traer de cabeza a las personas alérgicas. En cuestión de fregar los platos, os recomendamos los siguientes productos hipoalergénicos:
+El cuidado de la piel al hacer las tareas del hogar también es algo que puede traer de cabeza a las personas alérgicas. En cuestión de fregar los platos, os recomendamos los siguientes productos hipoalergénicos:
 
-### · [L’Arbre Vert](https://www.amazon.es/gp/product/B00KD9PWU6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B00KD9PWU6&linkId=6ce5f20d5cb7f641e9b87bb5d1f3bb68)
+· [L’Arbre Vert](https://www.amazon.es/gp/product/B00KD9PWU6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B00KD9PWU6&linkId=6ce5f20d5cb7f641e9b87bb5d1f3bb68)
 
-### · [Lavavajillas ecológico e hipoalergénico Casa Verde](https://www.amazon.es/gp/product/B08BJNTGQR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B08BJNTGQR&linkId=071a7e5ea80869ee3a158e4f39fa69e8)
+· [Lavavajillas ecológico e hipoalergénico Casa Verde](https://www.amazon.es/gp/product/B08BJNTGQR/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B08BJNTGQR&linkId=071a7e5ea80869ee3a158e4f39fa69e8)
 
 ### Limpieza de baños
 
-### No podemos terminar el listado de productos hipoalergénicos sin mencionar la limpieza de baños. En este caso optamos por el [spray Seventh Generation Free & Clear](https://www.amazon.es/gp/product/B07S14WX8F/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B07S14WX8F&linkId=7c2f52b5b245cdd05c795d15a640c72c). Te sorprenderá su capacidad de limpieza sin necesidad de incorporar cloro en su formulación.
+No podemos terminar el listado de productos hipoalergénicos sin mencionar la limpieza de baños. En este caso optamos por el [spray Seventh Generation Free & Clear](https://www.amazon.es/gp/product/B07S14WX8F/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zenseiapp08-21&creative=24630&linkCode=as2&creativeASIN=B07S14WX8F&linkId=7c2f52b5b245cdd05c795d15a640c72c). Te sorprenderá su capacidad de limpieza sin necesidad de incorporar cloro en su formulación.
 
 ## Consejos para tener una casa hipoalergénica
 
-## Los siguientes consejos te ayudarán a hacer de tu hogar una auténtica casa hipoalergénica:
+Los siguientes consejos te ayudarán a hacer de tu hogar una auténtica casa hipoalergénica:
 
-## · La mejor habitación para los asmáticos y alérgicos deberá ser seca y soleada.
+· La mejor habitación para los asmáticos y alérgicos deberá ser seca y soleada.
 
 · El **suelo será de parquet o linóleo**. Fácil de limpiar y es recomendable no utilizar alfombras.
 
