@@ -8,7 +8,7 @@ author: ''
 category: salud-respiratoria
 image: "/uploads/meditation.webp"
 description: En este artículo la importancia de la respiración en la meditación y
-  sus principales técnicas.
+  su principal técnica.
 intro: Una respiración profunda activa el sistema parasimpático del cuerpo, dejando
   de producir las hormonas del miedo y del estrés. También alivia tensiones musculares
   y ayuda a reducir el ritmo cardíaco, lo que induce a la relajación. Una práctica
