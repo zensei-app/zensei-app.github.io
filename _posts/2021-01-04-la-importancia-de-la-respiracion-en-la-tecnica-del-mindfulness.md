@@ -5,7 +5,7 @@ title: La importancia de la respiración en la técnica del Mindfulness
 date: 2021-01-04 23:00:00 +0000
 last_modified_at: 2021-01-04 23:00:00 +0000
 author: ''
-category: salud-respiratoria
+category: Salud Respiratoria
 image: "/uploads/meditation.webp"
 description: En este artículo la importancia de la respiración en la meditación y
   su principal técnica.
