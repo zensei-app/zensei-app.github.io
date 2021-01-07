@@ -4,7 +4,7 @@ redirect_from:
 - "/blog/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 - "/blog/2018/10/19/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/"
 toc: true
-title: "\U0001F47E\U0001F912 Evolución de la Gripe 2020-2021 en tiempo real"
+title: Evolución de la Gripe 2020-2021 en tiempo real
 date: 2020-12-31 09:00:00 +0000
 last_modified_at: 2020-12-31 11:00:00 +0000
 category: Gripe
