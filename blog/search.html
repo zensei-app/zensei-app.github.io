@@ -1,57 +1,9 @@
 ---
 layout: search
 permalink: /search/
+title: Respira mejor con nuestros consejos de salud respiratoria
+description: Escribimos sobre todo tipo de enfermedades respiratorias
+image: "/img/photo-1444930694458-01babf71870c.webp"
 
 ---
-
-<form method="GET" action="" data-search-form>
-  <input
-    type="search"
-    name="q"
-    id="q"
-    placeholder="Encuentra lo que buscas para cuidar de tu salud respiratoria... "
-    data-search-input
-  />
-  <input type="submit" value="Buscar" />
-</form>
-
-<!-- Search results placeholder -->
-<br />
-<br />
-<div data-search-found class="center section-cta">
-  <br />
-  <h2 class="post-title">
-    <strong>Consigue respirar mejor sin esfuerzo</strong>
-  </h2>
-  <p>
-    Descárgate nuestra app diario para personas que necesitan controlar su salud
-    respiratoria
-  </p>
-  {% include common/app-badges.html origin="posts" label="cta" %}
-</div>
-<p data-search-found>
-  <br />
-  <span data-search-found-count></span> resultados encontrados para &ldquo;<span
-    data-search-found-term
-  ></span
-  >&rdquo;
-</p>
-<div data-search-results></div>
-
-<!-- Search result template -->
-<script type="text/x-template" id="search-result">
-  <div>
-    <h2>
-      <a itemprop="url" rel="noopener noreferrer" href="##Url##">
-        <span class="post-title" itemprop="name headline">##Title##</span>
-      </a>
-    </h2>
-    <p itemprop="description">
-      ##Description##
-      <a rel="noopener noreferrer" href="##Url##">
-        Leer Más
-      </a>
-    </p>
-  </div>
-</script>
-
+{% include search-form.html %}

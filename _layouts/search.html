@@ -1,6 +1,27 @@
 ---
-layout: default
+layout: base
 
 ---
+{% include common/nav-header.html %}
+{% include common/hero-header.html %}
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <div class="apply-overlay"></div>
 
-{{ content }}
+    {{ content }}
+    <br>
+    <br>
+    <br>
+    {% include posts/tags-cloud.html %} 
+ 
+
+  </div>
+</main>
+{% include posts/recommended-posts.html %}
+
+<script
+defer
+src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
+crossorigin="anonymous"
+></script>
